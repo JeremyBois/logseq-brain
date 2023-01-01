@@ -2,7 +2,9 @@ tags:: Cynotopia, Chien, Education
 status:: Doing
 
 - ## References
-	- [Livre PDF - Guide du shaping clic à clic (source)](https://cynotopia.online/produit/guide-du-shaping)
+	- Guide du shaping clic à clic
+		- [Source](https://cynotopia.online/produit/guide-du-shaping)
+		- ![Guide du shaping clic a clic_cynotopia.pdf](../assets/Guide_du_shaping_clic_a_clic_cynotopia_1672599462160_0.pdf)
 - ## Méthodologie
 - #Shaping
 	- ((63b159cd-f19d-4069-943e-2cac0d874dc6))

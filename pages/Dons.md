@@ -1,3 +1,5 @@
+private:: true
+
 - #Signal
 	- Mensuel (21 Janvier 2022)
 	- 5€
