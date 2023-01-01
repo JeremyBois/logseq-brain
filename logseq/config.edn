@@ -315,7 +315,7 @@
  ;;     ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
  :graph/settings {:journal? true}
- :publishing/all-pages-public? false
+ :publishing/all-pages-public? true
  :journal/page-title-format "MMM do, yyyy"
  :feature/enable-timetracking? false
  }
