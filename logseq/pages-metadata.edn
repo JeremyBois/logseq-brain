@@ -18,7 +18,7 @@
   :block/updated-at 1672323314641}
  {:block/name "chien",
   :block/created-at 1672598060300,
-  :block/updated-at 1672598060300}
+  :block/updated-at 1672600925247}
  {:block/name "chien - alimentation",
   :block/created-at 1672598060303,
   :block/updated-at 1672598060303}
@@ -39,7 +39,7 @@
   :block/updated-at 1672598062817}
  {:block/name "cynotopia",
   :block/created-at 1672598060997,
-  :block/updated-at 1672598060997}
+  :block/updated-at 1672600893148}
  {:block/name "dec 21st, 2022",
   :block/created-at 1672323019413,
   :block/updated-at 1672323019413}
@@ -63,23 +63,13 @@
   :block/updated-at 1672323314641}
  {:block/name "dons",
   :block/created-at 1672323019947,
-  :block/updated-at 1672599595108}
+  :block/updated-at 1672600397247}
  {:block/name "education",
   :block/created-at 1672598061264,
   :block/updated-at 1672598061264}
  {:block/name "favorites",
   :block/created-at 1672323314641,
   :block/updated-at 1672323314641}
- {:block/name "file",
-  :block/created-at 1672599334491,
-  :block/updated-at 1672599334491}
- {:block/name "file-path",
-  :block/created-at 1672599334494,
-  :block/updated-at 1672599334494}
- {:block/name
-  "hls__initiation_education_positive_cynotopia_1672599295134_0",
-  :block/created-at 1672599334473,
-  :block/updated-at 1672599334473}
  {:block/name "in-progress",
   :block/created-at 1672323314642,
   :block/updated-at 1672323314642}
@@ -98,9 +88,6 @@
  {:block/name "objectif cavaletti",
   :block/created-at 1672598061191,
   :block/updated-at 1672598061191}
- {:block/name "private",
-  :block/created-at 1672599592804,
-  :block/updated-at 1672599592804}
  {:block/name "shaping",
   :block/created-at 1672598061828,
   :block/updated-at 1672598061828}
@@ -112,7 +99,7 @@
   :block/updated-at 1672323019928}
  {:block/name "status",
   :block/created-at 1672598061440,
-  :block/updated-at 1672598061440}
+  :block/updated-at 1672600785079}
  {:block/name "todo",
   :block/created-at 1672323314642,
   :block/updated-at 1672323314642}
@@ -127,4 +114,4 @@
   :block/updated-at 1672598476419}
  {:block/name "yoshi",
   :block/created-at 1672323021200, 
-  :block/updated-at 1672323021200}]
+  :block/updated-at 1672600973649}]
