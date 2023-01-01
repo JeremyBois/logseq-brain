@@ -1,5 +1,0 @@
-- Maïmouna
-	- Veste chaude
-- Maman
-  Maÿna
-	-
