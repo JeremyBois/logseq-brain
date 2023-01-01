@@ -218,7 +218,7 @@
  :ref/linked-references-collapsed-threshold 50
 
  ;; Favorites to list on the left sidebar
- :favorites ["Chien"]
+ :favorites []
 
  ;; any number between 0 and 1 (the greater it is the faster the changes of the next-interval of card reviews) (default 0.5)
  ;; :srs/learning-fraction 0.5
@@ -316,6 +316,4 @@
  :file/name-format :triple-lowbar
  :graph/settings {:journal? true}
  :publishing/all-pages-public? true
- :journal/page-title-format "MMM do, yyyy"
- :feature/enable-timetracking? false
  }

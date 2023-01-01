@@ -1,5 +1,5 @@
 - Maïmouna
 	- Veste chaude
+	- Gants chaud
 - Maman
-  Maÿna
-	-
+	- Culotte
