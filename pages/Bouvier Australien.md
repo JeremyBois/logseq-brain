@@ -1,4 +1,4 @@
 tags:: Chien, Yoshi
 
-- References
--
+- ## References
+	- [Wikipédia](https://fr.wikipedia.org/wiki/Bouvier_australien)
