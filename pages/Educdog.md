@@ -1,2 +1,2 @@
-- [Site officiel](https://educ-dog.com/)
-- F
+- ## Formation en ligne pour chien
+	- [Site officiel](https://educ-dog.com/)
