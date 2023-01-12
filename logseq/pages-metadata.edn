@@ -70,6 +70,9 @@
  {:block/name "education",
   :block/created-at 1672598061264,
   :block/updated-at 1672598061264}
+ {:block/name "educdog",
+  :block/created-at 1673550423314,
+  :block/updated-at 1673550457166}
  {:block/name "esprit dog",
   :block/created-at 1673549421697,
   :block/updated-at 1673549421697}

@@ -318,4 +318,5 @@
  :publishing/all-pages-public? true
  :journal/page-title-format "MMM do, yyyy"
  :feature/enable-timetracking? false
+ :ui/show-brackets? false
  }
