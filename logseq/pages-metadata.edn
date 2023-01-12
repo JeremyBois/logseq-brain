@@ -49,9 +49,6 @@
  {:block/name "dec 23rd, 2022",
   :block/created-at 1672323019372,
   :block/updated-at 1672598278512}
- {:block/name "dec 28th, 2022",
-  :block/created-at 1672323019189,
-  :block/updated-at 1672598255450}
  {:block/name "dec 29th, 2022",
   :block/created-at 1672323019042,
   :block/updated-at 1672598251369}
@@ -79,6 +76,9 @@
  {:block/name "initiation éducation positive",
   :block/created-at 1672598061447,
   :block/updated-at 1672599439712}
+ {:block/name "jan 12th, 2023",
+  :block/created-at 1673546605255,
+  :block/updated-at 1673546605255}
  {:block/name "jan 1st, 2023",
   :block/created-at 1672598059346,
   :block/updated-at 1672598059346}
