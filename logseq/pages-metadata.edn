@@ -72,7 +72,7 @@
   :block/updated-at 1672598061264}
  {:block/name "educdog",
   :block/created-at 1673550423314,
-  :block/updated-at 1673550699425}
+  :block/updated-at 1673551952096}
  {:block/name "esprit dog",
   :block/created-at 1673549421697,
   :block/updated-at 1673549421697}
@@ -137,5 +137,8 @@
   :block/created-at 1672323021200,
   :block/updated-at 1672601058092}
  {:block/name "éthologie domestiqué",
-  :block/created-at 1673551565715, 
-  :block/updated-at 1673551565715}]
+  :block/created-at 1673551565715,
+  :block/updated-at 1673551996994}
+ {:block/name "éthologie sauvage",
+  :block/created-at 1673552104051, 
+  :block/updated-at 1673552142621}]
