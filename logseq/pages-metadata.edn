@@ -134,5 +134,8 @@
   :block/created-at 1672598476419,
   :block/updated-at 1672598476419}
  {:block/name "yoshi",
-  :block/created-at 1672323021200, 
-  :block/updated-at 1672601058092}]
+  :block/created-at 1672323021200,
+  :block/updated-at 1672601058092}
+ {:block/name "éthologie domestiqué",
+  :block/created-at 1673551565715, 
+  :block/updated-at 1673551565715}]

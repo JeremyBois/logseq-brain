@@ -1,2 +1,3 @@
 - ## Formation en ligne pour chien
 	- [Site officiel](https://educ-dog.com/)
+	- [Site formation](https://educ-dog.mykajabi.com)
