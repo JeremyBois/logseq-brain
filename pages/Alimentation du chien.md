@@ -156,13 +156,14 @@ tags:: Yoshi, Chien
 		- Fibres
 			- Recommandé
 				- Beauté du poil
-				  Énergie / résistance infections
-				- réduction de l'embonpoint
+				- Énergie / résistance infections
+				- Réduction de l'embonpoint
 			- Origine = grains / légumes
 		- Grains
 			- Apport faible en protéines
-			  Apport important en glucides
-			- Utilisé pour faire tenir la croquette
+			- Apport important en glucides
+			  id:: 63c171fd-b8d4-4558-a6bc-c58586e18199
+			- Nécessaire pour faire tenir la croquette
 			- Bonnes sources (moins pire)
 				- avoine
 				- orge
@@ -173,11 +174,13 @@ tags:: Yoshi, Chien
 				- riz brun
 				- riz blanc
 		- Glucides
-			- Non nécessaire au chien
+			- Non nécessaires au chien
 			- ~ 30 à 75% d'une croquette
-			- Glucides = 100 - gras - protéines - humidité - cendres
-				- Cendres ~= 6%
+			  id:: 63c16f61-f7d3-4d86-84fd-43311e242adb
+			- id:: 63c16f61-6ad2-47e5-bfab-94df99730b83
+			  $$Glucides = 100 - gras - protéines - humidité - cendres (\sim 6\%) - cellulose$$
 	- Nourriture idéale
+	  id:: 63c16f61-30b4-4632-97c1-5b4f49695ecf
 		- Proportions
 			- Protéines : 24-35%
 			- Gras : 13-19%
