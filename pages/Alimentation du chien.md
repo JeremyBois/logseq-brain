@@ -15,6 +15,7 @@ tags:: Yoshi, Chien
 		- +Gamme complète
 		- -Contient de la cellulose
 		- Produits :
+		  collapsed:: true
 			- [High meat wild prairie](https://www.nourrircommelanature.com/produit/high-meat-wild-prairie/wolfood)
 			- [Original high meal](https://www.nourrircommelanature.com/produit/original-high-meat/wolfood)
 	- 🤩 Carnilove
@@ -108,7 +109,6 @@ tags:: Yoshi, Chien
 	- Anifit
 - ## Comment choisir ?
 	- Gammes
-	  collapsed:: true
 		- Chiot < 1 an
 			- Plus de proteines pour permettre une bonne croissance
 		- Adulte/Maintenance > 1an
@@ -118,7 +118,6 @@ tags:: Yoshi, Chien
 		- Tout stade de vie
 			- Couvre toutes les gammes
 	- Intolérances
-	  collapsed:: true
 		- Principaux aliments :
 			- Boeuf
 			- Produits laitiers
@@ -131,11 +130,12 @@ tags:: Yoshi, Chien
 			- Poisson
 	- Composition
 		- Protéines
-		  collapsed:: true
 			- Indispensable
 			- Valeur biologique pour les protéines
+			  collapsed:: true
 				- Capacité d'un aliment à fournir une source assimilable de protéines
 				- Sources principales :
+				  collapsed:: true
 					- Oeuf entier (100)
 					- Farine de poissons/viandes (92)
 					- Poisson frais (83)
@@ -147,43 +147,45 @@ tags:: Yoshi, Chien
 			- Privilégier les sources animales
 			- Permet de fournir les 10 acides aminés nécessaires au chien qu'il ne fabrique pas
 		- Gras
-		  collapsed:: true
 			- Indispensable
 			- Entretien poil et peau
 			- Énergie / Résistance immunitaire
 			- Bonnes sources :
+			  collapsed:: true
 				- Boeuf / poulet
 				- Huile d'olive / lin
 				- Poissons / Saumon
 			- Mauvaises sources :
+			  collapsed:: true
 				- Animal (sans précision ça sent l'entourloupe)
 				- Huile végétale (mais, soja, tournesol,...)
 		- Fibres
-		  collapsed:: true
 			- Recommandé
+			  collapsed:: true
 				- Beauté du poil
 				  Énergie / résistance infections
 				- réduction de l'embonpoint
 			- Origine = grains / légumes
 		- Grains
-		  collapsed:: true
 			- Apport faible en protéines
 			  Apport important en glucides
 			- Utilisé pour faire tenir la croquette
 			- Bonnes sources (moins pire)
+			  collapsed:: true
 				- avoine
 				- orge
 			- Mauvaises sources (pire au meilleur)
+			  collapsed:: true
 				- soja
 				- mais
 				- blé
 				- riz brun
 				- riz blanc
 		- Glucides
-		  collapsed:: true
 			- Non nécessaire au chien
 			- ~ 30 à 75% d'une croquette
 			- Glucides = 100 - gras - protéines - humidité - cendres
+			  collapsed:: true
 				- Cendres ~= 6%
 	- Nourriture idéale
 		- Proportions
