@@ -7,6 +7,7 @@ tags:: Yoshi, Chien
 	- Vente en ligne :
 		- [Nourrir comme la nature](https://www.nourrircommelanature.com/)
 - ## Marques
+  collapsed:: true
 	- 🤩 Wolfood
 	  :LOGBOOK:
 	  CLOCK: [2022-12-29 Thu 10:48:15]--[2022-12-29 Thu 10:48:17] =>  00:00:02
@@ -106,7 +107,10 @@ tags:: Yoshi, Chien
 	- Alpha Spirit
 	- Equilibre & instinct
 	- Anifit
+- ## Régime
+	- Un chien est un #Carnivore non strict
 - ## Comment choisir ?
+  collapsed:: true
 	- Gammes
 		- Chiot < 1 an
 			- Plus de proteines pour permettre une bonne croissance
@@ -186,11 +190,12 @@ tags:: Yoshi, Chien
 			- Gras : 13-19%
 			- Fibres : 3-5%
 			- Humidité : généralement stable autour de 10%
-			  Glucides : le moins possible (à calculer)
+			- Glucides : le moins possible (à calculer)
 			- Éviter les sous produits
 			- Viande/poisson comme premier ingrédient (deux premiers si possible)
 			- Éviter les mauvais grains
 			- Mauvais produits
+			  collapsed:: true
 				- Blé (*wheat*) : source fréquente d’intolérance alimentaire.
 				- Soja (*soy*): C’est un des pires grains, avec le maïs et le blé. 90% des fèves de soja produites actuellement sont génétiquement modifiées et contiennent un haut taux de pesticides.
 				- Maïs (*corn*): le pire. Attention à la technique de fragmentation des ingrédients (ex : farine de sous-produits de poulet, brisure de riz, maïs, blé, gluten de maïs) permettant de camoufler la quantité
@@ -211,6 +216,7 @@ tags:: Yoshi, Chien
 				- Sodium : Sel
 				- Nom incompréhensible
 			- Bons produits
+			  collapsed:: true
 				- Farine de … (ex : poulet) (chicken *meal*): quoique le terme farine puisse vous laisser perplexe, c’est en fait un ingrédient de qualité. Le terme « farine de » *(meal* en anglais) est un processus de cuisson qui donne un résultat qui contient près de trois fois plus de protéines que la viande fraiche.
 				- Fruits et légumes (divers) : Surtout dans une nourriture sans grains, il est important qu’elle contienne divers fruits et légumes pour apporter une bonne quantité de fibres.
 				- Graines de lin (*flaxseed*) : Une des meilleures sources d’oméga 3.

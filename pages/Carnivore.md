@@ -1,0 +1,7 @@
+- Un animal carnivore mange principalement de la viande
+	- Strict = exclusivement de la viande
+		- Les canines et les prémolaires tranchantes dominent, tandis que les molaires broyeuses qui n’ont qu’un rôle secondaire
+		- Félidés
+			- Tigre, Lion, Léopard, Chat, ...
+	- Non strict = carnivore à tendance #Omnivore
+-
