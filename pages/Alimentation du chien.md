@@ -12,10 +12,9 @@ tags:: Yoshi, Chien
 	  CLOCK: [2022-12-29 Thu 10:48:15]--[2022-12-29 Thu 10:48:17] =>  00:00:02
 	  :END:
 		- 👍️ 90% de protéines animales
-		- + Gamme complète
+		- 👍️ Gamme complète
 		- ➖ Contient de la cellulose
-		- Produits :
-		  collapsed:: true
+		  		➖ Produits :
 			- [High meat wild prairie](https://www.nourrircommelanature.com/produit/high-meat-wild-prairie/wolfood)
 			- [Original high meal](https://www.nourrircommelanature.com/produit/original-high-meat/wolfood)
 	- 🤩 Carnilove
@@ -23,71 +22,71 @@ tags:: Yoshi, Chien
 	  CLOCK: [2022-12-29 Thu 10:25:32]--[2022-12-29 Thu 10:25:32] =>  00:00:00
 	  CLOCK: [2022-12-29 Thu 10:25:34]
 	  :END:
-		- +Riche en protéines animales
-		- +Pas de grains
-		- +Pas de patate/tapioca
-		- -Manque des constituants
+		- 👍️ Riche en protéines animales
+		- 👍️ Pas de grains
+		- 👍️ Pas de patate/tapioca
+		- ➖ Manque des constituants
 			- omega 6
 			- magnesium
 		- Produits :
 			- [Salmon](https://www.nourrircommelanature.com/produit/salmon/carnilove)
 	- 🤩 Signature & OD
-		- +90% de protéines animales
+		- 👍️ 90% de protéines animales
 		- Tous stades de vie
-		- -Contient de la cellulose
-		- -Contient de la patate
+		- ➖ Contient de la cellulose
+		- ➖ Contient de la patate
 		- Produits :
 			- [Fresh chicken and potato](https://www.nourrircommelanature.com/produit/1-fresh-chicken-a-potato/signature)
 	- 🙁 Eden
-		- +90% de protéines animales
-		- +Variété dans les choix
-		- +Présence de noix de coco
-		- -Quantité de cendres importante
-		- -Prix
+		- 👍️ 90% de protéines animales
+		- 👍️ Variété dans les choix
+		- 👍️ Présence de noix de coco
+		- ➖ Quantité de cendres importante
+		- ➖ Prix
 	- 🙁 Acana
 	  id:: 63ad54d8-03de-4f2e-92e7-3630fe923953
-		- +Peu d'additifs
-		  +Large palette de constituants
-		- -Contient beaucoup de cellulose
-		- -Cher
+		- 👍️ Peu d'additifs
+		  👍️ Large palette de constituants
+		- ➖ Contient beaucoup de cellulose
+		- ➖ Cher
 		  id:: 63ad663f-c37c-4901-81d1-7ff9b74b5f90
-		- -Produit du Canada
+		- ➖ Produit du Canada
 	- 🙁 Canagan
-		- -Seulement 65% d'origine animale
-		- -Quantité de cendres importante
-		- +Pas de cellulose
-		- +Nombreux constituants
+		- ➖ Seulement 65% d'origine animale
+		- ➖ Quantité de cendres importante
+		- 👍️ Pas de cellulose
+		- 👍️ Nombreux constituants
 	- 🙁 Black canyon
-		- -Contient de la cellulose
-		- +Source variées (canard, truite)
-		- -Contient des patates
+		- ➖ Contient de la cellulose
+		- 👍️ Source variées (canard, truite)
+		- ➖ Contient des patates
 	- 🙁 Ownat
-		- -Ajout de sel
-		- -Contient des patates
-		- -Cher
+		- ➖ Ajout de sel
+		- ➖ Contient des patates
+		- ➖ Cher
 	- 🙁 Lily kitchen
-		- -Pas assez de protéines / gras ...
-		- -... donc trop de glucides
-		- +Bonne composition
+		- ➖ Pas assez de protéines / gras ...
+		- ➖ ... donc trop de glucides
+		- 👍️ Bonne composition
 	- 😡 Diamond
-		- -Contient du riz
-		- -Contient du mais
-		- -Fragmentation des composants
+		- ➖ Contient du riz
+		- ➖ Contient du mais
+		- ➖ Fragmentation des composants
 	- 😡 Josera
-		- -Contient du riz
-		- -Floue sur les volailles (proportions ??)
-		- -Contient du mais
+		- ➖ Contient du riz
+		- ➖ Floue sur les volailles (proportions ??)
+		- ➖ Contient du mais
 	- 😡 Les fines moustaches
 	  :LOGBOOK:
 	  CLOCK: [2022-12-28 Wed 15:17:31]--[2022-12-29 Thu 10:28:46] =>  19:11:15
 	  CLOCK: [2022-12-29 Thu 10:28:50]--[2022-12-29 Thu 10:28:53] =>  00:00:03
 	  CLOCK: [2022-12-29 Thu 10:28:55]
 	  :END:
-		- +100% Français
-		- -Contient des patates
-		- -Contient de la cellulose
+		- 👍️ 100% Français
+		- ➖ Contient des patates
+		- ➖ Contient de la cellulose
 		  id:: 63ad62d0-7f37-4208-9ac5-d57e3ee5e7ac
-		- -Peu de protéines animales
+		- ➖ Peu de protéines animales
 	- Farmina
 	- Atavik
 	- Purizon
@@ -118,7 +117,7 @@ tags:: Yoshi, Chien
 		- Tout stade de vie
 			- Couvre toutes les gammes
 	- Intolérances
-		- Principaux aliments :
+		- Aliments principalement responsables :
 			- Boeuf
 			- Produits laitiers
 			- Poulet
@@ -131,11 +130,9 @@ tags:: Yoshi, Chien
 	- Composition
 		- Protéines
 			- Indispensable
-			- Valeur biologique pour les protéines
-			  collapsed:: true
+			- #[Valeur biologique] pour les protéines
 				- Capacité d'un aliment à fournir une source assimilable de protéines
 				- Sources principales :
-				  collapsed:: true
 					- Oeuf entier (100)
 					- Farine de poissons/viandes (92)
 					- Poisson frais (83)
@@ -151,17 +148,14 @@ tags:: Yoshi, Chien
 			- Entretien poil et peau
 			- Énergie / Résistance immunitaire
 			- Bonnes sources :
-			  collapsed:: true
 				- Boeuf / poulet
 				- Huile d'olive / lin
 				- Poissons / Saumon
 			- Mauvaises sources :
-			  collapsed:: true
 				- Animal (sans précision ça sent l'entourloupe)
 				- Huile végétale (mais, soja, tournesol,...)
 		- Fibres
 			- Recommandé
-			  collapsed:: true
 				- Beauté du poil
 				  Énergie / résistance infections
 				- réduction de l'embonpoint
@@ -171,11 +165,9 @@ tags:: Yoshi, Chien
 			  Apport important en glucides
 			- Utilisé pour faire tenir la croquette
 			- Bonnes sources (moins pire)
-			  collapsed:: true
 				- avoine
 				- orge
 			- Mauvaises sources (pire au meilleur)
-			  collapsed:: true
 				- soja
 				- mais
 				- blé
@@ -185,7 +177,6 @@ tags:: Yoshi, Chien
 			- Non nécessaire au chien
 			- ~ 30 à 75% d'une croquette
 			- Glucides = 100 - gras - protéines - humidité - cendres
-			  collapsed:: true
 				- Cendres ~= 6%
 	- Nourriture idéale
 		- Proportions
@@ -198,7 +189,6 @@ tags:: Yoshi, Chien
 			- Viande/poisson comme premier ingrédient (deux premiers si possible)
 			- Éviter les mauvais grains
 			- Mauvais produits
-			  collapsed:: true
 				- Blé (*wheat*) : source fréquente d’intolérance alimentaire.
 				- Soja (*soy*): C’est un des pires grains, avec le maïs et le blé. 90% des fèves de soja produites actuellement sont génétiquement modifiées et contiennent un haut taux de pesticides.
 				- Maïs (*corn*): le pire. Attention à la technique de fragmentation des ingrédients (ex : farine de sous-produits de poulet, brisure de riz, maïs, blé, gluten de maïs) permettant de camoufler la quantité
@@ -219,7 +209,6 @@ tags:: Yoshi, Chien
 				- Sodium : Sel
 				- Nom incompréhensible
 			- Bons produits
-			  collapsed:: true
 				- Farine de … (ex : poulet) (chicken *meal*): quoique le terme farine puisse vous laisser perplexe, c’est en fait un ingrédient de qualité. Le terme « farine de » *(meal* en anglais) est un processus de cuisson qui donne un résultat qui contient près de trois fois plus de protéines que la viande fraiche.
 				- Fruits et légumes (divers) : Surtout dans une nourriture sans grains, il est important qu’elle contienne divers fruits et légumes pour apporter une bonne quantité de fibres.
 				- Graines de lin (*flaxseed*) : Une des meilleures sources d’oméga 3.

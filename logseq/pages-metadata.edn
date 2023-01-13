@@ -1,9 +1,12 @@
-[{:block/name "a",
+[{:block/name "[valeur",
+  :block/created-at 1673621454574,
+  :block/updated-at 1673621454574}
+ {:block/name "a",
   :block/created-at 1672323314642,
   :block/updated-at 1672323314642}
  {:block/name "alimentation du chien",
   :block/created-at 1672598060303,
-  :block/updated-at 1673620743502}
+  :block/updated-at 1673621454576}
  {:block/name "b",
   :block/created-at 1672323314642,
   :block/updated-at 1672323314642}
