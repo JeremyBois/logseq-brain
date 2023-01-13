@@ -11,7 +11,7 @@ tags:: Yoshi, Chien
 	  :LOGBOOK:
 	  CLOCK: [2022-12-29 Thu 10:48:15]--[2022-12-29 Thu 10:48:17] =>  00:00:02
 	  :END:
-		- +90% de protéines animales
+		- 👍️90% de protéines animales
 		- +Gamme complète
 		- -Contient de la cellulose
 		- Produits :
