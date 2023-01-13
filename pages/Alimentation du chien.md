@@ -127,12 +127,11 @@ tags:: Yoshi, Chien
 			- Levure
 			- Agneau
 			- Poisson
-	- Composition
+	- Constituants
 		- Protéines
 			- Indispensable
-			- #[Valeur biologique] pour les protéines
+			- #[[Valeur biologique]]
 				- Capacité d'un aliment à fournir une source assimilable de protéines
-				- Sources principales :
 					- Oeuf entier (100)
 					- Farine de poissons/viandes (92)
 					- Poisson frais (83)
@@ -142,7 +141,7 @@ tags:: Yoshi, Chien
 					- Blé / soja / Mais / gluten blé (<50)
 				- Plus l'indice est faible plus la digestion et les déchets seront important
 			- Privilégier les sources animales
-			- Permet de fournir les 10 acides aminés nécessaires au chien qu'il ne fabrique pas
+			- Permet de fournir les 10 acides aminés nécessaires au chien qu'il ne fabrique pas lui-même
 		- Gras
 			- Indispensable
 			- Entretien poil et peau
@@ -152,7 +151,7 @@ tags:: Yoshi, Chien
 				- Huile d'olive / lin
 				- Poissons / Saumon
 			- Mauvaises sources :
-				- Animal (sans précision ça sent l'entourloupe)
+				- Animal (sans précisions ça sent l'entourloupe)
 				- Huile végétale (mais, soja, tournesol,...)
 		- Fibres
 			- Recommandé
