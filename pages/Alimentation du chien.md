@@ -3,6 +3,7 @@ tags:: Yoshi, Chien
 - ## Références
 	- Documentation :
 		- [Au nom du chien](http://aunomduchien.com)
+		  [Alimentation](https://www.espritdog.com/chapitres/chapitre-6-lalimentation/) #Espritdog
 	- Vente en ligne :
 		- [Nourrir comme la nature](https://www.nourrircommelanature.com/)
 - ## Marques
