@@ -73,5 +73,11 @@ tags:: Chien
 		- Manque d'exercice physique / mental
 		- Sociabilisation trop limitée
 		- Anxiété
-		-
-		-
+- ## Mon chien n’obéit plus
+	- La récompense ne l'intéresse plus
+		- Penser à rarifier les biens
+			- Nourriture
+			- Jeux
+			- Caresses
+	-
+	-
