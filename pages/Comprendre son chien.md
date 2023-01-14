@@ -43,5 +43,8 @@ tags:: Chien
 					- Affrontement en dernier recours
 						- Si aucun des deux ne se retire
 		- Chien
-			- Très différent du loup sauvage
-				- domestication, modification génétique, création de races de toutes pièces
+			- Très différent du loup/chien sauvage
+				- Domestication, modification génétique, création de races de toutes pièces, ...
+				- Hierarchie temporaire des individus non famillial (copains en balade, ...)
+				- Codes canins pas forcément utilisé/compris par tous les chiens
+				- Utilisation de **signaux d'apaissement** = politesse pour l'humain
