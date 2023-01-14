@@ -1,6 +1,5 @@
 - [[Espritdog Family]] 
   author:: #Espritdog
   tags:: Chien, Formation
-  link::
--
--
+  template:: Espritdog Family
+- [[Programmation]]
