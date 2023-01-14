@@ -17,11 +17,14 @@ tags:: Chien
 		- Bruits discrets / répétitifs
 - ## Hiérarchie / Domination
 	- #Espritdog
-	- Il existe deux types de dominance
+	- Deux cas existants
 		- Intra spécifique
 			- Relations entre membres d’une même espèce : chien-chien, humain-humain ...
-			- Inter spécifique
-				- Relations entre membres de deux espèces différentes
-				- ucune étude ne prouve que
-				   c’est possible ! ( ce qui ne veut pas dire qu’elle n’existe pas au 
-				  passage)
+		- Inter spécifique
+			- Relations entre membres de deux espèces différentes
+			- #+BEGIN_QUOTE
+			  Aucune étude ne prouve que c’est possible ou bien que c'est impossible ... 
+			  #+END_QUOTE
+	- Bien que le loup soit un ancêtre commun du chien on ne peut considérer que leur comportement soient identiques
+	- Loup
+		- Concept du mâle alpha
