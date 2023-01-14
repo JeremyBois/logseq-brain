@@ -3,7 +3,8 @@
   title::
   author:: 
   tags::
-  date:: <%Today%>
+  date:: <% Today %>
+  dd:: ;today;
   link::
   template:: Book
 - type:: [[Video]]
@@ -24,4 +25,9 @@
   tags::
   link::
   template:: Article
--
+- [[Jan 14th, 2023]]
+  type:: [[Book]]
+  title:: Bla bla
+  author:: fsffd
+  tags:: fddd, fffdffd
+  link:: hhtt

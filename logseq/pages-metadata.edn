@@ -40,9 +40,6 @@
  {:block/name "chien",
   :block/created-at 1672598060300,
   :block/updated-at 1673700778148}
- {:block/name "chien - alimentation",
-  :block/created-at 1672598060303,
-  :block/updated-at 1672598060303}
  {:block/name "chien - enrichissement",
   :block/created-at 1672598061005,
   :block/updated-at 1672598061005}
@@ -64,6 +61,12 @@
  {:block/name "cynotopia",
   :block/created-at 1672598060997,
   :block/updated-at 1672600893148}
+ {:block/name "date",
+  :block/created-at 1673723482819,
+  :block/updated-at 1673723482819}
+ {:block/name "dd",
+  :block/created-at 1673723949421,
+  :block/updated-at 1673723949421}
  {:block/name "dec 21st, 2022",
   :block/created-at 1672323019413,
   :block/updated-at 1672323019413}
@@ -121,9 +124,6 @@
  {:block/name "jan 12th, 2023",
   :block/created-at 1673546605255,
   :block/updated-at 1673620160284}
- {:block/name "jan 14th, 2023",
-  :block/created-at 1673699433173,
-  :block/updated-at 1673699433173}
  {:block/name "jan 1st, 2023",
   :block/created-at 1672598059346,
   :block/updated-at 1672598059346}
@@ -174,7 +174,7 @@
   :block/updated-at 1673722208718}
  {:block/name "templates",
   :block/created-at 1673710335313,
-  :block/updated-at 1673723219215}
+  :block/updated-at 1673723955332}
  {:block/name "todo",
   :block/created-at 1672323314642,
   :block/updated-at 1672323314642}
