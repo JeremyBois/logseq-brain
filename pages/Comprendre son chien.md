@@ -1,4 +1,4 @@
-tags:: Chien
+tags:: Chien, Espritdog Family
 
 - ## Mon chien mange de l’herbe
 	- #Espritdog
@@ -79,16 +79,16 @@ tags:: Chien
 			- Nourriture
 			- Jeux
 			- Caresses
-	- ## Mon chien est malade en voiture
-		- Association d'un mauvais moment à la voiture
-			- Malade la première fois qu'il a prit la voiture
-		- Soucis avec l'oreille iterne
-			- Mettre de la musique
-			- Jouet d'occupation
-			- Coussin pour absorber les vibrations
-		- Pas à pas le réhabituer
-			- Le faire monter
-			- Faire 200m
-			- ...
+- ## Mon chien est malade en voiture
+	- Association d'un mauvais moment à la voiture
+		- Malade la première fois qu'il a prit la voiture
+	- Soucis avec l'oreille iterne
+		- Mettre de la musique
+		- Jouet d'occupation
+		- Coussin pour absorber les vibrations
+	- Pas à pas le réhabituer
+		- Le faire monter
+		- Faire 200m
+		- ...
 	-
 	-
