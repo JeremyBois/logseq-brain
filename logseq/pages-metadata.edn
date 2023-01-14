@@ -7,6 +7,9 @@
  {:block/name "alimentation du chien",
   :block/created-at 1673699434203,
   :block/updated-at 1673701001830}
+ {:block/name "author",
+  :block/created-at 1673710621545,
+  :block/updated-at 1673710621545}
  {:block/name "b",
   :block/created-at 1672323314642,
   :block/updated-at 1672323314642}
@@ -160,12 +163,18 @@
  {:block/name "status",
   :block/created-at 1672598061440,
   :block/updated-at 1672600785079}
+ {:block/name "templates",
+  :block/created-at 1673710335313,
+  :block/updated-at 1673710621547}
  {:block/name "todo",
   :block/created-at 1672323314642,
   :block/updated-at 1672323314642}
  {:block/name "troubles chez le chien",
   :block/created-at 1673709022319,
   :block/updated-at 1673709801828}
+ {:block/name "type",
+  :block/created-at 1673710581486,
+  :block/updated-at 1673710581486}
  {:block/name "valeur biologique",
   :block/created-at 1673699550172,
   :block/updated-at 1673699550172}
