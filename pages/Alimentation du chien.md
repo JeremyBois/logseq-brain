@@ -141,7 +141,9 @@ tags:: Yoshi, Chien
 				- Entretien poil et peau (oméga 3 et 6)
 				- Énergie / Résistance immunitaire / Résistance froid
 				- Rôle important pour les reins et le coeur
-			- Glucides
+			- Glucidesc
+				- Non strictement nécessaire
+				- Fournit une énergie disponible immédiatement
 				-
 - ## Comment choisir ?
 	- Gammes
@@ -177,7 +179,7 @@ tags:: Yoshi, Chien
 				- Blé / soja / Mais / gluten blé (<50)
 			- Plus l'indice est faible plus la digestion et les déchets seront important
 			- Privilégier les sources animales
-		- Gras
+		- Gras / Lipides
 			- Indispensable
 			- Bonnes sources :
 				- Boeuf / poulet

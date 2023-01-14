@@ -5,3 +5,7 @@
 	- Sa machoire ne s'articule que de bas en haut contrairement aux #Omnivore
 	- Il tire son énergie principalement des protéines et des lipides
 		- Il nécessite très très peu de glucides
+	- La dentition du chien adulte comprend 42 dents :
+		- 12 incisives
+		- 4 canines
+		- 26 molaires ( 12 en haut, 14 en bas) qui peuvent varier en nombre suivant la morphologie du chien.
