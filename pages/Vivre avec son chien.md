@@ -12,3 +12,10 @@ tags:: Chien, Espritdog Family, Espritdog
 		- Poursuivre le chien
 		- Récupérer la balle loin de vous
 		- Forcer la récupération dans la gueule
+- ## Interdire une pièce
+	- Pré-requis
+		- [[Ordre Pas bouger]]
+		- [[Ordre Non]]
+	- Étapes
+		- Lui indiquer de **pas bouger** juste devant l'entrée et avancer dans la pièce
+		-
