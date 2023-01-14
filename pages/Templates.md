@@ -27,5 +27,18 @@
 	  link::
 	  template:: Article
 	  <% Today %>
+	- type:: Formation
+	  author:: 
+	  tags::
+	  link::
+	  alias:: Cours
+	  template:: Formation
+	  <% Today %>
+	- type:: 
+	  author:: 
+	  tags::
+	  link::
+	  template:: General
+	  <% Today %>
 - ## Programmation
 - ## Éducation du chien
