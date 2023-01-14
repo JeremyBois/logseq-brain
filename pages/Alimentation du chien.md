@@ -131,9 +131,19 @@ tags:: Yoshi, Chien
 				- Animale
 					- ➕ Elle bénéficie de l’ensemble de la chaîne d’acides aminés
 				- Végétale
-					-
+					- ➖Moins digeste
+					- ➖ Ne contient pas la chaîne complète des acides aminés
+						- Arginine
+						- Taurine
+						- Méthionine
+						- Tryptophane
+			- Lipides
+				- Entretien poil et peau (oméga 3 et 6)
+				- Énergie / Résistance immunitaire / Résistance froid
+				- Rôle important pour les reins et le coeur
+			- Glucides
+				-
 - ## Comment choisir ?
-  collapsed:: true
 	- Gammes
 		- Chiot < 1 an
 			- Plus de proteines pour permettre une bonne croissance
@@ -167,11 +177,8 @@ tags:: Yoshi, Chien
 				- Blé / soja / Mais / gluten blé (<50)
 			- Plus l'indice est faible plus la digestion et les déchets seront important
 			- Privilégier les sources animales
-			-
 		- Gras
 			- Indispensable
-			- Entretien poil et peau
-			- Énergie / Résistance immunitaire
 			- Bonnes sources :
 				- Boeuf / poulet
 				- Huile d'olive / lin
