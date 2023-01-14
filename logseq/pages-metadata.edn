@@ -165,7 +165,7 @@
   :block/updated-at 1672600785079}
  {:block/name "templates",
   :block/created-at 1673710335313,
-  :block/updated-at 1673710621547}
+  :block/updated-at 1673720693436}
  {:block/name "todo",
   :block/created-at 1672323314642,
   :block/updated-at 1672323314642}
