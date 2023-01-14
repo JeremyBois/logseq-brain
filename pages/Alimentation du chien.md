@@ -108,7 +108,21 @@ tags:: Yoshi, Chien
 	- Equilibre & instinct
 	- Anifit
 - ## Régime
-	- Un chien est un #Carnivore non strict
+	- #Espritdog - Un chien est un #Carnivore non strict
+		- Protéines
+			- Indispensable
+			- Permet de fournir les 10 acides aminés nécessaires au chien qu'il ne fabrique pas lui-même
+				- Arginine
+				- Histidine
+				- Isoleucine
+				- Leucine
+				- Lysine
+				- Méthionine
+				- Phénylalanine
+				- Tryptophane
+				- Thréonine
+				- Valine
+				- Taurine
 - ## Comment choisir ?
   collapsed:: true
 	- Gammes
@@ -134,18 +148,17 @@ tags:: Yoshi, Chien
 	- Constituants
 		- Protéines
 			- Indispensable
-			- #[[Valeur biologique]]
-				- Capacité d'un aliment à fournir une source assimilable de protéines
-					- Oeuf entier (100)
-					- Farine de poissons/viandes (92)
-					- Poisson frais (83)
-					- Boeuf (80)
-					- Poulet / Dinde (79)
-					- Riz brun (57)
-					- Blé / soja / Mais / gluten blé (<50)
-				- Plus l'indice est faible plus la digestion et les déchets seront important
+			- Capacité d'un aliment à fournir une source assimilable de protéines (#[[Valeur biologique]])
+				- Oeuf entier (100)
+				- Farine de poissons/viandes (92)
+				- Poisson frais (83)
+				- Boeuf (80)
+				- Poulet / Dinde (79)
+				- Riz brun (57)
+				- Blé / soja / Mais / gluten blé (<50)
+			- Plus l'indice est faible plus la digestion et les déchets seront important
 			- Privilégier les sources animales
-			- Permet de fournir les 10 acides aminés nécessaires au chien qu'il ne fabrique pas lui-même
+			-
 		- Gras
 			- Indispensable
 			- Entretien poil et peau
