@@ -48,3 +48,16 @@ tags:: Chien
 				- Hierarchie temporaire des individus non famillial (copains en balade, ...)
 				- Codes canins pas forcément utilisé/compris par tous les chiens
 				- Utilisation de **signaux d'apaissement** = politesse pour l'humain
+- ## Les chiens détestent les chats !
+	- #Espritdog
+	- Faux c'est un problème de communication
+		- Certains signaux sont diamétralement opposés
+		- Problème de partage de ressources
+	- Important de laisser le temps aux deux de communiquer
+- ## Coupe de la queue et oreilles
+	- #Espritdog
+	- Historiquement
+		- Éliminer un point faible pour un chien de combat
+		- Éviter
+		- Zone très complexe à gérir
+		- Esthétique
