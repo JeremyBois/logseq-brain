@@ -1,28 +1,19 @@
-- [[Espritdog Family]] 
-  author:: #Espritdog
-  tags:: Chien, Formation
-  template:: Espritdog Family
-- type:: [[Book]]
-  author:: 
-  template:: Book
-  tags::
-  date::
-  link::
+-
 - type:: [[Video]]
+  title::
   author:: 
+  tags::
+  link::
   template:: Video
-  tags::
-  date::
-  link::
 - type:: [[Podcast]]
+  title::
   author:: 
+  tags::
+  link::
   template:: Podcast
-  tags::
-  date::
-  link::
 - type:: [[Article]]
+  title::
   author:: 
-  template:: Article
   tags::
-  date::
   link::
+  template:: Article
