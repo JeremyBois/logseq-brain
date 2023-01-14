@@ -26,7 +26,7 @@ tags:: Chien
 			  Aucune étude ne prouve que c’est possible ou bien que c'est impossible ... 
 			  #+END_QUOTE
 	- Bien que le loup soit un ancêtre commun du chien on ne peut considérer que leur comportement soient identiques
-	- Loup
+	- ###Loup
 		- Travaux de [[Lucyan David Mech]]
 			- Introduction du concept du mâle alpha
 				- Observation d'une meute en captivité
@@ -58,6 +58,11 @@ tags:: Chien
 	- #Espritdog
 	- Historiquement
 		- Éliminer un point faible pour un chien de combat
-		- Éviter
-		- Zone très complexe à gérir
+		- Éviter les blessures pour un chien de chasse
+		- Éviter la mort du chien à cause d'une zone très complexe à gérir / cicatricer
 		- Esthétique
+	- Pas de raisons de continuer aujourd'hui à le faire ...
+- ## Un chien tombe-t-il amoureux ?
+	- #Espritdog
+	- Comme pour l'humain le chien peut secréter de [l'ocytocine](https://fr.wikipedia.org/wiki/Ocytocine)
+		- Un chien peut donc avoir une préférence
