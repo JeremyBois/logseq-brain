@@ -110,7 +110,11 @@ tags:: Yoshi, Chien
 - ## Régime
 	- #Espritdog - Un chien est un #Carnivore non strict
 		- Protéines
-			- Indispensable
+			- Indispensable à la croissance et au développement tissulaire
+			- Rôle important dans le processus #enzymatique et le soutien du système immunitaire
+			- Rôle important dans le processus de cicatrisation
+			- Participe activement au renouvellement de sa peau et de son pelage
+			- Nécessaire pour garantir la puissance musculaire et la solidité des os
 			- Permet de fournir les 10 acides aminés nécessaires au chien qu'il ne fabrique pas lui-même
 				- Arginine
 				- Histidine
@@ -123,6 +127,11 @@ tags:: Yoshi, Chien
 				- Thréonine
 				- Valine
 				- Taurine
+			- Deux catégories
+				- Animale
+					- ➕ Elle bénéficie de l’ensemble de la chaîne d’acides aminés
+				- Végétale
+					-
 - ## Comment choisir ?
   collapsed:: true
 	- Gammes
