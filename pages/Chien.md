@@ -1,2 +1,7 @@
-- Un animal très attachant !
-- ddddd
+- Un animal principalement #Carnivore et très attachant !
+- Caractéristiques
+	- Tube digestif relativement court
+	- Sa salive ne contient pas d'enzymes pour pré-digérer la nourriture en bouche
+	- Sa machoire ne s'articule que de bas en haut contrairement aux #Omnivore
+	- Il tire son énergie principalement des protéines et des lipides
+		- Il nécessite très très peu de glucides

@@ -6,5 +6,5 @@
 		- Félidés : tigre, ion, léopard, chat, ...
 	- Non strict = carnivore à tendance #Omnivore
 		- Accepte des sources végétales comme animales
-		- Canidés(renard, #chien), Ursudés(Ours, ...), Mustélidés (fouine, ...)
+		- Canidés(renard, #Chien, Ursudés(Ours, ...), Mustélidés (fouine, ...)
 -

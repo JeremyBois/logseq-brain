@@ -1,12 +1,9 @@
-[{:block/name "[valeur",
-  :block/created-at 1673621454574,
-  :block/updated-at 1673621454574}
- {:block/name "a",
+[{:block/name "a",
   :block/created-at 1672323314642,
   :block/updated-at 1672323314642}
  {:block/name "alimentation du chien",
   :block/created-at 1672598060303,
-  :block/updated-at 1673621454576}
+  :block/updated-at 1673622435690}
  {:block/name "b",
   :block/created-at 1672323314642,
   :block/updated-at 1672323314642}
@@ -25,9 +22,12 @@
  {:block/name "card",
   :block/created-at 1672601177079,
   :block/updated-at 1672601177079}
+ {:block/name "carnivore",
+  :block/created-at 1673622422693,
+  :block/updated-at 1673622966770}
  {:block/name "chien",
   :block/created-at 1672598060300,
-  :block/updated-at 1673549812816}
+  :block/updated-at 1673623246113}
  {:block/name "chien - enrichissement",
   :block/created-at 1672598061005,
   :block/updated-at 1672598061005}
@@ -112,6 +112,9 @@
  {:block/name "objectif cavaletti",
   :block/created-at 1672598061191,
   :block/updated-at 1672598061191}
+ {:block/name "omnivore",
+  :block/created-at 1673622574838,
+  :block/updated-at 1673622574838}
  {:block/name "ordre assis",
   :block/created-at 1673619938354,
   :block/updated-at 1673619948414}
@@ -133,6 +136,9 @@
  {:block/name "todo",
   :block/created-at 1672323314642,
   :block/updated-at 1672323314642}
+ {:block/name "valeur biologique",
+  :block/created-at 1673621639469,
+  :block/updated-at 1673621639469}
  {:block/name "wait",
   :block/created-at 1672323314641,
   :block/updated-at 1672323314641}
