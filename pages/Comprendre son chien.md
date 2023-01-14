@@ -34,6 +34,7 @@ tags:: Chien
 			- [Alpha status, dominance, leadership, and division of labor in wolf packs ](https://www.usgs.gov/publications/alpha-status-dominance-leadership-and-division-labor-wolf-packs)
 				- Abandon du concept de mâle alpha résultat du processus de compétition
 				- Un couple est cependant le garant de la survie du groupe
+					- Femelle et enfants prioritaires sur la nourriture en cas de famine
 				- Ordre hierarchique construit par généalogie et non par rivalité
 					- Parent < première portée < seconde portée < ...
 				- Intégration de loup isolé dans une nouvelle meute
