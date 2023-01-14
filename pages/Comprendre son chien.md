@@ -1,7 +1,6 @@
-tags:: Chien, Espritdog Family
+tags:: Chien, Espritdog Family, Espritdog
 
 - ## Mon chien mange de l’herbe
-	- #Espritdog
 	- Permet de se faire vomir
 		- Inconfort suite à l'ingurgissement d'une connerie
 		- Recherche d'un apport en fibres
@@ -9,14 +8,12 @@ tags:: Chien, Espritdog Family
 			- Ne permet **pas** de le purger
 			- Rejette uniquement ceux existants
 - ## La notion du temps
-	- #Espritdog
 	- Les chiens ont bien la notion du temps en combinant plusieurs facteurs
 		- Odeurs de la journée
 		- Odeurs des personnes
 		- Intensité lumineuse
 		- Bruits discrets / répétitifs
 - ## Hiérarchie / Domination
-	- #Espritdog
 	- Deux cas existants
 		- Intra spécifique
 			- Relations entre membres d’une même espèce : chien-chien, humain-humain ...
@@ -49,13 +46,11 @@ tags:: Chien, Espritdog Family
 				- Codes canins pas forcément utilisé/compris par tous les chiens
 				- Utilisation de **signaux d'apaissement** = politesse pour l'humain
 - ## Les chiens détestent les chats !
-	- #Espritdog
 	- Faux c'est un problème de communication
 		- Certains signaux sont diamétralement opposés
 		- Problème de partage de ressources
 	- Important de laisser le temps aux deux de communiquer
 - ## Coupe de la queue et oreilles
-	- #Espritdog
 	- Historiquement
 		- Éliminer un point faible pour un chien de combat
 		- Éviter les blessures pour un chien de chasse
@@ -63,7 +58,6 @@ tags:: Chien, Espritdog Family
 		- Esthétique
 	- Pas de raisons de continuer aujourd'hui à le faire ...
 - ## Un chien tombe-t-il amoureux ?
-	- #Espritdog
 	- Comme pour l'humain le chien peut secréter de [l'ocytocine](https://fr.wikipedia.org/wiki/Ocytocine)
 		- Un chien peut donc avoir une préférence
 - ## Mon chien fait le loup
