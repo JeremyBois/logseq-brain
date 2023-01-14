@@ -26,7 +26,7 @@ tags:: Chien
 			  Aucune étude ne prouve que c’est possible ou bien que c'est impossible ... 
 			  #+END_QUOTE
 	- Bien que le loup soit un ancêtre commun du chien on ne peut considérer que leur comportement soient identiques
-	- ###Loup
+	- ### Loup
 		- Travaux de [[Lucyan David Mech]]
 			- Introduction du concept du mâle alpha
 				- Observation d'une meute en captivité
@@ -42,7 +42,7 @@ tags:: Chien
 						- Un est meilleur à la chasse ou au jeu
 					- Affrontement en dernier recours
 						- Si aucun des deux ne se retire
-		- Chien
+		- ### Chien
 			- Très différent du loup/chien sauvage
 				- Domestication, modification génétique, création de races de toutes pièces, ...
 				- Hierarchie temporaire des individus non famillial (copains en balade, ...)
@@ -66,3 +66,12 @@ tags:: Chien
 	- #Espritdog
 	- Comme pour l'humain le chien peut secréter de [l'ocytocine](https://fr.wikipedia.org/wiki/Ocytocine)
 		- Un chien peut donc avoir une préférence
+- ## Mon chien fait le loup
+	- Éteint sur la plupart des chiens domestiques
+	- Possible  que ce soit par mimétisme (bruit des pompiers, ...)
+	- Marquage / Attirer l'attention traduisant
+		- Manque d'exercice physique / mental
+		- Sociabilisation trop limitée
+		- Anxiété
+		-
+		-
