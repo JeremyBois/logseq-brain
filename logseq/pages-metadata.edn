@@ -59,8 +59,8 @@
   :block/created-at 1672323314641,
   :block/updated-at 1672323314641}
  {:block/name "cours",
-  :block/created-at 1673725039310,
-  :block/updated-at 1673725039310}
+  :block/created-at 1673725281256,
+  :block/updated-at 1673725281256}
  {:block/name "croix rouge",
   :block/created-at 1672598062817,
   :block/updated-at 1672598062817}
@@ -108,7 +108,7 @@
   :block/updated-at 1673699434121}
  {:block/name "espritdog family",
   :block/created-at 1673708828423,
-  :block/updated-at 1673725100248}
+  :block/updated-at 1673725366290}
  {:block/name "favorites",
   :block/created-at 1672323314641,
   :block/updated-at 1672323314641}
@@ -134,8 +134,8 @@
   :block/created-at 1672323314641,
   :block/updated-at 1672323314641}
  {:block/name "link",
-  :block/created-at 1673725100247,
-  :block/updated-at 1673725100247}
+  :block/created-at 1673725351811,
+  :block/updated-at 1673725351811}
  {:block/name "lucyan david mech",
   :block/created-at 1673702341376,
   :block/updated-at 1673702432875}
@@ -180,13 +180,16 @@
   :block/updated-at 1673722208718}
  {:block/name "templates",
   :block/created-at 1673710335313,
-  :block/updated-at 1673725209179}
+  :block/updated-at 1673725296260}
  {:block/name "todo",
   :block/created-at 1672323314642,
   :block/updated-at 1672323314642}
  {:block/name "troubles chez le chien",
   :block/created-at 1673709022319,
   :block/updated-at 1673709801828}
+ {:block/name "type",
+  :block/created-at 1673725254323,
+  :block/updated-at 1673725254323}
  {:block/name "valeur biologique",
   :block/created-at 1673699550172,
   :block/updated-at 1673699550172}

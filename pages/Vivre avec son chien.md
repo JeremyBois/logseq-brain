@@ -1,4 +1,9 @@
-tags:: Chien, Espritdog Family, Espritdog
+type:: Formation
+author:: #Espritdog 
+tags:: 
+link::
+alias:: Cours
+[[Jan 14th, 2023]]
 
 - ## Ramener la balle
 	- Permet au maître comme au chien de mieux profiter de la séance de jeu
