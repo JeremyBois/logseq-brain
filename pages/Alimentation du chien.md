@@ -137,14 +137,14 @@ tags:: Yoshi, Chien
 						- Taurine
 						- Méthionine
 						- Tryptophane
-			- Lipides
-				- Entretien poil et peau (oméga 3 et 6)
-				- Énergie / Résistance immunitaire / Résistance froid
-				- Rôle important pour les reins et le coeur
-			- Glucidesc
-				- Non strictement nécessaire
-				- Fournit une énergie disponible immédiatement
-				-
+		- Lipides
+			- Entretien poil et peau (oméga 3 et 6)
+			- Énergie / Résistance immunitaire / Résistance froid
+			- Rôle important pour les reins et le coeur
+		- Glucides
+			- Non strictement nécessaire
+			- Fournit une énergie disponible immédiatement
+			-
 - ## Comment choisir ?
 	- Gammes
 		- Chiot < 1 an
@@ -209,7 +209,7 @@ tags:: Yoshi, Chien
 				- riz brun
 				- riz blanc
 		- Glucides
-			- Non nécessaires au chien
+			- Nécessaire pour faire tenir la croquette
 			- ~ 30 à 75% d'une croquette
 			  id:: 63c16f61-f7d3-4d86-84fd-43311e242adb
 			- id:: 63c16f61-6ad2-47e5-bfab-94df99730b83
@@ -262,4 +262,3 @@ tags:: Yoshi, Chien
 				- Tapioca : source acceptable de glucides ne contenant aucun gluten. C’est par contre moins bon que les lentilles et les pois.
 				- Viande (poulet, agneau, saumon, dinde, canard, etc…) désossée: la viande fraiche contient un grand pourcentage d’eau (70%) ce qui signifie qu’une fois cuit, cet aliment se retrouve pas mal 
 				  plus loin en importance dans l’ordre des ingrédients. C’est aussi une raison pourquoi vous verrai souvent une *viande fraîche* en plus d’une *farine de viande* dans les premiers ingrédients.
--
