@@ -27,8 +27,11 @@ tags:: Chien
 			  #+END_QUOTE
 	- Bien que le loup soit un ancêtre commun du chien on ne peut considérer que leur comportement soient identiques
 	- Loup
-		- Travaux du zoologiste américain L. David Mech
-			- Introduction du concept du mâle alpha en observant une meute en captivité
-				- Biais introduit par l'homme et loups ne vivant plus dans un environnement naturel
-			- Abandonne du concept de mâle alpha
-				- <
+		- Travaux de [[Lucyan David Mech]]
+			- Introduction du concept du mâle alpha
+				- Observation d'une meute en captivité
+				- Biais sociaux et environnementaux introduits par l'homme
+			- [Alpha status, dominance, leadership, and division of labor in wolf packs ](https://www.usgs.gov/publications/alpha-status-dominance-leadership-and-division-labor-wolf-packs)
+				- Abandon du concept de mâle alpha résultat du processus de compétition
+				- Un couple est
+				-
