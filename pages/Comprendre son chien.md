@@ -42,4 +42,6 @@ tags:: Chien
 						- Un est meilleur à la chasse ou au jeu
 					- Affrontement en dernier recours
 						- Si aucun des deux ne se retire
-				-
+		- Chien
+			- Très différent du loup sauvage
+				- domestication, modification génétique, création de races de toutes pièces
