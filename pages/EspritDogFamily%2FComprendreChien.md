@@ -1,5 +1,8 @@
 title:: EspritDogFamily/ComprendreChien
-tags:: Chien, Espritdog
+author:: #Espritdog 
+tags:: Chien, Education
+link:: [Source](https://www.espritdog.com/chapitres/chapitre-5-comprendre-le-chien/)
+[[Jan 22nd, 2023]]
 
 - ## Mon chien mange de l’herbe
 	- Permet de se faire vomir

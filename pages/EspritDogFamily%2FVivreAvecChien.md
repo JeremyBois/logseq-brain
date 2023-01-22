@@ -1,5 +1,5 @@
 title:: EspritDogFamily/VivreAvecChien
-type:: Formation
+type:: [[Video]] 
 author:: #Espritdog 
 tags:: 
 link::

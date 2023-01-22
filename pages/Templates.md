@@ -23,14 +23,7 @@
 	  link::
 	  template:: Article
 	  <% Today %>
-	- type:: [[Meta]]
-	  author:: 
-	  tags::
-	  link::
-	  template:: Meta
-	  <% Today %>
-	- type:: 
-	  author:: 
+	- author:: 
 	  tags::
 	  link::
 	  template:: General
