@@ -1,2 +1,2 @@
 title:: EspritDogFamily/Dressage/Assis
-tags:: Chien, Formation
+tags:: Chien, Education

@@ -51,13 +51,10 @@
   :block/updated-at 1672598061200}
  {:block/name "clicking",
   :block/created-at 1672598061265,
-  :block/updated-at 1674414508834}
+  :block/updated-at 1674414886410}
  {:block/name "contents",
   :block/created-at 1672323314641,
   :block/updated-at 1672323314641}
- {:block/name "cours",
-  :block/created-at 1673725281256,
-  :block/updated-at 1673725281256}
  {:block/name "croix rouge",
   :block/created-at 1672598062817,
   :block/updated-at 1672598062817}
@@ -123,13 +120,13 @@
   :block/updated-at 1674411574903}
  {:block/name "espritdogfamily/dressage",
   :block/created-at 1674412284895,
-  :block/updated-at 1674413657745}
+  :block/updated-at 1674414916231}
  {:block/name "espritdogfamily/dressage/assis",
   :block/created-at 1673699435099,
-  :block/updated-at 1673699435099}
+  :block/updated-at 1674414908995}
  {:block/name "espritdogfamily/dressage/coucher",
   :block/created-at 1673699435211,
-  :block/updated-at 1673699435211}
+  :block/updated-at 1674414975605}
  {:block/name "espritdogfamily/dressage/non",
   :block/created-at 1673710068763,
   :block/updated-at 1673710068763}
@@ -138,10 +135,10 @@
   :block/updated-at 1674412261704}
  {:block/name "espritdogfamily/vivreavecchien",
   :block/created-at 1673709387939,
-  :block/updated-at 1673725949767}
+  :block/updated-at 1674414951219}
  {:block/name "espritdogfamily/vivreavecchien/pasbouger",
   :block/created-at 1673710026528,
-  :block/updated-at 1673726084371}
+  :block/updated-at 1674414934960}
  {:block/name "favorites",
   :block/created-at 1672323314641,
   :block/updated-at 1672323314641}
@@ -151,6 +148,9 @@
  {:block/name "file-path",
   :block/created-at 1674414154988,
   :block/updated-at 1674414154988}
+ {:block/name "formation",
+  :block/created-at 1674414864831,
+  :block/updated-at 1674414864831}
  {:block/name
   "hls__guide_du_shaping_clic_a_clic_cynotopia_1672599462160_0",
   :block/created-at 1674414154970,

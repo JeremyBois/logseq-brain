@@ -1,6 +1,6 @@
 type:: [[Book]]
 author:: #Cynotopia
-tags:: Chien, Formation
+tags:: Chien, Education
 link:: [Source](https://cynotopia.online/produit/guide-du-shaping)
 [[Jan 22nd, 2023]]
 

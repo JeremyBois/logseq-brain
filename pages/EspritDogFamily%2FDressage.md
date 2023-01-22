@@ -1,7 +1,7 @@
 title:: EspritDogFamily/Dressage
 type:: [[Video]]
 author:: #Espritdog 
-tags:: Chien, Formation
+tags:: Chien, Education
 link:: [Source](https://www.espritdog.com/chapitres/chapitre-2-dressage/)
 [[Jan 22nd, 2023]]
 

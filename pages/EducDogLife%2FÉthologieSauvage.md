@@ -1,5 +1,9 @@
+type:: [[Video]]
 title:: EducDogLife/ÉthologieSauvage
-tags:: Chien, Educdog
+author:: #Educdog 
+tags:: Chien, Education
+link::
+[[Jan 22nd, 2023]]
 
 - À l'état sauvage les chiens et les loups fonctionnent avec une hierarchie
 	- Au sommet se trouve le leader

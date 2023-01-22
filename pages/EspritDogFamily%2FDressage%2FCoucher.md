@@ -1,2 +1,2 @@
 title:: EspritDogFamily/Dressage/Coucher
-tags:: Chien, Formation
+tags:: Chien, Education

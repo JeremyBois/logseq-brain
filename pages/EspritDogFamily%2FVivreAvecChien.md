@@ -3,7 +3,6 @@ type:: Formation
 author:: #Espritdog 
 tags:: 
 link::
-alias:: Cours
 [[Jan 14th, 2023]]
 
 - ## Ramener la balle

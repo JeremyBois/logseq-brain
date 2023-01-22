@@ -1,2 +1,6 @@
+type:: [[Video]]
 title:: EducDogLife/ÉthologieDomestiqué
-tags:: Chien, Educdog
+author:: 
+tags::
+link::
+[[Jan 22nd, 2023]]

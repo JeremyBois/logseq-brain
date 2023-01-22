@@ -1,4 +1,4 @@
-type:: [[Education]]
+type:: [[Formation]]
 author:: #Espritdog
 tags:: Chien
 link:: [Site officiel](https://www.espritdog.com/formations/formation-esprit-dog-family/)
