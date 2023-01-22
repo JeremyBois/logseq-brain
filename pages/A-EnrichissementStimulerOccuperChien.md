@@ -1,4 +1,8 @@
+type:: [[Article]]
+author:: #Cynotopia 
 tags:: Chien
+link:: [Source](https://www.cynotopia.fr/enrichissement-stimuler-occuper)
+[[Jan 22nd, 2023]]
 
 - ## Alimentation
 	- Jouets fourrés
