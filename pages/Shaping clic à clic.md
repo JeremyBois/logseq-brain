@@ -1,10 +1,11 @@
-tags:: Cynotopia, Chien, Education
-status:: Doing
+type:: [[Book]]
+author:: #Cynotopia
+tags:: Chien, Formation
+link:: [Source](https://cynotopia.online/produit/guide-du-shaping)
+[[Jan 22nd, 2023]]
 
 - ## References
-	- Guide du shaping clic à clic
-		- [Source](https://cynotopia.online/produit/guide-du-shaping)
-		- ![Guide du shaping clic a clic_cynotopia.pdf](../assets/Guide_du_shaping_clic_a_clic_cynotopia_1672599462160_0.pdf)
+	- ![Guide du shaping clic a clic_cynotopia.pdf](../assets/Guide_du_shaping_clic_a_clic_cynotopia_1672599462160_0.pdf)
 - ## Méthodologie
 - #Shaping
 	- ((63b159cd-f19d-4069-943e-2cac0d874dc6))
