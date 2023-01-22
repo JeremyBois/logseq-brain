@@ -23,12 +23,11 @@
 	  link::
 	  template:: Article
 	  <% Today %>
-	- type:: [[Formation]]
+	- type:: [[Meta]]
 	  author:: 
 	  tags::
 	  link::
-	  alias:: Cours
-	  template:: Formation
+	  template:: Meta
 	  <% Today %>
 	- type:: 
 	  author:: 

@@ -1,6 +1,5 @@
-type:: [[Formation]]
+type:: [[Video]]
 author:: #Espritdog 
-tags:: Chien
-link:: [Video](https://www.espritdog.com/lecons/pas-bouger/)
-alias:: Cours
+tags:: Chien, Formation
+link:: [Source](https://www.espritdog.com/lecons/pas-bouger/)
 [[Jan 14th, 2023]]

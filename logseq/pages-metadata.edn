@@ -108,7 +108,7 @@
   :block/updated-at 1673699434121}
  {:block/name "espritdog family",
   :block/created-at 1673708828423,
-  :block/updated-at 1673725366290}
+  :block/updated-at 1673726193603}
  {:block/name "favorites",
   :block/created-at 1672323314641,
   :block/updated-at 1672323314641}
@@ -139,6 +139,9 @@
  {:block/name "lucyan david mech",
   :block/created-at 1673702341376,
   :block/updated-at 1673702432875}
+ {:block/name "meta",
+  :block/created-at 1673726117873,
+  :block/updated-at 1673726117873}
  {:block/name "now",
   :block/created-at 1672323314641,
   :block/updated-at 1672323314641}
@@ -159,7 +162,7 @@
   :block/updated-at 1673710068763}
  {:block/name "ordre pas bouger",
   :block/created-at 1673710026528,
-  :block/updated-at 1673710037899}
+  :block/updated-at 1673726084371}
  {:block/name "podcast",
   :block/created-at 1673722645493,
   :block/updated-at 1673722645493}
@@ -180,7 +183,7 @@
   :block/updated-at 1673722208718}
  {:block/name "templates",
   :block/created-at 1673710335313,
-  :block/updated-at 1673725296260}
+  :block/updated-at 1673726123899}
  {:block/name "todo",
   :block/created-at 1672323314642,
   :block/updated-at 1672323314642}
@@ -188,8 +191,8 @@
   :block/created-at 1673709022319,
   :block/updated-at 1673709801828}
  {:block/name "type",
-  :block/created-at 1673725254323,
-  :block/updated-at 1673725254323}
+  :block/created-at 1673726046053,
+  :block/updated-at 1673726046053}
  {:block/name "valeur biologique",
   :block/created-at 1673699550172,
   :block/updated-at 1673699550172}
@@ -198,7 +201,7 @@
   :block/updated-at 1673722618788}
  {:block/name "vivre avec son chien",
   :block/created-at 1673709387939,
-  :block/updated-at 1673710068764}
+  :block/updated-at 1673725949767}
  {:block/name "wait",
   :block/created-at 1672323314641,
   :block/updated-at 1672323314641}
