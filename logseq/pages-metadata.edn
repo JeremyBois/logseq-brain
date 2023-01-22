@@ -94,6 +94,9 @@
  {:block/name "educdog",
   :block/created-at 1673699434889,
   :block/updated-at 1673699434889}
+ {:block/name "educdoglife",
+  :block/created-at 1674412284463,
+  :block/updated-at 1674412341320}
  {:block/name "educdoglife/éthologiedomestiqué",
   :block/created-at 1673699435247,
   :block/updated-at 1673699435247}
@@ -115,6 +118,9 @@
  {:block/name "espritdogfamily/comprendrechien",
   :block/created-at 1673701051745,
   :block/updated-at 1674411574903}
+ {:block/name "espritdogfamily/dressage",
+  :block/created-at 1674412284895,
+  :block/updated-at 1674412284895}
  {:block/name "espritdogfamily/dressage/assis",
   :block/created-at 1673699435099,
   :block/updated-at 1673699435099}
