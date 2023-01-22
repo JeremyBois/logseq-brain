@@ -21,7 +21,7 @@ alias:: Cours
 - ## Interdire une pièce
 	- Pré-requis
 		- [[EspritDogFamily/VivreAvecChien/PasBouger]]
-		- [[Ordre Non]]
+		- [[EspritDogFamily/Dressage/Non]]
 	- Étapes
 		- Lui indiquer de **pas bouger** juste devant l'entrée et avancer dans la pièce
 		-

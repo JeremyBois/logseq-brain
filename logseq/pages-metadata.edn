@@ -94,6 +94,9 @@
  {:block/name "educdog",
   :block/created-at 1673699434889,
   :block/updated-at 1673699434889}
+ {:block/name "educdoglife/éthologiedomestiqué",
+  :block/created-at 1673699435247,
+  :block/updated-at 1673699435247}
  {:block/name "educdoglife/éthologiesauvage",
   :block/created-at 1673699435292,
   :block/updated-at 1673699435292}
@@ -106,21 +109,24 @@
  {:block/name "espritdog",
   :block/created-at 1673699434121,
   :block/updated-at 1673699434121}
- {:block/name "espritdog family",
-  :block/created-at 1674411763228,
-  :block/updated-at 1674411763228}
  {:block/name "espritdogfamily",
   :block/created-at 1673708828423,
   :block/updated-at 1674411636394}
  {:block/name "espritdogfamily/comprendrechien",
   :block/created-at 1673701051745,
   :block/updated-at 1674411574903}
- {:block/name "espritdogfamily/coucher",
+ {:block/name "espritdogfamily/dressage/assis",
+  :block/created-at 1673699435099,
+  :block/updated-at 1673699435099}
+ {:block/name "espritdogfamily/dressage/coucher",
   :block/created-at 1673699435211,
   :block/updated-at 1673699435211}
+ {:block/name "espritdogfamily/dressage/non",
+  :block/created-at 1673710068763,
+  :block/updated-at 1673710068763}
  {:block/name "espritdogfamily/troubleschien",
   :block/created-at 1673709022319,
-  :block/updated-at 1673709801828}
+  :block/updated-at 1674412261704}
  {:block/name "espritdogfamily/vivreavecchien",
   :block/created-at 1673709387939,
   :block/updated-at 1673725949767}
@@ -169,12 +175,6 @@
  {:block/name "omnivore",
   :block/created-at 1673699434832,
   :block/updated-at 1673699434832}
- {:block/name "ordre assis",
-  :block/created-at 1673699435099,
-  :block/updated-at 1673699435099}
- {:block/name "ordre non",
-  :block/created-at 1673710068763,
-  :block/updated-at 1673710068763}
  {:block/name "podcast",
   :block/created-at 1673722645493,
   :block/updated-at 1673722645493}
@@ -215,8 +215,5 @@
   :block/created-at 1672598476419,
   :block/updated-at 1672598476419}
  {:block/name "yoshi",
-  :block/created-at 1672323021200,
-  :block/updated-at 1672601058092}
- {:block/name "éthologie domestiqué",
-  :block/created-at 1673699435247, 
-  :block/updated-at 1673699435247}]
+  :block/created-at 1672323021200, 
+  :block/updated-at 1672601058092}]
