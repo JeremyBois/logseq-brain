@@ -1,3 +1,4 @@
+title:: EspritDogFamily/VivreAvecChien
 type:: Formation
 author:: #Espritdog 
 tags:: 
@@ -19,7 +20,7 @@ alias:: Cours
 		- Forcer la récupération dans la gueule
 - ## Interdire une pièce
 	- Pré-requis
-		- [[Ordre Pas bouger]]
+		- [[EspritDogFamily/VivreAvecChien/PasBouger]]
 		- [[Ordre Non]]
 	- Étapes
 		- Lui indiquer de **pas bouger** juste devant l'entrée et avancer dans la pièce

@@ -1,3 +1,4 @@
+title:: EducDogLife/ÉthologieSauvage
 tags:: Chien, Educdog
 
 - À l'état sauvage les chiens et les loups fonctionnent avec une hierarchie

@@ -1,3 +1,4 @@
+title:: EspritDogFamily/VivreAvecChien/PasBouger
 type:: [[Video]]
 author:: #Espritdog 
 tags:: Chien, Formation

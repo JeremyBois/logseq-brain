@@ -1,1 +1,0 @@
-tags:: Chien, Formation

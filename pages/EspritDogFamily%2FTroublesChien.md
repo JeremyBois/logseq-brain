@@ -1,3 +1,4 @@
+title:: EspritDogFamily/TroublesChien
 tags:: Chien, Espritdog Family, Espritdog
 
 - #+BEGIN_IMPORTANT
