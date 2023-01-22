@@ -1,4 +1,5 @@
-tags:: Chien, Espritdog Family, Espritdog
+title:: EspritDogFamily/ComprendreChien
+tags:: Chien, Espritdog
 
 - ## Mon chien mange de l’herbe
 	- Permet de se faire vomir
