@@ -1,5 +1,3 @@
-type:: [[Meta]]
-author:: 
 tags:: Chien, EducationPositive
 link:: [Source](https://www.cynotopia.fr/)
 [[Jan 22nd, 2023]]
