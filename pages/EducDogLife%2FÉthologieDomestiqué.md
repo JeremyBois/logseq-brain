@@ -19,4 +19,18 @@ link::
 		- Limiter le temps qu'il passe dessus
 	- Repas
 		- Manger en premier ou 1/2 heures après
+		- Ne pas le laisser manger devant vous
+		- Interdire au chien de manger sous la table
+		- #+BEGIN_WARNING
+		  Attention, suivre ces recommandations revient à faire de la protection de ressource et potentiellement indiquer au chien par mimétisme qu'il doit faire pareil
+		  #+END_WARNING
+	- Jeu
+		- Appliquer la règle du $$\frac{1}{2}$$ lorsqu'il demande
+		- La majorité du temps il faut être à l'initiative
+	- Jalousie / Rivalité
+		- Priorisé sa compagne / compagnon
+			- Si il est insistant le chasser
+	- Gestion des retours
+		- Ne pas le laisser sauter
+		- Ne pas le laisser être insistant (mordille, grogne, )
 		-
