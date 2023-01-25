@@ -9,3 +9,4 @@ link::
 	- Au sommet se trouve le leader
 - Devoirs du leader
 	- Protection de la meute
+		- Les dominés aboient pour prévenir mais c'est le leader qui va voir
