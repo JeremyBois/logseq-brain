@@ -30,5 +30,5 @@ link:: [Source](https://www.cynotopia.fr/enrichissement-stimuler-occuper)
 		- Carillons / tissus en hauteur / ...
 - ## Cognitif
 	- Apprendre de nouveau tours
-		- [[B-Shaping clic à clic]] #Cynotopia
+		- [[Shaping clic à clic]] #Cynotopia
 -

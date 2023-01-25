@@ -28,7 +28,7 @@ link:: [Source](https://www.espritdog.com/chapitres/chapitre-5-comprendre-le-chi
 			  #+END_QUOTE
 	- Bien que le loup soit un ancêtre commun du chien on ne peut considérer que leur comportement soient identiques
 	- ### Loup
-		- Travaux de [[P-Lucyan David Mech]]
+		- Travaux de [[Lucyan David Mech]]
 			- Introduction du concept du mâle alpha
 				- Observation d'une meute en captivité
 				- Biais sociaux et environnementaux introduits par l'homme

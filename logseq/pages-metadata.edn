@@ -4,9 +4,6 @@
  {:block/name "a",
   :block/created-at 1672323314642,
   :block/updated-at 1672323314642}
- {:block/name "a-enrichissementstimuleroccuperchien",
-  :block/created-at 1672598061005,
-  :block/updated-at 1674414722942}
  {:block/name "alimentation du chien",
   :block/created-at 1673699434203,
   :block/updated-at 1673701001830}
@@ -60,7 +57,7 @@
   :block/updated-at 1672598062817}
  {:block/name "cynotopia",
   :block/created-at 1672598060997,
-  :block/updated-at 1674414784802}
+  :block/updated-at 1674415745416}
  {:block/name "dec 21st, 2022",
   :block/created-at 1672323019413,
   :block/updated-at 1672323019413}
@@ -73,9 +70,6 @@
  {:block/name "dec 30th, 2022",
   :block/created-at 1672598059705,
   :block/updated-at 1672598059705}
- {:block/name "dog",
-  :block/created-at 1673699435005,
-  :block/updated-at 1673699435005}
  {:block/name "doing",
   :block/created-at 1672323314642,
   :block/updated-at 1672323314642}
@@ -96,46 +90,58 @@
   :block/updated-at 1673699434889}
  {:block/name "educdoglife",
   :block/created-at 1674412284463,
-  :block/updated-at 1674412341320}
+  :block/updated-at 1674415094679}
  {:block/name "educdoglife/éthologiedomestiqué",
   :block/created-at 1673699435247,
-  :block/updated-at 1673699435247}
+  :block/updated-at 1674415255419}
  {:block/name "educdoglife/éthologiesauvage",
   :block/created-at 1673699435292,
-  :block/updated-at 1673699435292}
+  :block/updated-at 1674415220330}
+ {:block/name "enrichissementstimuleroccuperchien",
+  :block/created-at 1672598061005,
+  :block/updated-at 1674414722942}
  {:block/name "enzymatique",
   :block/created-at 1673699831936,
   :block/updated-at 1673699831936}
- {:block/name "esprit dog",
-  :block/created-at 1673699435007,
-  :block/updated-at 1673699435007}
  {:block/name "espritdog",
   :block/created-at 1673699434121,
-  :block/updated-at 1673699434121}
+  :block/updated-at 1674414997315}
  {:block/name "espritdogfamily",
   :block/created-at 1673708828423,
-  :block/updated-at 1674411636394}
+  :block/updated-at 1674415022150}
+ {:block/name "espritdogfamily/alimentation",
+  :block/created-at 1674415637770,
+  :block/updated-at 1674415663543}
  {:block/name "espritdogfamily/comprendrechien",
   :block/created-at 1673701051745,
-  :block/updated-at 1674411574903}
+  :block/updated-at 1674415423302}
  {:block/name "espritdogfamily/dressage",
   :block/created-at 1674412284895,
-  :block/updated-at 1674414916231}
+  :block/updated-at 1674415818880}
  {:block/name "espritdogfamily/dressage/assis",
   :block/created-at 1673699435099,
   :block/updated-at 1674414908995}
+ {:block/name "espritdogfamily/dressage/commentreussir",
+  :block/created-at 1674415804030,
+  :block/updated-at 1674415851323}
  {:block/name "espritdogfamily/dressage/coucher",
   :block/created-at 1673699435211,
   :block/updated-at 1674414975605}
  {:block/name "espritdogfamily/dressage/non",
   :block/created-at 1673710068763,
   :block/updated-at 1673710068763}
+ {:block/name "espritdogfamily/education",
+  :block/created-at 1674415586746,
+  :block/updated-at 1674415613031}
  {:block/name "espritdogfamily/troubleschien",
   :block/created-at 1673709022319,
   :block/updated-at 1674412261704}
+ {:block/name "espritdogfamily/troublescomportements",
+  :block/created-at 1674415509974,
+  :block/updated-at 1674415555495}
  {:block/name "espritdogfamily/vivreavecchien",
   :block/created-at 1673709387939,
-  :block/updated-at 1674414951219}
+  :block/updated-at 1674415271676}
  {:block/name "espritdogfamily/vivreavecchien/pasbouger",
   :block/created-at 1673710026528,
   :block/updated-at 1674414934960}
@@ -149,8 +155,8 @@
   :block/created-at 1674414154988,
   :block/updated-at 1674414154988}
  {:block/name "formation",
-  :block/created-at 1674414864831,
-  :block/updated-at 1674414864831}
+  :block/created-at 1674415022132,
+  :block/updated-at 1674415022132}
  {:block/name
   "hls__guide_du_shaping_clic_a_clic_cynotopia_1672599462160_0",
   :block/created-at 1674414154970,
@@ -160,7 +166,7 @@
   :block/updated-at 1672323314642}
  {:block/name "initiation éducation positive",
   :block/created-at 1672598061447,
-  :block/updated-at 1672599439712}
+  :block/updated-at 1674416233633}
  {:block/name "jan 12th, 2023",
   :block/created-at 1673546605255,
   :block/updated-at 1673620160284}
@@ -179,9 +185,6 @@
  {:block/name "lucyan david mech",
   :block/created-at 1673702341376,
   :block/updated-at 1673702432875}
- {:block/name "meta",
-  :block/created-at 1673726117873,
-  :block/updated-at 1673726117873}
  {:block/name "now",
   :block/created-at 1672323314641,
   :block/updated-at 1672323314641}
@@ -199,7 +202,7 @@
   :block/updated-at 1672598061828}
  {:block/name "shaping clic à clic",
   :block/created-at 1672598060999,
-  :block/updated-at 1674414410611}
+  :block/updated-at 1674415002782}
  {:block/name "signal",
   :block/created-at 1672323019928,
   :block/updated-at 1672323019928}
@@ -208,7 +211,7 @@
   :block/updated-at 1672600785079}
  {:block/name "templates",
   :block/created-at 1673710335313,
-  :block/updated-at 1673726123899}
+  :block/updated-at 1674415453215}
  {:block/name "todo",
   :block/created-at 1672323314642,
   :block/updated-at 1672323314642}
