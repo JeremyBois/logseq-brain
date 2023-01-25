@@ -7,7 +7,7 @@ link::
 
 - À l'état sauvage les chiens et les loups fonctionnent avec une hierarchie
 	- Au sommet se trouve le leader
-- ## Notions du leader
+- ## Notion du leader
 	- Devoirs :
 		- Protection de la meute
 			- Les dominés aboient pour prévenir
@@ -21,11 +21,19 @@ link::
 			- Choix destination
 	- Droits :
 		- Mange en premier
-		- Se place au centre du territoire
+		- Se place au centre / en hauteur du territoire
 		- Seul à se reproduire (les autres enfants sont tués)
 		- Utilisation du jeu pour construire la hierarchie
 		- Accès et contrôle des câlins
 - ## Signaux de dominances
+	- Zone de dominance au niveau de l'encolure
+		- tête, cou, épaules, nuque
+	- Simuler l'acte sexuel
+		- mâle/mâle, femelle/femelle, mâle/femelle, ...
+	- #+BEGIN_WARNING
+	  Un chien qui montre un de ces signaux ne montre pas forcément une dominance. 
+	  Il est important de bien tenir compte du contexte
+	  #+END_WARNING
 	-
 	-
 	-
