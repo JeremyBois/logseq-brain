@@ -6,10 +6,10 @@ link::
 [[Jan 22nd, 2023]]
 
 - ## Place du chien dans la maison
-	- #+BEGIN_IMPORTANT
-	  La majorité des morsures au domicile arrivent quand on veut forcer un chien à descendre ou donner une ressource
-	  #+END_IMPORTANT
 	- La hauteur est une zone stratégique
+	- #+BEGIN_IMPORTANT
+	  La majorité des morsures au domicile arrivent quand on veut forcer un chien à descendre du canapé (protection de ressources)
+	  #+END_IMPORTANT
 	- Position du panier optimale :
 		- Loin du leader
 		- Loin du centre
@@ -32,5 +32,8 @@ link::
 			- Si il est insistant le chasser
 	- Gestion des retours
 		- Ne pas le laisser sauter
-		- Ne pas le laisser être insistant (mordille, grogne, )
+		- Ne pas le laisser être insistant (mordiller, grogner, ...)
+		- L'ignorer et attendre qu'il se calme
+	- Chambre
+		- Préférable de ne pas l'autoriser pour éviter les conflits
 		-
