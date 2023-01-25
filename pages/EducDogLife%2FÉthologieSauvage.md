@@ -9,4 +9,8 @@ link::
 	- Au sommet se trouve le leader
 - Devoirs du leader
 	- Protection de la meute
-		- Les dominés aboient pour prévenir mais c'est le leader qui va voir
+		- Les dominés aboient pour prévenir
+		- Le leader gère les soucis (soumission ou combat)
+		- Les dominés forment un cercle autour lors d'un combat et aboient
+			- Raison pour laquelle crier incite le chien au jeu / excitation
+		-
