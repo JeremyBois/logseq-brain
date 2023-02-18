@@ -41,4 +41,7 @@ link:: [Formation](https://educ-dog.mykajabi.com/products/educ-dog-life-v2-avec-
 		- Deconditionner aux éléments du départ
 			- Bruit des clé dans canapé + friandise
 			- Manteau + friandise
+		- Créer du confort (lumière, tv, musique)
+		- Laisser des éléments de jeu d'absence
+			-
 -
