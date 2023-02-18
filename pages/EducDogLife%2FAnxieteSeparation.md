@@ -37,4 +37,5 @@ link:: [Formation](https://educ-dog.mykajabi.com/products/educ-dog-life-v2-avec-
 	- Habituation à l'abscence
 		- Apprendre au chien à être dans une autre pièce
 		- Rentrer et sortir de la maison pour banaliser le départ
+		- Sanctionner avec un élément inerte non associé au maître
 -
