@@ -169,7 +169,7 @@ tags:: Yoshi, Chien
 	- Constituants
 		- Protéines
 			- Indispensable
-			- Capacité d'un aliment à fournir une source assimilable de protéines (#[[Valeur biologique]])
+			- Capacité d'un aliment à fournir une source assimilable de protéines (Valeur biologique)
 				- Oeuf entier (100)
 				- Farine de poissons/viandes (92)
 				- Poisson frais (83)
