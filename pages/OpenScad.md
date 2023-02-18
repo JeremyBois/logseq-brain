@@ -5,7 +5,9 @@ link:: [Site](https://openscad.org/) / [Github](https://github.com/openscad/open
 
 - ## Description
 - Logiciel permettant de construire des modèle 3D à partir de scripts
-- ## Documentation
+- Il est possible d'accélérer la génération de la 3D avec ``--enable=fast-csg``
+	- https://ochafik.com/jekyll/update/2022/02/09/openscad-fast-csg-contibution.html
+- ## Courses
 	- [Design into 3D](https://willadams.gitbook.io/design-into-3d/)
 	- [ScriptCAD](https://scriptcad.com/paulftw/OpenSCAD.Tutorial)
 	- [Mastering OpenSCAD](https://mastering-openscad.eu/buch/introduction/)
