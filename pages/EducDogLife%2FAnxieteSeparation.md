@@ -1,16 +1,18 @@
 title:: EducDogLife/AnxieteSeparation
+type:: [[Video]]
 author:: #Educdog 
-tags:: #Chien 
+tags:: #Chien
+link:: [Formation](https://educ-dog.mykajabi.com/products/educ-dog-life-v2-avec-bonus-par-abonnement/categories/2151459087) 
 [[Feb 18th, 2023]]
 
 -
-- [Formation](https://educ-dog.mykajabi.com/products/educ-dog-life-v2-avec-bonus-par-abonnement/categories/2151459087)
 - Les signaux de détresse
 	- Signaux pour montrer qu'il ne va pas bien
 		- Destruction
 		- Aboiements
 		- Malpropreté
 - La phase de détachement
+	- ![Phases.pdf](../assets/Phase_de_Detachement_1676729214500_0.pdf)
 	- Apprendre au chien à être indépendant
 		- Ne pas l'autoriser à nous suivre partout dans la maison
 		- Ne pas accepter qu'il soit toujours proche
