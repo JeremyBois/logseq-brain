@@ -7,3 +7,4 @@ link:: https://zulip.com/
 	- Utilise un système de **stream** qui contient des **topics**
 		- Permet de simplifier la communication sur des sujets en particuliers et éviter de perdre la discussion dans l'historique
 			- Problème inhérant à  [[Slack]] avec les **conversations** qui sont noyées
+-
