@@ -4,4 +4,3 @@ link:: https://solidpython.readthedocs.io/en/latest/#
 
 - ## Description
 	- Permet de parser et/ou générer du code #OpenScad en #Python
-		-
