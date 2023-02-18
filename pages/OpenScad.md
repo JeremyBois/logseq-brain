@@ -16,4 +16,5 @@ link:: [Site](https://openscad.org/) / [Github](https://github.com/openscad/open
 	- [Edutech Wiki](https://edutechwiki.unige.ch/fr/Tutoriel_OpenSCAD)
 - ## Alternatives
 	- [[Freecad]]
+	- https://github.com/arnholm/angelcad
 	- https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0225795
