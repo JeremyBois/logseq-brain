@@ -1,5 +1,6 @@
-- tags::
-  link::
-  [[Feb 19th, 2023]]
+tags:: #Logiciel #Texte #Programmation 
+link:: https://www.sublimetext.com/
+[[Feb 19th, 2023]]
+
 - ## Description
 -
