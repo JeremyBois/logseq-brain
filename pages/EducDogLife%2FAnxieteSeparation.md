@@ -12,4 +12,13 @@ tags:: #Chien
 - La phase de détachement
 	- Apprendre au chien à être indépendant
 		- Ne pas l'autoriser à nous suivre partout dans la maison
+		- Ne pas accepter qu'il soit toujours proche
+		- Le forcer à rester à distance de temps en temps
+		- Le pas le chercher partout
+		- Le repousser lorsqu'il force de l'attention
+			- Regard intense
+			- Couinnement
+			- Tête posé
+			- ...
 		-
+-
