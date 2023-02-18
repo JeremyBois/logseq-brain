@@ -36,5 +36,5 @@ link:: [Formation](https://educ-dog.mykajabi.com/products/educ-dog-life-v2-avec-
 			- Permet au chien de redescendre / se calmer
 	- Habituation à l'abscence
 		- Apprendre au chien à être dans une autre pièce
-		-
+		- Rentrer et sortir de la maison pour banaliser le départ
 -
