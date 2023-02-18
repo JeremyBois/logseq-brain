@@ -23,8 +23,7 @@
 	  link::
 	  template:: Article
 	  <% Today %>
-	- author:: 
-	  tags::
+	- tags::
 	  link::
 	  template:: General
 	  <% Today %>
