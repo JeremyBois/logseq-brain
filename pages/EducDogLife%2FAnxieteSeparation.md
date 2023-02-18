@@ -27,8 +27,12 @@ tags:: #Chien
 			- Donne de l'importance à son action
 		- Ne pas le gronder/frapper au retour si tu ne le surprend pas
 			- Il détruit par détresse pas par vengeance
-			- Il est apreuré car il lie/ressent notre langage
+			- Il est apreuré car il lie/ressent notre langage corporel
 		- Ne pas rassurer avant de partir
 		- Ne pas montrer de joie au retour
+		- Ne pas le promener juste avant le départ
+			- Permet au chien de redescendre / se calmer
+	- Habituation à l'abscence
+		- Apprendre au chien à être dans une autre pièce
 		-
 -
