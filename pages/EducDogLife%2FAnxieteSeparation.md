@@ -11,4 +11,5 @@ tags:: #Chien
 	- Malpropreté
 - La phase de détachement
 	- Apprendre au chien à être indépendant
-	-
+		- Ne pas l'autoriser à nous suivre partout dans la maison
+		-
