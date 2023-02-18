@@ -26,6 +26,9 @@ tags:: #Chien
 			- Association au jeu
 			- Donne de l'importance à son action
 		- Ne pas le gronder/frapper au retour si tu ne le surprend pas
-		-
+			- Il détruit par détresse pas par vengeance
+			- Il est apreuré car il lie/ressent notre langage
+		- Ne pas rassurer avant de partir
+		- Ne pas montrer de joie au retour
 		-
 -
