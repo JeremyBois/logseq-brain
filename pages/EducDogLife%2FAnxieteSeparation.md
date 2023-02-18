@@ -43,5 +43,5 @@ link:: [Formation](https://educ-dog.mykajabi.com/products/educ-dog-life-v2-avec-
 			- Manteau + friandise
 		- Créer du confort (lumière, tv, musique)
 		- Laisser des éléments de jeu d'absence
-			-
+			- Bois de cerf, Kong, bouteille en plastique, ...
 -
