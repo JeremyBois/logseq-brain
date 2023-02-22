@@ -1,5 +1,6 @@
 title:: EspritDogFamily/TroublesChien
-tags:: Chien, Espritdog
+author:: #Espritdog
+tags:: Chien
 
 - #+BEGIN_IMPORTANT
   La formation n'a pas vocation à fournir les moyens de régler les troubles du comportement mais à permettre de les identifier
