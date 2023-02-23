@@ -4,7 +4,5 @@
 
 a.tag[data-ref]{
   font-size: 18px !important;
+  color: #268bd2 !important
 }
-
-/*Changing tags to have a blue button appearance and be nice and rounded */
-.tag{color: #cb4b16; !important}.content
