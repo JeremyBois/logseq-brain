@@ -7,4 +7,10 @@ a.tag[data-ref]{
 }
 
 /*Changing tags to have a blue button appearance and be nice and rounded */
-.tag{ padding:2px 3px 2px 3px; border:1px #859900 solid;  width:fit-content; border-radius:8px; !important}.content
+.tag{ padding:2px 3px 2px 3px; width:fit-content;
+  border:1px #657b83 solid;   
+  border-top-style: dotted;
+  border-right-style: solid;
+  border-bottom-style: dotted;
+  border-left-style: solid;
+  !important}.content
