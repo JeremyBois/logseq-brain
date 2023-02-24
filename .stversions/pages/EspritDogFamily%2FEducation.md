@@ -43,11 +43,11 @@ link:: https://www.espritdog.com/chapitres/chapitre-1-education/
 - # Frustration et renoncement
   id:: 63f881b0-850e-41b0-8e25-2c799bff6b09
 	- type:: Video
-	- TODO Bilan Frustration et renoncement
+	- TODO Bilan
 - # Lui apprendre à se contrôler
   id:: 63f88761-788a-46ea-8f8e-7cb0c94b0b74
 	- type:: Video
-	- TODO Bilan Lui apprendre à se contrôler
+	- TODO Bilan
 - # Comment punir son chien
 	- type:: Video
 	- **Ne fonctionne pas**

@@ -218,7 +218,7 @@
  :ref/linked-references-collapsed-threshold 50
 
  ;; Favorites to list on the left sidebar
- :favorites ["Espritdog" "Root"]
+ :favorites ["EspritDogFamily" "Chien"]
 
  ;; any number between 0 and 1 (the greater it is the faster the changes of the next-interval of card reviews) (default 0.5)
  ;; :srs/learning-fraction 0.5
@@ -314,10 +314,9 @@
  ;;     ;use triple underscore `___` for slash `/` in page title
  ;;     ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
- :graph/settings {:journal? true, :orphan-pages? true}
+ :graph/settings {:journal? true}
  :publishing/all-pages-public? true
  :journal/page-title-format "MMM do, yyyy"
  :feature/enable-timetracking? false
  :ui/show-brackets? false
- :editor/preferred-pasting-file? false
  }
