@@ -1,11 +1,12 @@
 title:: EspritDogFamily/Education
 author:: #Espritdog 
 tags:: Chien, Education
-link:: [Source](https://www.espritdog.com/chapitres/chapitre-1-education/)
+link:: https://www.espritdog.com/chapitres/chapitre-1-education/
 [[Jan 22nd, 2023]]
 
 - # L'adolescence
-- Être cohérent / ne pas devenir plus exigeant
+- Ne pas utiliser l'adolescence comme une escuse
+- Être **cohérent** / ne pas devenir plus exigeant
 	- Interdits
 		- Il va désobéir mais vite comprendre que c'est pas dans son intêret
 		- Les comportements déviants vont se réduire
@@ -14,20 +15,19 @@ link:: [Source](https://www.espritdog.com/chapitres/chapitre-1-education/)
 			- pour éviter que le mauvais comportement s'installe
 			- pour pouvoir lui redonner sa liberté rapidement
 			- pour qu'il comprenne que écouter est dans son intérêt
-- Surveiller les changements de comportement
+- **Surveiller** les changements de comportement
 	- Soucis hormonaux
 		- La castration peut être une solution
 	- Affirmation et changement de comportement
 		- Percevoir les choses qu'il ne tolère plus
 			- envers ses congénères
 			- envers les humains
-		- Respecter ses limites et le protéger
+		- **Respecter ses limites** et le protéger
 			- Sélectionner les chiens en fonction de ses tolérances pour éviter les problèmes
 		- Lui indiquer les comportements déviants
 			- aboiement sur les passants
 			- morsure sur les chiens
 			- ...
-			-
 - Les **besoins** physiques et mentaux vont **augmenter**
 	- Il faut pouvoir y répondre pour que le chien reste stable
 	- Travailler de nouveaux exercices
@@ -36,8 +36,10 @@ link:: [Source](https://www.espritdog.com/chapitres/chapitre-1-education/)
 	- #+BEGIN_CAUTION
 	  Ne pas réduire les activités si il régresse car c'est une pente glissante
 	  #+END_CAUTION
+- **Sa capacité d'apprentissage et de concentration va augmenter**
+	- Il ne faut pas rester sur ces acquis
+	- Il faut lui ouvrir le monde et les possibilités
 	-
-		-
 - # Comment punir son chien
 	- **Ne fonctionne pas**
 		- L'ignorance
@@ -58,11 +60,11 @@ link:: [Source](https://www.espritdog.com/chapitres/chapitre-1-education/)
 	- **Fonctionne**
 		- Utiliser le **Non**
 			- #+BEGIN_CAUTION
-			   il faut lui avoir appris sa signification en amont ...
+			   Il faut lui avoir appris sa signification en amont ...
 			  #+END_CAUTION
 			- L'intonation est très importante
-				- le **Non** doit être ferme
-				- Ie **Non** ne doit pas être martelé pour ne pas perdre de valeur
+				- Le **Non doit être ferme** et imposer le respect
+				- Le **Non ne doit pas être martelé** pour ne pas perdre de valeur
 			- Proposer ensuite une solution alternative pour être vecteur de solution et non de punition
 		- Utiliser le **regard** et le **placement**
 			- Poser un regard mécontent sur le chien et se placer entre lui et son objectif
