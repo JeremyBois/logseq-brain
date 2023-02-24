@@ -6,3 +6,6 @@ a.tag[data-ref]{
   font-size: 18px !important;
   color: #268bd2 !important
 }
+/* Changing appearance of query tables */
+th {font-size: 1.1rem; font-weight: bold; text-transform: capitalize}/* Wrapping text in query table */
+td {white-space: pre-wrap !important}
