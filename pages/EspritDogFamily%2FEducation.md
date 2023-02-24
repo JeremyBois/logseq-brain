@@ -15,7 +15,7 @@ link:: [Source](https://www.espritdog.com/chapitres/chapitre-1-education/)
 			- Perte de valeur pour le chien car on est pas stable
 		- Enfermer le chien dans une autre pièce
 			- Punir sur la durée ne sert à rien
-			- Il va se calmer oui mais uniquement car il a rien fait pendant un moment --> ((63f87775-1f1d-4819-a903-8b165b51a432))
+		- Il va se calmer oui mais uniquement car il a rien fait pendant un moment --> ((63f87775-1f1d-4819-a903-8b165b51a432))
 	- **Fonctionne temporairement**
 		- Bruits style *pet corrector*
 			- Risque d'habituation et de banalisation
@@ -33,12 +33,19 @@ link:: [Source](https://www.espritdog.com/chapitres/chapitre-1-education/)
 			- Proposer ensuite une solution alternative pour être vecteur de solution et non de punition
 		- Utiliser le **regard** et le **placement**
 			- Poser un regard mécontent sur le chien et se placer entre lui et son objectif
-		- Le prendre par la peau du coup  (**dernier recours**)
-			- Simule le mode d'action de sa mère
-			- Ne pas escalader dans la violence
+		- Utiliser la menace physique (**dernier recours**)
+			- Le prendre par la peau du coup
+				- Simule le mode d'action de sa mère
+			- Taper sur les fesses
+			- #+BEGIN_IMPORTANT
+			  Ne pas escalader dans la violence
+			  #+END_IMPORTANT
 		- Gérer l'échec
 			- Si le **Non** ne fonctionne pas alors il faut le retravailler
 	- **Solution pérenne**
 		- Lui apprendre clairement les limites et ce qu'il peut faire
 		- Lui offrir des solutions pour gérer son stress en lui apprenant le **renoncement**
+- # Soumettre son chien sur le dos
+	- Attitude idiote dans 99% des cas
+	-
 		-
