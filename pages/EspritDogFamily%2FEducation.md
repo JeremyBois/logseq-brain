@@ -17,12 +17,16 @@ link:: [Source](https://www.espritdog.com/chapitres/chapitre-1-education/)
 		- Punir sur la durée ne sert à rien
 		- Il va se calmer oui mais uniquement car il a rien fait pendant un moment --> ((63f87775-1f1d-4819-a903-8b165b51a432))
 - **Fonctionne**
-	- Utiliser le ==Non==
+	- Utiliser le **Non**
 		- #+BEGIN_CAUTION
 		   il faut lui avoir appris sa signification en amont ...
 		  #+END_CAUTION
-		- L'intonnation est très importante
-			- le ==Non== doit être ferme
+		- L'intonation est très importante
+			- le **Non** doit être ferme
+			- Ie **Non** ne doit pas être martelé pour ne pas perdre de valeur
 		- Proposer ensuite une solution alternative pour être vecteur de solution et non de punition
-	- Utiliser le regard et le placement
-		-
+	- Utiliser le **regard** et le **placement**
+		- Poser un regard mécontent sur le chien et se placer entre lui et son objectif
+	- Le prendre par la peau du coup (**dernier recours**)
+		- Simule le mode d'action de sa mère
+		- Ne pas escalader dans la violence
