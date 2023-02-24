@@ -4,6 +4,18 @@ tags:: Chien, Education
 link:: [Source](https://www.espritdog.com/chapitres/chapitre-1-education/)
 [[Jan 22nd, 2023]]
 
+- # L'adolescence
+- Être cohérent / ne pas devenir plus exigeant
+	- Sur les interdits
+		- Il va désobéir mais vite comprendre que c'est pas dans son intêret
+		- Les comportements déviants vont se réduire
+	- Sur le rappel
+- Surveiller les changements de comportement
+	- Soucis hormonaux
+		- La castration peut être une solution
+	- Agrésivité
+- Principe
+	-
 - # Comment punir son chien
 	- **Ne fonctionne pas**
 		- L'ignorance
@@ -21,7 +33,6 @@ link:: [Source](https://www.espritdog.com/chapitres/chapitre-1-education/)
 			- Risque d'habituation et de banalisation
 			- Ne construit pas de relation de confiance
 			- Peut entraîner des troubles du comportement
-			-
 	- **Fonctionne**
 		- Utiliser le **Non**
 			- #+BEGIN_CAUTION
