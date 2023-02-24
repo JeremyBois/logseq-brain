@@ -16,6 +16,12 @@ link:: [Source](https://www.espritdog.com/chapitres/chapitre-1-education/)
 		- Enfermer le chien dans une autre pièce
 			- Punir sur la durée ne sert à rien
 			- Il va se calmer oui mais uniquement car il a rien fait pendant un moment --> ((63f87775-1f1d-4819-a903-8b165b51a432))
+	- **Fonctionne temporairement**
+		- Bruits style *pet corrector*
+			- Risque d'habituation et de banalisation
+			- Ne construit pas de relation de confiance
+			- Peut entraîner des troubles du comportement
+			-
 	- **Fonctionne**
 		- Utiliser le **Non**
 			- #+BEGIN_CAUTION
@@ -27,9 +33,12 @@ link:: [Source](https://www.espritdog.com/chapitres/chapitre-1-education/)
 			- Proposer ensuite une solution alternative pour être vecteur de solution et non de punition
 		- Utiliser le **regard** et le **placement**
 			- Poser un regard mécontent sur le chien et se placer entre lui et son objectif
-		- Le prendre par la peau du coup (**dernier recours**)
+		- Le prendre par la peau du coup  (**dernier recours**)
 			- Simule le mode d'action de sa mère
 			- Ne pas escalader dans la violence
+		- Gérer l'échec
+			- Si le **Non** ne fonctionne pas alors il faut le retravailler
+	- **Solution pérenne**
+		- Lui apprendre clairement les limites et ce qu'il peut faire
+		- Lui offrir des solutions pour gérer son stress en lui apprenant le **renoncement**
 		-
-	- Gérer l'échec
-		- Si le **Non** ne fonctionne pas alors il faut le retravailler
