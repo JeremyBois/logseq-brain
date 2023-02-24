@@ -45,7 +45,16 @@ link:: [Source](https://www.espritdog.com/chapitres/chapitre-1-education/)
 	- **Solution pérenne**
 		- Lui apprendre clairement les limites et ce qu'il peut faire
 		- Lui offrir des solutions pour gérer son stress en lui apprenant le **renoncement**
+- # Si je le punis il ne m'aimera plus
+	- Punir seul est inutile
+		- Il faut proposer une solution
+		- La punition doit apprenne au chien les limites
+	- Être clair et cohérent pour que le chien ne reproduise pas le mauvais comportement
 - # Soumettre son chien sur le dos
 	- Attitude idiote dans 99% des cas
-	-
+		- Ne montre pas de solution au chien
+		- Casse la relation homme/chien
+	- Alternatives
+		- Agir comme une personne de confiance / leader au quotidien pour être un modèle
+		- Lui montrer clairement les limites pour éviter d'escalader dans la violence
 		-
