@@ -1,3 +1,3 @@
 - # Tâches en cours
 	- {{query (todo todo now later doing)}}
-	  query-table:: false
+	  query-table:: true
