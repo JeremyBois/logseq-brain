@@ -17,14 +17,27 @@ link:: [Source](https://www.espritdog.com/chapitres/chapitre-1-education/)
 - Surveiller les changements de comportement
 	- Soucis hormonaux
 		- La castration peut être une solution
-	- Agrésivité
+	- Affirmation et changement de comportement
+		- Percevoir les choses qu'il ne tolère plus
+			- envers ses congénères
+			- envers les humains
+		- Respecter ses limites et le protéger
+			- Sélectionner les chiens en fonction de ses tolérances pour éviter les problèmes
+		- Lui indiquer les comportements déviants
+			- aboiement sur les passants
+			- morsure sur les chiens
+			- ...
+			-
 - Les **besoins** physiques et mentaux vont **augmenter**
 	- Il faut pouvoir y répondre pour que le chien reste stable
 	- Travailler de nouveaux exercices
 	- Faire découvrir de nouveaux endroits
+	- Le stimuler plus
+	- #+BEGIN_CAUTION
+	  Ne pas réduire les activités si il régresse car c'est une pente glissante
+	  #+END_CAUTION
 	-
-	-
-	-
+		-
 - # Comment punir son chien
 	- **Ne fonctionne pas**
 		- L'ignorance
