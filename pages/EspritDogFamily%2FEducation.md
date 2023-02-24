@@ -6,15 +6,24 @@ link:: [Source](https://www.espritdog.com/chapitres/chapitre-1-education/)
 
 - # L'adolescence
 - Être cohérent / ne pas devenir plus exigeant
-	- Sur les interdits
+	- Interdits
 		- Il va désobéir mais vite comprendre que c'est pas dans son intêret
 		- Les comportements déviants vont se réduire
-	- Sur le rappel
+	- Rappel
+		- Si il régresse il faut **directement** agir
+			- pour éviter que le mauvais comportement s'installe
+			- pour pouvoir lui redonner sa liberté rapidement
+			- pour qu'il comprenne que écouter est dans son intérêt
 - Surveiller les changements de comportement
 	- Soucis hormonaux
 		- La castration peut être une solution
 	- Agrésivité
-- Principe
+- Les **besoins** physiques et mentaux vont **augmenter**
+	- Il faut pouvoir y répondre pour que le chien reste stable
+	- Travailler de nouveaux exercices
+	- Faire découvrir de nouveaux endroits
+	-
+	-
 	-
 - # Comment punir son chien
 	- **Ne fonctionne pas**
