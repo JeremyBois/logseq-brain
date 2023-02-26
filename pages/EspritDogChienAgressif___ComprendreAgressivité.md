@@ -172,19 +172,28 @@ link:: https://www.espritdog.com/chapitres/chapitre-1-comprendre-lagressivite/
 	- type:: Video
 	- Les colliers à piques
 		- Utiles uniquement pour la protection des chiens contre l'extérieur (Loup, Ours, ...)
-	- Les colliers électriques
-		- Permet de rattraper un mauvais rappel
-			- Le chien revient très bien en laisse / longe mais ignore une fois sans lien avec le maître
-			- En utilisant l'ordre de rappel (en amont) puis la décharge (si il revient pas) alors on peut conditionner le chien
 	- Les colliers étrangleurs
 		- Si bien utilisé alors donne une sensation de ne rien porter à un chien
 		- Compliqué à utiliser correctement
 			- Apprendre au chien que le bruit est le dernier rappel avant la sanction
 			- Bien relâcher la tension pour ne pas le pendre en permanence
 			- --> Peut entretenir un climat de peur et une relation anxiogène
-		- D
-			-
-		-
+	- Les colliers électriques
+		- Permet de rattraper un mauvais rappel
+			- Le chien revient très bien en laisse / longe mais ignore une fois sans lien avec le maître
+			- En utilisant l'ordre de rappel (en amont) puis la décharge (si il revient pas) alors on peut conditionner le chien
+	- Le pet corrector / canette
+		- Permet d'indiquer au chien le mauvais comportement
+		- Risques
+			- Peut le rendre encore plus anxieux / agréssif
+			- Le chien peut s'adapter
+			- Le chien peut analyser les cas où l'outil est utilisé
+	- Cliqueur
+		- Un outil en plus et on a pas 100 mains
+		- Important de se concentrer sur le chien
+			- Réaction au bon moment très important
+	- Canette
+		- Similaire au pet corrector
 		-
 - ## Les accessoires autorisés
 	- type:: Video
