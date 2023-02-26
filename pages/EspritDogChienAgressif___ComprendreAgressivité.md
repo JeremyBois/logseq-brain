@@ -171,8 +171,21 @@ link:: https://www.espritdog.com/chapitres/chapitre-1-comprendre-lagressivite/
 - ## Les accesoires interdits
 	- type:: Video
 	- Les colliers à piques
-		- Utiles uniquement pour la protection des chiens contre l'extérieur
-			- Lou
+		- Utiles uniquement pour la protection des chiens contre l'extérieur (Loup, Ours, ...)
+	- Les colliers électriques
+		- Permet de rattraper un mauvais rappel
+			- Le chien revient très bien en laisse / longe mais ignore une fois sans lien avec le maître
+			- En utilisant l'ordre de rappel (en amont) puis la décharge (si il revient pas) alors on peut conditionner le chien
+	- Les colliers étrangleurs
+		- Si bien utilisé alors donne une sensation de ne rien porter à un chien
+		- Compliqué à utiliser correctement
+			- Apprendre au chien que le bruit est le dernier rappel avant la sanction
+			- Bien relâcher la tension pour ne pas le pendre en permanence
+			- --> Peut entretenir un climat de peur et une relation anxiogène
+		- D
+			-
+		-
+		-
 - ## Les accessoires autorisés
 	- type:: Video
 	-
