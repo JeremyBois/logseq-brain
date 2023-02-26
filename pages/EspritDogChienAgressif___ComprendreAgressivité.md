@@ -50,10 +50,23 @@ link:: https://www.espritdog.com/chapitres/chapitre-1-comprendre-lagressivite/
 -
 - # Les différentes formes d'agréssivité
 - type:: Video
-- Douleur physique
+- **Douleur physique**
 	- Ex: douleur à la jambe et il cours quand il voit un chien --> Association --> Agréssivité
 	- Solutions :
 		- Le noyer dans un groupe de chiens
 		- Le laisser se promener et l'inviter à ne pas poursuivre
-- Morsure de
-	- Enfant qui manipule trop / tire / l'écrase / ...
+- **Irritation**
+	- Le chien n'en peut plus
+	- Ex: Enfant qui manipule trop / tire / l'écrase / ...
+	- Solutions :
+		- Apprentissage aux manipulations quand le chien est encore chiot / ado
+			- Apprendre que partir est la bonne option
+			- Apprendre que se faire manipuler c'est rigolo
+		- Éduquer l'enfant / la source d'irritation
+- **Territoriale**
+	- Il protège trop même quand on est là
+	- Solutions:
+		- Renforcer le comportement où il prévient quand on est là
+		- Ne pas le laisser gérer quand un inconnu/ami vient
+		-
+	-
