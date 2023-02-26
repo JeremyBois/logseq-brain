@@ -7,12 +7,16 @@ link:: https://www.espritdog.com/chapitres/chapitre-1-comprendre-lagressivite/
 - Différents types de chiens
 	- **Non-décisionnaires**
 		- Il ne prend pas d'initiatives et attend l'ordre du maître
+		- Il ne faut pas le laisser prendre des décisions
+			- risque de forcer un peureux à prendre des décisions --> entraîne un peureux
 	- **Décisionnaire**
 		- Il est autonome et prend des décisions par lui même
-- #+BEGIN_IMPORTANT
-  Il faut toujours tenir compte des spécificités de sa race et surtout ne pas aller contre.
-  #+END_IMPORTANT
-- Ne pas utilisé des lignées
+	- #+BEGIN_IMPORTANT
+	  Il faut toujours tenir compte des spécificités de sa race et surtout ne pas aller contre.
+	  #+END_IMPORTANT
+	-
+- Ne pas utiliser des lignées de travail pour un particulier car il sera trop difficile
+-
 -
 - # Les besoins du chien
 - type:: Video
