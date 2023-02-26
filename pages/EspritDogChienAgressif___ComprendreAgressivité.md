@@ -66,7 +66,19 @@ link:: https://www.espritdog.com/chapitres/chapitre-1-comprendre-lagressivite/
 - **Territoriale**
 	- Il protège trop même quand on est là
 	- Solutions:
-		- Renforcer le comportement où il prévient quand on est là
-		- Ne pas le laisser gérer quand un inconnu/ami vient
+		- Il faut lui apprendre qu'il ne doit pas faire la police quand on est là
+			- Renforcer le comportement où il prévient quand on est là
+			- Ne pas le laisser gérer quand un inconnu/ami vient
+		- Faire venir de nombreuses personnes
+			- Faire rencontrer dans un premier temps en dehors (avec musolière)
+				- #+BEGIN_CAUTION
+				  Ne pas 
+				  #+END_CAUTION
+			- Rentrer avec les personnes
+- **Redirigé**
+	- Son seuil d'améostatie explose et mord sans comprendre pourquoi
+	- Identifier la source de
+	- Solutions :
 		-
+	-
 	-
