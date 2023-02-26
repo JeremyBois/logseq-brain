@@ -3,8 +3,8 @@ link:: https://www.espritdog.com/chapitres/chapitre-1-comprendre-lagressivite/
 [[Feb 26th, 2023]]
 
 - # Les particularités des races
-- type:: Video
 - ## Comprend en fonction de sa race
+	- type:: Video
 	- Différents types de chiens
 		- **Non-décisionnaires**
 			- Il ne prend pas d'initiatives et attend l'ordre du maître
@@ -27,8 +27,15 @@ link:: https://www.espritdog.com/chapitres/chapitre-1-comprendre-lagressivite/
 	  Il faut toujours tenir compte des spécificités de sa race et surtout ne pas aller contre.
 	  #+END_IMPORTANT
 - ## Il y a-t-il des races plus agréssifs que d'autres ?
-- type::
--
+- type:: Video
+- Pas de races plus agréssives
+	- Certaines sont plus puissantes
+	- Certaines races demandent plus ou moins de besoins mentaux / physiques
+- #+BEGIN_IMPORTANT
+  Les petits chiens ont tendance à avoir plus peur car il est plus facilement apeurable
+    - plus petits
+    - tendance des maîtres à porter
+  #+END_IMPORTANT
 - # Les besoins du chien
 - type:: Video
 -
