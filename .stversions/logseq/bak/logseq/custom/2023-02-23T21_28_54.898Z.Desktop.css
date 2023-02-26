@@ -1,0 +1,10 @@
+:root {
+  font-size: 18px !important;
+}
+
+a.tag[data-ref]{
+  font-size: 18px !important;
+}
+
+/*Changing tags to have a blue button appearance and be nice and rounded */
+.tag{color: #b58900; !important}
