@@ -11,12 +11,14 @@ link:: https://www.espritdog.com/chapitres/chapitre-1-comprendre-lagressivite/
 			- risque de forcer un peureux à prendre des décisions --> entraîne un peureux
 	- **Décisionnaire**
 		- Il est autonome et prend des décisions par lui même
-	- #+BEGIN_IMPORTANT
-	  Il faut toujours tenir compte des spécificités de sa race et surtout ne pas aller contre.
-	  #+END_IMPORTANT
-	-
+	- **Hybride**
+		- Mélange des deux
+			- Attention à la tendance prise par son chien hors spécificité de sa race
+		- Ex: Rotweiller, Bouvier bernois
 - Ne pas utiliser des lignées de travail pour un particulier car il sera trop difficile
--
+- #+BEGIN_IMPORTANT
+  Il faut toujours tenir compte des spécificités de sa race et surtout ne pas aller contre.
+  #+END_IMPORTANT
 -
 - # Les besoins du chien
 - type:: Video
