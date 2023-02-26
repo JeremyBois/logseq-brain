@@ -72,7 +72,7 @@ link:: https://www.espritdog.com/chapitres/chapitre-1-comprendre-lagressivite/
 		- Faire venir de nombreuses personnes
 			- Faire rencontrer dans un premier temps en dehors (avec musolière)
 				- #+BEGIN_CAUTION
-				  Ne pas 
+				  Ne pas mettre la musolière que dans cette configuration pour ne pas le conditionner et renforcer le problème
 				  #+END_CAUTION
 			- Rentrer avec les personnes
 - **Redirigé**
@@ -116,4 +116,11 @@ link:: https://www.espritdog.com/chapitres/chapitre-1-comprendre-lagressivite/
 		  Ne pas valider ce comportement protecteur sans passer pas la punition
 		  #+END_IMPORTANT
 - **Hierarchique**
-	-
+	- Il ne connait pas sa place et remet en question l'ordre défini
+	- Solutions :
+		- Lui montrer clairement sa place et ses droits / devoirs
+		- Ajouter des règles (pièce interdite, ...)
+			- Meilleur gestion des émotions
+- # Décrypter son chien
+- type:: Video
+-
