@@ -155,4 +155,24 @@ link:: https://www.espritdog.com/chapitres/chapitre-1-comprendre-lagressivite/
 			- Mauvais choix d'outil
 			- Mauvais éducateur
 			- Punition non approprié
-			-
+			- Transmission de ses peurs
+			- Manque d'assurance
+	- Certains chien sont plus ou moins sensible aux erreurs de son maître
+		- Se renseigner auprès de l'élevage
+		- Se renseigner sur internet, ....
+	- Sortir de la spirale de la peur en organisant sa journée pour limiter les risques
+		- Sorties tard / tôt
+		- Réduction des contacts congénères
+		- ...
+	- #+BEGIN_IMPORTANT
+	  Le chien juge tous nos comportements tous nos choix et nous tient comme responsable même si on passe par un éducateur
+	  #+END_IMPORTANT
+- # Les accessoires
+- ## Les accesoires interdits
+	- type:: Video
+	- Les colliers à piques
+		- Utiles uniquement pour la protection des chiens contre l'extérieur
+			- Lou
+- ## Les accessoires autorisés
+	- type:: Video
+	-
