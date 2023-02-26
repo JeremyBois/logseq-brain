@@ -124,9 +124,20 @@ link:: https://www.espritdog.com/chapitres/chapitre-1-comprendre-lagressivite/
 - # Décrypter son chien
 - type:: Video
 - Le comportement et les mimiques du chien traduisent son état d'esprit
-- **Toujours** tenir compte de l'environnement pour analyser un comportement
-- **Toujours** analyser les différents signes de manière globale pour éviter les mauvais diagnostics
+- **Toujours** analyser un comportement de manière globale pour éviter les mauvais diagnostics
+	- environnement
+	- contexte
+	- distance
+	- traits spécifiques au chien
+	- historique et conditionnement
+- #+BEGIN_NOTE
+  Identifier les signaux d'appaissement pour mieux cerner la situation
+  #+END_NOTE
 - Exemples:
 	- Mouvement de queue
 		- Évacuation de la pression (positive comme négative)
-	- Chien qui tire fortement et
+	- Chien qui tire fortement et sur-joue son état émotionnel
+		- Peut être la conséquence de la peur et non d'un chien affirmé
+	- Oreilles en arrière
+		- Peut indiquer qu'il est inquiet
+		- chatouille
