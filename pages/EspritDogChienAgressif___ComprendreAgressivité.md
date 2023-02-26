@@ -90,6 +90,12 @@ link:: https://www.espritdog.com/chapitres/chapitre-1-comprendre-lagressivite/
 	- Mauvais choix du maître entraînant
 		- manque de confiance du chien
 		- détection de la fébrilité du maître
-	-
-	-
-	-
+	- Peut être interprété comme de la peur du maître
+		- Ramener un chien en arrière
+		- S'arrêter en face d'un "danger"
+- **Protection de ressources**
+	- Protection d'objets, nourriture, ...
+	- Solutions:
+		- L'innonder de nourriture
+		- Lui faire comprendre que l'on va pas lui piquer la ressource
+			- Lui donner pleiin
