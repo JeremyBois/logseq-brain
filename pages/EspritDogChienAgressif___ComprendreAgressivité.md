@@ -168,6 +168,7 @@ link:: https://www.espritdog.com/chapitres/chapitre-1-comprendre-lagressivite/
 	  Le chien juge tous nos comportements tous nos choix et nous tient comme responsable même si on passe par un éducateur
 	  #+END_IMPORTANT
 - # Les accessoires
+  id:: 63fbc214-c566-4cff-9fa9-2bc9f87985ee
 - ## Les accesoires interdits
 	- type:: Video
 	- Les colliers à piques
@@ -185,6 +186,9 @@ link:: https://www.espritdog.com/chapitres/chapitre-1-comprendre-lagressivite/
 	- Le pet corrector
 	  id:: 63fbc47e-18d4-4b1f-8127-5ada576ea7f4
 		- Permet d'indiquer au chien le mauvais comportement
+		- #+BEGIN_CAUTION
+		  Les outils de punitions divines sont à double tranchant
+		  #+END_CAUTION
 		- Risques
 			- Peut le rendre encore plus anxieux / agréssif
 			- Le chien peut s'adapter
@@ -197,4 +201,4 @@ link:: https://www.espritdog.com/chapitres/chapitre-1-comprendre-lagressivite/
 		- Voir ((63fbc47e-18d4-4b1f-8127-5ada576ea7f4))
 - ## Les accessoires autorisés
 	- type:: Video
-	- TODO
+	- TODO Les accesoires autorisés
