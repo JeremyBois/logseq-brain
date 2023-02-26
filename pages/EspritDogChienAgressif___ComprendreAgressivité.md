@@ -98,4 +98,22 @@ link:: https://www.espritdog.com/chapitres/chapitre-1-comprendre-lagressivite/
 	- Solutions:
 		- L'innonder de nourriture
 		- Lui faire comprendre que l'on va pas lui piquer la ressource
-			- Lui donner pleiin
+			- Lui donner pleins de choses, lui redonner la ressource, partir puis revenir avec un cadeau, ...
+- **Immitation**
+	- Il observe un autre comportement malaisant (femme frappée) et le reproduit
+	- Solutions :
+		- Ne pas frapper sa femme ...
+- **Prédation**
+	- Plusieurs patrons moteurs / séquences
+	- Identifier la séquence
+		- Course
+		- Fixation
+		- Mise à mort
+- **Maternelle**
+	- Observée principalement avec ces petits
+	- Peut arriver si le chien considère l'enfant comme son enfant
+		- #+BEGIN_IMPORTANT
+		  Ne pas valider ce comportement protecteur sans passer pas la punition
+		  #+END_IMPORTANT
+- **Hierarchique**
+	-
