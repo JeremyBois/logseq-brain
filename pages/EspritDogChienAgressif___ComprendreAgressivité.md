@@ -182,7 +182,8 @@ link:: https://www.espritdog.com/chapitres/chapitre-1-comprendre-lagressivite/
 		- Permet de rattraper un mauvais rappel
 			- Le chien revient très bien en laisse / longe mais ignore une fois sans lien avec le maître
 			- En utilisant l'ordre de rappel (en amont) puis la décharge (si il revient pas) alors on peut conditionner le chien
-	- Le pet corrector / canette
+	- Le pet corrector
+	  id:: 63fbc47e-18d4-4b1f-8127-5ada576ea7f4
 		- Permet d'indiquer au chien le mauvais comportement
 		- Risques
 			- Peut le rendre encore plus anxieux / agréssif
@@ -193,8 +194,7 @@ link:: https://www.espritdog.com/chapitres/chapitre-1-comprendre-lagressivite/
 		- Important de se concentrer sur le chien
 			- Réaction au bon moment très important
 	- Canette
-		- Similaire au pet corrector
-		-
+		- Voir ((63fbc47e-18d4-4b1f-8127-5ada576ea7f4))
 - ## Les accessoires autorisés
 	- type:: Video
-	-
+	- TODO

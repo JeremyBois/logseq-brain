@@ -63,6 +63,7 @@ link:: https://www.espritdog.com/chapitres/chapitre-1-education/
 		- Il va se calmer oui mais uniquement car il a rien fait pendant un moment --> ((63f87775-1f1d-4819-a903-8b165b51a432))
 	- **Fonctionne temporairement**
 		- Bruits style *pet corrector*
+		  id:: 63f918b8-70b0-4849-b2ec-4dc604c5d69c
 			- Risque d'habituation et de banalisation
 			- Ne construit pas de relation de confiance
 			- Peut entraîner des troubles du comportement
