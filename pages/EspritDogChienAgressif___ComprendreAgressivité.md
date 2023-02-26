@@ -130,14 +130,20 @@ link:: https://www.espritdog.com/chapitres/chapitre-1-comprendre-lagressivite/
 	- distance
 	- traits spécifiques au chien
 	- historique et conditionnement
+	- mimiques
 - #+BEGIN_NOTE
-  Identifier les signaux d'appaissement pour mieux cerner la situation
+  Le feeling est très important en particulier avec son propre chien
   #+END_NOTE
-- Exemples:
+- Exemples :
 	- Mouvement de queue
 		- Évacuation de la pression (positive comme négative)
 	- Chien qui tire fortement et sur-joue son état émotionnel
 		- Peut être la conséquence de la peur et non d'un chien affirmé
 	- Oreilles en arrière
-		- Peut indiquer qu'il est inquiet
-		- chatouille
+		- Peut indiquer qu'il est inquiet / peureux
+		- Réflexe à la chatouille
+	- Crête
+		- Paraître plus impressionnant
+		- Réaction lorsque un chien perd l'avantage dans un jeu ou sait qu'il va le perdre (mauvais joueur)
+		- Dépend fortement de l'orientation et de la localisation --> dur de l'analyser correctement surtout à distance
+-
