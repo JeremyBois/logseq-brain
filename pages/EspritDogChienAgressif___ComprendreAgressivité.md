@@ -32,10 +32,15 @@ link:: https://www.espritdog.com/chapitres/chapitre-1-comprendre-lagressivite/
 	- Certaines sont plus puissantes
 	- Certaines races demandent plus ou moins de besoins mentaux / physiques
 - #+BEGIN_IMPORTANT
-  Les petits chiens ont tendance à avoir plus peur car il est plus facilement apeurable
+  Les petits chiens ont tendance à avoir plus peur: 
     - plus petits
     - tendance des maîtres à porter
   #+END_IMPORTANT
 - # Les besoins du chien
 - type:: Video
--
+- Les besoins varient fortement entre les différentes races
+	- Entre 1 et 12 heures
+- Attention à ne pas le rendre trop endurant
+- #+BEGIN_NOTE
+  Il faut s'adapter aux besoins de chaque chien, il n'y a pas de règles sp
+  #+END_NOTE
