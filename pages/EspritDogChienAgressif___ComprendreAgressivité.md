@@ -8,7 +8,11 @@ link:: https://www.espritdog.com/chapitres/chapitre-1-comprendre-lagressivite/
 	- **Non-décisionnaires**
 		- Il ne prend pas d'initiatives et attend l'ordre du maître
 		- Il ne faut pas le laisser prendre des décisions
-			- risque de forcer un peureux à prendre des décisions --> entraîne un peureux
+			- risque de forcer un peureux à prendre des décisions --> entraîne un comportement agréssif
+		- Ex: Chiens de berger
+			- Attente de beaucoup de choses de son maître
+			- Très dépendant de la stabilité de maître et surtout de sa cohérence
+			- Tendance à vouloir organiser les individus et potentiellement un risque à l'agréssion
 	- **Décisionnaire**
 		- Il est autonome et prend des décisions par lui même
 	- **Hybride**
