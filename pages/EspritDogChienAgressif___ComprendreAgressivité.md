@@ -77,8 +77,19 @@ link:: https://www.espritdog.com/chapitres/chapitre-1-comprendre-lagressivite/
 			- Rentrer avec les personnes
 - **Redirigé**
 	- Son seuil d'améostatie explose et mord sans comprendre pourquoi
-	- Identifier la source de
+	- Identifier la source de la réactivité
 	- Solutions :
-		-
+		- Renforcer la gestion des émotions par des exercices
+			- Il aura une soupage de sécurité et une meilleure résilience
+		- Redirigé vers un objet qui entraîne une douleur quand il mort
+			- Il va par conditionnement s'apaiser car il est sait que c'était pas agréable
+		- Montrer plus de chiens pour qu'il se contrôle mieux
+			- Désensibilisation
+- **Peur**
+	- Transmission des peurs du maître sur le chien
+	- Mauvais choix du maître entraînant
+		- manque de confiance du chien
+		- détection de la fébrilité du maître
+	-
 	-
 	-
