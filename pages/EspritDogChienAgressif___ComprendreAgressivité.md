@@ -50,5 +50,10 @@ link:: https://www.espritdog.com/chapitres/chapitre-1-comprendre-lagressivite/
 -
 - # Les différentes formes d'agréssivité
 - type:: Video
-- L'agréssivité a plusieurs origines
-	- Douleur
+- Douleur physique
+	- Ex: douleur à la jambe et il cours quand il voit un chien --> Association --> Agréssivité
+	- Solutions :
+		- Le noyer dans un groupe de chiens
+		- Le laisser se promener et l'inviter à ne pas poursuivre
+- Morsure de
+	- Enfant qui manipule trop / tire / l'écrase / ...
