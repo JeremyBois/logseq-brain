@@ -47,3 +47,7 @@ link:: https://www.espritdog.com/chapitres/chapitre-1-comprendre-lagressivite/
 - #+BEGIN_NOTE
   Il faut s'adapter aux besoins de chaque chien, il n'existe pas de règles spécifiques.
   #+END_NOTE
+-
+- # Les différentes formes d'agréssivité
+- type:: Video
+-
