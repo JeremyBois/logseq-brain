@@ -40,7 +40,10 @@ link:: https://www.espritdog.com/chapitres/chapitre-1-comprendre-lagressivite/
 - type:: Video
 - Les besoins varient fortement entre les différentes races
 	- Entre 1 et 12 heures
+- Ne pas punir / engueuler lorsque il est trop exité
+	- Il ne comprend pas car il a juste besoin de se défouler
+	- Il risque de devenir agréssif à cause de la frustration
 - Attention à ne pas le rendre trop endurant
 - #+BEGIN_NOTE
-  Il faut s'adapter aux besoins de chaque chien, il n'y a pas de règles sp
+  Il faut s'adapter aux besoins de chaque chien, il n'existe pas de règles spécifiques.
   #+END_NOTE
