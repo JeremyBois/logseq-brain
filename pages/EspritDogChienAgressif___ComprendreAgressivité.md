@@ -243,3 +243,6 @@ link:: https://www.espritdog.com/chapitres/chapitre-1-comprendre-lagressivite/
   id:: 63fd08de-a163-4662-bbf0-36a8912acf4e
 	- type:: Video
 	- TODO ((63fd08de-a163-4662-bbf0-36a8912acf4e))
+-
+- # Le danger des règles trop strictes
+-
