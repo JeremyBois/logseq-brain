@@ -221,4 +221,12 @@ link:: https://www.espritdog.com/chapitres/chapitre-1-comprendre-lagressivite/
 - Permet de faciliter la vie du chien dans le monde des humains
 	- Ne pas l'utiliser dès l'arrivée du chiot
 	- Le laisser découvrir le monde
--
+		- La longe permet de lui laisser faire des choix dont celui de faire confiance au maître
+		- La laisse le force même si il a peur
+- Impact négatif potentiel
+	- Le chien peut faire de la protection de ressources sur son maître
+	- Lui donner trop de confiance en le faisant croire que le maître va aller au combat aussi
+	- Contraint le chien
+		- Ne lui permet pas de s'écarter lorsque il voit un danger
+		- Peut rendre certaines rencontres anxiog
+	-
