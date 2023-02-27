@@ -14,14 +14,14 @@ link:: https://www.espritdog.com/chapitres/chapitre-1-comprendre-lagressivite/
 				- Attente de beaucoup de choses de son maître
 				- Très dépendant de la stabilité de maître et surtout de sa cohérence
 				- Tendance à vouloir organiser les individus et potentiellement un risque à l'agréssion
-			- **Décisionnaire**
-				- Il est autonome et prend des décisions par lui même
-				- Ex: Patou
-					- Habituer à gérer des troupeaux seul et donc prend de nombreuses décisions
-			- **Hybride**
-				- Mélange des deux
-					- Attention à la tendance prise par son chien hors spécificité de sa race
-				- Ex: Rotweiller, Bouvier bernois
+		- **Décisionnaire**
+			- Il est autonome et prend des décisions par lui même
+			- Ex: Patou
+				- Habituer à gérer des troupeaux seul et donc prend de nombreuses décisions
+		- **Hybride**
+			- Mélange des deux
+				- Attention à la tendance prise par son chien hors spécificité de sa race
+			- Ex: Rotweiller, Bouvier bernois
 	- Ne pas utiliser des lignées de travail pour un particulier car il sera trop difficile
 	- #+BEGIN_IMPORTANT
 	  Il faut toujours tenir compte des spécificités de sa race et surtout ne pas aller contre.
@@ -112,7 +112,7 @@ link:: https://www.espritdog.com/chapitres/chapitre-1-comprendre-lagressivite/
 		- Observée principalement avec ces petits
 		- Peut arriver si le chien considère l'enfant comme son enfant
 			- #+BEGIN_IMPORTANT
-			  Ne pas valider ce comportement protecteur mais sans passer pas la punition
+			  Ne pas valider ce comportement protecteur sans passer pas la punition
 			  #+END_IMPORTANT
 	- **Hierarchique**
 		- Il ne connait pas sa place et remet en question l'ordre défini
@@ -160,7 +160,7 @@ link:: https://www.espritdog.com/chapitres/chapitre-1-comprendre-lagressivite/
 	- Certains chien sont plus ou moins sensible aux erreurs de son maître
 		- Se renseigner auprès de l'élevage
 		- Se renseigner sur internet, ....
-	- Sortir de la spirale de la peur en **évitant** d'organiser sa journée pour limiter les risques
+	- Sortir de la spirale de la peur en organisant sa journée pour limiter les risques
 		- Sorties tard / tôt
 		- Réduction des contacts congénères
 		- ...
