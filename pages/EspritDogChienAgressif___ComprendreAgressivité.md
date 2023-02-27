@@ -202,6 +202,7 @@ link:: https://www.espritdog.com/chapitres/chapitre-1-comprendre-lagressivite/
 - ## Les accessoires autorisés
 	- type:: Video
 	- Collier / Laisse
+		- Voir ((63fd0555-97a2-4e98-ac2f-6430a5b0f9ed))
 	- Musolière
 	- Harnais
 		- Peut permettre de l'aider à comprendre quand il peut jouer et non
@@ -212,4 +213,12 @@ link:: https://www.espritdog.com/chapitres/chapitre-1-comprendre-lagressivite/
 			- Si il ne connait pas --> repartir de zéro
 	- Longe
 		- Contrôle à distance + liberté
-		- Faire des noeuds tout les 1/2 mètres
+		- Faire des noeuds tous les 1/2 mètres pour faciliter l'arrêt
+		- Peut permettre de donner de la liberté à un chien qui est agréssif si trop près de son maître
+- ## Le rôle de la laisse
+  id:: 63fd0555-97a2-4e98-ac2f-6430a5b0f9ed
+- type:: Video
+- Permet de faciliter la vie du chien dans le monde des humains
+	- Ne pas l'utiliser dès l'arrivée du chiot
+	- Le laisser découvrir le monde
+-
