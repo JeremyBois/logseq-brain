@@ -201,4 +201,15 @@ link:: https://www.espritdog.com/chapitres/chapitre-1-comprendre-lagressivite/
 		- Voir ((63fbc47e-18d4-4b1f-8127-5ada576ea7f4))
 - ## Les accessoires autorisés
 	- type:: Video
-	- TODO Les accesoires autorisés
+	- Collier / Laisse
+	- Musolière
+	- Harnais
+		- Peut permettre de l'aider à comprendre quand il peut jouer et non
+			- laisse + collier = obéissance
+			- longe + harnais = jeu
+		- Permet de repartir sur de bonnes bases
+			- Si il l'utilise déjà      --> casser le conditionnement de laisse + collier = danger
+			- Si il ne connait pas --> repartir de zéro
+	- Longe
+		- Contrôle à distance + liberté
+		- Faire des noeuds tout les 1/2 mètres
