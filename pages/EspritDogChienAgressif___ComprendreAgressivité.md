@@ -217,16 +217,29 @@ link:: https://www.espritdog.com/chapitres/chapitre-1-comprendre-lagressivite/
 		- Peut permettre de donner de la liberté à un chien qui est agréssif si trop près de son maître
 - ## Le rôle de la laisse
   id:: 63fd0555-97a2-4e98-ac2f-6430a5b0f9ed
-- type:: Video
-- Permet de faciliter la vie du chien dans le monde des humains
-	- Ne pas l'utiliser dès l'arrivée du chiot
-	- Le laisser découvrir le monde
-		- La longe permet de lui laisser faire des choix dont celui de faire confiance au maître
-		- La laisse le force même si il a peur
-- Impact négatif potentiel
-	- Le chien peut faire de la protection de ressources sur son maître
-	- Lui donner trop de confiance en le faisant croire que le maître va aller au combat aussi
-	- Contraint le chien
-		- Ne lui permet pas de s'écarter lorsque il voit un danger
-		- Peut rendre certaines rencontres anxiog
-	-
+	- type:: Video
+	- Permet de faciliter la vie du chien dans le monde des humains
+		- Ne pas l'utiliser dès l'arrivée du chiot
+		- Le laisser découvrir le monde
+			- La longe permet de lui laisser faire des choix dont celui de faire confiance au maître
+			- La laisse le force même si il a peur
+	- Impact négatif potentiel
+		- Le chien peut faire de la protection de ressources sur son maître
+		- Lui donner trop de confiance en le faisant croire que le maître va aller au combat aussi
+		- Contraint le chien
+			- Ne lui permet pas de s'écarter lorsque il voit un danger
+			- Ne permet pas au chien de facilement de renifler
+			- Impose une certaine direction
+			- À coup / mouvement saccadé pouvant donner la mauvaise information voir une mauvaise association
+	- #+BEGIN_NOTE
+	  La laisse est un bon outil mais ne doit pas être introduit trop rapidement sous peine de stresser / traumatiser le chien
+	  #+END_NOTE
+- # La musolière
+- ## Tout comprendre sur la musolière
+  id:: 63fd08b4-89e9-48ae-9937-8299608d48d3
+	- type:: Video
+	- TODO ((63fd08b4-89e9-48ae-9937-8299608d48d3))
+- ## Comment la mettre et l'apprendre
+  id:: 63fd08de-a163-4662-bbf0-36a8912acf4e
+	- type:: Video
+	- TODO ((63fd08de-a163-4662-bbf0-36a8912acf4e))
