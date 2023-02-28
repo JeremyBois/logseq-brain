@@ -238,7 +238,15 @@ link:: https://www.espritdog.com/chapitres/chapitre-1-comprendre-lagressivite/
 - ## Tout comprendre sur la musolière
   id:: 63fd08b4-89e9-48ae-9937-8299608d48d3
 	- type:: Video
-	- TODO ((63fd08b4-89e9-48ae-9937-8299608d48d3))
+	- ~15 jours pour lui apprendre
+	- Baskerville
+		- Deux versions souple et rigide
+			- Ne pas utiiser la souple car elle ne protège pas bien
+		- Permet de récompenser
+		- Ne protège
+	- En nylon
+		-
+	-
 - ## Comment la mettre et l'apprendre
   id:: 63fd08de-a163-4662-bbf0-36a8912acf4e
 	- type:: Video
