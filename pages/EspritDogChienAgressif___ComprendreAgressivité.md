@@ -287,4 +287,7 @@ link:: https://www.espritdog.com/chapitres/chapitre-1-comprendre-lagressivite/
 	  #+END_CAUTION
 -
 - # Le danger des règles trop strictes
--
+- type:: Video
+- Établir des règles trop dures complexifie la vie
+	- Continuer à jouer
+	- Ne pas l'isoler en força
