@@ -239,24 +239,34 @@ link:: https://www.espritdog.com/chapitres/chapitre-1-comprendre-lagressivite/
   id:: 63fd08b4-89e9-48ae-9937-8299608d48d3
 	- type:: Video
 	- ~15 jours pour lui apprendre
+		- Valoriser au maximum
+		- Nécessaire pour pouvoir travailler correctement
+			- Le maître est plus à l'aise
+			- Le chien peut moins fauter
+		- Ne pas conditionner le chien / Mauvaise association d'idées
+			- Mettre quand c'est bien
+			- Mettre quand ce n'est pas bien
+		- Nécessaire même si on a pas un chien agréssif
+			- Simplifier la vie chez le vétérinaire
+			- Simplifier la vie dans le train
 	- Baskerville / Panier
-		- Deux versions souple et rigide
-			- Ne pas utiiser la souple car elle ne protège pas bien
+		- 😡 Ne pas utiiser la souple car elle ne protège pas bien
+		- 😄 Utiliser la rigide
 		- 😄 Permet de récompenser
-		- Ne protège pas si on met les doigts
+		- 😡 Ne protège pas si on met les doigts
 	-
 		- 😄 Protège même si on met les doigts
-		- Ne permet pas de récompenser
+		- 😡 Ne permet pas de récompenser
 	- En nylon
-		- Il ne peut pas ouvrir la gueule
-		- Il pourrait toujours pincer avec le bout des doigts
+		- 😡 Il ne peut pas ouvrir la gueule
+		- 😡 Il pourrait toujours pincer avec le bout des doigts
 	- Spécial bouldog
 		- 😡 Ne protège pas les doigts
 		- 😄 Adapté à leur morphologie
 	- Féraille
 		- 😡 Pas agréable à porter
 		- 😄 Protège complètement
-		- Ne permet pas de récompenser
+		- 😡 Ne permet pas de récompenser
 		-
 	-
 - ## Comment la mettre et l'apprendre
