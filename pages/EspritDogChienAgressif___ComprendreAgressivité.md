@@ -239,12 +239,24 @@ link:: https://www.espritdog.com/chapitres/chapitre-1-comprendre-lagressivite/
   id:: 63fd08b4-89e9-48ae-9937-8299608d48d3
 	- type:: Video
 	- ~15 jours pour lui apprendre
-	- Baskerville
+	- Baskerville / Panier
 		- Deux versions souple et rigide
 			- Ne pas utiiser la souple car elle ne protège pas bien
-		- Permet de récompenser
-		- Ne protège
+		- 😄 Permet de récompenser
+		- Ne protège pas si on met les doigts
+	-
+		- 😄 Protège même si on met les doigts
+		- Ne permet pas de récompenser
 	- En nylon
+		- Il ne peut pas ouvrir la gueule
+		- Il pourrait toujours pincer avec le bout des doigts
+	- Spécial bouldog
+		- 😡 Ne protège pas les doigts
+		- 😄 Adapté à leur morphologie
+	- Féraille
+		- 😡 Pas agréable à porter
+		- 😄 Protège complètement
+		- Ne permet pas de récompenser
 		-
 	-
 - ## Comment la mettre et l'apprendre
