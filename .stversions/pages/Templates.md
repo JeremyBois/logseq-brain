@@ -29,11 +29,3 @@
 	  <% Today %>
 - ## Programmation
 - ## Éducation du chien
-- type:: [[Video]]
-  author:: #Espritdog 
-  tags:: Espritdog, Chien
-  link::
-  template:: EspritDog
-  <% Today %>
--
--

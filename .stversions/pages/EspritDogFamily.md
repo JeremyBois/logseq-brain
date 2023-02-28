@@ -1,6 +1,6 @@
 type:: [[Formation]]
 author:: #Espritdog
-tags:: Espritdog, Chien
+tags:: Chien
 link:: [Site officiel](https://www.espritdog.com/formations/formation-esprit-dog-family/)
 [[Jan 14th, 2023]]
 
