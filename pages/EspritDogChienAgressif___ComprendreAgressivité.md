@@ -249,30 +249,31 @@ link:: https://www.espritdog.com/chapitres/chapitre-1-comprendre-lagressivite/
 		- Nécessaire même si on a pas un chien agréssif
 			- Simplifier la vie chez le vétérinaire
 			- Simplifier la vie dans le train
+		-
 	- Baskerville / Panier
-		- 😡 Ne pas utiiser la souple car elle ne protège pas bien
-		- 😄 Utiliser la rigide
+		- 😡 Version normal = plastique mou
+		- 😄 Version ultra = plastique rigide
 		- 😄 Permet de récompenser
 		- 😡 Ne protège pas si on met les doigts
-	-
+	- Cuir
 		- 😄 Protège même si on met les doigts
+		- 😄 Comfortable
 		- 😡 Ne permet pas de récompenser
 	- En nylon
 		- 😡 Il ne peut pas ouvrir la gueule
-		- 😡 Il pourrait toujours pincer avec le bout des doigts
+		- 😡 Il peut toujours pincer
+		- Préférable de prendre la version avec un scratch
 	- Spécial bouldog
 		- 😡 Ne protège pas les doigts
 		- 😄 Adapté à leur morphologie
 	- Féraille
-		- 😡 Pas agréable à porter
 		- 😄 Protège complètement
+		- 😡 Pas agréable à porter
 		- 😡 Ne permet pas de récompenser
-		-
-	-
 - ## Comment la mettre et l'apprendre
   id:: 63fd08de-a163-4662-bbf0-36a8912acf4e
 	- type:: Video
-	- TODO ((63fd08de-a163-4662-bbf0-36a8912acf4e))
+	-
 -
 - # Le danger des règles trop strictes
 -
