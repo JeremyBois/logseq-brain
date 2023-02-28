@@ -249,7 +249,7 @@ link:: https://www.espritdog.com/chapitres/chapitre-1-comprendre-lagressivite/
 		- Nécessaire même si on a pas un chien agréssif
 			- Simplifier la vie chez le vétérinaire
 			- Simplifier la vie dans le train
-		-
+		- Certaines musolières ont un système de sécurité pour un second collier
 	- Baskerville / Panier
 		- 😡 Version normal = plastique mou
 		- 😄 Version ultra = plastique rigide
@@ -273,7 +273,18 @@ link:: https://www.espritdog.com/chapitres/chapitre-1-comprendre-lagressivite/
 - ## Comment la mettre et l'apprendre
   id:: 63fd08de-a163-4662-bbf0-36a8912acf4e
 	- type:: Video
-	-
+	- Travailler progressivement
+		- Récompense au fond
+		- Récompense à travers la musolière
+		- Récompense une fois attaché
+		- Récompense après un certain temps
+		- Récompenser après de l'obeissance
+	- Le mettre en mouvement et varier les activités
+	- Imbiber la musolière avec du poulet ou autre odeur
+	- Ne pas brusquer l'apprentissage
+	- #+BEGIN_CAUTION
+	  Ne pas récompenser après avoir enlever la musolière pour ne pas encourager le fait de l'enlever
+	  #+END_CAUTION
 -
 - # Le danger des règles trop strictes
 -
