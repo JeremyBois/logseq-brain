@@ -287,12 +287,17 @@ link:: https://www.espritdog.com/chapitres/chapitre-1-comprendre-lagressivite/
 	  #+END_CAUTION
 -
 - # Le danger des règles trop strictes
-- type:: Video
-- Établir des règles trop dures complexifie la vie
-	- Continuer à jouer
-	- Ne pas l'isoler en le forçant dans le panier tout le temps
-	- Ne pas être injuste
-		- En interdisant tout d'un coup des trucs autorisés
-		- En interdisant dans des conditions spécifiques
-- Risque de construire un milieu anxiogène et le priver du seul lieu où il se sent bien
-- Il faut cependant lui apprendre les interdits (pièce interdite, )
+	- type:: Video
+	- Établir des règles trop dures complexifie la vie
+		- Continuer à jouer
+		- Ne pas l'isoler en le forçant dans le panier tout le temps
+		- Ne pas être injuste
+			- En interdisant tout d'un coup des trucs autorisés
+			- En interdisant dans des conditions spécifiques
+	- Risque de construire un milieu anxiogène et le priver du seul lieu où il se sent bien
+	- Il faut cependant lui apprendre les interdits (pièce interdite, pas bouger à l'arrivée des invités)
+- # Le danger de l'obéissance
+	- type:: Video
+	- Peut être un accélérateur mais ne règle pas les soucis
+		- On peut forcer à obéir mais il reste anxieux
+		- Les mots risquent d'êtres associés
