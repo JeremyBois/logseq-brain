@@ -300,4 +300,8 @@ link:: https://www.espritdog.com/chapitres/chapitre-1-comprendre-lagressivite/
 	- type:: Video
 	- Peut être un accélérateur mais ne règle pas les soucis
 		- On peut forcer à obéir mais il reste anxieux
-		- Les mots risquent d'êtres associés
+	- Les ordres peuvent mettre le chien en position de combat
+		- Il va chercher le danger quand on donnera un ordre
+		- Utiliser les ordres en dehors sans raisons pour ne pas le conditionner
+	- Laisser de coté l'obéissance afin de pouvoir repositiver les ordres
+- # Les mauvaises pratiques
