@@ -294,7 +294,7 @@ link:: https://www.espritdog.com/chapitres/chapitre-1-comprendre-lagressivite/
 		- Ne pas être injuste
 			- En interdisant tout d'un coup des trucs autorisés
 			- En interdisant dans des conditions spécifiques
-	- Risque de construire un milieu anxiogène et le priver du seul lieu où il se sent bien
+		- Risque de construire un milieu anxiogène et le priver du seul lieu où il se sent bien
 	- Il faut cependant lui apprendre les interdits (pièce interdite, pas bouger à l'arrivée des invités)
 - # Le danger de l'obéissance
 	- type:: Video
@@ -303,5 +303,20 @@ link:: https://www.espritdog.com/chapitres/chapitre-1-comprendre-lagressivite/
 	- Les ordres peuvent mettre le chien en position de combat
 		- Il va chercher le danger quand on donnera un ordre
 		- Utiliser les ordres en dehors sans raisons pour ne pas le conditionner
-	- Laisser de coté l'obéissance afin de pouvoir repositiver les ordres
+	- #+BEGIN_TIP
+	  Laisser de coté l'obéissance afin de pouvoir repositiver les ordres
+	  #+END_TIP
 - # Les mauvaises pratiques
+- ## Le détournement d'attention
+	- id:: 63fe7838-370d-4d0a-a679-674af3eb2785
+	  type:: Video
+	-
+- ## Le contournement
+	- type:: Video
+	-
+- ## Les attitudes interdites
+	- type:: Video
+	-
+- ## Les rencontres de face
+	- type:: Video
+	-
