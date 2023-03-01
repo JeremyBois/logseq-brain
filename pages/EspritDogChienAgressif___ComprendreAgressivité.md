@@ -235,6 +235,7 @@ link:: https://www.espritdog.com/chapitres/chapitre-1-comprendre-lagressivite/
 	  La laisse est un bon outil mais ne doit pas être introduit trop rapidement sous peine de stresser / traumatiser le chien
 	  #+END_NOTE
 - # La musolière
+  id:: 63fe78a7-2f8b-4644-8c23-2e549c646081
 - ## Tout comprendre sur la musolière
   id:: 63fd08b4-89e9-48ae-9937-8299608d48d3
 	- type:: Video
@@ -330,10 +331,11 @@ link:: https://www.espritdog.com/chapitres/chapitre-1-comprendre-lagressivite/
 			- Le chien capte nos émotions par notre odeur
 		- Peut entraîner de la prédation (prise à revers de la proie)
 		- Renforce les anxiétés du chien
-	- #+BEGIN_IMPORTANT
-	  Contournement autorisé pour le chien si il veut se mettre en sécurité
-	  L'obéissance n'est pas la priorité
-	  #+END_IMPORTANT
+	- Contournement autorisé pour le chien si il veut se mettre en sécurité
+		- L'obéissance n'est pas la priorité
+		- Il prend une bonne décision --> **Récompenser**
+	- Pour pouvoir le faire de manière optimale il faut donc utiliser ((63fe78a7-2f8b-4644-8c23-2e549c646081))
+		- Faire des ballades à deux permet aussi de
 		-
 - ## Les attitudes interdites
 	- type:: Video
