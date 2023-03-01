@@ -310,7 +310,14 @@ link:: https://www.espritdog.com/chapitres/chapitre-1-comprendre-lagressivite/
 - ## Le détournement d'attention
 	- id:: 63fe7838-370d-4d0a-a679-674af3eb2785
 	  type:: Video
-	-
+	- Faiblesses
+		- Association possible entre volonté d'attaquer et récompense
+		- Si réalisé avant même l'apparition du danger on récompense rien
+		- Ne règle pas le problème
+		- Compliqué à mettre en place
+	- #+BEGIN_IMPORTANT
+	  Récompenser les bonnes actions (ni va )
+	  #+END_IMPORTANT
 - ## Le contournement
 	- type:: Video
 	-
