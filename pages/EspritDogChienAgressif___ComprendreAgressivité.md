@@ -394,5 +394,13 @@ link:: https://www.espritdog.com/chapitres/chapitre-1-comprendre-lagressivite/
 			- Travail du rapport d'objets
 			- Renoncement à la fin du jeu
 			- ...
-	- Profiter du jeu pour apprendre
-		-
+	- #+BEGIN_NOTE
+	  Profiter du jeu pour apprendre mais ne pas le faire tout le temps
+	  #+END_NOTE
+- # Les émotions du chien
+	- type:: Video
+	- Il a un panel d'indicateurs bien plus important que nous
+		- Il récupère toutes les émotions par les odeurs
+			- Odeur de la "cible" mais aussi du "maître"
+	- Ne pas se soucier des émotions des autres mais des siennes
+		- Peur des attitudes de son chien
