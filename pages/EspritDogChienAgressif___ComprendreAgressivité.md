@@ -357,7 +357,7 @@ link:: https://www.espritdog.com/chapitres/chapitre-1-comprendre-lagressivite/
 	- Avec les chiens
 		- Mise en position de combat
 		- Rendre lisible les interdits
-- # Le conditionnement
+- # Les conditionnements
 	- type:: Video
 	- Contionnement opérant
 		- Réponse volontaire / contrôlée de l'organisme
@@ -372,3 +372,19 @@ link:: https://www.espritdog.com/chapitres/chapitre-1-comprendre-lagressivite/
 	- Agréssivité redirigé
 		- Perte de contrôle --> Conditionnement classique
 		- Il ne sait pas pourquoi mais a besoin d'évacuer la pression
+- # Les jeux interdits
+	- type:: Video
+	- Important de ne pas interdire des jeux (tirage, lancer de balle)
+	- Tirage
+		- Ne développe pas son agréssivité --> Développe son envie d'intérargir
+		- Permet par contre
+			- Meilleure gestion des émotions
+			- Meilleur contrôle de sa machoire
+			- Tisser des liens
+			- Se défouler
+			- Comprendre le Oui/Non
+	- Jeu de balle
+		- Le chien est capable de faire la différence entre un humain / chien et le jouet
+		- Il utilise certaines séquences de la prédation
+		-
+		-
