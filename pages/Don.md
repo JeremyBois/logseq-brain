@@ -1,14 +1,22 @@
 public::  false
 
 - #Signal
-	- Mensuel (21 Janvier 2022)
-	- 5€
+	- 5€ **mensuel** [[[Jan 21st, 2022]] , ...]
 - #[[Croix rouge]]
-	- Mensuel ()
+	- 20€ **mensuel** [[[Mar 16th, 2021]] , ...]
 	  :LOGBOOK:
 	  CLOCK: [2022-12-21 Wed 10:14:09]
 	  :END:
-	- 20€
 - #Wikimedia
-	- Mensuel (31 août 2020)
-	- 5.35€
+	- 5.35€ **mensuel** [[[Aug 31st, 2020]], ...]
+- #[[Restos du coeur]]
+	- 3€ ( [[Aug 22nd, 2022]] )
+- #WWF
+	- 1€ ( [[Nov 25th, 2022]] )
+	- 1€ ( [[May 24th, 2022]] )
+	- 1€ ( [[May 15th, 2022]] )
+- #[[Institut Pasteur]]
+	- 1€ ( [[Oct 13th, 2022]] )
+- #[[Apprentis d'Auteuil]]
+	- 1€ ( [[Nov 27th, 2021]] )
+-
