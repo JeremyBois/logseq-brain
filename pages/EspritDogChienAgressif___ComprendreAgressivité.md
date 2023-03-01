@@ -342,7 +342,16 @@ link:: https://www.espritdog.com/chapitres/chapitre-1-comprendre-lagressivite/
 	- Ne pas fixer les "cibles"
 	- Ne pas changer la tension de la laisse à l'approche du danger
 		- Préférable de toujours mettre une faible tension pour éviter que le chien détecte les "dangers"
-		-
+	- Ne pas changer le rythme de marche
+		- Ne pas accélérer car il va monter en tension
+		- Ne pas ralentir car il va penser que c'est un danger
+		- Ne pas s'immobiliser et tenter de lui demander un assis/couché
+		- #+BEGIN_NOTE
+		  Simule une partie de chasse ...
+		  #+END_NOTE
+	- Ne pas faire de l'anticipation car on lui permet pas de faire les bons choix
+		- Quand il est en stess il entend plus rien mais capte toujours la démarche / posture
 - ## Les rencontres de face
 	- type:: Video
-	-
+	- Cas très courant
+-
