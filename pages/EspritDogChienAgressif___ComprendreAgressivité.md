@@ -404,3 +404,9 @@ link:: https://www.espritdog.com/chapitres/chapitre-1-comprendre-lagressivite/
 			- Odeur de la "cible" mais aussi du "maître"
 	- Ne pas se soucier des émotions des autres mais des siennes
 		- Peur des attitudes de son chien
+- # Traiter l'agréssivité par des médicaments
+	- type:: Video
+	- Souvent le vétérinaire est à la première place
+		- Sa solution est souvent médicinale
+	- Ne règle pas le problème mais l'inhibe / cache
+		- Altération du comportement
