@@ -353,5 +353,8 @@ link:: https://www.espritdog.com/chapitres/chapitre-1-comprendre-lagressivite/
 		- Quand il est en stess il entend plus rien mais capte toujours la démarche / posture
 - ## Les rencontres de face
 	- type:: Video
-	- Cas très courant
+	- Cas très courant mais compliqué pour le chien
+	- Avec les chiens
+		- Mise en position de combat
+		- Rendre lisible les interdits
 -
