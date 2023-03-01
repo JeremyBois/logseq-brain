@@ -313,14 +313,20 @@ link:: https://www.espritdog.com/chapitres/chapitre-1-comprendre-lagressivite/
 	- Faiblesses
 		- Association possible entre volonté d'attaquer et récompense
 		- Si réalisé avant même l'apparition du danger on récompense rien
-		- Ne règle pas le problème
+		- Ne règle pas le problème --> Arnaque qui se retourne contre vous
+			- Souvent la suite c'est ((63fe78a7-a9f5-47a3-96c8-f6906bc5f9c2))
 		- Compliqué à mettre en place
-	- #+BEGIN_IMPORTANT
-	  Récompenser les bonnes actions (ni va )
-	  #+END_IMPORTANT
-- ## Le contournement
-	- type:: Video
+	- Récompenser les bonnes actions
+		- Il ne veut pas aller attaquer / mordre
+		- #+BEGIN_CAUTION
+		  Ne pas sortir en amont la récompense pour ne pas biaiser le résultat
+		  #+END_CAUTION
 	-
+- ## Le contournement
+  id:: 63fe78a7-a9f5-47a3-96c8-f6906bc5f9c2
+	- type:: Video
+	- Faiblesses
+		-
 - ## Les attitudes interdites
 	- type:: Video
 	-
