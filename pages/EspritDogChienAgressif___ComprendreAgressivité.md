@@ -383,8 +383,16 @@ link:: https://www.espritdog.com/chapitres/chapitre-1-comprendre-lagressivite/
 			- Tisser des liens
 			- Se défouler
 			- Comprendre le Oui/Non
+			- ...
 	- Jeu de balle
 		- Le chien est capable de faire la différence entre un humain / chien et le jouet
-		- Il utilise certaines séquences de la prédation
-		-
+		- Attention à ne pas construire une addiction
+		- Permet par contre :
+			- Prend / Donne
+			- Le maître est un vecteur de plaisir
+			- Exploser musculairement
+			- Travail du rapport d'objets
+			- Renoncement à la fin du jeu
+			- ...
+	- Profiter du jeu pour apprendre
 		-
