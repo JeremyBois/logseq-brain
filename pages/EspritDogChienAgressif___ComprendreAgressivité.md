@@ -311,7 +311,7 @@ link:: https://www.espritdog.com/chapitres/chapitre-1-comprendre-lagressivite/
 - ## Le détournement d'attention
 	- id:: 63fe7838-370d-4d0a-a679-674af3eb2785
 	  type:: Video
-	- Faiblesses
+	- Faiblesses :
 		- Association possible entre volonté d'attaquer et récompense
 		- Si réalisé avant même l'apparition du danger on récompense rien
 		- Ne règle pas le problème --> Arnaque qui se retourne contre vous
@@ -326,7 +326,7 @@ link:: https://www.espritdog.com/chapitres/chapitre-1-comprendre-lagressivite/
 - ## Le contournement
   id:: 63fe78a7-a9f5-47a3-96c8-f6906bc5f9c2
 	- type:: Video
-	- Faiblesses
+	- Faiblesses :
 		- Indique que nous avons peur nous aussi
 			- Le chien capte nos émotions par notre odeur
 		- Peut entraîner de la prédation (prise à revers de la proie)
@@ -335,11 +335,14 @@ link:: https://www.espritdog.com/chapitres/chapitre-1-comprendre-lagressivite/
 		- L'obéissance n'est pas la priorité
 		- Il prend une bonne décision --> **Récompenser**
 	- Pour pouvoir le faire de manière optimale il faut donc utiliser ((63fe78a7-2f8b-4644-8c23-2e549c646081))
-		- Faire des ballades à deux permet aussi de
+		- Faire des ballades à deux permet aussi de rassurer le chien (un de chaque coté)
 		-
 - ## Les attitudes interdites
 	- type:: Video
-	-
+	- Ne pas fixer les "cibles"
+	- Ne pas changer la tension de la laisse à l'approche du danger
+		- Préférable de toujours mettre une faible tension pour éviter que le chien détecte les "dangers"
+		-
 - ## Les rencontres de face
 	- type:: Video
 	-
