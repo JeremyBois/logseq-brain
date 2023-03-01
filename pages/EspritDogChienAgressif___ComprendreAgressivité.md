@@ -326,6 +326,14 @@ link:: https://www.espritdog.com/chapitres/chapitre-1-comprendre-lagressivite/
   id:: 63fe78a7-a9f5-47a3-96c8-f6906bc5f9c2
 	- type:: Video
 	- Faiblesses
+		- Indique que nous avons peur nous aussi
+			- Le chien capte nos émotions par notre odeur
+		- Peut entraîner de la prédation (prise à revers de la proie)
+		- Renforce les anxiétés du chien
+	- #+BEGIN_IMPORTANT
+	  Contournement autorisé pour le chien si il veut se mettre en sécurité
+	  L'obéissance n'est pas la priorité
+	  #+END_IMPORTANT
 		-
 - ## Les attitudes interdites
 	- type:: Video
