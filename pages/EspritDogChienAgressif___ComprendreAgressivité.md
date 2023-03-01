@@ -357,4 +357,18 @@ link:: https://www.espritdog.com/chapitres/chapitre-1-comprendre-lagressivite/
 	- Avec les chiens
 		- Mise en position de combat
 		- Rendre lisible les interdits
--
+- # Le conditionnement
+	- type:: Video
+	- Contionnement opérant
+		- Réponse volontaire / contrôlée de l'organisme
+			- Se couche (ordre ou pas)
+			- Suite un ordre
+			- ...
+	- Conditionnement classique
+		- Réponse involontaire / non contrôlée de l'organisme
+			- Bave car il a faim
+			- La trique
+			- ...
+	- Agréssivité redirigé
+		- Perte de contrôle --> Conditionnement classique
+		- Il ne sait pas pourquoi mais a besoin d'évacuer la pression
