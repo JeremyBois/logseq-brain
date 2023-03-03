@@ -9,7 +9,7 @@ link:: https://mastering-openscad.eu/buch/introduction/
 - Apprentissage à travers 10 projets de plus en plus complexe
 - # Généralités
 	- https://mastering-openscad.eu/buch/gui-overview/
-	- ![overviewOpenscad.png](../assets/overviewOpenscad_1677872956181_0.png){:height 798, :width 600}
+	- ![overviewOpenscad.png](../assets/overviewOpenscad_1677872956181_0.png){:height 400, :width 607}
 		- 1 --> Zone de code
 		- 2 --> aperçu et rendu 3d
 			- **Preview** pour voir un aperçu rapide
@@ -33,8 +33,7 @@ link:: https://mastering-openscad.eu/buch/introduction/
 		- #+BEGIN_CAUTION
 		  L'ordre de déclaration n'a pas d'importance.
 		  #+END_CAUTION
-	- collapsed:: true
-	  ```closure
+	- ```closure
 	  adjustment = 0.7;
 	  adjustment_factor = 1.05;
 	  
@@ -45,4 +44,3 @@ link:: https://mastering-openscad.eu/buch/introduction/
 	  depth = adjust(25);
 	  ```
 		- Possible d'utiliser des **fonctions** pour éviter les répétitions
--
