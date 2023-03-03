@@ -3,8 +3,6 @@ tags:: #Logiciel #CAD #OpenSource #Parametrique
 link:: [Site](https://openscad.org/) / [Github](https://github.com/openscad/openscad/)
 [[Feb 18th, 2023]]
 
--
--
 - ## Description
 - Logiciel permettant de construire des modèle 3D à partir de scripts
 - Il est possible d'accélérer la génération de la 3D avec ``--enable=fast-csg``
@@ -14,7 +12,7 @@ link:: [Site](https://openscad.org/) / [Github](https://github.com/openscad/open
 - ## Courses
 	- [Design into 3D](https://willadams.gitbook.io/design-into-3d/)
 	- [ScriptCAD](https://scriptcad.com/paulftw/OpenSCAD.Tutorial)
-	- [[OpenScad/MasteringOpenScad]]
+	- [Mastering OpenSCAD](https://mastering-openscad.eu/buch/introduction/)
 	- [Edutech Wiki](https://edutechwiki.unige.ch/fr/Tutoriel_OpenSCAD)
 - ## Alternatives
 	- [[Freecad]]
