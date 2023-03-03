@@ -9,7 +9,7 @@ link:: https://mastering-openscad.eu/buch/introduction/
 - Apprentissage à travers 10 projets de plus en plus complexe
 - # Généralités
 	- https://mastering-openscad.eu/buch/gui-overview/
-	- ![overviewOpenscad.png](../assets/overviewOpenscad_1677872956181_0.png){:height 798, :width 1214}
+	- ![overviewOpenscad.png](../assets/overviewOpenscad_1677872956181_0.png){:height 798, :width 600}
 		- 1 --> Zone de code
 		- 2 --> aperçu et rendu 3d
 			- **Preview** pour voir un aperçu rapide
