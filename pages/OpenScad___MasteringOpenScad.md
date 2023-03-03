@@ -9,11 +9,12 @@ link:: https://mastering-openscad.eu/buch/introduction/
 - Apprentissage à travers 10 projets de plus en plus complexe
 - # Généralités
 	- https://mastering-openscad.eu/buch/gui-overview/
-	- ![UI](https://mastering-openscad.eu/gui-overview-images/overview.png)
+	- ![overviewOpenscad.png](../assets/overviewOpenscad_1677872956181_0.png){:height 798, :width 1214}
 		- 1 --> Zone de code
 		- 2 --> aperçu et rendu 3d
 			- **Preview** pour voir un aperçu rapide
 			- **Render** pour générer un rendu final exportable
+				-
 		- 3 --> Console affichant les erreurs et autre informations
 		- 4 --> (Avancé) Customisation / UI en lien avec certaines variables du code
 - # Options basiques
