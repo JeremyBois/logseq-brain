@@ -45,4 +45,7 @@ link:: https://mastering-openscad.eu/buch/introduction/
 	  ```
 		- Possible d'utiliser des **fonctions** pour éviter les répétitions
 	- Sytème de coordonnées
-		-
+		- X = Positif vers la droite
+		- Y = Positif vers l'avant
+		- Z = Positif vers le haut
+		- [[draws/2023-03-03-21-08-29.excalidraw]]
