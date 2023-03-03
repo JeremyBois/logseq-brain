@@ -22,39 +22,36 @@ link:: https://mastering-openscad.eu/buch/introduction/
 	- Le langage utilisé est **descriptif**
 		- Ce n'est **pas** un langage de [[Programmation]]
 		- Décrit la géométrie à partir de primitives et instructions simples
-	- `sphere(r=10);`
-		- Indique qu'il existe une primitive sphère avec un rayon de 10mm
-	- ```openscad
-	  radius_with_a_name = 10;
-	  sphere( r = radius_with_a_name );
-	  radius_with_a_name = 20;
-	  ```
-		- Indique qu'il existe une variable `radius_with_a_name` ayant pour valeur 20
-		- #+BEGIN_CAUTION
-		  L'ordre de déclaration n'a pas d'importance.
-		  #+END_CAUTION
-	- ```openscad
-	  adjustment = 0.7;
-	  adjustment_factor = 1.05;
-	  
-	  function adjust(x) = (x + adjustment) * adjustment_factor;
-	  
-	  main_radius = adjust(10);
-	  margin = adjust( 5);
-	  depth = adjust(25);
-	  ```
-		- Possible d'utiliser des **fonctions** pour éviter les répétitions
+	- L'ordre de déclaration des variables n'a pas d'importance
+		- ```openscad
+		  radius_with_a_name = 10;
+		  sphere( r = radius_with_a_name );
+		  radius_with_a_name = 20;
+		  ```
+			- Il existe une variable `radius_with_a_name` ayant pour valeur 20
+				- Seule la dernière valeur est conservée
+	- Possible d'utiliser des **fonctions** pour éviter les répétitions
+		- ```openscad
+		  adjustment = 0.7;
+		  adjustment_factor = 1.05;
+		  
+		  function adjust(x) = (x + adjustment) * adjustment_factor;
+		  
+		  main_radius = adjust(10);
+		  margin = adjust( 5);
+		  depth = adjust(25);
+		  ```
 	- ## Transformations
 	- Sytème de coordonnées
 		- X = Positif vers l'avant
 		- Y = Positif vers la droite
 		- Z = Positif vers le haut
 		- [[draws/2023-03-03-21-08-29.excalidraw]]
-	- ```openscad
-	  rotate( [0,0,45] ) translate( [20,0,0] ) cube(10,true);
-	  ```
-		- Les transformations se font par rapport à l'origine
-			- Possible de cumuler des opérations afin de former une nouvelle géométrie
-				- L'ordre des transformations est important
+	- Les transformations se font par rapport à l'origine
+		- ```openscad
+		  rotate( [0,0,45] ) translate( [20,0,0] ) cube(10,true);
+		  ```
+		- Possible de cumuler des opérations afin de former une nouvelle géométrie
+			- L'ordre des transformations est important
 	- ## Combining Geometries
 -
