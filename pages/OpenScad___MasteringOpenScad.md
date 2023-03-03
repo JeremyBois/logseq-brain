@@ -44,12 +44,17 @@ link:: https://mastering-openscad.eu/buch/introduction/
 	  depth = adjust(25);
 	  ```
 		- Possible d'utiliser des **fonctions** pour éviter les répétitions
+	- ## Transformations
 	- Sytème de coordonnées
 		- X = Positif vers l'avant
 		- Y = Positif vers la droite
 		- Z = Positif vers le haut
 		- [[draws/2023-03-03-21-08-29.excalidraw]]
-		- ```openscad
-		  rotate( [0,0,45] ) translate( [20,0,0] ) cube(10,true);
-		  ```
+	- ```openscad
+	  rotate( [0,0,45] ) translate( [20,0,0] ) cube(10,true);
+	  ```
+		- Les transformations se font par rapport à l'origine
+			- Possible de cumuler des opérations afin de former une nouvelle géométrie
+				- L'ordre des transformations est important
+	- ## Combining Geometries
 -
