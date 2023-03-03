@@ -24,7 +24,7 @@ link:: https://mastering-openscad.eu/buch/introduction/
 		- Décrit la géométrie à partir de primitives et instructions simples
 	- `sphere(r=10);`
 		- Indique qu'il existe une primitive sphère avec un rayon de 10mm
-	- ```closure
+	- ```openscad
 	  radius_with_a_name = 10;
 	  sphere( r = radius_with_a_name );
 	  radius_with_a_name = 20;
@@ -33,7 +33,7 @@ link:: https://mastering-openscad.eu/buch/introduction/
 		- #+BEGIN_CAUTION
 		  L'ordre de déclaration n'a pas d'importance.
 		  #+END_CAUTION
-	- ```closure
+	- ```openscad
 	  adjustment = 0.7;
 	  adjustment_factor = 1.05;
 	  
@@ -49,4 +49,7 @@ link:: https://mastering-openscad.eu/buch/introduction/
 		- Y = Positif vers la droite
 		- Z = Positif vers le haut
 		- [[draws/2023-03-03-21-08-29.excalidraw]]
-		-
+		- ```openscad
+		  rotate( [0,0,45] ) translate( [20,0,0] ) cube(10,true);
+		  ```
+-
