@@ -8,7 +8,7 @@ link:: https://mastering-openscad.eu/buch/introduction/
 - Disponible en version papier sur [Amazon](https://www.amazon.com/dp/3753458589)
 - Apprentissage à travers 10 projets de plus en plus complexe
 - # Généralités
-	- https://mastering-openscad.eu/buch/gui-overview/
+	- [Source](https://mastering-openscad.eu/buch/gui-overview/)
 	- ![overviewOpenscad.png](../assets/overviewOpenscad_1677872956181_0.png){:height 400, :width 607}
 		- 1 --> Zone de code
 		- 2 --> aperçu et rendu 3d
@@ -18,7 +18,7 @@ link:: https://mastering-openscad.eu/buch/introduction/
 		- 3 --> Console affichant les erreurs et autre informations
 		- 4 --> (Avancé) Customisation / UI en lien avec certaines variables du code
 - # Options basiques
-	- https://mastering-openscad.eu/buch/basic_ops_and_structure/
+	- [Source](https://mastering-openscad.eu/buch/basic_ops_and_structure/)
 	- Le langage utilisé est **descriptif**
 		- Ce n'est **pas** un langage de [[Programmation]]
 		- Décrit la géométrie à partir de primitives et instructions simples
@@ -44,3 +44,5 @@ link:: https://mastering-openscad.eu/buch/introduction/
 	  depth = adjust(25);
 	  ```
 		- Possible d'utiliser des **fonctions** pour éviter les répétitions
+	- Sytème de coordonnées
+		-
