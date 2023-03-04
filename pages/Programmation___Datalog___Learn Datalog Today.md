@@ -19,8 +19,13 @@ link:: https://www.learndatalogtoday.org/
 		  ```
 - # Requêtes basiques
 	- link:: https://www.learndatalogtoday.org/chapter/1
+	- Une  organisée autour de [[Datom]]
 	- Une requête est un vecteur
-		- ``èdn
-		- [:find ?e ?title
+		- ```edn
+		  [:find ?e ?title
 		   :where
 		   [?e :movie/title ?title]]
+		  ```
+		-
+		-
+		-
