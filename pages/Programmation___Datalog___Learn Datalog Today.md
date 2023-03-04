@@ -1,4 +1,4 @@
-tags:: #Formation #Query 
+tags:: #Formation #Query #Datomic 
 alias:: Datalog/Learn Datalog Today 
 link:: https://www.learndatalogtoday.org/
 [[Mar 4th, 2023]]
@@ -51,7 +51,7 @@ link:: https://www.learndatalogtoday.org/
 			-
 - # Data pattern
 	- link:: https://www.learndatalogtoday.org/chapter/2
-	- Une `where` clause peut contenir plusieurs *data patterns*
+	- Une `where` clause peut contenir plusieurs *data patterns* afin de construire des **jointures**
 		- ```edn
 		  [:find ?title
 		   :where
