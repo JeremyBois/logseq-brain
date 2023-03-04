@@ -25,13 +25,13 @@ link:: https://www.learndatalogtoday.org/
 		- Valeur
 		- Transaction ID
 	- Une requête est représenté comme un vecteur
-		- Commence par le mot clé  `find` et des *pattern variables* (`?)
-		-
+		- Commence par le mot clé `:find` suivie de *patterns* (`?e`, `?title`)
+		- Utilisation possible de la clause `where` pour restreindre les résultats et associée la recherche à un *pattern*
 		- ```edn
 		  [:find ?e ?title
 		   :where
 		   [?e :movie/title ?title]]
 		  ```
-		-
-		-
-		-
+		- Possible d'utiliser `_` comme un **joker** pour ignorer une partie
+			-
+			-
