@@ -14,5 +14,8 @@ link::
 	- link:: [Doc officielle](https://docs.logseq.com/#/page/advanced%20queries)
 	- Utilise [[Datalog]] pour écrire des requêtes
 		- Permet d'écrire des requêtes très complexe sur l'ensemble de la base de donnée
-	-
+	- Astuces
+		- `?b` and `?p` sont des *variables patterns* particulières pour respectivement les **blocs** et les **pages**
+		- Le nom des pages est en minuscule dans la base de donnée
+		-
 -

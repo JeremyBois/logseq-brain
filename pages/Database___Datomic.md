@@ -1,6 +1,6 @@
 alias:: Datomic
 tags:: Cloud, Query
-link:: https://www.datomic.com/
+link:: [Site](https://www.datomic.com/) [Documentation](https://docs.datomic.com/on-prem/)
 [[Mar 4th, 2023]]
 
 - # Description
