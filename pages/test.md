@@ -3,9 +3,23 @@
   creator:: [[Rich Hickey]]
   description:: Clojure is a dialect of Lisp, and shares with Lisp the code-as-data philosophy and a powerful macro system.
 - [[Erlang]]
-  type:: programming_lang
+  type:: programming
   creator:: [[Joe Armstrong]]
   description:: Erlang is a programming language used to build massively scalable soft real-time systems with requirements on high availability.
+	- query-table:: true
+	  #+BEGIN_QUERY
+	  {:title [:h2 "Programming languages list"]
+	   :query [:find (pull ?b [*])
+	           :where
+	           (property ?b :type "programming_lang")
+	           :where
+	           (property ?b :type "programming_lang")]}
+	  #+END_QUERY
+-
+-
+-
+-
+-
 - #+BEGIN_QUERY
   {:title [:h2 "Programming languages list"]
    :query [:find (pull ?b [*])
