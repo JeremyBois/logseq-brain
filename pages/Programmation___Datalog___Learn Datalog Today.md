@@ -19,8 +19,14 @@ link:: https://www.learndatalogtoday.org/
 		  ```
 - # Requêtes basiques
 	- link:: https://www.learndatalogtoday.org/chapter/1
-	- Une  organisée autour de [[Datom]]
-	- Une requête est un vecteur
+	- Une [[base de données]] organisée autour d'une structure à plat formée de [[Datom]]
+		- Entity ID
+		- Attribut
+		- Valeur
+		- Transaction ID
+	- Une requête est représenté comme un vecteur
+		- Commence par le mot clé  `find` et des *pattern variables* (`?)
+		-
 		- ```edn
 		  [:find ?e ?title
 		   :where

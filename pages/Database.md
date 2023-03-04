@@ -1,3 +1,3 @@
-alias:: BDD, Base de donnée
+alias:: BDD, Base de donnée, Base de données
 
 -
