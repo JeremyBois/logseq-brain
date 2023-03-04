@@ -6,4 +6,9 @@ link:: https://www.learndatalogtoday.org/
 - # Extensile data notation
 	- link:: https://www.learndatalogtoday.org/chapter/0
 	- Format utilisé pour écrire les requêtes
-		- Similaire à du [[Programmation/JSON]]
+		- Similaire à du [[JSON]] sur le format
+		- Extensible avec des types propres à l'utilisateur
+		- Plus de types de base
+		- Sous-ensemble de donnée
+		-
+		-
