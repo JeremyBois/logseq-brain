@@ -51,4 +51,15 @@ link:: https://www.learndatalogtoday.org/
 			-
 - # Data pattern
 	- link:: https://www.learndatalogtoday.org/chapter/2
-	- Il est possible d'avoir plusieurs *data pattern*
+	- Une `where` clause peut contenir plusieurs *data patterns*
+		- Une même *variable pattern* peut être utilisée sur chaque *pattern* afin de cumuler les contraintes
+		- L'ordre n'a pas d'importance (les clauses suivantes sont donc équivalentes)
+			- ```edn
+			  [?e :movie/year 1987]
+			   [?e :movie/title ?title]]
+			  ```
+			- ```edn
+			  [?e :movie/title ?title]
+			   [?e :movie/year 1987]]
+			  ```
+	-
