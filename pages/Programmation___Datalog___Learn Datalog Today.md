@@ -11,5 +11,16 @@ link:: https://www.learndatalogtoday.org/
 		- Extensible avec des types propres à l'utilisateur
 		- Plus de types de base
 		- Sous-ensemble des structures de données de [[Closure]]
-		-
-		-
+	- Exemple de requête
+		- ``` edn
+		  [:find ?title
+		   :where 
+		   [_ :movie/title ?title]]
+		  ```
+- # Requêtes basiques
+	- link:: https://www.learndatalogtoday.org/chapter/1
+	- Une requête est un vecteur
+		- ``èdn
+		- [:find ?e ?title
+		   :where
+		   [?e :movie/title ?title]]
