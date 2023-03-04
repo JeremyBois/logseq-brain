@@ -7,6 +7,7 @@
   creator:: [[Joe Armstrong]]
   description:: Erlang is a programming language used to build massively scalable soft real-time systems with requirements on high availability.
 	- query-table:: true
+	  id:: 6403582e-57a7-45f7-9f71-8ab29cfd28c4
 	  #+BEGIN_QUERY
 	  {:title [:h2 "Programming languages list"]
 	   :query [:find (pull ?b [*])
@@ -15,23 +16,12 @@
 	           (property ?b :type "programming_lang")
 	           (property ?b :type "programming"))]
 	  :view (fn [result]
-	           (when (seq result)
-	             (let [blocks (flatten result)]
-	               [:div.table-wrapper
-	                [:table.table-auto
-	                 [:thead
-	                  [:tr
-	                   [:th {:width "20%"} "Name"]
-	                   [:th {:width "20%"} "Creator"]
-	                   [:th {:width "60%"} "Description"]]]
-	                 [:tbody
-	                  (for [{:block/keys [title properties]} blocks]
-	                    [:tr
-	                     [:td (second (:url (second (first title))))]
-	                     [:td (get properties "creator")]
-	                     [:td (get properties "description")]])]]])))
-	   }
+	         [:div.flex.flex-col
+	          (for [page result]
+	            [:a {:href (str "#/page/" page)} (clojure.string/capitalize page)])])}
 	  #+END_QUERY
+	-
+	-
 	-
 	-
 	-
