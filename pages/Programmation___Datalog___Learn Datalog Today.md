@@ -5,4 +5,5 @@ link:: https://www.learndatalogtoday.org/
 
 - # Extensile data notation
 	- link:: https://www.learndatalogtoday.org/chapter/0
-	-
+	- Format utilisé pour écrire les requêtes
+		- Similaire à du [[Programmation/JSON]]
