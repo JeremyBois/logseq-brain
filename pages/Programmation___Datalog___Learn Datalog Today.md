@@ -50,3 +50,5 @@ link:: https://www.learndatalogtoday.org/
 			  ```
 			-
 - # Data pattern
+	- link:: https://www.learndatalogtoday.org/chapter/2
+	-
