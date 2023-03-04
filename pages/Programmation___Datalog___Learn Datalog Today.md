@@ -35,7 +35,7 @@ link:: https://www.learndatalogtoday.org/
 		  ...
 		  ```
 	- Une requête est représentée comme un vecteur :
-		- Commence par le mot clé `:find` suivie de *patterns* (`?e`, `?title`)
+		- Commence par le mot clé `:find` suivie de variables *patterns* (`?e`, `?title`)
 		- Utilisation possible de la clause `where` pour restreindre les résultats et associer la recherche à un *pattern*
 		- ```edn
 		  [:find ?e ?title
@@ -51,4 +51,4 @@ link:: https://www.learndatalogtoday.org/
 			-
 - # Data pattern
 	- link:: https://www.learndatalogtoday.org/chapter/2
-	-
+	- Il est possible d'avoir plusieurs *data pattern*
