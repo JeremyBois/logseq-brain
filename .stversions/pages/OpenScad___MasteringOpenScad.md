@@ -53,5 +53,5 @@ link:: https://mastering-openscad.eu/buch/introduction/
 		  ```
 		- Possible de cumuler des opérations afin de former une nouvelle géométrie
 			- L'ordre des transformations est important
-	- ## Combiner les géométries
+	- ## Combining Geometries
 -
