@@ -1,0 +1,5 @@
+- # Description
+	- Langage de programmation déclaratif
+	- Permet d'écrire des #requêtes dans #Logseq pour communiquer avec la BDD #Datascript
+- # Cours
+	- [learndatalogtoday](https://www.learndatalogtoday.org/)
