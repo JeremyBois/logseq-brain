@@ -63,7 +63,7 @@ link:: https://www.learndatalogtoday.org/
 			   [?e :movie/year 1987]]
 			  ```
 		- Il est possible d'utiliser une *variable pattern* dans une autre *data pattern* pour appliquer des filtres à un ensemble plus restreint de données
-			- Récupère le nom des personnes (stockées dans `?p`) puis restreint aux films dans lesquels elle participe (stockée dans `?m`) puis en filtre les résultats au film dont le titre est `"Lethal Weapon"`
+			- Récupère le nom des personnes (noms stockées dans `?name` et identifiant dans `?p`) pour les films dans lesquels elles participent (stockée dans `?m`) dont le titre est `"Lethal Weapon"` (stockée dans `?m`)
 			- ```edn
 			  [:find ?name
 			   :where
