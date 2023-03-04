@@ -1,3 +1,3 @@
-alias:: JSON, json
+alias:: JSON
 
 -
