@@ -24,14 +24,29 @@ link:: https://www.learndatalogtoday.org/
 		- Attribut
 		- Valeur
 		- Transaction ID
-	- Une requête est représenté comme un vecteur
+		- ```
+		  [<e-id>  <attribute>      <value>          <tx-id>]
+		  ...
+		  [ 167    :person/name     "James Cameron"    102  ]
+		  [ 234    :movie/title     "Die Hard"         102  ]
+		  [ 234    :movie/year      1987               102  ]
+		  [ 235    :movie/title     "Terminator"       102  ]
+		  [ 235    :movie/director  167                102  ]
+		  ...
+		  ```
+	- Une requête est représentée comme un vecteur :
 		- Commence par le mot clé `:find` suivie de *patterns* (`?e`, `?title`)
-		- Utilisation possible de la clause `where` pour restreindre les résultats et associée la recherche à un *pattern*
+		- Utilisation possible de la clause `where` pour restreindre les résultats et associer la recherche à un *pattern*
 		- ```edn
 		  [:find ?e ?title
 		   :where
 		   [?e :movie/title ?title]]
 		  ```
-		- Possible d'utiliser `_` comme un **joker** pour ignorer une partie
+		- Possible d'utiliser `_` comme un **joker** pour ignorer une partie non utile
+			- ```edn
+			  [:find ?e
+			   :where
+			   [?e :person/name "Ridley Scott" _]]
+			  ```
 			-
-			-
+- # Data pattern
