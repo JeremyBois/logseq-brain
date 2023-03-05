@@ -227,4 +227,6 @@ link:: https://mastering-openscad.eu/buch/introduction/
 				- ```openscad
 				  $fn=111;
 				  ```
-				-
+		- Projection 3D --> `projection()`
+			- Permet de projeter la géométrie sur le plan **XY**
+			-
