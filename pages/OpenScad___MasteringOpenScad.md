@@ -189,8 +189,12 @@ link:: https://mastering-openscad.eu/buch/introduction/
 			- Inclusion partielle de code --> `use <fichier.scad>;`
 				- ((64049d27-21da-4527-8ceb-4ddee4bd7232))
 			- Autres formats --> `import("fichier.whatever");`
-				- Les formats supportés sont :
-					-
-				-
-			-
-		-
+				- Formats 2D
+					- DXF
+					- SVG
+				- Format 3D
+					- STL
+					- OFF
+					- AMF
+					- 3MF
+-
