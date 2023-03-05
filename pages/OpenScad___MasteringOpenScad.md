@@ -200,6 +200,14 @@ link:: https://mastering-openscad.eu/buch/introduction/
 - # Project 1: Shelf Bracket
 	- link:: https://mastering-openscad.eu/buch/example_01/
 	- ![shelfBracket.png](../assets/shelfBracket_1678028859637_0.png)
-	-
+	- ((64049d27-21da-4527-8ceb-4ddee4bd7232))
+		- Possible d'avoir des fonctions dans des fonctions
+			- ```openscad
+			  module shelf_bracket( side_a, side_b, width, thickness, ) {
+			  	module xhole_plate(size, h_dm, h_num, margin) {
+			      }
+			  }
+			  ```
+		-
 	-
 	-
