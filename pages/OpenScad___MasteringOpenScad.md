@@ -58,7 +58,7 @@ link:: https://mastering-openscad.eu/buch/introduction/
 			- L'ordre des transformations est important
 	- ## Combiner les géométries
 	- Couleur des formes --> `color( "name" )`
-	- Opérations booléenes --> `difference` `union` `intersection` `...`
+	- Opérations booléenes --> `difference()` `union()` `intersection()` `...`
 		- #+BEGIN_CAUTION
 		  Il est parfois nécessaire de faire légèrement dépasser la forme lors d'une `difference` par exemple pour tenir compte des erreurs d'arrondies
 		  #+END_CAUTION
@@ -216,9 +216,9 @@ link:: https://mastering-openscad.eu/buch/introduction/
 			  }
 			  ```
 	- Variables spéciales --> `$var`
-		- `$fn` permet de contrôler le niveau de détail des **courbes**
+		- Contrôler le niveau de détail des **courbes** --> `$fn`
 			- **Augmenter** la valeur **augmente** la précision
-			- Une valeur supérieure à $$100$$ est rarement nécessaire
+				- Une valeur supérieure à $$100$$ est rarement nécessaire
 			- Utilisable pour une géométrie en particulier
 				- ```openscad
 				  cylinder(d, h, $fn=18);
@@ -228,6 +228,3 @@ link:: https://mastering-openscad.eu/buch/introduction/
 				  $fn=111;
 				  ```
 				-
-	-
-	-
-	-
