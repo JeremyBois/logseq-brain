@@ -31,7 +31,7 @@ link:: https://mastering-openscad.eu/buch/introduction/
 			- Il existe une variable `radius_with_a_name` ayant pour valeur 20
 				- Seule la dernière valeur est conservée
 	- Possible d'utiliser des **fonctions** pour éviter les répétitions
-		- ```openscad
+		- ```scad
 		  adjustment = 0.7;
 		  adjustment_factor = 1.05;
 		  
