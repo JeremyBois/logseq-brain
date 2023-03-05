@@ -232,11 +232,14 @@ link:: https://mastering-openscad.eu/buch/introduction/
 		- Permet aux fonction de se comporter comme des transformations
 		- ```openscad
 		  /* ... */
-		  module output() {
+		  module trans() {
 		  	projection(cut = true)
 		  	children(0);
 		  }
-		  function();
+		  
+		  // Tranformation applied to result of gen
+		  trans()
+		  gen();
 		  ```
 	- Projection 3D --> `projection()`
 		- Permet de projeter la géométrie sur le plan **XY**
@@ -268,4 +271,4 @@ link:: https://mastering-openscad.eu/buch/introduction/
 		    thickness = 4
 		  );
 		  ```
-		-
+	- TODO Astuces pour l'impression 3D
