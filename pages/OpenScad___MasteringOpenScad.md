@@ -216,10 +216,18 @@ link:: https://mastering-openscad.eu/buch/introduction/
 			  }
 			  ```
 	- Variables spéciales --> `$var`
-		- `$fn$ p
-		- ```openscad
-		  cylinder(d, h, $fn=18);
-		  ```
+		- `$fn` permet de contrôler le niveau de détail des **courbes**
+			- **Augmenter** la valeur **augmente** la précision
+			- Une valeur supérieure à $$100$$ est rarement nécessaire
+			- Utilisable pour une géométrie en particulier
+				- ```openscad
+				  cylinder(d, h, $fn=18);
+				  ```
+			- Utilisable globalement
+				- ```openscad
+				  $fn=111;
+				  ```
+				-
 	-
 	-
 	-
