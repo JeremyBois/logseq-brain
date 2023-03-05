@@ -416,7 +416,7 @@ link:: https://www.espritdog.com/chapitres/chapitre-1-comprendre-lagressivite/
 	- Certaines situations ne sont pas contrôlable / prévisible
 		- Le chien doit apprendre à les gérer du mieux possible
 	- La plupart du temps il faut choisir la solution qui est la moins anxiogène pour le chien même si ce n'est pas forcément dans l'absolue la bonne solution
-	- Exemple:
+	- Exemples :
 		- Inconnu qui caresse
 			- 😄 Sourir et laisser le chien se faire caresser
 				- Le chien va voir les humains positivement
@@ -434,4 +434,15 @@ link:: https://www.espritdog.com/chapitres/chapitre-1-comprendre-lagressivite/
 						- Risque de générer un comportement agréssif
 	- # Les sports rendent-ils agressifs ?
 		- type:: Video
-		  link
+		  link:: https://www.espritdog.com/lecons/les-sports-rendent-ils-agressifs/
+		- C'est la qualité de la pratique qui est le plus important
+			- Prendre du plaisir (chien et maître)
+			- Éviter les centres trop strictes / compétitifs
+		- Durant sa période chiot (<= 1 an) il est préférable de limiter les sports
+			- Priorité à la découverte du monde des humains
+				- Le chien doit être stable à l'âge adulte
+				- Offrir de nombreuses expériences et variétés dans sa vie
+	- # La zone de confort
+		- type:: Video
+		  link:: https://www.espritdog.com/lecons/la-zone-de-confort-2/
+		-
