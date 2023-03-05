@@ -55,5 +55,30 @@ link:: https://mastering-openscad.eu/buch/introduction/
 			- L'ordre des transformations est important
 	- ## Combiner les géométries
 	- Il est possible de combiner des formes géométriques en utilisant des opérations booléenes
-	- d
+		- #+BEGIN_CAUTION
+		  Il est parfois nécessaire de faire légèrement dépasser la forme lors d'une soustraction par exemple pour tenir compte des erreurs d'arrondies
+		  #+END_CAUTION
+			- ```openscad
+			  // dimensions in mm [width, depth, height]
+			  plate = [100,50,5];
+			  
+			  hole_dm     = 6;
+			  hole_margin = 4;
+			  
+			  difference() {
+			  	// Reference geometry
+			  	cube( plate );
+			      
+			      // Others are substract to the first geometry
+			  	translate
+			  	([
+			  		hole_margin + hole_dm / 2,
+			  		hole_margin + hole_dm / 2,
+			  		-1
+			  	])
+			  	color( "red" )
+			  	cylinder( d = hole_dm, h = plate.z + 2);
+			  
+			  }
+			  ```
 	- ddfd
