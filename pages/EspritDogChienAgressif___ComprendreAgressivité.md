@@ -415,6 +415,7 @@ link:: https://www.espritdog.com/chapitres/chapitre-1-comprendre-lagressivite/
 	  link:: https://www.espritdog.com/lecons/les-pieges-de-lenvironnement/
 	- Certaines situations ne sont pas contrôlable / prévisible
 		- Le chien doit apprendre à les gérer du mieux possible
+	- La plupart du temps il faut choisir la solution qui est la moins anxiogène pour le chien même si ce n'est pas forcément dans l'absolue la bonne solution
 	- Exemple:
 		- Inconnu qui caresse
 			- 😄 Sourir et laisser le chien se faire caresser
@@ -424,4 +425,13 @@ link:: https://www.espritdog.com/chapitres/chapitre-1-comprendre-lagressivite/
 				- L'énervement peut être mal interprété par le chien
 					- Risque de générer un comportement agréssif envers l'humain
 		- Autre maître qui récompense son chien
-			-
+			- 😄 Laisser le chien prendre sa récompense
+				- Évite de générer de la frustration / jalousie
+					- Apprendre le **Prend** pour que son chien demande avant prendre la nourriture d'un inconnu
+			- 😡 Rapeller son chien pour ne pas qu'il reçoive la récompense
+				- Énervement pouvant être mal interprété
+					- Autre chien récompensé et pas lui
+						- Risque de générer un comportement agréssif
+	- # Les sports rendent-ils agressifs ?
+		- type:: Video
+		  link
