@@ -57,10 +57,9 @@ link:: https://mastering-openscad.eu/buch/introduction/
 		- Possible de cumuler des opérations afin de former une nouvelle géométrie
 			- L'ordre des transformations est important
 	- ## Combiner les géométries
-	- Combiner des formes géométriques --> opérations booléenes
-		- Exemple : `difference`
+	- Opérations booléenes --> `difference` `union` `intersection` `...`
 		- #+BEGIN_CAUTION
-		  Il est parfois nécessaire de faire légèrement dépasser la forme lors d'une soustraction par exemple pour tenir compte des erreurs d'arrondies
+		  Il est parfois nécessaire de faire légèrement dépasser la forme lors d'une `difference` par exemple pour tenir compte des erreurs d'arrondies
 		  #+END_CAUTION
 			- ```openscad
 			  // Dimensions in mm [width, depth, height]
