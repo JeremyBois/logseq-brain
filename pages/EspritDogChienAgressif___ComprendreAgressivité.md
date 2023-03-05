@@ -411,4 +411,17 @@ link:: https://www.espritdog.com/chapitres/chapitre-1-comprendre-lagressivite/
 	- Ne règle pas le problème mais l'inhibe / cache
 		- Altération du comportement
 - # Les pièges de l'environnement
-	-
+	- type:: Video
+	  link:: https://www.espritdog.com/lecons/les-pieges-de-lenvironnement/
+	- Certaines situations ne sont pas contrôlable / prévisible
+		- Le chien doit apprendre à les gérer du mieux possible
+	- Exemple:
+		- Inconnu qui caresse
+			- 😄 Sourir et laisser le chien se faire caresser
+				- Le chien va voir les humains positivement
+					- Risque de nécessiter de l'éducation pour canaliser la joie de vivre
+			- 😡 S'énerver et indiquer à l'autre personne que ce n'est pas normal de faire ça
+				- L'énervement peut être mal interprété par le chien
+					- Risque de générer un comportement agréssif envers l'humain
+		- Autre maître qui récompense son chien
+			-
