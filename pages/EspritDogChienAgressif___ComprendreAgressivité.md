@@ -175,120 +175,120 @@ link:: https://www.espritdog.com/chapitres/chapitre-1-comprendre-lagressivite/
   id:: 63fbc214-c566-4cff-9fa9-2bc9f87985ee
 	- type:: Video
 	  link:: https://www.espritdog.com/lecons/les-accessoires-3/
-- ## Les accesoires interdits
-	- Les colliers à piques
-		- Utiles uniquement pour la protection des chiens contre l'extérieur (Loup, Ours, ...)
-	- Les colliers étrangleurs
-		- Si bien utilisé alors donne une sensation de ne rien porter à un chien
-		- Compliqué à utiliser correctement
-			- Apprendre au chien que le bruit est le dernier rappel avant la sanction
-			- Bien relâcher la tension pour ne pas le pendre en permanence
-			- --> Peut entretenir un climat de peur et une relation anxiogène
-	- Les colliers électriques
-		- Permet de rattraper un mauvais rappel
-			- Le chien revient très bien en laisse / longe mais ignore une fois sans lien avec le maître
-			- En utilisant l'ordre de rappel (en amont) puis la décharge (si il revient pas) alors on peut conditionner le chien
-	- Le pet corrector
-	  id:: 63fbc47e-18d4-4b1f-8127-5ada576ea7f4
-		- Permet d'indiquer au chien le mauvais comportement
-		- #+BEGIN_CAUTION
-		  Les outils de punitions divines sont à double tranchant
-		  #+END_CAUTION
-		- Risques
-			- Peut le rendre encore plus anxieux / agréssif
-			- Le chien peut s'adapter
-			- Le chien peut analyser les cas où l'outil est utilisé
-	- Cliqueur
-		- Un outil en plus et on a pas 100 mains
-		- Important de se concentrer sur le chien
-			- Réaction au bon moment très important
-	- Canette
-		- Voir ((63fbc47e-18d4-4b1f-8127-5ada576ea7f4))
-- ## Les accessoires autorisés
-	- Collier / Laisse
-		- Voir ((63fd0555-97a2-4e98-ac2f-6430a5b0f9ed))
-	- Musolière
-	- Harnais
-		- Peut permettre de l'aider à comprendre quand il peut jouer et non
-			- laisse + collier = obéissance
-			- longe + harnais = jeu
-		- Permet de repartir sur de bonnes bases
-			- Si il l'utilise déjà      --> casser le conditionnement de laisse + collier = danger
-			- Si il ne connait pas --> repartir de zéro
-	- Longe
-		- Contrôle à distance + liberté
-		- Faire des noeuds tous les 1/2 mètres pour faciliter l'arrêt
-		- Peut permettre de donner de la liberté à un chien qui est agréssif si trop près de son maître
-- ## Le rôle de la laisse
-  id:: 63fd0555-97a2-4e98-ac2f-6430a5b0f9ed
-	- Permet de faciliter la vie du chien dans le monde des humains
-		- Ne pas l'utiliser dès l'arrivée du chiot
-		- Le laisser découvrir le monde
-			- La longe permet de lui laisser faire des choix dont celui de faire confiance au maître
-			- La laisse le force même si il a peur
-	- Impact négatif potentiel
-		- Le chien peut faire de la protection de ressources sur son maître
-		- Lui donner trop de confiance en le faisant croire que le maître va aller au combat aussi
-		- Contraint le chien
-			- Ne lui permet pas de s'écarter lorsque il voit un danger
-			- Ne permet pas au chien de facilement de renifler
-			- Impose une certaine direction
-			- À coup / mouvement saccadé pouvant donner la mauvaise information voir une mauvaise association
-	- #+BEGIN_NOTE
-	  La laisse est un bon outil mais ne doit pas être introduit trop rapidement sous peine de stresser / traumatiser le chien
-	  #+END_NOTE
+	- ## Les accesoires interdits
+		- Les colliers à piques
+			- Utiles uniquement pour la protection des chiens contre l'extérieur (Loup, Ours, ...)
+		- Les colliers étrangleurs
+			- Si bien utilisé alors donne une sensation de ne rien porter à un chien
+			- Compliqué à utiliser correctement
+				- Apprendre au chien que le bruit est le dernier rappel avant la sanction
+				- Bien relâcher la tension pour ne pas le pendre en permanence
+				- --> Peut entretenir un climat de peur et une relation anxiogène
+		- Les colliers électriques
+			- Permet de rattraper un mauvais rappel
+				- Le chien revient très bien en laisse / longe mais ignore une fois sans lien avec le maître
+				- En utilisant l'ordre de rappel (en amont) puis la décharge (si il revient pas) alors on peut conditionner le chien
+		- Le pet corrector
+		  id:: 63fbc47e-18d4-4b1f-8127-5ada576ea7f4
+			- Permet d'indiquer au chien le mauvais comportement
+			- #+BEGIN_CAUTION
+			  Les outils de punitions divines sont à double tranchant
+			  #+END_CAUTION
+			- Risques
+				- Peut le rendre encore plus anxieux / agréssif
+				- Le chien peut s'adapter
+				- Le chien peut analyser les cas où l'outil est utilisé
+		- Cliqueur
+			- Un outil en plus et on a pas 100 mains
+			- Important de se concentrer sur le chien
+				- Réaction au bon moment très important
+		- Canette
+			- Voir ((63fbc47e-18d4-4b1f-8127-5ada576ea7f4))
+		- ## Les accessoires autorisés
+			- Collier / Laisse
+				- Voir ((63fd0555-97a2-4e98-ac2f-6430a5b0f9ed))
+			- Musolière
+			- Harnais
+				- Peut permettre de l'aider à comprendre quand il peut jouer et non
+					- laisse + collier = obéissance
+					- longe + harnais = jeu
+				- Permet de repartir sur de bonnes bases
+					- Si il l'utilise déjà      --> casser le conditionnement de laisse + collier = danger
+					- Si il ne connait pas --> repartir de zéro
+			- Longe
+				- Contrôle à distance + liberté
+				- Faire des noeuds tous les 1/2 mètres pour faciliter l'arrêt
+				- Peut permettre de donner de la liberté à un chien qui est agréssif si trop près de son maître
+			- ## Le rôle de la laisse
+			  id:: 63fd0555-97a2-4e98-ac2f-6430a5b0f9ed
+				- Permet de faciliter la vie du chien dans le monde des humains
+					- Ne pas l'utiliser dès l'arrivée du chiot
+					- Le laisser découvrir le monde
+						- La longe permet de lui laisser faire des choix dont celui de faire confiance au maître
+						- La laisse le force même si il a peur
+				- Impact négatif potentiel
+					- Le chien peut faire de la protection de ressources sur son maître
+					- Lui donner trop de confiance en le faisant croire que le maître va aller au combat aussi
+					- Contraint le chien
+						- Ne lui permet pas de s'écarter lorsque il voit un danger
+						- Ne permet pas au chien de facilement de renifler
+						- Impose une certaine direction
+						- À coup / mouvement saccadé pouvant donner la mauvaise information voir une mauvaise association
+				- #+BEGIN_NOTE
+				  La laisse est un bon outil mais ne doit pas être introduit trop rapidement sous peine de stresser / traumatiser le chien
+				  #+END_NOTE
 - # La musolière
   id:: 63fe78a7-2f8b-4644-8c23-2e549c646081
 	- type:: Video
 	  link:: https://www.espritdog.com/lecons/la-museliere-3/
-- ## Tout comprendre sur la musolière
-  id:: 63fd08b4-89e9-48ae-9937-8299608d48d3
-	- ~15 jours pour lui apprendre
-		- Valoriser au maximum
-		- Nécessaire pour pouvoir travailler correctement
-			- Le maître est plus à l'aise
-			- Le chien peut moins fauter
-		- Ne pas conditionner le chien / Mauvaise association d'idées
-			- Mettre quand c'est bien
-			- Mettre quand ce n'est pas bien
-		- Nécessaire même si on a pas un chien agréssif
-			- Simplifier la vie chez le vétérinaire
-			- Simplifier la vie dans le train
-		- Certaines musolières ont un système de sécurité pour un second collier
-	- Baskerville / Panier
-		- 😡 Version normal = plastique mou
-		- 😄 Version ultra = plastique rigide
-		- 😄 Permet de récompenser
-		- 😡 Ne protège pas si on met les doigts
-	- Cuir
-		- 😄 Protège même si on met les doigts
-		- 😄 Comfortable
-		- 😡 Ne permet pas de récompenser
-	- En nylon
-		- 😡 Il ne peut pas ouvrir la gueule
-		- 😡 Il peut toujours pincer
-		- Préférable de prendre la version avec un scratch
-	- Spécial bouldog
-		- 😡 Ne protège pas les doigts
-		- 😄 Adapté à leur morphologie
-	- Féraille
-		- 😄 Protège complètement
-		- 😡 Pas agréable à porter
-		- 😡 Ne permet pas de récompenser
-- ## Comment la mettre et l'apprendre
-  id:: 63fd08de-a163-4662-bbf0-36a8912acf4e
-	- Travailler progressivement
-		- Récompense au fond
-		- Récompense à travers la musolière
-		- Récompense une fois attaché
-		- Récompense après un certain temps
-		- Récompenser après de l'obeissance
-	- Le mettre en mouvement et varier les activités
-	- Imbiber la musolière avec du poulet ou autre odeur
-	- Ne pas brusquer l'apprentissage
-	- #+BEGIN_CAUTION
-	  Ne pas récompenser après avoir enlever la musolière pour ne pas encourager le fait de l'enlever
-	  #+END_CAUTION
+	- ## Tout comprendre sur la musolière
+	  id:: 63fd08b4-89e9-48ae-9937-8299608d48d3
+		- ~15 jours pour lui apprendre
+			- Valoriser au maximum
+			- Nécessaire pour pouvoir travailler correctement
+				- Le maître est plus à l'aise
+				- Le chien peut moins fauter
+			- Ne pas conditionner le chien / Mauvaise association d'idées
+				- Mettre quand c'est bien
+				- Mettre quand ce n'est pas bien
+			- Nécessaire même si on a pas un chien agréssif
+				- Simplifier la vie chez le vétérinaire
+				- Simplifier la vie dans le train
+			- Certaines musolières ont un système de sécurité pour un second collier
+		- Baskerville / Panier
+			- 😡 Version normal = plastique mou
+			- 😄 Version ultra = plastique rigide
+			- 😄 Permet de récompenser
+			- 😡 Ne protège pas si on met les doigts
+		- Cuir
+			- 😄 Protège même si on met les doigts
+			- 😄 Comfortable
+			- 😡 Ne permet pas de récompenser
+		- En nylon
+			- 😡 Il ne peut pas ouvrir la gueule
+			- 😡 Il peut toujours pincer
+			- Préférable de prendre la version avec un scratch
+		- Spécial bouldog
+			- 😡 Ne protège pas les doigts
+			- 😄 Adapté à leur morphologie
+		- Féraille
+			- 😄 Protège complètement
+			- 😡 Pas agréable à porter
+			- 😡 Ne permet pas de récompenser
+	- ## Comment la mettre et l'apprendre
+	  id:: 63fd08de-a163-4662-bbf0-36a8912acf4e
+		- Travailler progressivement
+			- Récompense au fond
+			- Récompense à travers la musolière
+			- Récompense une fois attaché
+			- Récompense après un certain temps
+			- Récompenser après de l'obeissance
+		- Le mettre en mouvement et varier les activités
+		- Imbiber la musolière avec du poulet ou autre odeur
+		- Ne pas brusquer l'apprentissage
+		- #+BEGIN_CAUTION
+		  Ne pas récompenser après avoir enlever la musolière pour ne pas encourager le fait de l'enlever
+		  #+END_CAUTION
 -
 - # Le danger des règles trop strictes
 	- type:: Video
@@ -315,53 +315,52 @@ link:: https://www.espritdog.com/chapitres/chapitre-1-comprendre-lagressivite/
 - # Les mauvaises pratiques
 	- type:: Video
 	  link:: https://www.espritdog.com/lecons/les-mauvaises-pratiques/
-- ## Le détournement d'attention
-	- Faiblesses :
-		- Association possible entre volonté d'attaquer et récompense
-		- Si réalisé avant même l'apparition du danger on récompense rien
-		- Ne règle pas le problème --> Arnaque qui se retourne contre vous
-			- Souvent la suite c'est ((63fe78a7-a9f5-47a3-96c8-f6906bc5f9c2))
-		- Compliqué à mettre en place
-	- Récompenser les bonnes actions
-		- Il ne veut pas aller attaquer / mordre
-		- #+BEGIN_CAUTION
-		  Ne pas sortir en amont la récompense pour ne pas biaiser le résultat
-		  #+END_CAUTION
-	-
-- ## Le contournement
-  id:: 63fe78a7-a9f5-47a3-96c8-f6906bc5f9c2
-	- Faiblesses :
-		- Indique que nous avons peur nous aussi
-			- Le chien capte nos émotions par notre odeur
-		- Peut entraîner de la prédation (prise à revers de la proie)
-		- Renforce les anxiétés du chien
-	- Contournement autorisé pour le chien si il veut se mettre en sécurité
-		- L'obéissance n'est pas la priorité
-		- Il prend une bonne décision --> **Récompenser**
-	- Pour pouvoir le faire de manière optimale il faut donc utiliser ((63fe78a7-2f8b-4644-8c23-2e549c646081))
-		- Faire des ballades à deux permet aussi de rassurer le chien (un de chaque coté)
-		-
-- ## Les attitudes interdites
-	- Ne pas fixer les "cibles"
-	- Ne pas changer la tension de la laisse à l'approche du danger
-		- Préférable de toujours mettre une faible tension pour éviter que le chien détecte les "dangers"
-	- Ne pas changer le rythme de marche
-		- Ne pas accélérer car il va monter en tension
-		- Ne pas ralentir car il va penser que c'est un danger
-		- Ne pas s'immobiliser et tenter de lui demander un assis/couché
-		- #+BEGIN_NOTE
-		  Simule une partie de chasse ...
-		  #+END_NOTE
-	- Ne pas faire de l'anticipation car on lui permet pas de faire les bons choix
-		- Quand il est en stess il entend plus rien mais capte toujours la démarche / posture
-- ## Les rencontres de face
-	- Cas très courant mais compliqué pour le chien
-		- Rendre lisible les interdits
-	- Avec les chiens
-		- Mise en position de combat
-		- Ajout de tension
-	- Avec les humains
-		- Force le contact
+	- ## Le détournement d'attention
+		- Faiblesses :
+			- Association possible entre volonté d'attaquer et récompense
+			- Si réalisé avant même l'apparition du danger on récompense rien
+			- Ne règle pas le problème --> Arnaque qui se retourne contre vous
+				- Souvent la suite c'est ((63fe78a7-a9f5-47a3-96c8-f6906bc5f9c2))
+			- Compliqué à mettre en place
+		- Récompenser les bonnes actions
+			- Il ne veut pas aller attaquer / mordre
+			- #+BEGIN_CAUTION
+			  Ne pas sortir en amont la récompense pour ne pas biaiser le résultat
+			  #+END_CAUTION
+	- ## Le contournement
+	  id:: 63fe78a7-a9f5-47a3-96c8-f6906bc5f9c2
+		- Faiblesses :
+			- Indique que nous avons peur nous aussi
+				- Le chien capte nos émotions par notre odeur
+			- Peut entraîner de la prédation (prise à revers de la proie)
+			- Renforce les anxiétés du chien
+		- Contournement autorisé pour le chien si il veut se mettre en sécurité
+			- L'obéissance n'est pas la priorité
+			- Il prend une bonne décision --> **Récompenser**
+		- Pour pouvoir le faire de manière optimale il faut donc utiliser ((63fe78a7-2f8b-4644-8c23-2e549c646081))
+			- Faire des ballades à deux permet aussi de rassurer le chien (un de chaque coté)
+			-
+	- ## Les attitudes interdites
+		- Ne pas fixer les "cibles"
+		- Ne pas changer la tension de la laisse à l'approche du danger
+			- Préférable de toujours mettre une faible tension pour éviter que le chien détecte les "dangers"
+		- Ne pas changer le rythme de marche
+			- Ne pas accélérer car il va monter en tension
+			- Ne pas ralentir car il va penser que c'est un danger
+			- Ne pas s'immobiliser et tenter de lui demander un assis/couché
+			- #+BEGIN_NOTE
+			  Simule une partie de chasse ...
+			  #+END_NOTE
+		- Ne pas faire de l'anticipation car on lui permet pas de faire les bons choix
+			- Quand il est en stess il entend plus rien mais capte toujours la démarche / posture
+	- ## Les rencontres de face
+		- Cas très courant mais compliqué pour le chien
+			- Rendre lisible les interdits
+		- Avec les chiens
+			- Mise en position de combat
+			- Ajout de tension
+		- Avec les humains
+			- Force le contact
 - # Les conditionnements
 	- type:: Video
 	  link:: https://www.espritdog.com/lecons/les-conditionnements/
