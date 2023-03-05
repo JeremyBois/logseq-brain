@@ -124,7 +124,30 @@ link:: https://mastering-openscad.eu/buch/introduction/
 		- Possible de visualiser les différentes valeurs de manière plus lisible
 		- Les commentaires sont utilisés comme légende dans l'interface
 	- Fonctions --> `module`
-		- Permet d'éviter la répétition en écrivant un code générique réutilisable
+		- Permet d'éviter la répétition en écrivant un code **générique réutilisable**
+		- Le type des paramètres est automatiquement / dynamiquement déterminé
+		-
 		- ```openscad
+		  module hole_plate( size, hole_dm, hole_margin, hole_count = [2,2] ) {
+		  	difference() {
+		  		cube( size );
+		  
+		  		abs_margin  = hole_margin + hole_dm/2;
+		  		x_hole_dist = (size.x - 2*abs_margin) / (hole_count.x - 1);
+		  		y_hole_dist = (size.y - 2*abs_margin) / (hole_count.y - 1);
+		  		x_values    = [abs_margin : x_hole_dist : size.x - abs_margin + 0.1];
+		  		y_values    = [abs_margin : y_hole_dist : size.y - abs_margin + 0.1];
+		  
+		  		for (x = x_values, y = y_values)
+		  	    translate( [x, y, -1] )
+		  	    color( "red" )
+		  	    cylinder( d = hole_dm, h = size.z + 2);
+		  	}
+		  }
+		  
+		  // Use module to create two plates
+		  hole_plate([100,50,5], 6, 4);
+		  translate([0,60,0])
+		  hole_plate(size = [50,50,5], hole_dm = 3, hole_margin = 2, hole_count=[5, 5]);
 		  ```
 	-
