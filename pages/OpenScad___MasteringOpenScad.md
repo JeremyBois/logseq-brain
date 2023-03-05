@@ -11,12 +11,14 @@ link:: https://mastering-openscad.eu/buch/introduction/
 	- link:: https://mastering-openscad.eu/buch/gui-overview/
 	- ![overviewOpenscad.png](../assets/overviewOpenscad_1677872956181_0.png){:height 400, :width 607}
 		- 1 --> Zone de code
-		- 2 --> aperçu et rendu 3d
+		- 2 --> Aperçu et rendu 3d
 			- **Preview** pour voir un aperçu rapide
 			- **Render** pour générer un rendu final exportable
-				-
-		- 3 --> Console affichant les erreurs et autre informations
-		- 4 --> (Avancé) Customisation / UI en lien avec certaines variables du code
+		- 3 --> Console a
+			- Affichage des erreurs et autre informations
+		- 4 --> Customiseur
+		  id:: 6403cc3b-218b-47f7-b134-6c176204c6f3
+			- (Avancé) Customisation / UI en lien avec certaines variables du code
 - # Options basiques
 	- link:: https://mastering-openscad.eu/buch/basic_ops_and_structure/
 	- Le langage utilisé est **descriptif**
@@ -90,6 +92,7 @@ link:: https://mastering-openscad.eu/buch/introduction/
 		  #cylinder( d = hole_dm, h = plate.z + 1);
 		  ```
 	- On peut utiliser des boucles pour construire plusieurs géométries tout en évitant les répétitions
+		- Possible de parcourir des tableaux / vecteurs ou bien des *range loop*
 		- ```openscad
 		  // Dimensions in mm [width, depth, height]
 		  plate = [100,50,5];
@@ -102,7 +105,7 @@ link:: https://mastering-openscad.eu/buch/introduction/
 		  
 		  	// Holes
 		      abs_margin = hole_margin + hole_dm / 2;
-		      // Use range loop to store x positions
+		      // Use range loop to generate x positions
 		  	x_hole_dist = plate.x - 2 * abs_margin;
 		  	x_values    = [abs_margin : x_hole_dist : plate.x - abs_margin];
 		      // Use a simple array to store y positions
@@ -115,4 +118,5 @@ link:: https://mastering-openscad.eu/buch/introduction/
 		      cylinder( d = hole_dm, h = plate.z + 2);
 		  }
 		  ```
+	- Le ((6403cc3b-218b-47f7-b134-6c176204c6f3)) récupère les différentes variables globales permettant de les modifier directement depuis l'interface
 	-
