@@ -79,7 +79,7 @@ link:: https://www.espritdog.com/chapitres/chapitre-1-comprendre-lagressivite/
 		- Identifier la source de la réactivité
 		- Solutions :
 			- Renforcer la gestion des émotions par des exercices
-				- Il aura une soupage de sécurité et une meilleure résilience
+				- Il aura une soupape de sécurité et une meilleure résilience
 			- Redirigé vers un objet qui entraîne une douleur quand il mort
 				- Il va par conditionnement s'apaiser car il est sait que c'était pas agréable
 			- Montrer plus de chiens pour qu'il se contrôle mieux
