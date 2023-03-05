@@ -202,11 +202,17 @@ link:: https://mastering-openscad.eu/buch/introduction/
 	- link:: https://mastering-openscad.eu/buch/example_01/
 	- ![shelfBracket.png](../assets/shelfBracket_1678028859637_0.png)
 	- ((64049d27-21da-4527-8ceb-4ddee4bd7232))
-		- Possible d'avoir des fonctions dans des fonctions
+		- Possible d'avoir des fonctions imbriquées dans des fonctions
 			- ```openscad
-			  module shelf_bracket( side_a, side_b, width, thickness, ) {
-			  	module xhole_plate(size, h_dm, h_num, margin) {
-			      }
+			  module shelf_bracket(side_a, side_b, width, thickness) {
+			    module xhole_plate(size, h_dm, h_num, margin) {
+			      difference() { cube(size); }
+			    }
+			  
+			    // Side A
+			    xhole_plate([ side_a[0], width, thickness ], side_a[1], side_a[2], thickness);
+			    // Side B
+			    xhole_plate([ side_b[0], width, thickness ], side_b[1], side_b[2], thickness);
 			  }
 			  ```
 		-
