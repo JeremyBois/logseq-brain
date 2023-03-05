@@ -200,4 +200,7 @@ link:: https://mastering-openscad.eu/buch/introduction/
 				- 3MF
 - # Project 1: Shelf Bracket
 	- link:: https://mastering-openscad.eu/buch/example_01/
+	- ![shelfBracket.png](../assets/shelfBracket_1678028859637_0.png)
+	-
+	-
 	-
