@@ -5,8 +5,8 @@ link:: https://mastering-openscad.eu/buch/introduction/
 [[Mar 3rd, 2023]]
 
 - # Introduction
-- Disponible en version papier sur [Amazon](https://www.amazon.com/dp/3753458589)
-- Apprentissage à travers 10 projets de plus en plus complexe
+	- Disponible en version papier sur [Amazon](https://www.amazon.com/dp/3753458589)
+	- Apprentissage à travers 10 projets de plus en plus complexe
 - # Généralités
 	- link:: https://mastering-openscad.eu/buch/gui-overview/
 	- ![overviewOpenscad.png](../assets/overviewOpenscad_1677872956181_0.png){:height 400, :width 607}
@@ -177,26 +177,27 @@ link:: https://mastering-openscad.eu/buch/introduction/
 					  	x_hole_dist = (size.x - 2 * abs_margin) / (hole_count.x - 1);
 					  }
 					  ```
-		- Importer des fichiers externes
-			- Le chemin du fichier doit être ...
-				- ... relatif au fichier courant
-				- ... relatif au dossier utilisé pour stocker les bibliothèques
-					- Voir *File -> Show Library Folder*
-			- Inclusion complète de code -> `include <fichier.scad>;`
-				- ((64049d27-21da-4527-8ceb-4ddee4bd7232))
-				- Variables globales
-				- Instructions
-			- Inclusion partielle de code --> `use <fichier.scad>;`
-				- ((64049d27-21da-4527-8ceb-4ddee4bd7232))
-			- Autres formats --> `import("fichier.whatever");`
-				- Formats 2D
-					- DXF
-					- SVG
-				- Format 3D
-					- STL
-					- OFF
-					- AMF
-					- 3MF
+	- Importer des fichiers externes
+		- Le chemin du fichier doit être ...
+			- ... relatif au fichier courant
+			- ... relatif au dossier utilisé pour stocker les bibliothèques
+				- Voir *File -> Show Library Folder*
+		- Inclusion complète du code source -> `include <fichier.scad>;`
+			- ((64049d27-21da-4527-8ceb-4ddee4bd7232))
+			- Variables globales
+			- Instructions
+			- ...
+		- Inclusion partielle du code source --> `use <fichier.scad>;`
+			- ((64049d27-21da-4527-8ceb-4ddee4bd7232))
+		- Autres formats --> `import("fichier.whatever");`
+			- Formats 2D
+				- DXF
+				- SVG
+			- Format 3D
+				- STL
+				- OFF
+				- AMF
+				- 3MF
 - # Project 1: Shelf Bracket
 	- link:: https://mastering-openscad.eu/buch/example_01/
 	-
