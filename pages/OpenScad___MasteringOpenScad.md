@@ -59,7 +59,7 @@ link:: https://mastering-openscad.eu/buch/introduction/
 		  Il est parfois nécessaire de faire légèrement dépasser la forme lors d'une soustraction par exemple pour tenir compte des erreurs d'arrondies
 		  #+END_CAUTION
 			- ```openscad
-			  // dimensions in mm [width, depth, height]
+			  // Dimensions in mm [width, depth, height]
 			  plate = [100,50,5];
 			  
 			  hole_dm     = 6;
@@ -89,4 +89,26 @@ link:: https://mastering-openscad.eu/buch/introduction/
 		- ```openscad
 		  #cylinder( d = hole_dm, h = plate.z + 1);
 		  ```
-	- On peut utiliser des boucles pour
+	- On peut utiliser des boucles pour construire plusieurs géométries tout en évitant les répétitions
+		- ```openscad
+		  // Dimensions in mm [width, depth, height]
+		  plate = [100,50,5];
+		  
+		  hole_dm     = 6;
+		  hole_margin = 4;
+		  
+		  difference() {
+		  	cube( plate );
+		  
+		  	// Holes
+		      abs_margin = hole_margin + hole_dm / 2;
+		  	x_values   = [abs_margin, plate.x - abs_margin];
+		  	y_values   = [abs_margin, plate.y - abs_margin];
+		  	
+		      // 
+		  	for (x = x_values, y = y_values)
+		      translate( [x, y, -1] )
+		      color( "red" )
+		      cylinder( d = hole_dm, h = plate.z + 2);
+		  }
+		  ```
