@@ -151,4 +151,14 @@ link:: https://mastering-openscad.eu/buch/introduction/
 		  translate([0,60,0])
 		  hole_plate(size = [50,50,5], hole_dm = 3, hole_margin = 2, hole_count=[5, 5]);
 		  ```
-	-
+	- Conditions
+		- Opérateur ternaire
+			- ```openscad
+			  result = test : first ? second;
+			  ```
+		- `if`
+			-
+			- ```openscad
+			  if (test) {	result = first; }
+			  else { result = second;}
+			  ```
