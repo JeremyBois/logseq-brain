@@ -227,11 +227,20 @@ link:: https://mastering-openscad.eu/buch/introduction/
 				- ```openscad
 				  $fn=111;
 				  ```
-		- --> `$children`
-		-
-	- Accéder à l'élément après l'appel d'une fonction --> `children()`
+		- Nombre d'éléments après une fonction --> `$children`
+	- Accéder aux éléments après l'appel d'une fonction --> `children()`
+		- Permet aux fonction de se comporter comme des transformations
+		- ```openscad
+		  /* ... */
+		  module output() {
+		  	projection(cut = true)
+		  	children(0);
+		  }
+		  function();
+		  ```
 	- Projection 3D --> `projection()`
 		- Permet de projeter la géométrie sur le plan **XY**
+			- Visible uniquement dans la sortie du **Render**
 		- ```openscad
 		  /* ... */
 		  
