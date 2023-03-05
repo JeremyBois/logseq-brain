@@ -91,7 +91,8 @@ link:: https://mastering-openscad.eu/buch/introduction/
 		- ```openscad
 		  #cylinder( d = hole_dm, h = plate.z + 1);
 		  ```
-	- On peut utiliser des boucles pour construire plusieurs géométries tout en évitant les répétitions
+	- Boucles --> `for`
+		- Permet de construire plusieurs géométries tout en évitant les répétitions
 		- Possible de parcourir des tableaux / vecteurs ou bien des *range loop*
 		- ```openscad
 		  // Dimensions in mm [width, depth, height]
@@ -122,5 +123,7 @@ link:: https://mastering-openscad.eu/buch/introduction/
 		- Possible de faire des tests/variations sans changer le code
 		- Possible de visualiser les différentes valeurs de manière plus lisible
 		- Les commentaires sont utilisés comme légende dans l'interface
-	-
+	- Modules --> `module`
+		- Similaire aux fonctions dans les autres langages
+		- Permet d'éviter la répétition en définissant
 	-
