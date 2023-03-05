@@ -54,7 +54,7 @@ link:: https://mastering-openscad.eu/buch/introduction/
 		- Possible de cumuler des opérations afin de former une nouvelle géométrie
 			- L'ordre des transformations est important
 	- ## Combiner les géométries
-	- Il est possible de combiner des formes géométriques en utilisant des opérations booléenes
+	- Il est possible de **combiner** des formes géométriques en utilisant des opérations booléenes
 		- #+BEGIN_CAUTION
 		  Il est parfois nécessaire de faire légèrement dépasser la forme lors d'une soustraction par exemple pour tenir compte des erreurs d'arrondies
 		  #+END_CAUTION
@@ -78,13 +78,15 @@ link:: https://mastering-openscad.eu/buch/introduction/
 			  	])
 			  	
 			      // Add on both side a little margin 
-			      // Here 0.5 on each side on the Z axis
+			      // Here 1 on each side on the Z axis
 			      color( "red" )
-			  	cylinder( d = hole_dm, h = plate.z + 1);
+			  	cylinder( d = hole_dm, h = plate.z + 2);
 			  }
 			  ```
-	- On peut afficher une géométrie en transparance même si elle fait partie d'une opération  ou d'une transformation
+	- On peut **afficher** une géométrie faisant partie d'une opération booléenne en **transparence**
+		- Permet de valider la position
+		- Permet d'ajouter des éléments de débug
 		- ```openscad
-		  // 
-		  cylinder( d = hole_dm, h = plate.z + 1);
+		  #cylinder( d = hole_dm, h = plate.z + 1);
 		  ```
+	- On peut utiliser des boucles pour
