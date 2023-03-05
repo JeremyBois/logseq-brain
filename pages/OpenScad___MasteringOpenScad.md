@@ -55,4 +55,5 @@ link:: https://mastering-openscad.eu/buch/introduction/
 			- L'ordre des transformations est important
 	- ## Combiner les géométries
 	- Il est possible de combiner des formes géométriques en utilisant des opérations booléenes
-	-
+	- d
+	- ddfd
