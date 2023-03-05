@@ -445,4 +445,15 @@ link:: https://www.espritdog.com/chapitres/chapitre-1-comprendre-lagressivite/
 	- # La zone de confort
 		- type:: Video
 		  link:: https://www.espritdog.com/lecons/la-zone-de-confort-2/
-		-
+		- Deux écoles
+			- Respecter cette zone et avancer petit à petit
+				- Peut prendre beaucoup de temps
+				- Compliqué voir impossible dans le monde réel
+					- Pas de contrôle sur l'environnement
+					- Pas possible de conserver la distance de confort tout le temps
+			- Forcer le chien à sortir de cette zone en lui indiquant qu'il s'inquiète pour rien
+				- Stressant pour le chien et le force à réfléchir
+				- Peut prendre peu de temps (1 / 2 semaines)
+				- Applicable au monde réel
+			- La
+				-
