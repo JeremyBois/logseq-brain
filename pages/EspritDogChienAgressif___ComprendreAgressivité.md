@@ -3,8 +3,9 @@ link:: https://www.espritdog.com/chapitres/chapitre-1-comprendre-lagressivite/
 [[Feb 26th, 2023]]
 
 - # Les particularités des races
-- ## Comprend en fonction de sa race
 	- type:: Video
+	  link:: https://www.espritdog.com/lecons/les-particularite-des-races/
+- ## Comprendre en fonction de sa race
 	- Différents types de chiens
 		- **Non-décisionnaires**
 			- Il ne prend pas d'initiatives et attend l'ordre du maître
@@ -27,7 +28,6 @@ link:: https://www.espritdog.com/chapitres/chapitre-1-comprendre-lagressivite/
 	  Il faut toujours tenir compte des spécificités de sa race et surtout ne pas aller contre.
 	  #+END_IMPORTANT
 - ## Il y a-t-il des races plus agréssifs que d'autres ?
-	- type:: Video
 	- Pas de races plus agréssives
 		- Certaines sont plus puissantes
 		- Certaines races demandent plus ou moins de besoins mentaux / physiques
@@ -38,6 +38,7 @@ link:: https://www.espritdog.com/chapitres/chapitre-1-comprendre-lagressivite/
 	  #+END_IMPORTANT
 - # Les besoins du chien
 	- type:: Video
+	  link:: https://www.espritdog.com/lecons/les-besoins-du-chien-4/
 	- Les besoins varient fortement entre les différentes races
 		- Entre 1 et 12 heures
 	- Ne pas punir / engueuler lorsque il est trop exité
@@ -49,6 +50,7 @@ link:: https://www.espritdog.com/chapitres/chapitre-1-comprendre-lagressivite/
 	  #+END_NOTE
 - # Les différentes formes d'agréssivité
 	- type:: Video
+	  link:: https://www.espritdog.com/lecons/les-differentes-formes-dagressivite/
 	- **Douleur physique**
 		- Ex: douleur à la jambe et il cours quand il voit un chien --> Association --> Agréssivité
 		- Solutions :
@@ -445,15 +447,20 @@ link:: https://www.espritdog.com/chapitres/chapitre-1-comprendre-lagressivite/
 	- # La zone de confort
 		- type:: Video
 		  link:: https://www.espritdog.com/lecons/la-zone-de-confort-2/
-		- Deux écoles
+		- Distance / environnement dans lequel le chien est calme / apaissé
+		- Deux écoles pour étendre cette zone :
 			- Respecter cette zone et avancer petit à petit
 				- Peut prendre beaucoup de temps
 				- Compliqué voir impossible dans le monde réel
 					- Pas de contrôle sur l'environnement
 					- Pas possible de conserver la distance de confort tout le temps
+				- Une mauvaise rencontre va nécessiter de redémarrer à zéro
 			- Forcer le chien à sortir de cette zone en lui indiquant qu'il s'inquiète pour rien
-				- Stressant pour le chien et le force à réfléchir
+			  id:: 640503c0-3aa0-437c-9cb3-b35ee23f9f8c
 				- Peut prendre peu de temps (1 / 2 semaines)
+					- Période d'anxiété du chien réduite
 				- Applicable au monde réel
-			- La
+				- Stressant pour le chien mais le force à réfléchir
+					- Évolution réelle du chien
 				-
+					-
