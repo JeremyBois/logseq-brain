@@ -56,7 +56,8 @@ link:: https://mastering-openscad.eu/buch/introduction/
 		- Possible de cumuler des opérations afin de former une nouvelle géométrie
 			- L'ordre des transformations est important
 	- ## Combiner les géométries
-	- Il est possible de **combiner** des formes géométriques en utilisant des opérations booléenes
+	- Combiner des formes géométriques --> opérations booléenes
+		- Exemple : `difference`
 		- #+BEGIN_CAUTION
 		  Il est parfois nécessaire de faire légèrement dépasser la forme lors d'une soustraction par exemple pour tenir compte des erreurs d'arrondies
 		  #+END_CAUTION
@@ -85,9 +86,8 @@ link:: https://mastering-openscad.eu/buch/introduction/
 			  	cylinder( d = hole_dm, h = plate.z + 2);
 			  }
 			  ```
-	- On peut **afficher** une géométrie faisant partie d'une opération booléenne en **transparence**
-		- Permet de valider la position
-		- Permet d'ajouter des éléments de débug
+	- Affichage d'une géométrie intermédiaire en **transparence** --> `#`
+		- Validation / Debug de la position des formes à combiner
 		- ```openscad
 		  #cylinder( d = hole_dm, h = plate.z + 1);
 		  ```
@@ -119,18 +119,19 @@ link:: https://mastering-openscad.eu/buch/introduction/
 		      cylinder( d = hole_dm, h = plate.z + 2);
 		  }
 		  ```
-	- Le ((6403cc3b-218b-47f7-b134-6c176204c6f3)) permet d'accéder directement dans l'interface aux différentes variables globales
-		- Possible de faire des tests/variations sans changer le code
-		- Possible de visualiser les différentes valeurs de manière plus lisible
-		- Les commentaires sont utilisés comme légende dans l'interface
+	- Paramétrisation --> ((6403cc3b-218b-47f7-b134-6c176204c6f3))
+		- Permet d'accéder directement dans l'interface aux différentes variables globales
+			- Possible de faire des tests/variations sans changer le code
+			- Possible de visualiser les différentes valeurs de manière plus lisible
+			- Les commentaires sont utilisés comme légende dans l'interface
 	- Fonctions --> `module`
 		- Permet d'éviter la répétition en écrivant un code **générique réutilisable**
-		- Le type des paramètres est automatiquement / dynamiquement déterminé
-		-
+			- Le type des paramètres est automatiquement / dynamiquement déterminé
+			- Possible d'avoir des valeurs pré-définies
 		- ```openscad
 		  module hole_plate( size, hole_dm, hole_margin, hole_count = [2,2] ) {
 		  	difference() {
-		  		cube( size );
+		  		cube(size);
 		  
 		  		abs_margin  = hole_margin + hole_dm/2;
 		  		x_hole_dist = (size.x - 2*abs_margin) / (hole_count.x - 1);
@@ -145,7 +146,7 @@ link:: https://mastering-openscad.eu/buch/introduction/
 		  	}
 		  }
 		  
-		  // Use module to create two plates
+		  // Use our module to create two plates
 		  hole_plate([100,50,5], 6, 4);
 		  translate([0,60,0])
 		  hole_plate(size = [50,50,5], hole_dm = 3, hole_margin = 2, hole_count=[5, 5]);
