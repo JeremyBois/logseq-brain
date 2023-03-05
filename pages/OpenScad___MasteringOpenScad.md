@@ -123,7 +123,8 @@ link:: https://mastering-openscad.eu/buch/introduction/
 		- Possible de faire des tests/variations sans changer le code
 		- Possible de visualiser les différentes valeurs de manière plus lisible
 		- Les commentaires sont utilisés comme légende dans l'interface
-	- Modules --> `module`
-		- Similaire aux fonctions dans les autres langages
-		- Permet d'éviter la répétition en définissant
+	- Fonctions --> `module`
+		- Permet d'éviter la répétition en écrivant un code générique réutilisable
+		- ```openscad
+		  ```
 	-
