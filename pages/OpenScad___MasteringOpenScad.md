@@ -8,7 +8,7 @@ link:: https://mastering-openscad.eu/buch/introduction/
 - Disponible en version papier sur [Amazon](https://www.amazon.com/dp/3753458589)
 - Apprentissage à travers 10 projets de plus en plus complexe
 - # Généralités
-	- [Source](https://mastering-openscad.eu/buch/gui-overview/)
+	- link:: https://mastering-openscad.eu/buch/gui-overview/
 	- ![overviewOpenscad.png](../assets/overviewOpenscad_1677872956181_0.png){:height 400, :width 607}
 		- 1 --> Zone de code
 		- 2 --> aperçu et rendu 3d
@@ -18,7 +18,7 @@ link:: https://mastering-openscad.eu/buch/introduction/
 		- 3 --> Console affichant les erreurs et autre informations
 		- 4 --> (Avancé) Customisation / UI en lien avec certaines variables du code
 - # Options basiques
-	- [Source](https://mastering-openscad.eu/buch/basic_ops_and_structure/)
+	- link:: https://mastering-openscad.eu/buch/basic_ops_and_structure/
 	- Le langage utilisé est **descriptif**
 		- Ce n'est **pas** un langage de [[Programmation]]
 		- Décrit la géométrie à partir de primitives et instructions simples
@@ -102,13 +102,17 @@ link:: https://mastering-openscad.eu/buch/introduction/
 		  
 		  	// Holes
 		      abs_margin = hole_margin + hole_dm / 2;
-		  	x_values   = [abs_margin, plate.x - abs_margin];
+		      // Use range loop to store x positions
+		  	x_hole_dist = plate.x - 2 * abs_margin;
+		  	x_values    = [abs_margin : x_hole_dist : plate.x - abs_margin];
+		      // Use a simple array to store y positions
 		  	y_values   = [abs_margin, plate.y - abs_margin];
 		  	
-		      // 
+		      // Loop end is marked with ; symbol
 		  	for (x = x_values, y = y_values)
 		      translate( [x, y, -1] )
 		      color( "red" )
 		      cylinder( d = hole_dm, h = plate.z + 2);
 		  }
 		  ```
+	-
