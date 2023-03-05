@@ -167,9 +167,10 @@ link:: https://mastering-openscad.eu/buch/introduction/
 				  	square();
 				  }
 				  ```
-			- **Ne permet pas d'initialiser conditionnellement une variable**
-				- ((6403cc3b-fa6f-4eb4-9934-b87e25ee3a0d))
+			- ((6403cc3b-fa6f-4eb4-9934-b87e25ee3a0d))
+				- Une variable ne peut être initialisée qu'une seule fois donc le code suivant ne donnera pas toujours le comportement attendu
 					- ```openscad
+					  // x_hole_dist 
 					  x_hole_dist = 0;
 					  if (hole_count.x > 1) {
 					  	x_hole_dist = (size.x - 2 * abs_margin) / (hole_count.x - 1);
