@@ -31,7 +31,7 @@ link:: https://mastering-openscad.eu/buch/introduction/
 			- Il existe une variable `radius_with_a_name` ayant pour valeur 20
 				- Seule la dernière valeur est conservée
 	- Possible d'utiliser des **fonctions** pour éviter les répétitions
-		- ```scad
+		- ```openscad
 		  adjustment = 0.7;
 		  adjustment_factor = 1.05;
 		  
@@ -54,4 +54,5 @@ link:: https://mastering-openscad.eu/buch/introduction/
 		- Possible de cumuler des opérations afin de former une nouvelle géométrie
 			- L'ordre des transformations est important
 	- ## Combiner les géométries
--
+	- Il est possible de combiner des formes géométriques en utilisant des opérations booléenes
+	-
