@@ -126,6 +126,7 @@ link:: https://mastering-openscad.eu/buch/introduction/
 			- Possible de visualiser les différentes valeurs de manière plus lisible
 			- Les commentaires sont utilisés comme légende dans l'interface
 	- Fonctions --> `module`
+	  id:: 64049d27-21da-4527-8ceb-4ddee4bd7232
 		- Permet d'éviter la répétition en écrivant un code **générique réutilisable**
 			- Le type des paramètres est automatiquement / dynamiquement déterminé
 			- Possible d'avoir des valeurs pré-définies
@@ -176,3 +177,12 @@ link:: https://mastering-openscad.eu/buch/introduction/
 					  	x_hole_dist = (size.x - 2 * abs_margin) / (hole_count.x - 1);
 					  }
 					  ```
+		- Importer des fichiers externes
+			- Inclusion complète de code -> `include <fichier.scad>;`
+				- ((64049d27-21da-4527-8ceb-4ddee4bd7232))
+				- Variables globales
+				- Instructions
+			- Inclusion partielle de code --> `use <fichier.scad>;`
+				- ((64049d27-21da-4527-8ceb-4ddee4bd7232))
+			-
+		-
