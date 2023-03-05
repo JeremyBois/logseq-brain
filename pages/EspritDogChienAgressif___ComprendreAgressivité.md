@@ -410,3 +410,5 @@ link:: https://www.espritdog.com/chapitres/chapitre-1-comprendre-lagressivite/
 		- Sa solution est souvent médicinale
 	- Ne règle pas le problème mais l'inhibe / cache
 		- Altération du comportement
+- # Les pièges de l'environnement
+	-
