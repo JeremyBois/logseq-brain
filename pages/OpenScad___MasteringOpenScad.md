@@ -227,6 +227,36 @@ link:: https://mastering-openscad.eu/buch/introduction/
 				- ```openscad
 				  $fn=111;
 				  ```
-		- Projection 3D --> `projection()`
-			- Permet de projeter la géométrie sur le plan **XY**
-			-
+		- --> `$children`
+		-
+	- Accéder à l'élément après l'appel d'une fonction --> `children()`
+	- Projection 3D --> `projection()`
+		- Permet de projeter la géométrie sur le plan **XY**
+		- ```openscad
+		  /* ... */
+		  
+		  module output(templates = false) {
+		  	if (templates) {
+		          // Side A
+		  		projection(cut = true)
+		  		children(0);		
+		  		
+		          // Side B
+		  		translate( [-0.01, 0, 0] )
+		  		projection(cut = true)
+		  		rotate( [0, -90, 0] )
+		  		children(0);		
+		  	} else {
+		  		children(0);
+		  	}
+		  }
+		  
+		  output(templates = false)
+		  shelf_bracket(
+		    side_a    = [50, 6, 1],
+		    side_b    = [75, 4, 3],
+		    width     = 35,
+		    thickness = 4
+		  );
+		  ```
+		-
