@@ -25,6 +25,7 @@ link:: https://mastering-openscad.eu/buch/introduction/
 		- Ce n'est **pas** un langage de [[Programmation]]
 		- Décrit la géométrie à partir de primitives et instructions simples
 	- L'ordre de déclaration des variables n'a pas d'importance
+	  id:: 6403cc3b-fa6f-4eb4-9934-b87e25ee3a0d
 		- ```openscad
 		  radius_with_a_name = 10;
 		  sphere( r = radius_with_a_name );
@@ -157,8 +158,20 @@ link:: https://mastering-openscad.eu/buch/introduction/
 			  result = test : first ? second;
 			  ```
 		- `if`
-			-
-			- ```openscad
-			  if (test) {	result = first; }
-			  else { result = second;}
-			  ```
+			- Permet de déterminer deux chemins possible en fonction d'une condition
+				- ```openscad
+				  if (test) {	
+				  	cube();
+				  }
+				  else {
+				  	square();
+				  }
+				  ```
+			- **Ne permet pas d'initialiser conditionnellement une variable**
+				- ((6403cc3b-fa6f-4eb4-9934-b87e25ee3a0d))
+					- ```openscad
+					  x_hole_dist = 0;
+					  if (hole_count.x > 1) {
+					  	x_hole_dist = (size.x - 2 * abs_margin) / (hole_count.x - 1);
+					  }
+					  ```
