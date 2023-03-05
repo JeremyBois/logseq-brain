@@ -215,6 +215,11 @@ link:: https://mastering-openscad.eu/buch/introduction/
 			    xhole_plate([ side_b[0], width, thickness ], side_b[1], side_b[2], thickness);
 			  }
 			  ```
-		-
+	- Variables spéciales --> `$var`
+		- `$fn$ p
+		- ```openscad
+		  cylinder(d, h, $fn=18);
+		  ```
+	-
 	-
 	-
