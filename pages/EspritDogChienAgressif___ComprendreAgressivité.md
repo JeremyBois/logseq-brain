@@ -124,6 +124,7 @@ link:: https://www.espritdog.com/chapitres/chapitre-1-comprendre-lagressivite/
 				- Meilleur gestion des émotions
 - # Décrypter son chien
 	- type:: Video
+	  link:: https://www.espritdog.com/lecons/decrypter-son-chien/
 	- Le comportement et les mimiques du chien traduisent son état d'esprit
 	- **Toujours** analyser un comportement de manière globale pour éviter les mauvais diagnostics
 		- environnement
@@ -152,6 +153,7 @@ link:: https://www.espritdog.com/chapitres/chapitre-1-comprendre-lagressivite/
   #+END_CAUTION
 - # La prise de conscience
 	- type:: Video
+	  link:: https://www.espritdog.com/lecons/la-prise-de-conscience/
 	- Ne pas se voiler la face et prendre ces responsabilités
 		- Maître à fait des erreurs (volontaire ou involontaires)
 			- Mauvais choix d'outil
@@ -171,8 +173,9 @@ link:: https://www.espritdog.com/chapitres/chapitre-1-comprendre-lagressivite/
 	  #+END_IMPORTANT
 - # Les accessoires
   id:: 63fbc214-c566-4cff-9fa9-2bc9f87985ee
-- ## Les accesoires interdits
 	- type:: Video
+	  link:: https://www.espritdog.com/lecons/les-accessoires-3/
+- ## Les accesoires interdits
 	- Les colliers à piques
 		- Utiles uniquement pour la protection des chiens contre l'extérieur (Loup, Ours, ...)
 	- Les colliers étrangleurs
@@ -202,7 +205,6 @@ link:: https://www.espritdog.com/chapitres/chapitre-1-comprendre-lagressivite/
 	- Canette
 		- Voir ((63fbc47e-18d4-4b1f-8127-5ada576ea7f4))
 - ## Les accessoires autorisés
-	- type:: Video
 	- Collier / Laisse
 		- Voir ((63fd0555-97a2-4e98-ac2f-6430a5b0f9ed))
 	- Musolière
@@ -219,7 +221,6 @@ link:: https://www.espritdog.com/chapitres/chapitre-1-comprendre-lagressivite/
 		- Peut permettre de donner de la liberté à un chien qui est agréssif si trop près de son maître
 - ## Le rôle de la laisse
   id:: 63fd0555-97a2-4e98-ac2f-6430a5b0f9ed
-	- type:: Video
 	- Permet de faciliter la vie du chien dans le monde des humains
 		- Ne pas l'utiliser dès l'arrivée du chiot
 		- Le laisser découvrir le monde
@@ -238,9 +239,10 @@ link:: https://www.espritdog.com/chapitres/chapitre-1-comprendre-lagressivite/
 	  #+END_NOTE
 - # La musolière
   id:: 63fe78a7-2f8b-4644-8c23-2e549c646081
+	- type:: Video
+	  link:: https://www.espritdog.com/lecons/la-museliere-3/
 - ## Tout comprendre sur la musolière
   id:: 63fd08b4-89e9-48ae-9937-8299608d48d3
-	- type:: Video
 	- ~15 jours pour lui apprendre
 		- Valoriser au maximum
 		- Nécessaire pour pouvoir travailler correctement
@@ -275,7 +277,6 @@ link:: https://www.espritdog.com/chapitres/chapitre-1-comprendre-lagressivite/
 		- 😡 Ne permet pas de récompenser
 - ## Comment la mettre et l'apprendre
   id:: 63fd08de-a163-4662-bbf0-36a8912acf4e
-	- type:: Video
 	- Travailler progressivement
 		- Récompense au fond
 		- Récompense à travers la musolière
@@ -291,6 +292,7 @@ link:: https://www.espritdog.com/chapitres/chapitre-1-comprendre-lagressivite/
 -
 - # Le danger des règles trop strictes
 	- type:: Video
+	  link:: https://www.espritdog.com/lecons/le-danger-des-regles-trop-strictes/
 	- Établir des règles trop dures complexifie la vie
 		- Continuer à jouer
 		- Ne pas l'isoler en le forçant dans le panier tout le temps
@@ -301,6 +303,7 @@ link:: https://www.espritdog.com/chapitres/chapitre-1-comprendre-lagressivite/
 	- Il faut cependant lui apprendre les interdits (pièce interdite, pas bouger à l'arrivée des invités)
 - # Le danger de l'obéissance
 	- type:: Video
+	  link:: https://www.espritdog.com/lecons/le-danger-de-lobeissance/
 	- Peut être un accélérateur mais ne règle pas les soucis
 		- On peut forcer à obéir mais il reste anxieux
 	- Les ordres peuvent mettre le chien en position de combat
@@ -310,9 +313,9 @@ link:: https://www.espritdog.com/chapitres/chapitre-1-comprendre-lagressivite/
 	  Laisser de coté l'obéissance afin de pouvoir repositiver les ordres
 	  #+END_TIP
 - # Les mauvaises pratiques
+	- type:: Video
+	  link:: https://www.espritdog.com/lecons/les-mauvaises-pratiques/
 - ## Le détournement d'attention
-	- id:: 63fe7838-370d-4d0a-a679-674af3eb2785
-	  type:: Video
 	- Faiblesses :
 		- Association possible entre volonté d'attaquer et récompense
 		- Si réalisé avant même l'apparition du danger on récompense rien
@@ -327,7 +330,6 @@ link:: https://www.espritdog.com/chapitres/chapitre-1-comprendre-lagressivite/
 	-
 - ## Le contournement
   id:: 63fe78a7-a9f5-47a3-96c8-f6906bc5f9c2
-	- type:: Video
 	- Faiblesses :
 		- Indique que nous avons peur nous aussi
 			- Le chien capte nos émotions par notre odeur
@@ -340,7 +342,6 @@ link:: https://www.espritdog.com/chapitres/chapitre-1-comprendre-lagressivite/
 		- Faire des ballades à deux permet aussi de rassurer le chien (un de chaque coté)
 		-
 - ## Les attitudes interdites
-	- type:: Video
 	- Ne pas fixer les "cibles"
 	- Ne pas changer la tension de la laisse à l'approche du danger
 		- Préférable de toujours mettre une faible tension pour éviter que le chien détecte les "dangers"
@@ -354,13 +355,16 @@ link:: https://www.espritdog.com/chapitres/chapitre-1-comprendre-lagressivite/
 	- Ne pas faire de l'anticipation car on lui permet pas de faire les bons choix
 		- Quand il est en stess il entend plus rien mais capte toujours la démarche / posture
 - ## Les rencontres de face
-	- type:: Video
 	- Cas très courant mais compliqué pour le chien
+		- Rendre lisible les interdits
 	- Avec les chiens
 		- Mise en position de combat
-		- Rendre lisible les interdits
+		- Ajout de tension
+	- Avec les humains
+		- Force le contact
 - # Les conditionnements
 	- type:: Video
+	  link:: https://www.espritdog.com/lecons/les-conditionnements/
 	- Contionnement opérant
 		- Réponse volontaire / contrôlée de l'organisme
 			- Se couche (ordre ou pas)
@@ -376,6 +380,7 @@ link:: https://www.espritdog.com/chapitres/chapitre-1-comprendre-lagressivite/
 		- Il ne sait pas pourquoi mais a besoin d'évacuer la pression
 - # Les jeux interdits
 	- type:: Video
+	  link:: https://www.espritdog.com/lecons/les-jeux-interdits/
 	- Important de ne pas interdire des jeux (tirage, lancer de balle)
 	- Tirage
 		- Ne développe pas son agréssivité --> Développe son envie d'intérargir
@@ -401,11 +406,13 @@ link:: https://www.espritdog.com/chapitres/chapitre-1-comprendre-lagressivite/
 	  #+END_NOTE
 - # Les émotions du chien
 	- type:: Video
+	  link:: https://www.espritdog.com/lecons/les-emotions-du-chien/
 	- Il a un panel d'indicateurs bien plus important que nous
 		- Il récupère toutes les émotions par les odeurs
 			- Odeur de la "cible" mais aussi du "maître"
 	- Ne pas se soucier des émotions des autres mais des siennes
-		- Peur des attitudes de son chien
+		- Éviter la peur des attitudes de son chien
+			- Perçu par le chien --> Mise en tension
 - # Traiter l'agréssivité par des médicaments
 	- type:: Video
 	- Souvent le vétérinaire est à la première place
