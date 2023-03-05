@@ -415,6 +415,7 @@ link:: https://www.espritdog.com/chapitres/chapitre-1-comprendre-lagressivite/
 			- Perçu par le chien --> Mise en tension
 - # Traiter l'agréssivité par des médicaments
 	- type:: Video
+	  link:: https://www.espritdog.com/lecons/traiter-lagressivite-par-des-medicaments/
 	- Souvent le vétérinaire est à la première place
 		- Sa solution est souvent médicinale
 	- Ne règle pas le problème mais l'inhibe / cache
@@ -441,33 +442,38 @@ link:: https://www.espritdog.com/chapitres/chapitre-1-comprendre-lagressivite/
 				- Énervement pouvant être mal interprété
 					- Autre chien récompensé et pas lui
 						- Risque de générer un comportement agréssif
-	- # Les sports rendent-ils agressifs ?
-		- type:: Video
-		  link:: https://www.espritdog.com/lecons/les-sports-rendent-ils-agressifs/
-		- C'est la qualité de la pratique qui est le plus important
-			- Prendre du plaisir (chien et maître)
-			- Éviter les centres trop strictes / compétitifs
-		- Durant sa période chiot (<= 1 an) il est préférable de limiter les sports
-			- Priorité à la découverte du monde des humains
-				- Le chien doit être stable à l'âge adulte
-				- Offrir de nombreuses expériences et variétés dans sa vie
-	- # La zone de confort
-		- type:: Video
-		  link:: https://www.espritdog.com/lecons/la-zone-de-confort-2/
-		- Distance / environnement dans lequel le chien est calme / apaissé
-		- Deux écoles pour étendre cette zone :
-			- Respecter cette zone et avancer petit à petit
-				- Peut prendre beaucoup de temps
-				- Compliqué voir impossible dans le monde réel
-					- Pas de contrôle sur l'environnement
-					- Pas possible de conserver la distance de confort tout le temps
-				- Une mauvaise rencontre va nécessiter de redémarrer à zéro
-			- Forcer le chien à sortir de cette zone en lui indiquant qu'il s'inquiète pour rien
-			  id:: 640503c0-3aa0-437c-9cb3-b35ee23f9f8c
-				- Peut prendre peu de temps (1 / 2 semaines)
-					- Période d'anxiété du chien réduite
-				- Applicable au monde réel
-				- Stressant pour le chien mais le force à réfléchir
-					- Évolution réelle du chien
-				-
-					-
+- # Les sports rendent-ils agressifs ?
+	- type:: Video
+	  link:: https://www.espritdog.com/lecons/les-sports-rendent-ils-agressifs/
+	- C'est la qualité de la pratique qui est le plus important
+		- Prendre du plaisir (chien et maître)
+		- Éviter les centres trop strictes / compétitifs
+	- Durant sa période chiot (<= 1 an) il est préférable de limiter les sports
+		- Priorité à la découverte du monde des humains
+			- Le chien doit être stable à l'âge adulte
+			- Offrir de nombreuses expériences et variétés dans sa vie
+- # La zone de confort
+	- type:: Video
+	  link:: https://www.espritdog.com/lecons/la-zone-de-confort-2/
+	- Distance / environnement dans lequel le chien est calme / apaissé
+	- Deux écoles pour étendre cette zone :
+		- Respecter cette zone et avancer petit à petit
+			- Peut prendre beaucoup de temps
+			- Compliqué voir impossible dans le monde réel
+				- Pas de contrôle sur l'environnement
+				- Pas possible de conserver la distance de confort tout le temps
+			- Une mauvaise rencontre va nécessiter de redémarrer à zéro
+		- Forcer le chien à sortir de cette zone en lui indiquant qu'il s'inquiète pour rien
+		  id:: 640503c0-3aa0-437c-9cb3-b35ee23f9f8c
+			- Peut prendre peu de temps (1 / 2 semaines)
+				- Période d'anxiété du chien réduite
+			- Applicable au monde réel
+			- Stressant pour le chien mais le force à réfléchir
+				- Évolution réelle du chien
+	- #+BEGIN_NOTE
+	  ((640503c0-3aa0-437c-9cb3-b35ee23f9f8c)) est la seule approche viable
+	  #+END_NOTE
+- # Un chien agressif est un chien qui protège ?
+	- type:: Video
+	  link:: https://www.espritdog.com/lecons/un-chien-agressif-est-un-chien-qui-protege/
+	-
