@@ -76,9 +76,15 @@ link:: https://mastering-openscad.eu/buch/introduction/
 			  		hole_margin + hole_dm / 2,
 			  		-1
 			  	])
-			  	color( "red" )
-			  	cylinder( d = hole_dm, h = plate.z + 2);
-			  
+			  	
+			      // Add on both side a little margin 
+			      // Here 0.5 on each side on the Z axis
+			      color( "red" )
+			  	cylinder( d = hole_dm, h = plate.z + 1);
 			  }
 			  ```
-	- ddfd
+	- On peut afficher une géométrie en transparance même si elle fait partie d'une opération  ou d'une transformation
+		- ```openscad
+		  // 
+		  cylinder( d = hole_dm, h = plate.z + 1);
+		  ```
