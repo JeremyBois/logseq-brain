@@ -178,11 +178,19 @@ link:: https://mastering-openscad.eu/buch/introduction/
 					  }
 					  ```
 		- Importer des fichiers externes
+			- Le chemin du fichier doit être ...
+				- ... relatif au fichier courant
+				- ... relatif au dossier utilisé pour stocker les bibliothèques
+					- Voir *File -> Show Library Folder*
 			- Inclusion complète de code -> `include <fichier.scad>;`
 				- ((64049d27-21da-4527-8ceb-4ddee4bd7232))
 				- Variables globales
 				- Instructions
 			- Inclusion partielle de code --> `use <fichier.scad>;`
 				- ((64049d27-21da-4527-8ceb-4ddee4bd7232))
+			- Autres formats --> `import("fichier.whatever");`
+				- Les formats supportés sont :
+					-
+				-
 			-
 		-
