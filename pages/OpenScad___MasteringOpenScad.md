@@ -118,5 +118,9 @@ link:: https://mastering-openscad.eu/buch/introduction/
 		      cylinder( d = hole_dm, h = plate.z + 2);
 		  }
 		  ```
-	- Le ((6403cc3b-218b-47f7-b134-6c176204c6f3)) récupère les différentes variables globales permettant de les modifier directement depuis l'interface
+	- Le ((6403cc3b-218b-47f7-b134-6c176204c6f3)) permet d'accéder directement dans l'interface aux différentes variables globales
+		- Possible de faire des tests/variations sans changer le code
+		- Possible de visualiser les différentes valeurs de manière plus lisible
+		- Les commentaires sont utilisés comme légende dans l'interface
+	-
 	-
