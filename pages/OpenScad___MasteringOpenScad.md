@@ -198,5 +198,5 @@ link:: https://mastering-openscad.eu/buch/introduction/
 					- AMF
 					- 3MF
 - # Project 1: Shelf Bracket
-- link:: https://mastering-openscad.eu/buch/example_01/
--
+	- link:: https://mastering-openscad.eu/buch/example_01/
+	-
