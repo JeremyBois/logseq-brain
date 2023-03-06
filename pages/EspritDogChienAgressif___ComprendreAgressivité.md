@@ -475,9 +475,17 @@ link:: https://www.espritdog.com/chapitres/chapitre-1-comprendre-lagressivite/
 - # Un chien agressif est un chien qui protège ?
 	- type:: Video
 	  link:: https://www.espritdog.com/lecons/un-chien-agressif-est-un-chien-qui-protege/
-	-
+	- Idée reçu
+		- Un chien agréssif est le plus souvent anxieux
+		- Peut être le cas si il est agréssif **uniquement** lorsque on vous agresse
 - # Un chien agressif est un chien qui est sûr de lui ?
 	- type:: Video
 	  link:: https://www.espritdog.com/lecons/un-chien-agressif-est-un-chien-qui-est-il-sur-de-lui/
-	-
+	- Idée reçu
+		- La plupart du temps c'est un chien peureux
+		- Il comprend que l'agréssivité permet d'éloigner le "danger"
+			- Il donne l'impression d'être fort  et sûr de lui
+- # Un chien qui s’assoit sur les pieds est-il dominant ?
+	- type:: Video
+	  link:: https://www.espritdog.com/lecons/un-chien-qui-sassoit-sur-les-pieds-est-il-dominant/
 	-
