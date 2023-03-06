@@ -102,9 +102,17 @@ link:: https://www.learndatalogtoday.org/
 			- Implicite si il n'y a pas de clause `:in`
 	- Types existants :
 		- Scalaires (*Scalars*)
+			- `:in $ ?director ?actor`
+			- Permet de placer une valeur explicitement
 		- Tuples
-			- `[?name ?age]`
+			- `:in $ [?director ?actor]`
+			- Permet de passer des tableaux et de les destructurer
 		- Collections
+			- `:in $ [?director ...]`
+			- Permet de simuler l'opérateur `or` en passant plusieurs entrées
 		- Relations
+			- `:in $ ?director [[?title ?box-office]]`
+			- Permet de contraindre les éléments dans lequel effectuer la recherche
+			-
 		-
 		-
