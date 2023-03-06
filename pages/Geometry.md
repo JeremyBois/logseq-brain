@@ -1,0 +1,3 @@
+alias:: Géométrie, Géométries, Geometries
+
+-

@@ -476,3 +476,8 @@ link:: https://www.espritdog.com/chapitres/chapitre-1-comprendre-lagressivite/
 	- type:: Video
 	  link:: https://www.espritdog.com/lecons/un-chien-agressif-est-un-chien-qui-protege/
 	-
+- # Un chien agressif est un chien qui est sûr de lui ?
+	- type:: Video
+	  link:: https://www.espritdog.com/lecons/un-chien-agressif-est-un-chien-qui-est-il-sur-de-lui/
+	-
+	-

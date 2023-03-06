@@ -1,5 +1,4 @@
-tags:: #git
-link:: [Source](https://git-scm.com/)
+link:: [Documentation](https://git-scm.com/)
 [[Jan 25th, 2023]]
 
 - ## Description
