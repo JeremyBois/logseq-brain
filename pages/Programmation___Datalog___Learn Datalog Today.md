@@ -36,7 +36,7 @@ link:: https://www.learndatalogtoday.org/
 		  ```
 	- Une requête est représentée comme un vecteur :
 		- Commencer une reqûete -->`:find` suivie de variables *patterns* (`?e`, `?title`)
-		- Restreindre les résultats et associer la recherche à un *pattern* --> `where`
+		- Restreindre les résultats et associer la recherche à un *pattern* --> `:where`
 		- ```edn
 		  [:find ?e ?title
 		   :where
@@ -87,7 +87,7 @@ link:: https://www.learndatalogtoday.org/
 			   [?d :person/name ?name]]
 			  ```
 - # Parameterized queries
-	- type:: Article
+	- type:: Book
 	  link::  https://www.learndatalogtoday.org/chapter/3
 	- Possible de passer des arguments --> `:in`
 		- ```edn
@@ -99,4 +99,12 @@ link:: https://www.learndatalogtoday.org/
 		   [?m :movie/title ?title]]
 		  ```
 		- `$` représente la base de données
-			- Implicite si il n'y a pas de clause `in`
+			- Implicite si il n'y a pas de clause `:in`
+	- Types existants :
+		- Scalaires (*Scalars*)
+		- Tuples
+			- `[?name ?age]`
+		- Collections
+		- Relations
+		-
+		-
