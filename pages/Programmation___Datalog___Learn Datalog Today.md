@@ -1,10 +1,12 @@
-tags:: #Formation #Query #Datomic 
+tags:: #Formation #Query #Datomic
+author:: #[[Jonas Enlund]]
 alias:: Datalog/Learn Datalog Today 
 link:: https://www.learndatalogtoday.org/
 [[Mar 4th, 2023]]
 
 - # Extensile data notation
-	- link:: https://www.learndatalogtoday.org/chapter/0
+	- type:: Article
+	  link:: https://www.learndatalogtoday.org/chapter/0
 	- `.edn` = Extensible Data Notation
 	- Format utilisé pour écrire les requêtes
 		- Similaire à du [[JSON]] sur le format
@@ -18,7 +20,8 @@ link:: https://www.learndatalogtoday.org/
 		   [_ :movie/title ?title]]
 		  ```
 - # Requêtes basiques
-	- link:: https://www.learndatalogtoday.org/chapter/1
+	- type:: Article
+	  link:: https://www.learndatalogtoday.org/chapter/1
 	- Une [[base de données]] organisée autour d'une structure à plat formée de [[Datom]]
 		- Entity ID
 		- Attribut
@@ -50,7 +53,8 @@ link:: https://www.learndatalogtoday.org/
 			  ```
 			-
 - # Data pattern
-	- link:: https://www.learndatalogtoday.org/chapter/2
+	- type:: Article
+	  link:: https://www.learndatalogtoday.org/chapter/2
 	- Une `where` clause peut contenir plusieurs *data patterns* afin de construire des **jointures**
 		- Une même *variable pattern* peut être réutilisée
 		- ```edn
@@ -87,7 +91,7 @@ link:: https://www.learndatalogtoday.org/
 			   [?d :person/name ?name]]
 			  ```
 - # Parameterized queries
-	- type:: Book
+	- type:: Article
 	  link::  https://www.learndatalogtoday.org/chapter/3
 	- Possible de passer des arguments --> `:in`
 		- ```edn
@@ -135,14 +139,8 @@ link:: https://www.learndatalogtoday.org/
 				- `?box-office` n'est pas utilisé dans la clause `:where`
 					- Le trie est réalisé sur les `?title` uniquement
 					- La **relation** permet de retrouver le nombre d'entrées
-	- Combiner les types d'entrées -->`:in $ ?name [[?title ?rating]]`
-		- ```edn
-		  [:find ?title ?rating
-		   :in $ ?name [[?title ?rating]]
-		   :where
-		   [?p :person/name ?name]
-		   [?m :movie/cast ?p]
-		   [?m :movie/title ?title]]
-		  ```
-	-
+	- # More queries
+		- type:: Article
+		  link:: https://www.learndatalogtoday.org/chapter/4
+		-
 		-
