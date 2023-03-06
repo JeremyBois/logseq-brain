@@ -5,7 +5,7 @@ link:: https://www.espritdog.com/chapitres/chapitre-2-agressivite-humaine/
 - # Introduction
 	- type:: Video
 	  link:: https://www.espritdog.com/lecons/introduction/
-	- Important de ne pas tout confondre et détecter la vraiment l'agréssivité :
+	- Ne pas tout confondre et détecter la vraiment l'agréssivité :
 		- Déclenche sur la majorité des humains
 			- Agréssif
 		- Déclenche lorsque un inconnu le caresse
@@ -14,5 +14,12 @@ link:: https://www.espritdog.com/chapitres/chapitre-2-agressivite-humaine/
 			- Prévient
 		- Pince
 			- Cherche à évacuer son exitation (positive / négative)
-	-
-	-
+	- Ne pas se renfermer par peur de la réaction du chien
+		- Lui faire travailler dans différents environnements
+		- Travail global
+			- On ne peut pas juste travailler un endroit
+			- On doit se remettre en question
+	- #+BEGIN_CAUTION
+	  Une rechute ne veut pas dire que on repart à zéro mais que on a raté quelque chose
+	  #+END_CAUTION
+- #
