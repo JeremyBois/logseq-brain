@@ -509,4 +509,13 @@ link:: https://www.espritdog.com/chapitres/chapitre-1-comprendre-lagressivite/
 		- Mauvaise socialisation
 		- Le stimuler trop fortement
 		- Ne pas lui montrer les solutions
-		- Être trop strict et l'empêcher de
+		- Être trop strict et l'empêcher de cherche du réconfort
+- # Mon chien est devenu agressif du jour au lendemain
+	- type:: Video
+	  link:: https://www.espritdog.com/lecons/mon-chien-est-devenu-agressif-du-jour-au-lendemain/
+	- Idée reçu
+		- Différences entre **réactif** (attitude) et **réaction agréssif** (action )
+	- La réactivité naît petit à petit sur des associations :
+		- Il voit un chien + coup de laisse --> Mauvaise association
+		- Il voit une moto + coup de laisse --> Mauvaise association
+		- Renforcer des attitudes dangereuses quand il est petit
