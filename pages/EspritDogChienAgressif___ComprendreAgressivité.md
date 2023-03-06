@@ -514,7 +514,8 @@ link:: https://www.espritdog.com/chapitres/chapitre-1-comprendre-lagressivite/
 	- type:: Video
 	  link:: https://www.espritdog.com/lecons/mon-chien-est-devenu-agressif-du-jour-au-lendemain/
 	- Idée reçu
-		- Différences entre **réactif** (attitude) et **réaction agréssif** (action )
+		- **réactif** ou **agréssif** -> attitude
+		- **réaction agréssive** --> action ponctuelle
 	- La réactivité naît petit à petit sur des associations :
 		- Il voit un chien + coup de laisse --> Mauvaise association
 		- Il voit une moto + coup de laisse --> Mauvaise association
