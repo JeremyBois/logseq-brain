@@ -59,9 +59,8 @@ link:: https://www.learndatalogtoday.org/
 		   [?e :movie/year 1987]
 		   [?e :movie/title ?title]]
 		  ```
--
 	- Il est possible d'utiliser une *variable pattern* dans une autre *data pattern* pour appliquer des filtres à un ensemble plus restreint de données
-		- Exemple : Récupère le nom des personnes (noms stockées dans `?name` et *datoms* dans `?p`) pour les films dans lesquels elles participent (stockée dans `?m`) dont le titre est `"Lethal Weapon"` (stockée dans `?m`)
+		- Exemple : Récupère le nom des personnes (stockées dans `?p`) pour les films dans lesquels elles participent (stockée dans `?m`) dont le titre est `"Lethal Weapon"` (stockée dans `?m`)
 			- ```edn
 			  [:find ?name
 			   :where
@@ -74,8 +73,8 @@ link:: https://www.learndatalogtoday.org/
 			- ```edn
 			  [:find ?name
 			   :where
-			   [?d :person/name ?d]
-			   [?m :movie/director ?pp]
+			   [?d :person/name ?name]
+			   [?m :movie/director ?d]
 			   [?m :movie/cast ?p]
 			   [?p :person/name "Arnold Schwarzenegger"]]
 			  ```
@@ -89,4 +88,12 @@ link:: https://www.learndatalogtoday.org/
 			  ```
 - # Parameterized queries
 	- link:: https://www.learndatalogtoday.org/chapter/3
-	-
+	- Possible de passer des arguments
+		- ```edn
+		  [:find ?title
+		   :in $ ?name
+		   :where
+		   [?p :person/name ?name]
+		   [?m :movie/cast ?p]
+		   [?m :movie/title ?title]]
+		  ```
