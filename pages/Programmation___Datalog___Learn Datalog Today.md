@@ -1,5 +1,6 @@
-tags:: #Formation #Query #Datomic
+type:: Book
 author:: #[[Jonas Enlund]]
+tags:: #Query #Datalog #BDD
 alias:: Datalog/Learn Datalog Today 
 link:: https://www.learndatalogtoday.org/
 [[Mar 4th, 2023]]
