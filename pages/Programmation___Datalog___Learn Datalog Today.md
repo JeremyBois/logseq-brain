@@ -132,7 +132,17 @@ link:: https://www.learndatalogtoday.org/
 			   [?m :movie/director ?p]
 			   [?m :movie/title ?title]]
 			  ```
+				- `?box-office` n'est pas utilisé dans la clause `:where`
+					- Le trie est réalisé sur les `?title` uniquement
+					- La **relation** permet de retrouver le nombre d'entrées
+	- Combiner les types d'entrées -->`:in $ ?name [[?title ?rating]]`
+		- ```edn
+		  [:find ?title ?rating
+		   :in $ ?name [[?title ?rating]]
+		   :where
+		   [?p :person/name ?name]
+		   [?m :movie/cast ?p]
+		   [?m :movie/title ?title]]
+		  ```
 	-
-		-
-		-
 		-
