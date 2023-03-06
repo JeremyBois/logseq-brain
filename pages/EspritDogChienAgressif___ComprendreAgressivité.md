@@ -489,17 +489,24 @@ link:: https://www.espritdog.com/chapitres/chapitre-1-comprendre-lagressivite/
 	- type:: Video
 	  link:: https://www.espritdog.com/lecons/un-chien-qui-sassoit-sur-les-pieds-est-il-dominant/
 	- Idée reçu
-	- Plusieurs raisons
+	- Raisons communes :
 		- Il se sent bien à cet endroit
 		- Il veut être sûr de pas nous perdre (observable en particulier sur le chiot)
-	- Si il est adulte et a d'autres comportements déviants
-		- Destruction ciblée,
-			- Flicage
-		- Hurlement, gratte à la port, anxiété de séparation
-			- Hyper attachement
-	- Si le chien est agréssif
-		- Recherche la zone de confort
-		- Lui indiquer que ce n'est pas la peine d'avoir peur
-		- Ne pas le dégager
-		-
-		-
+		- Chien adulte + comportements déviants :
+			- Destruction ciblée, empêcher d'aller à certaines zones voir sortir, ...
+				- Flicage
+			- Hurlement, gratte à la port, anxiété de séparation, malpropreté, ...
+				- Hyper attachement
+		- Chien agréssif :
+			- Recherche la zone de confort
+			- Lui indiquer que ce n'est pas la peine d'avoir peur
+			- Ne pas le dégager
+- # Un chien agressif a-t-il un maitre faible ?
+	- type:: Video
+	  link:: https://www.espritdog.com/lecons/un-chien-agressif-a-t-il-un-maitre-faible/
+	- Idée reçu
+	- L'agréssivité vient à cause d'erreurs de langage :
+		- Mauvaise socialisation
+		- Le stimuler trop fortement
+		- Ne pas lui montrer les solutions
+		- Être trop strict et l'empêcher de
