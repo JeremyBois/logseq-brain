@@ -27,5 +27,17 @@ link:: https://www.espritdog.com/chapitres/chapitre-2-agressivite-humaine/
 	  link:: https://www.espritdog.com/lecons/limportance-de-depenser-son-chien/
 	- La réactivité humaine est souvent lié à une mauvaise gestion de l'énergie
 		- Le dépenser physiquement et mentalement
-	- Le dépenser physiquement pour lui permettre de se concentrer pour l'apprentissage
+	- Le dépenser physiquement
+		- Nécessaire pour lui permettre de se concentrer pour l'apprentissage
+		- Chaque jour pour qui soit équilibré
+	- #+BEGIN_IMPORTANT
+	  Toujours le dépenser physiquement avant de le faire travailler l'agréssivité pour qu'il soit plus réceptif
+	  #+END_IMPORTANT
+- # Les lieux de sorties
+	- type:: Video
+	  link:: https://www.espritdog.com/lecons/les-lieux-de-sorties/
+	- Si non agréssif avec les chiens
+		- Le faire se balader avec d'autres chiens
+		- Apprentissage par imitation
 		-
+	-
