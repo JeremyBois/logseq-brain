@@ -110,7 +110,8 @@ link:: https://www.learndatalogtoday.org/
 			- Permet de passer des tableaux et de les destructurer
 		- Collections
 			- `:in $ [?director ...]`
-			- Permet de simuler l'opérateur `or` en passant plusieurs entrées
+			- Permet de passer plusieurs entrées (*List*)
+				- Simule l'opérateur `or`
 		- Relations
 			- `:in $ ?director [[?title ?box-office]]`
 			- Permet de passer un jeu de ((6406528f-d27a-4247-9202-3ca160ffd79a)) afin de réaliser des jointures avec la base de données
