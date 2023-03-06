@@ -105,6 +105,7 @@ link:: https://www.learndatalogtoday.org/
 			- `:in $ ?director ?actor`
 			- Permet de placer une valeur explicitement
 		- Tuples
+		  id:: 6406528f-d27a-4247-9202-3ca160ffd79a
 			- `:in $ [?director ?actor]`
 			- Permet de passer des tableaux et de les destructurer
 		- Collections
@@ -112,7 +113,25 @@ link:: https://www.learndatalogtoday.org/
 			- Permet de simuler l'opérateur `or` en passant plusieurs entrées
 		- Relations
 			- `:in $ ?director [[?title ?box-office]]`
-			- Permet de contraindre les éléments dans lequel effectuer la recherche
-			-
+			- Permet de passer un jeu de ((6406528f-d27a-4247-9202-3ca160ffd79a)) afin de réaliser des jointures avec la base de données
+			- ```edn
+			  [
+			   ...
+			   ["Die Hard" 140700000]
+			   ["Alien" 104931801]
+			   ["Lethal Weapon" 120207127]
+			   ["Commando" 57491000]
+			   ...
+			  ]
+			  
+			  [:find ?title ?box-office
+			   :in $ ?director [[?title ?box-office]]
+			   :where
+			   [?p :person/name ?director]
+			   [?m :movie/director ?p]
+			   [?m :movie/title ?title]]
+			  ```
+	-
+		-
 		-
 		-
