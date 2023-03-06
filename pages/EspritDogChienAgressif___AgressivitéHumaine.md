@@ -22,4 +22,10 @@ link:: https://www.espritdog.com/chapitres/chapitre-2-agressivite-humaine/
 	- #+BEGIN_CAUTION
 	  Une rechute ne veut pas dire que on repart à zéro mais que on a raté quelque chose
 	  #+END_CAUTION
-- #
+- # L’importance de dépenser son chien
+	- type:: Video
+	  link:: https://www.espritdog.com/lecons/limportance-de-depenser-son-chien/
+	- La réactivité humaine est souvent lié à une mauvaise gestion de l'énergie
+		- Le dépenser physiquement et mentalement
+	- Le dépenser physiquement pour lui permettre de se concentrer pour l'apprentissage
+		-
