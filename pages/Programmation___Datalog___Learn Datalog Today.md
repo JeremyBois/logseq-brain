@@ -52,22 +52,23 @@ link:: https://www.learndatalogtoday.org/
 - # Data pattern
 	- link:: https://www.learndatalogtoday.org/chapter/2
 	- Une `where` clause peut contenir plusieurs *data patterns* afin de construire des **jointures**
+		- Une même *variable pattern* peut être réutilisée
 		- ```edn
 		  [:find ?title
 		   :where
 		   [?e :movie/year 1987]
 		   [?e :movie/title ?title]]
 		  ```
-	- Une même *variable pattern* peut être utilisée plusieures fois afin de cumuler les contraintes
-		- Il est possible d'utiliser une *variable pattern* dans une autre *data pattern* pour appliquer des filtres à un ensemble plus restreint de données
-			- Exemple : Récupère le nom des personnes (noms stockées dans `?name` et identifiant dans `?p`) pour les films dans lesquels elles participent (stockée dans `?m`) dont le titre est `"Lethal Weapon"` (stockée dans `?m`)
-				- ```edn
-				  [:find ?name
-				   :where
-				   [?m :movie/title "Lethal Weapon"]
-				   [?m :movie/cast ?p]
-				   [?p :person/name ?name]]
-				  ```
+-
+	- Il est possible d'utiliser une *variable pattern* dans une autre *data pattern* pour appliquer des filtres à un ensemble plus restreint de données
+		- Exemple : Récupère le nom des personnes (noms stockées dans `?name` et *datoms* dans `?p`) pour les films dans lesquels elles participent (stockée dans `?m`) dont le titre est `"Lethal Weapon"` (stockée dans `?m`)
+			- ```edn
+			  [:find ?name
+			   :where
+			   [?m :movie/title "Lethal Weapon"]
+			   [?m :movie/cast ?p]
+			   [?p :person/name ?name]]
+			  ```
 	- L'ordre des contraintes n'a pas d'importance même si les données sont connectées
 		- Les clauses suivantes sont donc équivalentes
 			- ```edn
