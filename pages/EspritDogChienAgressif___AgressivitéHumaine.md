@@ -39,11 +39,18 @@ link:: https://www.espritdog.com/chapitres/chapitre-2-agressivite-humaine/
 	- Apprentissage par imitation
 		- Le faire se balader avec d'autres chiens
 	- Nécessaire d'aller tous les jours en ville
+		- Préférer y aller quand il y a du monde
+			- Plus la ville a une vraie vie plus c'est simple
+				- Il peut identifier d'autre groupes qui se déplacent dans la même direction
 		- Rassurer le chien en le promenant à deux
 			- Réduit le stress et le regard des autres
 			- C'est les gens qui vont devoir bifurquer
-		- Pas d'obéissance
+		- **Pas d'obéissance**
 		- Ne pas s'arrêter / ralentir / accélérer
 		- Une seule personne doit être en charge
 	- Dans un premier temps ne pas récompenser avec des friandises
-		- Il doit
+		- Il doit **réfléchir** et comprendre **par lui même**
+- # En ville
+	- type:: Video
+	  link:: https://www.espritdog.com/lecons/en-ville/
+-
