@@ -35,14 +35,14 @@ link:: https://www.learndatalogtoday.org/
 		  ...
 		  ```
 	- Une requête est représentée comme un vecteur :
-		- Commence par le mot clé `:find` suivie de variables *patterns* (`?e`, `?title`)
-		- Utilisation possible de la clause `where` pour restreindre les résultats et associer la recherche à un *pattern*
+		- Commencer une reqûete -->`:find` suivie de variables *patterns* (`?e`, `?title`)
+		- Restreindre les résultats et associer la recherche à un *pattern* --> `where`
 		- ```edn
 		  [:find ?e ?title
 		   :where
 		   [?e :movie/title ?title]]
 		  ```
-		- Possible d'utiliser `_` comme un **joker** pour ignorer une partie non utile
+		- Ignorer une partie non utile avec un joker (*wildcard*)--> `_`
 			- ```edn
 			  [:find ?e
 			   :where
@@ -59,7 +59,7 @@ link:: https://www.learndatalogtoday.org/
 		   [?e :movie/year 1987]
 		   [?e :movie/title ?title]]
 		  ```
-	- Il est possible d'utiliser une *variable pattern* dans une autre *data pattern* pour appliquer des filtres à un ensemble plus restreint de données
+	- Possible de relier plusieurs *variables pattern* pour cumuler des filtres :
 		- Exemple : Récupère le nom des personnes (stockées dans `?p`) pour les films dans lesquels elles participent (stockée dans `?m`) dont le titre est `"Lethal Weapon"` (stockée dans `?m`)
 			- ```edn
 			  [:find ?name
@@ -87,8 +87,9 @@ link:: https://www.learndatalogtoday.org/
 			   [?d :person/name ?name]]
 			  ```
 - # Parameterized queries
-	- link:: https://www.learndatalogtoday.org/chapter/3
-	- Possible de passer des arguments
+	- type:: Article
+	  link::  https://www.learndatalogtoday.org/chapter/3
+	- Possible de passer des arguments --> `:in`
 		- ```edn
 		  [:find ?title
 		   :in $ ?name
@@ -97,3 +98,5 @@ link:: https://www.learndatalogtoday.org/
 		   [?m :movie/cast ?p]
 		   [?m :movie/title ?title]]
 		  ```
+		- `$` représente la base de données
+			- Implicite si il n'y a pas de clause `in`
