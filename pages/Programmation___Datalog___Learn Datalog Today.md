@@ -204,14 +204,18 @@ link:: https://www.learndatalogtoday.org/
 		   [(< ?b2 ?b1)]
 		   [?e :person/name ?actor]]
 		  ```
-	- Exemple : Titres des films dans la liste fournie ayant une meilleur évaluation (*rating*) et étant plus récents ou de la même année (*year*) que ceux donnés en entré (*input*)
+	- Exemple : Titres des films **dans la liste fournie** ayant une meilleur évaluation (*rating*) et étant plus récents ou de la même année (*year*) que ceux donnés en entré (*input*)
 		- ```edn
 		  [:find ?title
-		   :in $ ?year ?rating [[_ ?r]]
+		   :in $ ?year ?rating [[?title ?r]]
 		   :where
-		   [?m :movie/year  ?y]
+		   [?m :movie/year ?y]
 		   [?m :movie/title ?title]
 		   [(< ?rating ?r)]
 		   [(>= ?y ?year)]
 		  ]
 		  ```
+- # Transformations
+	- type:: Article
+	  link:: https://www.learndatalogtoday.org/chapter/6
+	-

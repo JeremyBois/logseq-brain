@@ -199,8 +199,9 @@ link:: https://mastering-openscad.eu/buch/introduction/
 				- AMF
 				- 3MF
 - # Project 1: Shelf Bracket
-	- link:: https://mastering-openscad.eu/buch/example_01/
-	- ![shelfBracket.png](../assets/shelfBracket_1678028859637_0.png)
+	- type:: Article
+	  link:: https://mastering-openscad.eu/buch/example_01/
+	- ![shelfBracket.png](../assets/shelfBracket_1678028859637_0.png){:height 479, :width 587}
 	- ((64049d27-21da-4527-8ceb-4ddee4bd7232))
 		- Possible d'avoir des fonctions imbriquées dans des fonctions
 			- ```openscad
@@ -271,4 +272,8 @@ link:: https://mastering-openscad.eu/buch/introduction/
 		    thickness = 4
 		  );
 		  ```
-	- TODO Astuces pour l'impression 3D
+	- TODO [Astuces pour l'impression 3D](https://mastering-openscad.eu/buch/example_01/#3d-printing-tips)
+- # Project 2: Wall Anchor
+	- type:: Article
+	  link:: https://mastering-openscad.eu/buch/example_02/
+	-
