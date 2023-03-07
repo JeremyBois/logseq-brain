@@ -143,7 +143,7 @@ link:: https://www.learndatalogtoday.org/
 	- # More queries
 		- type:: Article
 		  link:: https://www.learndatalogtoday.org/chapter/4
-		- Récupére la liste des attributs  --> `:db/ident`
+		- Récupére les attributs  --> `:db/ident`
 			- Chaque attribut est aussi une entité dans la base de donnée
 			- ```edn
 			  [:find ?attr
@@ -152,4 +152,10 @@ link:: https://www.learndatalogtoday.org/
 			   [?p ?a]
 			   [?a :db/ident ?attr]]
 			  ```
--
+		- Récupérer les informations sur les transactions --> `:db/txInstant`
+			- ```edn
+			  [:find ?timestamp
+			   :where
+			   [?p :person/name "James Cameron" ?tx]
+			   [?tx :db/txInstant ?timestamp]]
+			  ```
