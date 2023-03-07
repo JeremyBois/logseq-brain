@@ -148,39 +148,50 @@ link:: https://www.learndatalogtoday.org/
 				- `?box-office` n'est pas utilisé dans la clause `:where`
 					- Le trie est réalisé sur les `?title` uniquement
 					- La **relation** permet de retrouver le nombre d'entrées
-	- # More queries
-		- type:: Article
-		  link:: https://www.learndatalogtoday.org/chapter/4
-		- Attributs
-			- Nom -> `:db/ident`
-				- Chaque attribut est aussi une entité dans la base de donnée
-			- Type --> `:db/valueType`
-				- Type associé à l'attribut
-					- `boolean`
-					- `string`
-					- ...
-			- Cardinalité --> `:db/cardinality`
-				- Quantité de valeur assignable
-					- `one`
-					- `many`
-			- Liste --> `:db.install/attribute`
-				- Liste complète des attributs dans la base de données
+- # More queries
+	- type:: Article
+	  link:: https://www.learndatalogtoday.org/chapter/4
+	- Attributs
+		- Nom -> `:db/ident`
+			- Chaque attribut est aussi une entité dans la base de donnée
+		- Type --> `:db/valueType`
+			- Type associé à l'attribut
+				- `boolean`
+				- `string`
+				- ...
+		- Cardinalité --> `:db/cardinality`
+			- Quantité de valeur assignable
+				- `one`
+				- `many`
+		- Liste --> `:db.install/attribute`
+			- Liste complète des attributs dans la base de données
+		- ```edn
+		  [:find ?attr ?type ?card
+		   :where
+		   [_  :db.install/attribute ?a]
+		   [?a :db/ident ?attr]
+		   [?a :db/valueType ?t]
+		   [?t :db/ident ?type]
+		   [?a :db/cardinality ?c]
+		   [?c :db/ident ?card]
+		   ]
+		  ```
+	- Transactions
+		- Temps associé à l'ajout dans la BDD --> `:db/txInstant`
 			- ```edn
-			  [:find ?attr ?type ?card
+			  [:find ?timestamp
 			   :where
-			   [_  :db.install/attribute ?a]
-			   [?a :db/ident ?attr]
-			   [?a :db/valueType ?t]
-			   [?t :db/ident ?type]
-			   [?a :db/cardinality ?c]
-			   [?c :db/ident ?card]
-			   ]
+			   [?p :person/name "James Cameron" ?tx]
+			   [?tx :db/txInstant ?timestamp]]
 			  ```
-		- Transactions
-			- Temps associé à l'ajout dans la BDD --> `:db/txInstant`
-				- ```edn
-				  [:find ?timestamp
-				   :where
-				   [?p :person/name "James Cameron" ?tx]
-				   [?tx :db/txInstant ?timestamp]]
-				  ```
+- # Predicates
+	- type:: Article
+	  link:: https://www.learndatalogtoday.org/chapter/5
+	- Permet de filtrer les résultats
+	- Trois écritures supportées
+		-
+		- Méthodes en [[Programmation/java]] --> `[(.startsWith ?name "M")]`
+		  id:: 6407aca0-4234-426e-b109-cd31ed8c6199
+		- Fonctions en [[Programmation/Closure]]  -->
+			- Le namespace doit être compris
+			-
