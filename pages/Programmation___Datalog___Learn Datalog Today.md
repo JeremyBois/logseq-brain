@@ -192,8 +192,8 @@ link:: https://www.learndatalogtoday.org/
 		- Génériques --> `[(< ?year 1984)]]`
 		- Méthodes en [[Programmation/java]] --> `[(.startsWith ?name "M")]`
 		  id:: 6407aca0-4234-426e-b109-cd31ed8c6199
-		- Fonctions (+ [[namespace]] ) en [[Programmation/Closure]]  --> ``
-	- Exemple :
+		- Fonctions (+ [[namespace]] ) en [[Programmation/Closure]]  --> `[(even? ?x)]`
+	- Exemple : Acteurs plus vieux que "Danny Glover"
 		- ```edn
 		  [:find ?actor
 		   :where
