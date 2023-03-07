@@ -23,7 +23,7 @@ link:: https://www.learndatalogtoday.org/
 - # Requêtes basiques
 	- type:: Article
 	  link:: https://www.learndatalogtoday.org/chapter/1
-	- Une [[base de données]] organisée autour d'une structure à plat formée de [[Datom]] qui est un ((6406528f-d27a-4247-9202-3ca160ffd79a))
+	- Une [[base de données]] organisée autour d'une structure à plat formée de [[Datom]] qui est un Tuple de 4 éléments :
 		- Entity ID
 		- Attribut
 		- Valeur
@@ -143,4 +143,13 @@ link:: https://www.learndatalogtoday.org/
 	- # More queries
 		- type:: Article
 		  link:: https://www.learndatalogtoday.org/chapter/4
-		-
+		- Récupére la liste des attributs  --> `:db/ident`
+			- Chaque attribut est aussi une entité dans la base de donnée
+			- ```edn
+			  [:find ?attr
+			   :where
+			   [?p :person/name]
+			   [?p ?a]
+			   [?a :db/ident ?attr]]
+			  ```
+-
