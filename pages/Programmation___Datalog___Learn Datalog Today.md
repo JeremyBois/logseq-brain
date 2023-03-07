@@ -151,19 +151,24 @@ link:: https://www.learndatalogtoday.org/
 	- # More queries
 		- type:: Article
 		  link:: https://www.learndatalogtoday.org/chapter/4
-		- Récupére les attributs  --> `:db/ident`
-			- Chaque attribut est aussi une entité dans la base de donnée
-			- ```edn
-			  [:find ?attr
-			   :where
-			   [?p :person/name]
-			   [?p ?a]
-			   [?a :db/ident ?attr]]
-			  ```
-		- Récupérer les informations sur les transactions --> `:db/txInstant`
-			- ```edn
-			  [:find ?timestamp
-			   :where
-			   [?p :person/name "James Cameron" ?tx]
-			   [?tx :db/txInstant ?timestamp]]
-			  ```
+		- Attributs
+			- Nom -> `:db/ident`
+				- Chaque attribut est aussi une entité dans la base de donnée
+				- ```edn
+				  [:find ?attr
+				   :where
+				   [?p :person/name]
+				   [?p ?a]
+				   [?a :db/ident ?attr]]
+				  ```
+			- Liste --> `
+			- Type --> `:db/valueType`
+			- Cardinalité --> `:db/cardinality`
+		- Transactions
+			- Temps associé à l'ajout dans la BDD --> `:db/txInstant`
+				- ```edn
+				  [:find ?timestamp
+				   :where
+				   [?p :person/name "James Cameron" ?tx]
+				   [?tx :db/txInstant ?timestamp]]
+				  ```
