@@ -192,6 +192,15 @@ link:: https://www.learndatalogtoday.org/
 		- Génériques --> `[(< ?year 1984)]]`
 		- Méthodes en [[Programmation/java]] --> `[(.startsWith ?name "M")]`
 		  id:: 6407aca0-4234-426e-b109-cd31ed8c6199
-		- Fonctions (+ [[namespace]] ) en [[Programmation/Closure]]  -->
-			- Le namespace doit être compris
-			-
+		- Fonctions (+ [[namespace]] ) en [[Programmation/Closure]]  --> ``
+	- Exemple :
+		- ```edn
+		  [:find ?actor
+		   :where
+		   [?d :person/name "Danny Glover"]
+		   [?d :person/born ?b1]
+		   [_ :movie/cast ?e]
+		   [?e :person/born ?b2]
+		   [(< ?b2 ?b1)]
+		   [?e :person/name ?actor]]
+		  ```
