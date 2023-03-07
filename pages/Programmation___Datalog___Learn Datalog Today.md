@@ -154,16 +154,28 @@ link:: https://www.learndatalogtoday.org/
 		- Attributs
 			- Nom -> `:db/ident`
 				- Chaque attribut est aussi une entité dans la base de donnée
-				- ```edn
-				  [:find ?attr
-				   :where
-				   [?p :person/name]
-				   [?p ?a]
-				   [?a :db/ident ?attr]]
-				  ```
-			- Liste --> `
 			- Type --> `:db/valueType`
+				- Type associé à l'attribut
+					- `boolean`
+					- `string`
+					- ...
 			- Cardinalité --> `:db/cardinality`
+				- Quantité de valeur assignable
+					- `one`
+					- `many`
+			- Liste --> `:db.install/attribute`
+				- Liste complète des attributs dans la base de données
+			- ```edn
+			  [:find ?attr ?type ?card
+			   :where
+			   [_  :db.install/attribute ?a]
+			   [?a :db/ident ?attr]
+			   [?a :db/valueType ?t]
+			   [?t :db/ident ?type]
+			   [?a :db/cardinality ?c]
+			   [?c :db/ident ?card]
+			   ]
+			  ```
 		- Transactions
 			- Temps associé à l'ajout dans la BDD --> `:db/txInstant`
 				- ```edn
