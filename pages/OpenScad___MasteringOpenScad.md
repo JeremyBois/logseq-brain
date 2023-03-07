@@ -8,7 +8,8 @@ link:: https://mastering-openscad.eu/buch/introduction/
 	- Disponible en version papier sur [Amazon](https://www.amazon.com/dp/3753458589)
 	- Apprentissage à travers 10 projets de plus en plus complexe
 - # Généralités
-	- link:: https://mastering-openscad.eu/buch/gui-overview/
+	- type:: Article
+	  link:: https://mastering-openscad.eu/buch/gui-overview/
 	- ![overviewOpenscad.png](../assets/overviewOpenscad_1677872956181_0.png){:height 400, :width 607}
 		- 1 --> Zone de code
 		- 2 --> Aperçu et rendu 3d
@@ -20,7 +21,8 @@ link:: https://mastering-openscad.eu/buch/introduction/
 		  id:: 6403cc3b-218b-47f7-b134-6c176204c6f3
 			- (Avancé) Customisation / UI en lien avec certaines variables du code
 - # Options basiques
-	- link:: https://mastering-openscad.eu/buch/basic_ops_and_structure/
+	- type:: Article
+	  link:: https://mastering-openscad.eu/buch/basic_ops_and_structure/
 	- Le langage utilisé est **descriptif**
 		- Ce n'est **pas** un langage de [[Programmation]]
 		- Décrit la géométrie à partir de primitives et instructions simples
@@ -202,6 +204,7 @@ link:: https://mastering-openscad.eu/buch/introduction/
 	- type:: Article
 	  link:: https://mastering-openscad.eu/buch/example_01/
 	- ![shelfBracket.png](../assets/shelfBracket_1678028859637_0.png){:height 479, :width 587}
+		-
 	- ((64049d27-21da-4527-8ceb-4ddee4bd7232))
 		- Possible d'avoir des fonctions imbriquées dans des fonctions
 			- ```openscad
@@ -276,4 +279,9 @@ link:: https://mastering-openscad.eu/buch/introduction/
 - # Project 2: Wall Anchor
 	- type:: Article
 	  link:: https://mastering-openscad.eu/buch/example_02/
+	-
+		-
+			-
+		-
+		-
 	-
