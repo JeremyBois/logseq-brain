@@ -71,9 +71,9 @@ link:: https://www.espritdog.com/chapitres/chapitre-1-comprendre-lagressivite/
 				- Renforcer le comportement où il prévient quand on est là
 				- Ne pas le laisser gérer quand un inconnu/ami vient
 			- Faire venir de nombreuses personnes
-				- Faire rencontrer dans un premier temps en dehors (avec musolière)
+				- Faire rencontrer dans un premier temps en dehors (avec muselière)
 					- #+BEGIN_CAUTION
-					  Ne pas mettre la musolière que dans cette configuration pour ne pas le conditionner et renforcer le problème
+					  Ne pas mettre la muselière que dans cette configuration pour ne pas le conditionner et renforcer le problème
 					  #+END_CAUTION
 				- Rentrer avec les personnes
 	- **Redirigé**
