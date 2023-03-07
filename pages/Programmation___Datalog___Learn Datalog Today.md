@@ -204,3 +204,14 @@ link:: https://www.learndatalogtoday.org/
 		   [(< ?b2 ?b1)]
 		   [?e :person/name ?actor]]
 		  ```
+	- Exemple : Titres de films ayant une meilleur évaluation (*rating*) et
+		- ```edn
+		  [:find ?title
+		   :in $ ?year ?rating [[?title ?r]]
+		   :where
+		   [?m :movie/year  ?y]
+		   [?m :movie/title ?title]
+		   [(< ?rating ?r)]
+		   [(>= ?y ?year)]
+		  ]
+		  ```
