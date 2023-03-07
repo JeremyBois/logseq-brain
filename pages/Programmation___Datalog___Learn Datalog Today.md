@@ -114,9 +114,17 @@ link:: https://www.learndatalogtoday.org/
 			- `:in $ [?director ?actor]`
 			- Permet de passer des tableaux et de les destructurer
 		- Collections
-			- `:in $ [?director ...]`
+			- `:in $ [?attr ...]`
 			- Permet de passer plusieurs entrées (*List*)
 				- Simule l'opérateur `or`
+				- ```edn
+				  [:find ?name
+				   :in $ ?title [?attr ...]
+				   :where
+				   [?m :movie/title ?title]
+				   [?m ?attr ?p]
+				   [?p :person/name ?name]
+				  ```
 		- Relations
 			- `:in $ ?director [[?title ?box-office]]`
 			- Permet de passer un jeu de ((6406528f-d27a-4247-9202-3ca160ffd79a)) afin de réaliser des jointures avec la base de données
