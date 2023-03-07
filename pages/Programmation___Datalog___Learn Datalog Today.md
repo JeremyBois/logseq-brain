@@ -23,7 +23,7 @@ link:: https://www.learndatalogtoday.org/
 - # Requêtes basiques
 	- type:: Article
 	  link:: https://www.learndatalogtoday.org/chapter/1
-	- Une [[base de données]] organisée autour d'une structure à plat formée de [[Datom]]
+	- Une [[base de données]] organisée autour d'une structure à plat formée de [[Datom]] qui est un ((6406528f-d27a-4247-9202-3ca160ffd79a))
 		- Entity ID
 		- Attribut
 		- Valeur
