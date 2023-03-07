@@ -71,7 +71,7 @@ link:: https://www.espritdog.com/chapitres/chapitre-1-comprendre-lagressivite/
 				- Renforcer le comportement où il prévient quand on est là
 				- Ne pas le laisser gérer quand un inconnu/ami vient
 			- Faire venir de nombreuses personnes
-				- Faire rencontrer dans un premier temps en dehors (avec muselière)
+				- Faire rencontrer dans un premier temps en dehors (avec ((63fe78a7-2f8b-4644-8c23-2e549c646081)) )
 					- #+BEGIN_CAUTION
 					  Ne pas mettre la muselière que dans cette configuration pour ne pas le conditionner et renforcer le problème
 					  #+END_CAUTION
@@ -207,7 +207,7 @@ link:: https://www.espritdog.com/chapitres/chapitre-1-comprendre-lagressivite/
 		- ## Les accessoires autorisés
 			- Collier / Laisse
 				- Voir ((63fd0555-97a2-4e98-ac2f-6430a5b0f9ed))
-			- Musolière
+			- ((63fe78a7-2f8b-4644-8c23-2e549c646081))
 			- Harnais
 				- Peut permettre de l'aider à comprendre quand il peut jouer et non
 					- laisse + collier = obéissance
@@ -237,11 +237,11 @@ link:: https://www.espritdog.com/chapitres/chapitre-1-comprendre-lagressivite/
 				- #+BEGIN_NOTE
 				  La laisse est un bon outil mais ne doit pas être introduit trop rapidement sous peine de stresser / traumatiser le chien
 				  #+END_NOTE
-- # La musolière
+- # La muselière
   id:: 63fe78a7-2f8b-4644-8c23-2e549c646081
 	- type:: Video
 	  link:: https://www.espritdog.com/lecons/la-museliere-3/
-	- ## Tout comprendre sur la musolière
+	- ## Tout comprendre sur la muselière
 	  id:: 63fd08b4-89e9-48ae-9937-8299608d48d3
 		- ~15 jours pour lui apprendre
 			- Valoriser au maximum
@@ -254,7 +254,7 @@ link:: https://www.espritdog.com/chapitres/chapitre-1-comprendre-lagressivite/
 			- Nécessaire même si on a pas un chien agréssif
 				- Simplifier la vie chez le vétérinaire
 				- Simplifier la vie dans le train
-			- Certaines musolières ont un système de sécurité pour un second collier
+			- Certaines muselières ont un système de sécurité pour un second collier
 		- Baskerville / Panier
 			- 😡 Version normal = plastique mou
 			- 😄 Version ultra = plastique rigide
@@ -279,15 +279,15 @@ link:: https://www.espritdog.com/chapitres/chapitre-1-comprendre-lagressivite/
 	  id:: 63fd08de-a163-4662-bbf0-36a8912acf4e
 		- Travailler progressivement
 			- Récompense au fond
-			- Récompense à travers la musolière
+			- Récompense à travers la muselière
 			- Récompense une fois attaché
 			- Récompense après un certain temps
 			- Récompenser après de l'obeissance
 		- Le mettre en mouvement et varier les activités
-		- Imbiber la musolière avec du poulet ou autre odeur
+		- Imbiber la muselière avec du poulet ou autre odeur
 		- Ne pas brusquer l'apprentissage
 		- #+BEGIN_CAUTION
-		  Ne pas récompenser après avoir enlever la musolière pour ne pas encourager le fait de l'enlever
+		  Ne pas récompenser après avoir enlever la muselière pour ne pas encourager le fait de l'enlever
 		  #+END_CAUTION
 -
 - # Le danger des règles trop strictes
