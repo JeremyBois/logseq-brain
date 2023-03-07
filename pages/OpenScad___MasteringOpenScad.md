@@ -279,7 +279,8 @@ link:: https://mastering-openscad.eu/buch/introduction/
 - # Project 2: Wall Anchor
 	- type:: Article
 	  link:: https://mastering-openscad.eu/buch/example_02/
-	-
+	- ![wallAnchor.png](../assets/wallAnchor_1678227962446_0.png)
+		-
 		-
 			-
 		-

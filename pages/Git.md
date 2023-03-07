@@ -1,4 +1,5 @@
 link:: [Documentation](https://git-scm.com/)
+title:: Git
 [[Jan 25th, 2023]]
 
 - ## Description
