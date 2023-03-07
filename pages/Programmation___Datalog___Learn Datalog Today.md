@@ -189,9 +189,9 @@ link:: https://www.learndatalogtoday.org/
 	  link:: https://www.learndatalogtoday.org/chapter/5
 	- Permet de filtrer les résultats
 	- Trois écritures supportées
-		-
+		- Génériques --> `[(< ?year 1984)]]`
 		- Méthodes en [[Programmation/java]] --> `[(.startsWith ?name "M")]`
 		  id:: 6407aca0-4234-426e-b109-cd31ed8c6199
-		- Fonctions en [[Programmation/Closure]]  -->
+		- Fonctions (+ [[namespace]] ) en [[Programmation/Closure]]  -->
 			- Le namespace doit être compris
 			-
