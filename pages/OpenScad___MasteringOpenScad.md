@@ -204,7 +204,7 @@ link:: https://mastering-openscad.eu/buch/introduction/
 	- type:: Article
 	  link:: https://mastering-openscad.eu/buch/example_01/
 	- ![shelfBracket.png](../assets/shelfBracket_1678028859637_0.png){:height 479, :width 587}
-		-
+		- Code final --> [shelfBracket](file:///home/pampi/Documents/Course/MasteringOpenScad)
 	- ((64049d27-21da-4527-8ceb-4ddee4bd7232))
 		- Possible d'avoir des fonctions imbriquées dans des fonctions
 			- ```openscad
