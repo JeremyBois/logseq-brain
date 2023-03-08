@@ -6,5 +6,8 @@ link:: https://www.espritdog.com/lecons/la-reverence/
 
 - ![reference_01.png](../assets/reference_01_1678273287114_0.png){:height 292, :width 480}
 - # Étapes
-	- Tendre une jambe et le faire prendre la friandise
--
+	- Tendre une jambe et le faire prendre la friandise par dessous
+		- Ne pas le laisser poser les pattes arrières
+		- Dire `Révérence` juste avant de récompenser
+	-
+		-
