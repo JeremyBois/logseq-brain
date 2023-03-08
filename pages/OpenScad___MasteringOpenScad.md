@@ -204,7 +204,7 @@ link:: https://mastering-openscad.eu/buch/introduction/
 	- type:: Article
 	  link:: https://mastering-openscad.eu/buch/example_01/
 	- [Code OpenScad ](file:///home/pampi/Documents/Course/MasteringOpenScad/shelf_bracket.scad)
-	- ![shelfBracket.png](../assets/shelfBracket_1678028859637_0.png){:height 318, :width 406}
+	- ![shelfBracket.png](../assets/shelfBracket_1678028859637_0.png){:height 322, :width 379}
 	- ((64049d27-21da-4527-8ceb-4ddee4bd7232))
 		- Possible d'avoir des fonctions imbriquées dans des fonctions
 		- ```openscad
@@ -278,15 +278,15 @@ link:: https://mastering-openscad.eu/buch/introduction/
 	- Astuces pour l'impression 3D
 		- Optimiser l'orientation
 			- Limiter l'utilisation de support durant l'impression
-			- Réduire les forces
-		-
+				- Réduit le gaspillage
+				- Éviter le nettoyage post impression et un risque de cassure
+			- Réduire les forces de cisaillement entre différentes couches
+				- Permet d'améliorer la résistance de la pièce
 - # Project 2: Wall Anchor
 	- type:: Article
 	  link:: https://mastering-openscad.eu/buch/example_02/
-	- ![wallAnchor.png](../assets/wallAnchor_1678227962446_0.png)
-		-
-		-
-			-
-		-
+	- [Code OpenScad ](file:///home/pampi/Documents/Course/MasteringOpenScad/wall_anchor.scad)
+	- ![wallAnchor.png](../assets/wallAnchor_1678227962446_0.png){:height 269, :width 396}
+	-
 		-
 	-
