@@ -31,7 +31,7 @@
 - ## Éducation du chien
 - type:: [[Video]]
   author:: #Espritdog 
-  tags:: Espritdog, Chien
+  tags:: Chien, Education
   link::
   template:: EspritDog
   <% Today %>
