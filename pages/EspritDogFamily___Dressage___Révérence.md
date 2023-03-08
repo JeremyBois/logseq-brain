@@ -1,6 +1,6 @@
 type:: [[Video]]
 author:: #Espritdog 
-tags:: Espritdog, Chien
+tags:: Chien, Education
 link:: https://www.espritdog.com/lecons/la-reverence/
 [[Mar 8th, 2023]]
 
@@ -15,5 +15,10 @@ link:: https://www.espritdog.com/lecons/la-reverence/
 		- #+BEGIN_NOTE
 		  L'accompagner de moins en moins bas pour au final ne plus avoir à le guider
 		  #+END_NOTE
-	- Une fois que l'ordre est compris dire l'ordre en amont
-		-
+	- Une fois que le chien a fait le lien entre **ordre** et **action**
+		- Dire `Révérence` en amont
+		- Dire `Révérence` encore juste avant de récompenser
+		- Récompenser
+	- #+BEGIN_IMPORTANT
+	  C'est un mouvement dur à tenir pour le chien donc il faut être patient
+	  #+END_IMPORTANT
