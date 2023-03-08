@@ -10,6 +10,27 @@ a.tag[data-ref]{
 th {font-size: 1.1rem; font-weight: bold; text-transform: capitalize}/* Wrapping text in query table */
 td {white-space: pre-wrap !important}
 
+/* Hide properties */
+.content .block-properties {
+  visibility: hidden;
+  position: relative;
+}
+
+.content .block-properties:hover {
+  visibility: visible;
+}
+
+.content .block-properties::after {
+  visibility: visible;
+  position: absolute;
+  top: 0;
+  left: 0;
+  content: "👻";
+}
+
+.content .block-properties:hover::after {
+  content: "";
+}
 
 /* ==========  BETTER-SIDEBAR - right sidebarshrinking panes w/ horizontal scroll v20221217==================*/
 
