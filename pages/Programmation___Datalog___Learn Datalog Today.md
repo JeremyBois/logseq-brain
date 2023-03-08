@@ -190,7 +190,7 @@ link:: https://www.learndatalogtoday.org/
 	- Permet de filtrer les résultats
 	- Trois écritures supportées
 		- Génériques --> `[(< ?year 1984)]]`
-		- Méthodes en [[Programmation/java]] --> `[(.startsWith ?name "M")]`
+		- Méthodes en [[Programmation/Java]] --> `[(.startsWith ?name "M")]`
 		  id:: 6407aca0-4234-426e-b109-cd31ed8c6199
 		- Fonctions (+ [[namespace]] ) en [[Programmation/Closure]]  --> `[(even? ?x)]`
 	- Exemple : Acteurs plus vieux que "Danny Glover"
