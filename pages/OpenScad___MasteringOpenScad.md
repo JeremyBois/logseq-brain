@@ -203,22 +203,22 @@ link:: https://mastering-openscad.eu/buch/introduction/
 - # Project 1: Shelf Bracket
 	- type:: Article
 	  link:: https://mastering-openscad.eu/buch/example_01/
-	- ![shelfBracket.png](../assets/shelfBracket_1678028859637_0.png){:height 479, :width 587}
-		- Code final --> [shelfBracket](file:///home/pampi/Documents/Course/MasteringOpenScad)
+	- [Code OpenScad ](file:///home/pampi/Documents/Course/MasteringOpenScad/shelf_bracket.scad)
+	- ![shelfBracket.png](../assets/shelfBracket_1678028859637_0.png){:height 318, :width 406}
 	- ((64049d27-21da-4527-8ceb-4ddee4bd7232))
 		- Possible d'avoir des fonctions imbriquées dans des fonctions
-			- ```openscad
-			  module shelf_bracket(side_a, side_b, width, thickness) {
-			    module xhole_plate(size, h_dm, h_num, margin) {
-			      difference() { cube(size); }
-			    }
-			  
-			    // Side A
-			    xhole_plate([ side_a[0], width, thickness ], side_a[1], side_a[2], thickness);
-			    // Side B
-			    xhole_plate([ side_b[0], width, thickness ], side_b[1], side_b[2], thickness);
-			  }
-			  ```
+		- ```openscad
+		  module shelf_bracket(side_a, side_b, width, thickness) {
+		    module xhole_plate(size, h_dm, h_num, margin) {
+		      difference() { cube(size); }
+		    }
+		  
+		    // Side A
+		    xhole_plate([ side_a[0], width, thickness ], side_a[1], side_a[2], thickness);
+		    // Side B
+		    xhole_plate([ side_b[0], width, thickness ], side_b[1], side_b[2], thickness);
+		  }
+		  ```
 	- Variables spéciales --> `$var`
 		- Contrôler le niveau de détail des **courbes** --> `$fn`
 			- **Augmenter** la valeur **augmente** la précision
@@ -275,7 +275,11 @@ link:: https://mastering-openscad.eu/buch/introduction/
 		    thickness = 4
 		  );
 		  ```
-	- TODO [Astuces pour l'impression 3D](https://mastering-openscad.eu/buch/example_01/#3d-printing-tips)
+	- Astuces pour l'impression 3D
+		- Optimiser l'orientation
+			- Limiter l'utilisation de support durant l'impression
+			- Réduire les forces
+		-
 - # Project 2: Wall Anchor
 	- type:: Article
 	  link:: https://mastering-openscad.eu/buch/example_02/
