@@ -1,4 +1,5 @@
 tags:: #DSL #Logseq 
+alias:: Hiccup
 link:: [Github](https://github.com/weavejester/hiccup)
 [[Mar 8th, 2023]]
 
