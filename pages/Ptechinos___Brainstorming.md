@@ -24,8 +24,7 @@ link::
 				- Éviter de voir la tête de vis dépasser
 - # Firmware
 	- ## Commun
-		- Utiliser directement la commande `make`
-			- Se placer dans le dossier racine --> *qmk_firmware*
+		- Utiliser directement la commande `make` en se plaçant directement dans le dossier  racine --> *qmk_firmware*
 			- `make --jobs=1 ptechinos/2040:default trackpad=true`
 	- ## Trackball
 		- TODO [Auto mouse layer](https://github.com/qmk/qmk_firmware/blob/master/docs/feature_pointing_device.md#automatic-mouse-layer-idpointing-device-auto-mouse)
