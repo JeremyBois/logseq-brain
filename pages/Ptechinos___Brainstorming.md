@@ -24,15 +24,21 @@ link::
 				- Éviter de voir la tête de vis dépasser
 - # Firmware
 	- ## Commun
-		- Utiliser directement la commande `make` en se plaçant directement dans le dossier  racine --> *qmk_firmware*
-			- `make --jobs=1 ptechinos/2040:default trackpad=true`
-		- Pour que QMK puisse flasher le microcontrôleur il doit être monté (bootloader mode)
-	- ## Trackball
-		- TODO [Auto mouse layer](https://github.com/qmk/qmk_firmware/blob/master/docs/feature_pointing_device.md#automatic-mouse-layer-idpointing-device-auto-mouse)
-		- Build pour la trackball
+		- Flasher un RP2040
+			- Basculer le clavier en *bootloader mode*
+			- Monter le clavier comme un disque dur
+		- Compilation customisable :
+			- Voir qmk compile -kb ptechinos/2040 -km default -bl uf2-split-right -n
+			- Utiliser directement la commande `make` en se plaçant directement dans le dossier  racine --> *qmk_firmware*
 			- **EE_HANDS**
 				- `make --jobs=1 ptechinos/2040:default:uf2-split-right trackball=true`
+				- `make --jobs=1 ptechinos/2040:default:uf2-split-left trackpad=true`
 			- **#define MASTER_RIGHT**
 				- `make --jobs=1 ptechinos/2040:default trackball=true`
+			- **#define MASTER_LEFT**
+				- `make --jobs=1 ptechinos/2040:default trackpad=true`
+	- ## Trackballs
+		- TODO [Auto mouse layer](https://github.com/qmk/qmk_firmware/blob/master/docs/feature_pointing_device.md#automatic-mouse-layer-idpointing-device-auto-mouse)
+		- Build pour la trackball
 	- ## Trackpad
 		- TODO [Auto mouse layer](https://github.com/qmk/qmk_firmware/blob/master/docs/feature_pointing_device.md#automatic-mouse-layer-idpointing-device-auto-mouse)
