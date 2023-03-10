@@ -28,7 +28,8 @@ link::
 			- Basculer le clavier en *bootloader mode*
 			- Monter le clavier comme un disque dur
 		- Compilation customisable :
-			- Voir qmk compile -kb ptechinos/2040 -km default -bl uf2-split-right -n
+			- Utiliser l'option `-n` pour afficher la commande #Make correspondante
+				- `qmk compile -kb ptechinos/2040 -km default -n` --> `make --jobs=1 ptechinos/2040:default`
 			- Utiliser directement la commande `make` en se plaçant directement dans le dossier  racine --> *qmk_firmware*
 			- **EE_HANDS**
 				- `make --jobs=1 ptechinos/2040:default:uf2-split-right trackball=true`
