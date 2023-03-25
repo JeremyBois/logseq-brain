@@ -8,3 +8,6 @@ link:: https://ploopy.co/
 		- #OpenSource Case / Hardware
 		- #QMK Firmware
 		- Commande en kit ou pre construit
+- # References
+	- [[Adventures in Ploopy-land]]
+	-
