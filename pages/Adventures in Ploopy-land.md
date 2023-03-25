@@ -5,7 +5,7 @@ link:: [Blog](https://www.gbryant.co.uk/posts/2021-02-15_ploopy-trackball/post.h
 [[Mar 25th, 2023]]
 
 - # Description
-	- Explications sur les différents systèmes de bearings dans le cadre de l'a
+	- Études des différents types de bearings pour améliorer la trackball [[Ploopy/Classic]]
 - ## Roller bearings
 	- ![Roller_bearings_agencement.png](../assets/Roller_bearings_agencement_1679773909456_0.png){:height 180, :width 304}
 	- Agencement
