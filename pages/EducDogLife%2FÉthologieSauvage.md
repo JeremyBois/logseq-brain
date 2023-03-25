@@ -1,6 +1,6 @@
 type:: [[Video]]
 title:: EducDogLife/ÉthologieSauvage
-author:: #Educdog 
+auteur:: #Educdog 
 tags:: Chien, Education
 link::
 [[Jan 22nd, 2023]]

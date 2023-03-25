@@ -1,5 +1,5 @@
 type:: [[Book]]
-author:: #[[Jochen Kerdels]]
+auteur:: #[[Jochen Kerdels]]
 tags:: #OpenScad #CAD #Formation 
 link:: https://mastering-openscad.eu/buch/introduction/
 [[Mar 3rd, 2023]]

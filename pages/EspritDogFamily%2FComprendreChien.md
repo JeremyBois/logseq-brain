@@ -1,5 +1,5 @@
 title:: EspritDogFamily/ComprendreChien
-author:: #Espritdog 
+auteur:: #Espritdog 
 tags:: Chien, Education
 link:: [Source](https://www.espritdog.com/chapitres/chapitre-5-comprendre-le-chien/)
 [[Jan 22nd, 2023]]

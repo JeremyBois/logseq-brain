@@ -1,6 +1,6 @@
 title:: EducDogLife/AnxieteSeparation
 type:: [[Video]]
-author:: #Educdog 
+auteur:: #Educdog 
 tags:: #Chien
 link:: [Formation](https://educ-dog.mykajabi.com/products/educ-dog-life-v2-avec-bonus-par-abonnement/categories/2151459087) 
 [[Feb 18th, 2023]]

@@ -9,7 +9,7 @@ link:: [Github](https://github.com/weavejester/hiccup)
 - # Cours
 - ## Hiccup Lightning Tutorial
 	- type:: Article
-	  author:: #[[Iwo Herka]]
+	  auteur:: #[[Iwo Herka]]
 	  link:: https://medium.com/makimo-tech-blog/hiccup-lightning-tutorial-6494e477f3a5)
 	- ```closure
 	  [:div

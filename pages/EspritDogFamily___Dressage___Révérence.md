@@ -1,5 +1,5 @@
 type:: [[Video]]
-author:: #Espritdog 
+auteur:: #Espritdog 
 tags:: Chien, Education
 link:: https://www.espritdog.com/lecons/la-reverence/
 [[Mar 8th, 2023]]

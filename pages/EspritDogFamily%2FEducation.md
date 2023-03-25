@@ -1,5 +1,5 @@
 title:: EspritDogFamily/Education
-author:: #Espritdog 
+auteur:: #Espritdog 
 tags:: Chien, Education
 link:: https://www.espritdog.com/chapitres/chapitre-1-education/
 [[Feb 24th, 2023]]

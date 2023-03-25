@@ -23,7 +23,7 @@ link:: https://www.learndatalogtoday.org/
 - # Requêtes basiques
 	- type:: Article
 	  link:: https://www.learndatalogtoday.org/chapter/1
-	- Une [[base de données]] organisée autour d'une structure à plat formée de [[Datom]]
+	- Une [[base de données]] organisée autour d'une structure à plat formée de [[Datom]] qui est un Tuple de 4 éléments :
 		- Entity ID
 		- Attribut
 		- Valeur
@@ -114,9 +114,17 @@ link:: https://www.learndatalogtoday.org/
 			- `:in $ [?director ?actor]`
 			- Permet de passer des tableaux et de les destructurer
 		- Collections
-			- `:in $ [?director ...]`
+			- `:in $ [?attr ...]`
 			- Permet de passer plusieurs entrées (*List*)
 				- Simule l'opérateur `or`
+				- ```edn
+				  [:find ?name
+				   :in $ ?title [?attr ...]
+				   :where
+				   [?m :movie/title ?title]
+				   [?m ?attr ?p]
+				   [?p :person/name ?name]
+				  ```
 		- Relations
 			- `:in $ ?director [[?title ?box-office]]`
 			- Permet de passer un jeu de ((6406528f-d27a-4247-9202-3ca160ffd79a)) afin de réaliser des jointures avec la base de données
@@ -140,8 +148,74 @@ link:: https://www.learndatalogtoday.org/
 				- `?box-office` n'est pas utilisé dans la clause `:where`
 					- Le trie est réalisé sur les `?title` uniquement
 					- La **relation** permet de retrouver le nombre d'entrées
-	- # More queries
-		- type:: Article
-		  link:: https://www.learndatalogtoday.org/chapter/4
-		-
-		-
+- # More queries
+	- type:: Article
+	  link:: https://www.learndatalogtoday.org/chapter/4
+	- Attributs
+		- Nom -> `:db/ident`
+			- Chaque attribut est aussi une entité dans la base de donnée
+		- Type --> `:db/valueType`
+			- Type associé à l'attribut
+				- `boolean`
+				- `string`
+				- ...
+		- Cardinalité --> `:db/cardinality`
+			- Quantité de valeur assignable
+				- `one`
+				- `many`
+		- Liste --> `:db.install/attribute`
+			- Liste complète des attributs dans la base de données
+		- ```edn
+		  [:find ?attr ?type ?card
+		   :where
+		   [_  :db.install/attribute ?a]
+		   [?a :db/ident ?attr]
+		   [?a :db/valueType ?t]
+		   [?t :db/ident ?type]
+		   [?a :db/cardinality ?c]
+		   [?c :db/ident ?card]
+		   ]
+		  ```
+	- Transactions
+		- Temps associé à l'ajout dans la BDD --> `:db/txInstant`
+			- ```edn
+			  [:find ?timestamp
+			   :where
+			   [?p :person/name "James Cameron" ?tx]
+			   [?tx :db/txInstant ?timestamp]]
+			  ```
+- # Predicates
+	- type:: Article
+	  link:: https://www.learndatalogtoday.org/chapter/5
+	- Permet de filtrer les résultats
+	- Trois écritures supportées
+		- Génériques --> `[(< ?year 1984)]]`
+		- Méthodes en [[Programmation/Java]] --> `[(.startsWith ?name "M")]`
+		  id:: 6407aca0-4234-426e-b109-cd31ed8c6199
+		- Fonctions (+ [[namespace]] ) en [[Programmation/Closure]]  --> `[(even? ?x)]`
+	- Exemple : Acteurs plus vieux que "Danny Glover"
+		- ```edn
+		  [:find ?actor
+		   :where
+		   [?d :person/name "Danny Glover"]
+		   [?d :person/born ?b1]
+		   [_ :movie/cast ?e]
+		   [?e :person/born ?b2]
+		   [(< ?b2 ?b1)]
+		   [?e :person/name ?actor]]
+		  ```
+	- Exemple : Titres des films **dans la liste fournie** ayant une meilleur évaluation (*rating*) et étant plus récents ou de la même année (*year*) que ceux donnés en entré (*input*)
+		- ```edn
+		  [:find ?title
+		   :in $ ?year ?rating [[?title ?r]]
+		   :where
+		   [?m :movie/year ?y]
+		   [?m :movie/title ?title]
+		   [(< ?rating ?r)]
+		   [(>= ?y ?year)]
+		  ]
+		  ```
+- # Transformations
+	- type:: Article
+	  link:: https://www.learndatalogtoday.org/chapter/6
+	-

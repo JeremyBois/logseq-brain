@@ -30,7 +30,7 @@
 - ## Programmation
 - ## Éducation du chien
 - type:: [[Video]]
-  author:: #Espritdog 
+  auteur:: #Espritdog
   tags:: Chien, Education
   link::
   template:: EspritDog

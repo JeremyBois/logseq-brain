@@ -56,5 +56,4 @@ link:: [Source](https://cynotopia.online/produit/guide-du-shaping)
 	- Remplacer avec cadeaux
 	- Ne pas être pressé
 - Cas pratique : Tête au sol
-	- TODO Description
 -

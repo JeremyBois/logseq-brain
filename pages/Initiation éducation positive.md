@@ -1,5 +1,5 @@
 type:: [[Book]]
-author:: #Cynotopia 
+auteur:: #Cynotopia 
 tags:: Chien, EducationPositive
 link:: [Source](https://cynotopia.online/produit/initiation-a-leducation-positive)
 [[Jan 22nd, 2023]]

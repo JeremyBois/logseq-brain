@@ -43,11 +43,11 @@ link:: https://www.espritdog.com/chapitres/chapitre-1-education/
 - # Frustration et renoncement
   id:: 63f881b0-850e-41b0-8e25-2c799bff6b09
 	- type:: Video
-	- TODO Bilan
+	- TODO Bilan Frustration et renoncement
 - # Lui apprendre à se contrôler
   id:: 63f88761-788a-46ea-8f8e-7cb0c94b0b74
 	- type:: Video
-	- TODO Bilan
+	- TODO Bilan Lui apprendre à se contrôler
 - # Comment punir son chien
 	- type:: Video
 	- **Ne fonctionne pas**
@@ -63,6 +63,7 @@ link:: https://www.espritdog.com/chapitres/chapitre-1-education/
 		- Il va se calmer oui mais uniquement car il a rien fait pendant un moment --> ((63f87775-1f1d-4819-a903-8b165b51a432))
 	- **Fonctionne temporairement**
 		- Bruits style *pet corrector*
+		  id:: 63f918b8-70b0-4849-b2ec-4dc604c5d69c
 			- Risque d'habituation et de banalisation
 			- Ne construit pas de relation de confiance
 			- Peut entraîner des troubles du comportement

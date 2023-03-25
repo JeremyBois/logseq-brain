@@ -1,5 +1,5 @@
 type:: [[Article]]
-author:: #Cynotopia 
+auteur:: #Cynotopia 
 tags:: Chien
 link:: [Source](https://www.cynotopia.fr/enrichissement-stimuler-occuper)
 [[Jan 22nd, 2023]]

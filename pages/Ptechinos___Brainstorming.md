@@ -22,15 +22,20 @@ link::
 			- Épaisseur de la tête pour **rigidifier** l'ensemble #PCB / `top plate`
 				- Éviter que la `top plate` se déclipse
 				- Éviter de voir la tête de vis dépasser
+	- Laisser plus de place sur la *top plate* au niveau des encodeurs
+		- Permet de laisser passer les switches qui doivent êtres soudés
 - # Firmware
 	- ## Commun
-		- Flasher un RP2040
-			- Basculer le clavier en *bootloader mode*
-			- Monter le clavier comme un disque dur
+		- Flasher --> `qmk flash`
+			- Promicro
+				- Directement possible
+			- RP2040
+				- Basculer le clavier en mode *bootloader*
+				- Monter le clavier comme un disque dur
 		- Compilation customisable :
-			- Utiliser l'option `-n` pour afficher la commande #Make correspondante
+			- Utiliser l'option `-n` pour afficher la commande #Make correspondante utilisable comme base
 				- `qmk compile -kb ptechinos/2040 -km default -n` --> `make --jobs=1 ptechinos/2040:default`
-			- Utiliser directement la commande `make` en se plaçant directement dans le dossier  racine --> *qmk_firmware*
+			- Utiliser directement la commande `make` en se plaçant directement dans le dossier  racine (*qmk_firmware*)
 			- **EE_HANDS**
 				- `make --jobs=1 ptechinos/2040:default:uf2-split-right trackball=true`
 				- `make --jobs=1 ptechinos/2040:default:uf2-split-left trackpad=true`
@@ -38,8 +43,22 @@ link::
 				- `make --jobs=1 ptechinos/2040:default trackball=true`
 			- **#define MASTER_LEFT**
 				- `make --jobs=1 ptechinos/2040:default trackpad=true`
-	- ## Trackballs
-		- TODO [Auto mouse layer](https://github.com/qmk/qmk_firmware/blob/master/docs/feature_pointing_device.md#automatic-mouse-layer-idpointing-device-auto-mouse)
-		- Build pour la trackball
-	- ## Trackpad
-		- TODO [Auto mouse layer](https://github.com/qmk/qmk_firmware/blob/master/docs/feature_pointing_device.md#automatic-mouse-layer-idpointing-device-auto-mouse)
+	- [Auto mouse layer](https://github.com/qmk/qmk_firmware/blob/master/docs/feature_pointing_device.md#automatic-mouse-layer-idpointing-device-auto-mouse)
+		- Permet d'activer une couche quand on utilise le #Trackpad ou la #Trackball
+		- Permet de d'ajouter les clics de souris ou autres outils de navigation
+- # Layout
+	- *Shift* avec ((640bbca1-3642-48bf-a8a9-57c18d9f0ea3))
+		- Gauche --> `S+F`
+		- Droite    --> `J+L`
+		- Avantages :
+			- Éviter un *mod tap*
+			- Réduit l'utilisation du petit doigt
+			- Simplifier la navigation
+				- Debug #Unity
+				- Jeux
+			- Force l'utilisation des deux mains
+	- ## Combos
+	  id:: 640bbca1-3642-48bf-a8a9-57c18d9f0ea3
+		- Combiner plusieurs touches en même temps
+		- Ressources
+			- [Combos pour les modificateurs](https://jasoncarloscox.com/blog/combo-mods/)
