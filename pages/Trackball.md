@@ -14,7 +14,8 @@ alias:: Trackballs
 				- Impacte la capacité à faire des petits déplacements
 			- Une adhérence importante demande plus de force pour commencer à faire bouger la boule
 		- Résistance aux frottements (*rolling friction*)
-			- Résistance au mouvement lorsque la balle est déjà en rotation
+			- [Wikipédia](https://en.wikipedia.org/wiki/Rolling)
+			- Résistance au mouvement(rotation + translation) lorsque la balle est déjà en rotation
 				- Impacte la capacité à faire naviguer rapidement le curseur sur de longues distances
 			- Une résistance importante entraîne une mise à l'arrêt rapide du mouvement de la boule
 		- Bruit
