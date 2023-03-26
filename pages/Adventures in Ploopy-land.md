@@ -9,12 +9,18 @@ link:: [Blog](https://www.gbryant.co.uk/posts/2021-02-15_ploopy-trackball/post.h
 		- Original --> ((762fa0d6-cb08-482f-8b41-26bebf932d17))
 		- Mod --> ((78878d11-65fc-475e-b5be-cfa454f309cd))
 - ***
-- # Facteurs pris en comptes
+- # Facteurs d'évaluations utilisés
 	- Régularité (*smoothness*) :
 		- Caractérise la continuité de la résistance pour toutes directions et vitesses
-		- Caractériste un mouvement consistant sans irrégu
+		- Une forte régularité donne un mouvement consistant sans irrégularité
+			- Pas de sauts dans le suivi
+			- Pas de sensation de sable coincé
 	- Résistance à la mise en mouvement (*static friction*) :
+		- Caractérise la résistance sur des micros mouvements et donc la précision
+		- Une résistance importante demande moins de force pour commencer à faire bouger la boule
 	- Résistance aux frottements (*rolling friction*) :
+		- Résistance au mouvement lorsque la balle est déjà en rotation
+		- Une résistance
 - # Types de bearings
 - ## Roller bearings
   id:: 762fa0d6-cb08-482f-8b41-26bebf932d17
