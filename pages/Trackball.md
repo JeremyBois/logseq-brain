@@ -9,9 +9,10 @@ alias:: Trackballs
 				- Pas de sensation de sable coincé
 		- Adhérence (*static friction* / *Stiction*)
 			- [Wikipédia](https://en.wikipedia.org/wiki/Stiction)
-			- Caractérise la résistance à la mise en mouvement de la balle par rapport au roulement
+			- Caractérise la résistance à la mise en mouvement
 				- Impacte la capacité à positionner précisément le curseur
-			- Une résistance importante demande plus de force pour commencer à faire bouger la boule
+				- Impacte la capacité à faire des petits déplacements
+			- Une adhérence importante demande plus de force pour commencer à faire bouger la boule
 		- Résistance aux frottements (*rolling friction*)
 			- Résistance au mouvement lorsque la balle est déjà en rotation
 				- Impacte la capacité à faire naviguer rapidement le curseur sur de longues distances
