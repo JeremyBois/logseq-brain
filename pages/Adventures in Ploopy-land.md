@@ -36,6 +36,7 @@ link:: [Blog](https://www.gbryant.co.uk/posts/2021-02-15_ploopy-trackball/post.h
 	- Utilise des roulements avec un unique axe de liberté sur lequel il tourne
 		- La résistance est dépendante de l'alignement entre l'axe du roulement et la direction de rotation de la boule
 		- Peut entraîner des sauts / irrégularités suivant la direction de rotation de la boule
+		- Mécanisme semi-complexe --> coût moyen
 	- Positionnement
 		- ![Roller_bearings_agencement.png](../assets/Roller_bearings_agencement_1679773909456_0.png){:height 180, :width 304}
 		- Vertical
@@ -52,6 +53,7 @@ link:: [Blog](https://www.gbryant.co.uk/posts/2021-02-15_ploopy-trackball/post.h
 	- Utilise des billes en céramiques ([Zro2 (zirconia) versus Si3N4 (silicon nitride)](https://prokcssmedia.blob.core.windows.net/sys-master-images/hb2/haf/9263251816478/ceramic-bearing-selection-guide.pdf))
 		- La boule est en contact avec les trois billes qui sont elles statiques
 		- Résistance aux frottements faible
+		- Mécanisme très simple --> coût très faible
 	- Adaptateurs pour le modèle [[Ploopy/Classic]]
 		- [Thingiverse](https://www.thingiverse.com/thing:4650448)
 	- **Évaluation**
@@ -63,8 +65,11 @@ link:: [Blog](https://www.gbryant.co.uk/posts/2021-02-15_ploopy-trackball/post.h
 			- Normal (même avec une boule plus légère)
 - ## Unités de transfert à billes (*Ball transfer units*)
   id:: 78878d11-65fc-475e-b5be-cfa454f309cd
-	- Roulements omnidirectionnels
-		- Une bille
+	- Roulements omnidirectionnels sur une bille elle même en mouvement grâce à un ensemble de petites billes
+		- Résistance au frottements réduits au minimum
+		- Mécanisme complexe --> coût très important
+		-
+		-
 	- Positionnement
 		- ![BTU_bearings_agencement.png](../assets/BTU_bearings_agencement_1679774067146_0.png){:height 200, :width 304}
 		- Vertical
