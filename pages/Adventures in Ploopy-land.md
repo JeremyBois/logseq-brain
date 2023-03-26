@@ -41,7 +41,7 @@ link:: [Blog](https://www.gbryant.co.uk/posts/2021-02-15_ploopy-trackball/post.h
 		- Vertical
 			- Base --> 60°
 			- Surhaussement de celui au niveau du poignet pour améliorer la stabilité --> 77°
-	- Évaluation
+	- **Évaluation**
 		- ((641ffa6e-f162-4fbd-a1f2-13f7cbec1446))
 			- Bien
 		- ((641ffab4-0d51-45cb-8610-d3d6fa2f93ff))
@@ -52,18 +52,19 @@ link:: [Blog](https://www.gbryant.co.uk/posts/2021-02-15_ploopy-trackball/post.h
 	- Utilise des billes en céramiques ([Zro2 (zirconia) versus Si3N4 (silicon nitride)](https://prokcssmedia.blob.core.windows.net/sys-master-images/hb2/haf/9263251816478/ceramic-bearing-selection-guide.pdf))
 		- La boule est en contact avec les trois billes qui sont elles statiques
 		- Résistance aux frottements faible
-	- Adaptateurs pour l
-	- Évaluation
+	- Adaptateurs pour le modèle [[Ploopy/Classic]]
+		- [Thingiverse](https://www.thingiverse.com/thing:4650448)
+	- **Évaluation**
 		- ((641ffa6e-f162-4fbd-a1f2-13f7cbec1446))
 			- Excellent
 		- ((641ffab4-0d51-45cb-8610-d3d6fa2f93ff))
-			- Mauvais
-			- La boule est trop lourde
+			- Mauvais (même avec une boule plus légère)
 		- ((641ffb4b-e14b-4040-8119-663e99f67c73))
-			- Normal
-			- La boule est trop lourde
+			- Normal (même avec une boule plus légère)
 - ## Unités de transfert à billes (*Ball transfer units*)
   id:: 78878d11-65fc-475e-b5be-cfa454f309cd
+	- Roulements omnidirectionnels
+		- Une bille
 	- Positionnement
 		- ![BTU_bearings_agencement.png](../assets/BTU_bearings_agencement_1679774067146_0.png){:height 200, :width 304}
 		- Vertical
