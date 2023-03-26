@@ -30,6 +30,7 @@ link:: [Blog](https://www.gbryant.co.uk/posts/2021-02-15_ploopy-trackball/post.h
 	- La résistance est proportionelle à la masse et à la rugosité de la surface
 		- Prendre une boule plus légère
 		- Polir la boule
+		- Réduire la surface de contact entre les roulements et la boule
 - # Types de bearings
 - ## Roulements à rouleaux (*Roller bearings*)
   id:: 762fa0d6-cb08-482f-8b41-26bebf932d17
@@ -54,6 +55,7 @@ link:: [Blog](https://www.gbryant.co.uk/posts/2021-02-15_ploopy-trackball/post.h
 		- La boule est en contact avec les trois billes qui sont elles statiques
 		- Résistance aux frottements faible
 		- Mécanisme très simple --> coût très faible
+	- ![Support avec billes en céramiques](https://www.gbryant.co.uk/posts/2021-02-15_ploopy-trackball/img/2021-02-08_0001.jpg){:height 216, :width 330}
 	- Adaptateurs pour le modèle [[Ploopy/Classic]]
 		- [Thingiverse](https://www.thingiverse.com/thing:4650448)
 	- **Évaluation**
@@ -63,13 +65,12 @@ link:: [Blog](https://www.gbryant.co.uk/posts/2021-02-15_ploopy-trackball/post.h
 			- Mauvais (même avec une boule plus légère)
 		- ((641ffb4b-e14b-4040-8119-663e99f67c73))
 			- Normal (même avec une boule plus légère)
-- ## Unités de transfert à billes (*Ball transfer units*)
+- ## Unités de transfert à billes (*Ball transfer units / BTUs*)
   id:: 78878d11-65fc-475e-b5be-cfa454f309cd
 	- Roulements omnidirectionnels sur une bille elle même en mouvement grâce à un ensemble de petites billes
 		- Résistance au frottements réduits au minimum
 		- Mécanisme complexe --> coût très important
-		-
-		-
+	- ![Support avec BTUs](https://www.gbryant.co.uk/posts/2021-02-15_ploopy-trackball/img/2021-02-08_0006.jpg){:height 216, :width 330}
 	- Positionnement
 		- ![BTU_bearings_agencement.png](../assets/BTU_bearings_agencement_1679774067146_0.png){:height 200, :width 304}
 		- Vertical
@@ -79,6 +80,7 @@ link:: [Blog](https://www.gbryant.co.uk/posts/2021-02-15_ploopy-trackball/post.h
 		- ((641ffa6e-f162-4fbd-a1f2-13f7cbec1446))
 			- Bien
 			- Peu prendre un peu de temps pour se stabiliser
+			- Irrégularités principalement sur les mouvements importants
 		- ((641ffab4-0d51-45cb-8610-d3d6fa2f93ff))
 			- Excellent
 		- ((641ffb4b-e14b-4040-8119-663e99f67c73))
