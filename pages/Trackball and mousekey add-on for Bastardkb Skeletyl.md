@@ -5,4 +5,5 @@ link:: [Reddit](https://www.reddit.com/r/ErgoMechKeyboards/comments/yyu4ra/track
 [[Mar 26th, 2023]]
 
 - # Description
-	- Comparatif des 3 systèmes de bearings
+	- Comparatif des 3 systèmes de bearings pour le modèle [[Clavier/Skeletyl]]
+	-

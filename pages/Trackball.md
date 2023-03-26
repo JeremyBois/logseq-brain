@@ -35,28 +35,30 @@ alias:: Trackballs
 		- ### Bruit
 		  collapsed:: true
 			- Caractérise le niveau sonore lors du mouvement de la boule sur les roulements
-	- ## Optimiser les critères
-		- La résistance (adhérance / frottements) est proportionelle à la masse et à la rugosité de la surface
-		  collapsed:: true
-			- Prendre une boule plus légère
-			- Polir la boule
-			- Réduire la surface de contact entre les roulements et la boule
+		- ### Optimisation
+			- La résistance (adhérance / frottements) est proportionelle à la masse et à la rugosité de la surface
+			  collapsed:: true
+				- Prendre une boule plus légère
+				- Polir la boule
+				- Réduire la surface de contact entre les roulements et la boule
 	- ## Types
 	  id:: 64205b96-5560-47cd-861d-1885c58902a1
-		- ### Roulements à rouleaux (*Roller bearings*)
-		  id:: 64205bce-7423-4e78-a095-efffe3ac9caa
-			- ![]
-			- Axe de liberté unique
-				- La résistance est dépendante de l'alignement entre l'axe du roulement et la direction de rotation de la boule
-				- Peut entraîner des sauts / irrégularités suivant la direction de rotation de la boule
-				- Mécanisme semi-complexe --> coût moyen
-		- ### Bille en céramiques (*Static céramique bearings*)
-		  collapsed:: true
+	  collapsed:: true
+		- ### Billes en céramiques (*Static céramique bearings*)
+			- ![Static_bearings](https://github.com/Wimads/Trackball-mousekeys-add-on-for-Skeletyl/raw/main/Images/Trackball%20static%20bearings.jpg){:height 250, :width 320}
 			- Utilise des billes en céramiques ([Zro2 (zirconia) versus Si3N4 (silicon nitride)](https://prokcssmedia.blob.core.windows.net/sys-master-images/hb2/haf/9263251816478/ceramic-bearing-selection-guide.pdf))
 				- La boule est en contact avec les trois billes qui sont elles statiques
 				- Résistance aux frottements faible
 				- Mécanisme très simple --> coût très faible
+		- ### Roulements à rouleaux (*Roller bearings*)
+		  id:: 64205bce-7423-4e78-a095-efffe3ac9caa
+			- ![Roller_bearings](https://github.com/Wimads/Trackball-mousekeys-add-on-for-Skeletyl/raw/main/Images/Roller%20bearings.jpg){:height 250, :width 320}
+			- Axe de liberté unique
+				- La résistance est dépendante de l'alignement entre l'axe du roulement et la direction de rotation de la boule
+				- Peut entraîner des sauts / irrégularités suivant la direction de rotation de la boule
+				- Mécanisme semi-complexe --> coût moyen
 		- ### Unités de transfert à billes (*Ball transfer units / BTUs*)
+			- ![BTUS_bearings](https://github.com/Wimads/Trackball-mousekeys-add-on-for-Skeletyl/raw/main/Images/Trackball%20BTU%20bearings.jpg){:height 250, :width 320}
 			- Roulements omnidirectionnels sur une bille elle même en mouvement grâce à un ensemble de petites billes
 				- Résistance au frottements réduits au minimum permettant de réduire le DPI du curseur
 					- Amélioration de la précision sur de faibles mouvements
