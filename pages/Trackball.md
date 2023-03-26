@@ -38,6 +38,7 @@ alias:: Trackballs
 			- Caractérise le niveau sonore lors du mouvement de la boule sur les roulements
 		- ### Optimisation
 		  id:: 642058ff-9b72-4fc5-9e06-f240063cb8df
+			- La position des roulements par rapport à l'approche de la main joue un rôle important sur la réduction des frottements
 			- La résistance (adhérance / frottements) est proportionelle à la masse et à la rugosité de la surface
 			  id:: 287ec9cc-6a5a-464d-9390-6caf2441feb5
 				- Prendre une boule plus légère
