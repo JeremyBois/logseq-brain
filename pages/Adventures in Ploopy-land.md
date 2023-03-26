@@ -68,8 +68,12 @@ link:: [Blog](https://www.gbryant.co.uk/posts/2021-02-15_ploopy-trackball/post.h
 - ## Unités de transfert à billes (*Ball transfer units / BTUs*)
   id:: 78878d11-65fc-475e-b5be-cfa454f309cd
 	- Roulements omnidirectionnels sur une bille elle même en mouvement grâce à un ensemble de petites billes
-		- Résistance au frottements réduits au minimum
+		- Résistance au frottements réduits au minimum permettant de réduire le DPI du curseur
+			- Amélioration de la précision sur de faibles mouvements
+			- Mouvements importants toujours possibles grâce aux faibles frottements
 		- Mécanisme complexe --> coût très important
+	- Adaptateurs pour le modèle [[Ploopy/Classic]] avec
+		- [Github](https://github.com/ploopyco/classic-trackball/tree/master/hardware/Mechanicals-BTU-Mod)
 	- ![Support avec BTUs](https://www.gbryant.co.uk/posts/2021-02-15_ploopy-trackball/img/2021-02-08_0006.jpg){:height 216, :width 330}
 	- Positionnement
 		- ![BTU_bearings_agencement.png](../assets/BTU_bearings_agencement_1679774067146_0.png){:height 200, :width 304}
