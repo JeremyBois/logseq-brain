@@ -72,7 +72,7 @@ link:: [Blog](https://www.gbryant.co.uk/posts/2021-02-15_ploopy-trackball/post.h
 			- Amélioration de la précision sur de faibles mouvements
 			- Mouvements importants toujours possibles grâce aux faibles frottements
 		- Mécanisme complexe --> coût très important
-	- Adaptateurs pour le modèle [[Ploopy/Classic]] avec
+	- Adaptateurs pour le modèle [[Ploopy/Classic]] avec 8mm BTU Bosch-Rexroth R053010810 (ou KU-B8-OFK)
 		- [Github](https://github.com/ploopyco/classic-trackball/tree/master/hardware/Mechanicals-BTU-Mod)
 	- ![Support avec BTUs](https://www.gbryant.co.uk/posts/2021-02-15_ploopy-trackball/img/2021-02-08_0006.jpg){:height 216, :width 330}
 	- Positionnement
