@@ -10,13 +10,10 @@ link:: [Blog](https://www.gbryant.co.uk/posts/2021-02-15_ploopy-trackball/post.h
 		- Mod --> ((78878d11-65fc-475e-b5be-cfa454f309cd))
 - ***
 - {{embed ((6420511b-671b-4eea-955e-5e2e19d888a3))}}
-- # Types de bearings
-- ## Roulements à rouleaux (*Roller bearings*)
+- {{embed ((64205b96-5560-47cd-861d-1885c58902a1))}}
+- # Solutions explorées
+- ## Roulements à rouleaux
   id:: 762fa0d6-cb08-482f-8b41-26bebf932d17
-	- Utilise des roulements avec un unique axe de liberté sur lequel il tourne
-		- La résistance est dépendante de l'alignement entre l'axe du roulement et la direction de rotation de la boule
-		- Peut entraîner des sauts / irrégularités suivant la direction de rotation de la boule
-		- Mécanisme semi-complexe --> coût moyen
 	- Positionnement
 		- ![Roller_bearings_agencement.png](../assets/Roller_bearings_agencement_1679773909456_0.png){:height 180, :width 304}
 		- Vertical
@@ -29,7 +26,7 @@ link:: [Blog](https://www.gbryant.co.uk/posts/2021-02-15_ploopy-trackball/post.h
 			- Normal
 		- ((5d2cd14b-8933-4114-a2bf-f3214ce9f9f1))
 			- Normal
-- ## Bille en céramiques (*Static céramique bearings*)
+- ## Bille en céramiques
 	- ![Support avec billes en céramiques](https://www.gbryant.co.uk/posts/2021-02-15_ploopy-trackball/img/2021-02-08_0001.jpg){:height 216, :width 330}
 	- Adaptateurs pour le modèle [[Ploopy/Classic]]
 		- [Thingiverse](https://www.thingiverse.com/thing:4650448)
@@ -40,7 +37,7 @@ link:: [Blog](https://www.gbryant.co.uk/posts/2021-02-15_ploopy-trackball/post.h
 			- Mauvais (même avec une boule plus légère)
 		- ((5d2cd14b-8933-4114-a2bf-f3214ce9f9f1))
 			- Normal (même avec une boule plus légère)
-- ## Unités de transfert à billes (*Ball transfer units / BTUs*)
+- ## Unités de transfert à billes
   id:: 78878d11-65fc-475e-b5be-cfa454f309cd
 	- Adaptateurs pour le modèle [[Ploopy/Classic]]
 		- [Github](https://github.com/ploopyco/classic-trackball/tree/master/hardware/Mechanicals-BTU-Mod)
