@@ -19,8 +19,9 @@ link:: [Reddit](https://www.reddit.com/r/ErgoMechKeyboards/comments/yyu4ra/track
 				- Roulement en acier MR63 : 3x6x2.5mm
 		- ((2aabf780-9e90-4083-a893-bc08cb62555c))
 			- Varie de bonne à nulle
-				- Dépend fortement de l'orientation de l'axe des roulements par rapport à la boule
+				-
 		- ((5d2cd14b-8933-4114-a2bf-f3214ce9f9f1))
 			- Normal
+				- Dépend fortement de l'orientation de l'axe des roulements par rapport à la boule
 		- ((6420512e-97f0-497b-a232-b2690e3f9813))
 			- Bruyant
