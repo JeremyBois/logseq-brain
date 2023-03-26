@@ -9,8 +9,8 @@ link:: [Blog](https://www.gbryant.co.uk/posts/2021-02-15_ploopy-trackball/post.h
 		- Original --> ((762fa0d6-cb08-482f-8b41-26bebf932d17))
 		- Mod --> ((78878d11-65fc-475e-b5be-cfa454f309cd))
 - ***
-- {{embed ((6420511b-671b-4eea-955e-5e2e19d888a3))}}
-- {{embed ((64205b96-5560-47cd-861d-1885c58902a1))}}
+# Similaire
+	- [[Trackball and mousekey add-on for Bastardkb Skeletyl]]
 - # Solutions explorées
 - ## Roulements à rouleaux
   id:: 762fa0d6-cb08-482f-8b41-26bebf932d17
