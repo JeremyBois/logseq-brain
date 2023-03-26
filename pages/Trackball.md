@@ -4,6 +4,7 @@ alias:: Trackballs
 -
 - # Roulements
 	- ## Critères
+	  id:: 6420511b-671b-4eea-955e-5e2e19d888a3
 		- Régularité / Consistence (*Smoothness* / *Consistency*)
 		  id:: 31530bd4-2d8e-4e65-bcaf-27676fd42145
 			- Caractérise la continuité de la résistance pour toutes directions et vitesses
@@ -27,8 +28,8 @@ alias:: Trackballs
 			- Une résistance importante entraîne une mise à l'arrêt rapide du mouvement de la boule
 		- Bruit
 			- Caractérise le niveau sonore lors du mouvement de la boule sur les roulements
-	- ## Améliorer l
-		- La résistance est proportionelle à la masse et à la rugosité de la surface
+	- ## Optimiser les critères
+		- La résistance (adhérance / frottements) est proportionelle à la masse et à la rugosité de la surface
 			- Prendre une boule plus légère
 			- Polir la boule
 			- Réduire la surface de contact entre les roulements et la boule

@@ -9,6 +9,7 @@ link:: [Blog](https://www.gbryant.co.uk/posts/2021-02-15_ploopy-trackball/post.h
 		- Original --> ((762fa0d6-cb08-482f-8b41-26bebf932d17))
 		- Mod --> ((78878d11-65fc-475e-b5be-cfa454f309cd))
 - ***
+- {{embed ((6420511b-671b-4eea-955e-5e2e19d888a3))}}
 - # Types de bearings
 - ## Roulements à rouleaux (*Roller bearings*)
   id:: 762fa0d6-cb08-482f-8b41-26bebf932d17
@@ -50,7 +51,10 @@ link:: [Blog](https://www.gbryant.co.uk/posts/2021-02-15_ploopy-trackball/post.h
 			- Amélioration de la précision sur de faibles mouvements
 			- Mouvements importants toujours possibles grâce aux faibles frottements
 		- Mécanisme complexe --> coût très important
-	- Adaptateurs pour le modèle [[Ploopy/Classic]] avec 8mm BTU Bosch-Rexroth R053010810 (ou KU-B8-OFK)
+	- Adaptateurs pour le modèle [[Ploopy/Classic]]
+		- Modèle [[]Magasin/Bosch-Rexroth]]
+			- [R053010810](https://store.boschrexroth.com/Linear-Motion-Technology/Ball-transfer-units-and-tolerance-rings/Ball-Transfer-Units/en/md/en/us/en/us/BALL-TRANSFER-UNIT_R053010810)
+			- [KU-B8-OFK](https://store.boschrexroth.com/Technique-lin%C3%A9aire/Billes-porteuses-et-bagues-de-tol%C3%A9rance/Billes-porteuses/BILLE-PORTEUSE_R053010810?cclcl=fr_FR)
 		- [Github](https://github.com/ploopyco/classic-trackball/tree/master/hardware/Mechanicals-BTU-Mod)
 	- ![Support avec BTUs](https://www.gbryant.co.uk/posts/2021-02-15_ploopy-trackball/img/2021-02-08_0006.jpg){:height 216, :width 330}
 	- Positionnement
