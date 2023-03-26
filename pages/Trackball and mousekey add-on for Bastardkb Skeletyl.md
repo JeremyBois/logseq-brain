@@ -16,9 +16,10 @@ link:: [Reddit](https://www.reddit.com/r/ErgoMechKeyboards/comments/yyu4ra/track
 		- ((31530bd4-2d8e-4e65-bcaf-27676fd42145))
 			- Nulle
 			- Peut être lié à la qualité des roulements utilisés
-				- Steel roller bearings (MR63-3x6x2.5mm)
+				- Roulement en acier MR63 : 3x6x2.5mm
 		- ((2aabf780-9e90-4083-a893-bc08cb62555c))
-			- Normal
+			- Varie de bonne à nulle
+				- Dépend fortement de l'orientation de l'axe des roulements par rapport à la boule
 		- ((5d2cd14b-8933-4114-a2bf-f3214ce9f9f1))
 			- Normal
 		- ((6420512e-97f0-497b-a232-b2690e3f9813))
