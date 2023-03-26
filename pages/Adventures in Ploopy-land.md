@@ -31,14 +31,16 @@ link:: [Blog](https://www.gbryant.co.uk/posts/2021-02-15_ploopy-trackball/post.h
 		- Prendre une boule plus légère
 		- Polir la boule
 - # Types de bearings
-- ## Roller bearings
+- ## Roulements à rouleaux (*Roller bearings*)
   id:: 762fa0d6-cb08-482f-8b41-26bebf932d17
-	- Utilise des
+	- Utilise des roulements avec un unique axe de liberté sur lequel il tourne
+		- La résistance est dépendante de l'alignement entre l'axe du roulement et la direction de rotation de la boule
+		- Peut entraîner des sauts / irrégularités suivant la direction de rotation de la boule
 	- Positionnement
 		- ![Roller_bearings_agencement.png](../assets/Roller_bearings_agencement_1679773909456_0.png){:height 180, :width 304}
 		- Vertical
 			- Base --> 60°
-			- Surhaussement de celui au niveau du poignet pour la stabilité --> 77°
+			- Surhaussement de celui au niveau du poignet pour améliorer la stabilité --> 77°
 	- Évaluation
 		- ((641ffa6e-f162-4fbd-a1f2-13f7cbec1446))
 			- Bien
