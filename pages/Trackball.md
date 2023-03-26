@@ -33,6 +33,7 @@ alias:: Trackballs
 				- Impacte la fluidité du mouvement sur
 			- Une résistance importante entraîne une mise à l'arrêt rapide du mouvement de la boule
 		- ### Bruit
+		  id:: 6420512e-97f0-497b-a232-b2690e3f9813
 		  collapsed:: true
 			- Caractérise le niveau sonore lors du mouvement de la boule sur les roulements
 		- ### Optimisation
