@@ -44,7 +44,6 @@ alias:: Trackballs
 				- Réduire la surface de contact entre les roulements et la boule
 	- ## Types
 	  id:: 64205b96-5560-47cd-861d-1885c58902a1
-	  collapsed:: true
 		- ### Billes en céramiques (*Static céramique bearings*)
 			- ![Static_bearings](https://github.com/Wimads/Trackball-mousekeys-add-on-for-Skeletyl/raw/main/Images/Trackball%20static%20bearings.jpg){:height 250, :width 320}
 			- Utilise des billes en céramiques ([Zro2 (zirconia) versus Si3N4 (silicon nitride)](https://prokcssmedia.blob.core.windows.net/sys-master-images/hb2/haf/9263251816478/ceramic-bearing-selection-guide.pdf))
