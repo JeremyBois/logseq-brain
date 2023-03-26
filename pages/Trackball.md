@@ -1,5 +1,7 @@
 alias:: Trackballs
+[[Mar 26th, 2023]]
 
+-
 - # Roulements
 	- ## Critères
 		- Régularité / Consistence (*Smoothness* / *Consistency*)
@@ -7,6 +9,7 @@ alias:: Trackballs
 			- Une forte régularité donne un mouvement consistant sans irrégularité
 				- Pas de sauts dans le suivi
 				- Pas de sensation de sable coincé
+				- Mouvement prédictible
 		- Adhérence (*static friction* / *Stiction*)
 			- [Wikipédia](https://en.wikipedia.org/wiki/Stiction)
 			- Caractérise la résistance à la mise en mouvement

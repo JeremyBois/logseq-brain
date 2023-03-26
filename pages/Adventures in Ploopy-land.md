@@ -27,7 +27,7 @@ link:: [Blog](https://www.gbryant.co.uk/posts/2021-02-15_ploopy-trackball/post.h
 			- Base --> 60°
 			- Surhaussement de celui au niveau du poignet pour améliorer la stabilité --> 77°
 	- **Évaluation**
-		- ((641ffa6e-f162-4fbd-a1f2-13f7cbec1446))
+		-
 			- Bien
 		- ((641ffab4-0d51-45cb-8610-d3d6fa2f93ff))
 			- Normal
