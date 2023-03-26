@@ -30,10 +30,6 @@ link:: [Blog](https://www.gbryant.co.uk/posts/2021-02-15_ploopy-trackball/post.h
 		- ((5d2cd14b-8933-4114-a2bf-f3214ce9f9f1))
 			- Normal
 - ## Bille en céramiques (*Static céramique bearings*)
-	- Utilise des billes en céramiques ([Zro2 (zirconia) versus Si3N4 (silicon nitride)](https://prokcssmedia.blob.core.windows.net/sys-master-images/hb2/haf/9263251816478/ceramic-bearing-selection-guide.pdf))
-		- La boule est en contact avec les trois billes qui sont elles statiques
-		- Résistance aux frottements faible
-		- Mécanisme très simple --> coût très faible
 	- ![Support avec billes en céramiques](https://www.gbryant.co.uk/posts/2021-02-15_ploopy-trackball/img/2021-02-08_0001.jpg){:height 216, :width 330}
 	- Adaptateurs pour le modèle [[Ploopy/Classic]]
 		- [Thingiverse](https://www.thingiverse.com/thing:4650448)
@@ -46,16 +42,10 @@ link:: [Blog](https://www.gbryant.co.uk/posts/2021-02-15_ploopy-trackball/post.h
 			- Normal (même avec une boule plus légère)
 - ## Unités de transfert à billes (*Ball transfer units / BTUs*)
   id:: 78878d11-65fc-475e-b5be-cfa454f309cd
-	- Roulements omnidirectionnels sur une bille elle même en mouvement grâce à un ensemble de petites billes
-		- Résistance au frottements réduits au minimum permettant de réduire le DPI du curseur
-			- Amélioration de la précision sur de faibles mouvements
-			- Mouvements importants toujours possibles grâce aux faibles frottements
-		- Mécanisme complexe --> coût très important
 	- Adaptateurs pour le modèle [[Ploopy/Classic]]
-		- Modèle [[]Magasin/Bosch-Rexroth]]
-			- [R053010810](https://store.boschrexroth.com/Linear-Motion-Technology/Ball-transfer-units-and-tolerance-rings/Ball-Transfer-Units/en/md/en/us/en/us/BALL-TRANSFER-UNIT_R053010810)
-			- [KU-B8-OFK](https://store.boschrexroth.com/Technique-lin%C3%A9aire/Billes-porteuses-et-bagues-de-tol%C3%A9rance/Billes-porteuses/BILLE-PORTEUSE_R053010810?cclcl=fr_FR)
 		- [Github](https://github.com/ploopyco/classic-trackball/tree/master/hardware/Mechanicals-BTU-Mod)
+	- Modèle utilisé
+		- [KU-B8-OFK ou R053010810](https://store.boschrexroth.com/Technique-lin%C3%A9aire/Billes-porteuses-et-bagues-de-tol%C3%A9rance/Billes-porteuses/BILLE-PORTEUSE_R053010810?cclcl=fr_FR) (8mm) de chez [[Magasin/Bosch-Rexroth]]
 	- ![Support avec BTUs](https://www.gbryant.co.uk/posts/2021-02-15_ploopy-trackball/img/2021-02-08_0006.jpg){:height 216, :width 330}
 	- Positionnement
 		- ![BTU_bearings_agencement.png](../assets/BTU_bearings_agencement_1679774067146_0.png){:height 200, :width 304}
