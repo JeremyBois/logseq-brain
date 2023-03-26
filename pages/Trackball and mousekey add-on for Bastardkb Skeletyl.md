@@ -18,7 +18,7 @@ link:: [Reddit](https://www.reddit.com/r/ErgoMechKeyboards/comments/yyu4ra/track
 				- Peut être lié à la qualité des roulements utilisés
 					- Roulement en acier MR63 : 3x6x2.5mm
 			- ((2aabf780-9e90-4083-a893-bc08cb62555c))
-				- Normal
+				- Normale
 			- ((5d2cd14b-8933-4114-a2bf-f3214ce9f9f1))
 				- Varie de bonne à nulle
 					- Dépend fortement de l'orientation de l'axe des roulements par rapport à la boule
@@ -27,13 +27,22 @@ link:: [Reddit](https://www.reddit.com/r/ErgoMechKeyboards/comments/yyu4ra/track
 	- ## Unités de transfert à billes
 		- **Évaluation**
 			- ((31530bd4-2d8e-4e65-bcaf-27676fd42145))
-				- Affreuse
-				- Peut être lié à la qualité des roulements utilisés
-					- Roulement en acier MR63 : 3x6x2.5mm
+				- Normale
+					- À faible vitesse on peut observer des inconsistances
 			- ((2aabf780-9e90-4083-a893-bc08cb62555c))
-				- Normal
+				- Excellente
 			- ((5d2cd14b-8933-4114-a2bf-f3214ce9f9f1))
-				- Varie de bonne à nulle
-					- Dépend fortement de l'orientation de l'axe des roulements par rapport à la boule
+				- Excellente
 			- ((6420512e-97f0-497b-a232-b2690e3f9813))
-				- Bruyant
+				- Normal
+	- ##  Billes en céramiques
+		- **Évaluation**
+			- ((31530bd4-2d8e-4e65-bcaf-27676fd42145))
+				- Excelente
+					- Sans parties mouvantes
+			- ((2aabf780-9e90-4083-a893-bc08cb62555c))
+				- Excellente
+			- ((5d2cd14b-8933-4114-a2bf-f3214ce9f9f1))
+				- Excellente
+			- ((6420512e-97f0-497b-a232-b2690e3f9813))
+				- Normal

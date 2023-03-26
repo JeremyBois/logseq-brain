@@ -49,6 +49,7 @@ alias:: Trackballs
 			- Utilise des billes en céramiques ([Zro2 (zirconia) versus Si3N4 (silicon nitride)](https://prokcssmedia.blob.core.windows.net/sys-master-images/hb2/haf/9263251816478/ceramic-bearing-selection-guide.pdf))
 				- La boule est en contact avec les trois billes qui sont elles statiques
 				- Résistance aux frottements faible
+					- La boule glisse sur les billes
 				- Mécanisme très simple --> coût très faible
 		- ### Roulements à rouleaux (*Roller bearings*)
 		  id:: 64205bce-7423-4e78-a095-efffe3ac9caa
