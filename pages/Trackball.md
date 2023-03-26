@@ -37,8 +37,9 @@ alias:: Trackballs
 		  collapsed:: true
 			- Caractérise le niveau sonore lors du mouvement de la boule sur les roulements
 		- ### Optimisation
+		  id:: 642058ff-9b72-4fc5-9e06-f240063cb8df
 			- La résistance (adhérance / frottements) est proportionelle à la masse et à la rugosité de la surface
-			  collapsed:: true
+			  id:: 287ec9cc-6a5a-464d-9390-6caf2441feb5
 				- Prendre une boule plus légère
 				- Polir la boule
 				- Réduire la surface de contact entre les roulements et la boule

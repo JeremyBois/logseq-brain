@@ -39,10 +39,13 @@ link:: [Reddit](https://www.reddit.com/r/ErgoMechKeyboards/comments/yyu4ra/track
 		- **Évaluation**
 			- ((31530bd4-2d8e-4e65-bcaf-27676fd42145))
 				- Excelente
-					- Sans parties mouvantes
+					- Sans parties mouvantes on gagne en régularité
+					- La qualité de la balle est très importante
+						- {{embed ((287ec9cc-6a5a-464d-9390-6caf2441feb5))}}
 			- ((2aabf780-9e90-4083-a893-bc08cb62555c))
-				- Excellente
+				- Normale (céramique)
+				- Affreuse (ruby)
 			- ((5d2cd14b-8933-4114-a2bf-f3214ce9f9f1))
 				- Excellente
 			- ((6420512e-97f0-497b-a232-b2690e3f9813))
-				- Normal
+				- Excellent
