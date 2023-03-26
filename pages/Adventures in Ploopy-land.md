@@ -50,7 +50,9 @@ link:: [Blog](https://www.gbryant.co.uk/posts/2021-02-15_ploopy-trackball/post.h
 			- Normal
 - ## Bille en céramiques (*Static céramique bearings*)
 	- Utilise des billes en céramiques ([Zro2 (zirconia) versus Si3N4 (silicon nitride)](https://prokcssmedia.blob.core.windows.net/sys-master-images/hb2/haf/9263251816478/ceramic-bearing-selection-guide.pdf))
-		- Seule la boule boule
+		- La boule est en contact avec les trois billes qui sont elles statiques
+		- Résistance aux frottements faible
+	- Adaptateurs pour l
 	- Évaluation
 		- ((641ffa6e-f162-4fbd-a1f2-13f7cbec1446))
 			- Excellent
