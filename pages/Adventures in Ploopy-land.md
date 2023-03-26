@@ -12,7 +12,7 @@ link:: [Blog](https://www.gbryant.co.uk/posts/2021-02-15_ploopy-trackball/post.h
 - # Facteurs pris en comptes
 	- Régularité (*smoothness*) :
 		- Caractérise la continuité de la résistance pour toutes directions et vitesses
-		- Caractériste les
+		- Caractériste un mouvement consistant sans irrégu
 	- Résistance à la mise en mouvement (*static friction*) :
 	- Résistance aux frottements (*rolling friction*) :
 - # Types de bearings
