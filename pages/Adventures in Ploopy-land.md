@@ -10,7 +10,9 @@ link:: [Blog](https://www.gbryant.co.uk/posts/2021-02-15_ploopy-trackball/post.h
 		- Mod --> ((78878d11-65fc-475e-b5be-cfa454f309cd))
 - ***
 - # Facteurs pris en comptes
-	-
+	- Régularité (*smoothness*) :
+	- Résistance à la mise en mouvement (*static friction*) :
+	- Résistance aux frottements (*rolling friction*) :
 - # Types de bearings
 - ## Roller bearings
   id:: 762fa0d6-cb08-482f-8b41-26bebf932d17
