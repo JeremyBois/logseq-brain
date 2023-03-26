@@ -48,16 +48,18 @@ link:: [Blog](https://www.gbryant.co.uk/posts/2021-02-15_ploopy-trackball/post.h
 			- Normal
 		- ((641ffb4b-e14b-4040-8119-663e99f67c73))
 			- Normal
-- ## Static
+- ## Bille en céramiques (*Static céramique bearings*)
 	- Utilise
 	- Évaluation
 		- ((641ffa6e-f162-4fbd-a1f2-13f7cbec1446))
-			- Bien
+			- Excellent
 		- ((641ffab4-0d51-45cb-8610-d3d6fa2f93ff))
-			- Normal
+			- Mauvais
+			- La boule est trop lourde
 		- ((641ffb4b-e14b-4040-8119-663e99f67c73))
 			- Normal
-- ## BTU
+			- La boule est trop lourde
+- ## Unités de transfert à billes (*Ball transfer units*)
   id:: 78878d11-65fc-475e-b5be-cfa454f309cd
 	- Positionnement
 		- ![BTU_bearings_agencement.png](../assets/BTU_bearings_agencement_1679774067146_0.png){:height 200, :width 304}
