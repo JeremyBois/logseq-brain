@@ -9,11 +9,6 @@ link:: [Blog](https://www.gbryant.co.uk/posts/2021-02-15_ploopy-trackball/post.h
 		- Original --> ((762fa0d6-cb08-482f-8b41-26bebf932d17))
 		- Mod --> ((78878d11-65fc-475e-b5be-cfa454f309cd))
 - ***
-- ## Réduire la résistance aux frottements
-	- La résistance est proportionelle à la masse et à la rugosité de la surface
-		- Prendre une boule plus légère
-		- Polir la boule
-		- Réduire la surface de contact entre les roulements et la boule
 - # Types de bearings
 - ## Roulements à rouleaux (*Roller bearings*)
   id:: 762fa0d6-cb08-482f-8b41-26bebf932d17
@@ -27,11 +22,11 @@ link:: [Blog](https://www.gbryant.co.uk/posts/2021-02-15_ploopy-trackball/post.h
 			- Base --> 60°
 			- Surhaussement de celui au niveau du poignet pour améliorer la stabilité --> 77°
 	- **Évaluation**
-		-
+		- ((31530bd4-2d8e-4e65-bcaf-27676fd42145))
 			- Bien
-		- ((641ffab4-0d51-45cb-8610-d3d6fa2f93ff))
+		- ((2aabf780-9e90-4083-a893-bc08cb62555c))
 			- Normal
-		- ((641ffb4b-e14b-4040-8119-663e99f67c73))
+		- ((5d2cd14b-8933-4114-a2bf-f3214ce9f9f1))
 			- Normal
 - ## Bille en céramiques (*Static céramique bearings*)
 	- Utilise des billes en céramiques ([Zro2 (zirconia) versus Si3N4 (silicon nitride)](https://prokcssmedia.blob.core.windows.net/sys-master-images/hb2/haf/9263251816478/ceramic-bearing-selection-guide.pdf))
@@ -42,11 +37,11 @@ link:: [Blog](https://www.gbryant.co.uk/posts/2021-02-15_ploopy-trackball/post.h
 	- Adaptateurs pour le modèle [[Ploopy/Classic]]
 		- [Thingiverse](https://www.thingiverse.com/thing:4650448)
 	- **Évaluation**
-		- ((641ffa6e-f162-4fbd-a1f2-13f7cbec1446))
+		- ((31530bd4-2d8e-4e65-bcaf-27676fd42145))
 			- Excellent
-		- ((641ffab4-0d51-45cb-8610-d3d6fa2f93ff))
+		- ((2aabf780-9e90-4083-a893-bc08cb62555c))
 			- Mauvais (même avec une boule plus légère)
-		- ((641ffb4b-e14b-4040-8119-663e99f67c73))
+		- ((5d2cd14b-8933-4114-a2bf-f3214ce9f9f1))
 			- Normal (même avec une boule plus légère)
 - ## Unités de transfert à billes (*Ball transfer units / BTUs*)
   id:: 78878d11-65fc-475e-b5be-cfa454f309cd
@@ -64,11 +59,11 @@ link:: [Blog](https://www.gbryant.co.uk/posts/2021-02-15_ploopy-trackball/post.h
 			- Base --> 60°
 		- Inclinaison légère des BTUs
 	- **Évaluation**
-		- ((641ffa6e-f162-4fbd-a1f2-13f7cbec1446))
+		- ((31530bd4-2d8e-4e65-bcaf-27676fd42145))
 			- Bien
 			- Peu prendre un peu de temps pour se stabiliser
 			- Irrégularités principalement sur les mouvements importants
-		- ((641ffab4-0d51-45cb-8610-d3d6fa2f93ff))
+		- ((2aabf780-9e90-4083-a893-bc08cb62555c))
 			- Excellent
-		- ((641ffb4b-e14b-4040-8119-663e99f67c73))
+		- ((5d2cd14b-8933-4114-a2bf-f3214ce9f9f1))
 			- Excellent
