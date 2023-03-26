@@ -3,6 +3,9 @@ alias:: Ploopy
 link:: https://ploopy.co/
 [[Mar 25th, 2023]]
 
+- ***
+- ##{{namespace Ploopy}}
+- ***
 - # Description
 	- Contrôleurs programmables
 		- #OpenSource Case / Hardware
