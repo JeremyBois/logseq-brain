@@ -10,7 +10,7 @@ link:: [Blog](https://www.gbryant.co.uk/posts/2021-02-15_ploopy-trackball/post.h
 		- Mod --> ((78878d11-65fc-475e-b5be-cfa454f309cd))
 - ***
 - # Facteurs d'évaluations utilisés
-	- Régularité (*smoothness*)
+	- Régularité / Consistence (*smoothness*)
 	  id:: 641ffa6e-f162-4fbd-a1f2-13f7cbec1446
 		- Caractérise la continuité de la résistance pour toutes directions et vitesses
 		- Une forte régularité donne un mouvement consistant sans irrégularité

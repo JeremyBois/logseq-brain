@@ -4,7 +4,7 @@ link:: https://ploopy.co/
 [[Mar 25th, 2023]]
 
 - ***
-- ##{{namespace Ploopy}}
+- {{namespace Ploopy}}
 - ***
 - # Description
 	- Contrôleurs programmables
