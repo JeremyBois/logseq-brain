@@ -75,3 +75,11 @@ link:: [Blog](https://www.gbryant.co.uk/posts/2021-02-15_ploopy-trackball/post.h
 		- Vertical
 			- Base --> 60°
 		- Inclinaison légère des BTUs
+	- **Évaluation**
+		- ((641ffa6e-f162-4fbd-a1f2-13f7cbec1446))
+			- Bien
+			- Peu prendre un peu de temps pour se stabiliser
+		- ((641ffab4-0d51-45cb-8610-d3d6fa2f93ff))
+			- Excellent
+		- ((641ffb4b-e14b-4040-8119-663e99f67c73))
+			- Excellent
