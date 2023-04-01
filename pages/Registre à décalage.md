@@ -13,10 +13,13 @@ title:: Registre à décalage
 	- Plusieurs variantes
 		- Serial in - Serial out (SISO)
 		- Serial in - Parallel out (SIPO)
-			- Permet de transmettre un bit à chaque
+			- Permet de transmettre un [[byte]] bit par bit à plusieurs sortie
+			- Permet d'envoyer un bit à chaque sortie une par une
 		- Parallel in - Serial out (PISO)
-			- Permet de regrouper plusieurs entrées sur un même pin
+			- Permet de construire un [[byte]] bit par bit à partir des entrées
+			- Permet d'envoyer bit par bit les entrées sur une même sortie lisible de manière séq
 		- Parallel in - Parallel out (PIPO)
+			- Permet d'envoyer bit par bit les entrées et de les lire
 	- Permet de multiplier le nombre de
 - # Connections
 	- [[Scanning a full-size keyboard matrix with two 74hc595 in series]]
