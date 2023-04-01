@@ -19,6 +19,9 @@ link:: [Blog](https://www.gbryant.co.uk/posts/2021-02-15_ploopy-trackball/post.h
 		- Vertical
 			- Base --> 60°
 			- Surhaussement de celui au niveau du poignet pour améliorer la stabilité --> 77°
+		- Horizontal
+			- Répartition non uniforme afin de permettre que les trois roulements soient la majorité du temps actifs
+				- Important en particulier pour les roulements à rouleaux qui on un unique axe de rotation
 	- **Évaluation**
 		- ((31530bd4-2d8e-4e65-bcaf-27676fd42145))
 			- Bien
