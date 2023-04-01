@@ -29,9 +29,14 @@ link:: [Wikipédia](https://en.wikipedia.org/wiki/Flip-flop_(electronics))
 			- ((6428918c-6d63-43ed-8ce0-6154ff6782ff))
 			- $\bar{S}$ et $\bar{R}$ doivent êtres maintenus HIGH (1)
 			- Impulsion LOW (0) sur $\bar{S}$ ou $\bar{R}$ pour changer d'état
+		- Gated Set ($S$) Reset ($R$)
+			- ![Latch_gsr](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/SR_%28Clocked%29_Flip-flop_Diagram.svg/300px-SR_%28Clocked%29_Flip-flop_Diagram.svg.png)
+			- ((64289354-60ce-4bbb-a17e-7cfbe5e8894f))
+			- Ajout des portes logiques ((64286e76-59c1-4722-8f80-69dc7b569f13)) pour connecter la nouvelle ligne $E$
+			- La ligne $E$ permet de limiter l'effet de bascule indépendament des changements sur $S$ et $R$
+				- Permet un changement uniquement dans certaines conditions
 		- #+BEGIN_IMPORTANT
 		  Rebasculer $S$ et $R$ à la valeur courante en même temps donne un comportement indéterminé
 		  #+END_IMPORTANT
-	- ## Gated Set ($S$) Reset ($R$)
-		- Ajout des portes logiques ((64286e76-59c1-4722-8f80-69dc7b569f13)) connectant la nouvelle ligne $E$
-		- ![Latch_gsr](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/SR_%28Clocked%29_Flip-flop_Diagram.svg/300px-SR_%28Clocked%29_Flip-flop_Diagram.svg.png)
+	- ## Data $D$
+		-
