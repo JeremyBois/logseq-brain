@@ -14,6 +14,7 @@ link:: [Wikipédia](https://en.wikipedia.org/wiki/Logic_gate)
 	  | 1 | 0 | 1  |
 	  | 1 | 1 | 1  |
 - ## AND
+  id:: 64286e1e-893f-45a3-860b-6027376bfb68
 	- ![Gate_and](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/AND_ANSI_Labelled.svg/180px-AND_ANSI_Labelled.svg.png)
 		- | A | B | Q  |
 		  |:-:|:-:|:--:|

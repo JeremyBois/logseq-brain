@@ -3,6 +3,11 @@ alias:: Bascules, Latch, Latches, Flip-flop, Flip-flops
 link:: [Wikipédia](https://en.wikipedia.org/wiki/Flip-flop_(electronics)) [Youtube Playlist](https://www.youtube.com/watch?v=-aQH0ybMd3U&list=PLTd6ceoshpreKyY55hA4vpzAUv9hSut1H)
 [[Apr 1st, 2023]]
 
+- # Avancement
+	- DONE 1
+	- DONE 2
+	- DONE 3
+	- $
 - # Principe
 	- Utilisation
 		- Stabilisation d'un changement de signal
@@ -60,9 +65,12 @@ link:: [Wikipédia](https://en.wikipedia.org/wiki/Flip-flop_(electronics)) [Yout
 		- Chaque impulsion arrive à une certaine fréquence
 		- Permet de synchroniser la période d'activation de plusieurs bascules
 	- Ajout de la détection d'un [front montant](https://fr.wikipedia.org/wiki/Flanc_(%C3%A9lectronique))
-		- Utilisation de la latence entre les portes logiques pour la détection en combinant un nombre impair de portes logiques ((64286e0a-9764-4f9e-8a5b-6cb3509aa93f)) et d'une porte logique
+		- Utilisation de la latence entre les portes logiques pour la détection en combinant un nombre impair de portes logiques ((64286e0a-9764-4f9e-8a5b-6cb3509aa93f)) et une porte logique ((64286e1e-893f-45a3-860b-6027376bfb68))
 		- ![Risingedge_detector](https://i.stack.imgur.com/GHbcC.png){:height 113, :width 367}
 		- Évite que la synchronisation soit dépendante de la fréquence de l'horloge
 		- Permet de synchroniser le moment de la mise à jour de $Q$ sur différentes bascules
 	- Ajout de deux nouvelles lignes permettant un contrôle asynchrone de la sortie $Q$ indépendament de l'état de $D$ ou $C$
-		- $PRE$ qui permet d
+		- $PRE$ permet de forcer $Q$ à HIGH
+		- $CLR$ permet de forcer $Q$ à LOW
+	- Permet le stockage d'un bit de mémoire
+		- Utilisation dans les [[Registre à décalage]] ou les compteurs
