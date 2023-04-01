@@ -4,10 +4,10 @@ link:: [Wikipédia](https://en.wikipedia.org/wiki/Flip-flop_(electronics))
 [[Apr 1st, 2023]]
 
 - # Types
+	- La sortie est noté $Q$ et son complément $\bar{Q}$ est l'opposé
+		- $Q = 1 \rightarrow \bar{Q} = 0$
+		- $Q = 0 \rightarrow \bar{Q} = 1$
 	- ## Set ($S$) Reset ($R$)
-		- La sortie est noté $Q$ et son complément $\bar{Q}$ est l'opposé
-			- $Q = 1 \rightarrow \bar{Q} = 0$
-			- $Q = 0 \rightarrow \bar{Q} = 1$
 		- **Active HIGH**
 		  id:: 64286e05-25a6-4849-8cdc-d3d9c1a6b810
 			- Utilise des portes logiques ((64286e6c-6645-4385-bea6-37e31aff7d75))
@@ -22,4 +22,5 @@ link:: [Wikipédia](https://en.wikipedia.org/wiki/Flip-flop_(electronics))
 		- #+BEGIN_IMPORTANT
 		  Rebasculer $S$ et $R$ à la valeur courante en même temps donne un comportement indéterminé
 		  #+END_IMPORTANT
-		-
+	- ## Gated ($E$) Set ($S$) Reset ($R$)
+	-
