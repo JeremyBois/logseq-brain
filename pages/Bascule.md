@@ -9,7 +9,7 @@ link:: [Wikipédia](https://en.wikipedia.org/wiki/Flip-flop_(electronics))
 			- $Q = 1 \rightarrow \bar{Q} = 0$
 			- $Q = 0 \rightarrow \bar{Q} = 1$
 		- **Active high**
-			- Utilise des [[Portes Logiques]] *NOR*
+			- Utilise des portes logiques ((64286e6c-6645-4385-bea6-37e31aff7d75))
 			- $S$ et $R$ sont la plupart du temps à 0
 			- On change temporairement (impulsion) $S$ ou $R$ à 1 pour changer d'état
 			-

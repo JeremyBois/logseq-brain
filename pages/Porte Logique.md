@@ -17,12 +17,29 @@ link:: [Wikipédia](https://en.wikipedia.org/wiki/Logic_gate)
 		- | A | B | Q  |
 		  |:-:|:-:|:--:|
 		  | 0 | 0 | 0  |
-		  | 0 | 1 | 1  |
-		  | 1 | 0 | 1  |
+		  | 0 | 1 | 0  |
+		  | 1 | 0 | 0  |
 		  | 1 | 1 | 1  |
 - ## NOT
 	- ![Gate_not](https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/NOT_ANSI_Labelled.svg/180px-NOT_ANSI_Labelled.svg.png)
+	- | A | Q|
+	  |:-:|:--:|
+	  | 0 | 1  |
+	  | 1 | 0  |
 - ## NOR
+  id:: 64286e6c-6645-4385-bea6-37e31aff7d75
 	- ![Gate_nor](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/NOR_ANSI_Labelled.svg/180px-NOR_ANSI_Labelled.svg.png)
+	- | A | B | Q  |
+	  |:-:|:-:|:--:|
+	  | 0 | 0 | 1  |
+	  | 0 | 1 | 0  |
+	  | 1 | 0 | 0  |
+	  | 1 | 1 | 0  |
 - ## NAND
 	- ![Gate_nand](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/NAND_ANSI_Labelled.svg/180px-NAND_ANSI_Labelled.svg.png)
+	- | A | B | Q  |
+	  |:-:|:-:|:--:|
+	  | 0 | 0 | 1  |
+	  | 0 | 1 | 1  |
+	  | 1 | 0 | 1  |
+	  | 1 | 1 | 0  |
