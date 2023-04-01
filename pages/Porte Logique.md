@@ -5,7 +5,4 @@ link:: [Wikipédia](https://en.wikipedia.org/wiki/Logic_gate)
 
 -
 - ## OR
-- ## NOR
-- ## AND
-- ## NAND
 -
