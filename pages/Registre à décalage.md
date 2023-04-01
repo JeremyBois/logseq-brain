@@ -27,12 +27,12 @@ title:: Registre à décalage
 			- Permet de transmettre un [[Byte]] d'une entrée vers plusieurs sorties
 				- La valeur en entrée est envoyée séquentiellement aux sorties à chaque tick de l'horloge
 			- Permet dé-multiplier une sortie vers *x* sorties
-				- Déconstruire un byte en bit
+				- Revient à déconstruire un byte (entrée) en bits (sorties)
 		- **Parallel in - Serial out (PISO)**
 			- Permet de transmettre plusieurs bits en entrée séquenciellement vers une unique sortie
 				- Chaque tick de l'horloge permet de lire la valeur associée à une entrée
 			- Permet de regrouper plusieurs entrées sur une même entrée
-				- Reconstruire un Byte représentant l'état des différentes entrées
+				- Reconstruire un byte (sortie) représentant l'état des différentes bits (entrées)
 		- **Parallel in - Parallel out (PIPO)**
 			- Permet de transmettre bit par bit les entrées et de les lire bit par bit en sortie
 				- Chaque tick de l'horloge permet le transfert de toutes les entrées vers les sorties
