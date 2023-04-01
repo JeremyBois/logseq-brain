@@ -5,6 +5,5 @@ link:: [Youtube Playlist](https://www.youtube.com/playlist?list=PLwO8CTSLTkii9S_
 [[Apr 1st, 2023]]
 
 - ***
-- {{namespace The Learning Circuit}}
-- ***
--
+  {{namespace The Learning Circuit}}
+  ***
