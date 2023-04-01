@@ -12,9 +12,10 @@ title:: Registre à décalage
 			- La sortie de la bascule *n* est l'entrée de la bascule *n+1*
 	- Plusieurs variantes
 		- Serial in - Serial out (SISO)
-			- Permet de transmettre bit par bit à plusieurs sortie
+			- Permet de transmettre/stocker un [[bit]] d'une entrée vers une sortie
+				- La valeur en entrée est transmise en sortie à chaque tick de l'horloge
 		- Serial in - Parallel out (SIPO)
-			- Permet de transmettre un [[byte]] bit par bit à plusieurs sortie
+			- Permet de transmettre/stocker un [[byte]] d'une entrée vers une sortie
 			- Permet d'envoyer un bit à chaque sortie une par une
 				- Chaque tick de l'horloge permet d'envoyer un bit
 		- Parallel in - Serial out (PISO)
