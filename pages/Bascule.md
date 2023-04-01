@@ -50,5 +50,8 @@ link:: [Wikipédia](https://en.wikipedia.org/wiki/Flip-flop_(electronics))
 			- $Q$ est HIGH
 		- Impulsion HIGH sur $D$ et $E$ est LOW
 			- $Q$ HIGH **dès que** $E$ bascule en HIGH
-- # Clocked D
-	-
+- # Clocked Data
+	- La ligne $E$ est contrôlé par une horloge
+		- Chaque impulsion arrive à une certaine fréquence
+		- Permet de synchroniser plusieurs bascules
+		-
