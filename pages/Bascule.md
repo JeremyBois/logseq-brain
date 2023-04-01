@@ -36,11 +36,16 @@ link:: [Wikipédia](https://en.wikipedia.org/wiki/Flip-flop_(electronics))
 			- Ajout des portes logiques ((64286e76-59c1-4722-8f80-69dc7b569f13)) pour connecter la nouvelle ligne $E$
 			- La ligne $E$ permet de limiter l'effet de bascule indépendament des changements sur $S$ et $R$
 				- Permet un changement uniquement dans certaines conditions
+				- Un changement d'état n'a d'effets que si l'impulsion arrive alors que la ligne $E$ est HIGH
 		- #+BEGIN_IMPORTANT
 		  Rebasculer $S$ et $R$ à la valeur courante en même temps donne un comportement indéterminé
 		  #+END_IMPORTANT
 	- ## Data $D$
-		- | ((64286e05-6815-4a91-af29-b1c5c34ef6c6)) | ((64286e05-6815-4a91-af29-b1c5c34ef6c6)) |
+		- | ((64286e05-6815-4a91-af29-b1c5c34ef6c6)) | ((64286e05-25a6-4849-8cdc-d3d9c1a6b810)) |
 		  |:-:|:-:|
-		  | ![Latch_d](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/D-Type_Transparent_Latch.svg/676px-D-Type_Transparent_Latch.svg.png){:height 217, :width 279} | ![Latch_d](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/D-Type_Transparent_Latch.svg/676px-D-Type_Transparent_Latch.svg.png){:height 217, :width 279} |
-		- Un unique
+		  | ![Latch_d_nand](https://upload.wikimedia.org/wikipedia/commons/2/2f/D-Type_Transparent_Latch.svg){:height 159, :width 300} | ![Latch_d_nor](https://upload.wikimedia.org/wikipedia/commons/c/cb/D-type_Transparent_Latch_%28NOR%29.svg) |
+		- Une seule ligne
+		- La ligne $E$ permet de contrôler la fenêtre
+			- Permet un changement uniquement dans certaines conditions
+			- Un changement d'état n'a d'effets que si l'impulsion arrive alors que la ligne $E$ est HIGH
+		- Permet de stocker 1 bit de donnée
