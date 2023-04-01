@@ -10,5 +10,5 @@ link:: https://mehmedbasic.dk/post/74hc595-keyboard/
 	- Le nombre de pins sur les microcontrolleurs est limité
 - # Solution
 	- Utiliser un registre à décalage ((64282b87-401d-4557-9f0c-7dfb1bf57497))
-		- Modèle *74hc595* (active high)
+		- Modèle *74hc595* ( ((64286e05-25a6-4849-8cdc-d3d9c1a6b810)) )
 		- Très très rapide (20MHz)

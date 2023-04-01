@@ -9,6 +9,7 @@ link:: [Wikipédia](https://en.wikipedia.org/wiki/Flip-flop_(electronics))
 			- $Q = 1 \rightarrow \bar{Q} = 0$
 			- $Q = 0 \rightarrow \bar{Q} = 1$
 		- **Active HIGH**
+		  id:: 64286e05-25a6-4849-8cdc-d3d9c1a6b810
 			- Utilise des portes logiques ((64286e6c-6645-4385-bea6-37e31aff7d75))
 			- $S$ et $R$ doivent êtres maintenus à 0 (LOW)
 			- Impulsion HIGH sur $S$ ou $R$ pour changer d'état
