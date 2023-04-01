@@ -56,10 +56,13 @@ link:: [Wikipédia](https://en.wikipedia.org/wiki/Flip-flop_(electronics)) [Yout
 		- Impulsion HIGH sur $D$ et $E$ est LOW
 			- $Q$ HIGH **dès que** $E$ bascule en HIGH
 - # Clocked Data
-	- La ligne $E$ est contrôlé par une horloge
+	- La ligne $E$ est contrôlé par une horloge et renommée $C$
 		- Chaque impulsion arrive à une certaine fréquence
 		- Permet de synchroniser la période d'activation de plusieurs bascules
 	- Ajout de la détection d'un [front montant](https://fr.wikipedia.org/wiki/Flanc_(%C3%A9lectronique))
-		- Utilisation de la latence entre deux portes logiques pour la détection
+		- Utilisation de la latence entre les portes logiques pour la détection en combinant un nombre impair de portes logiques ((64286e0a-9764-4f9e-8a5b-6cb3509aa93f)) et d'une porte logique
+		- ![Risingedge_detector](https://i.stack.imgur.com/GHbcC.png){:height 113, :width 367}
 		- Évite que la synchronisation soit dépendante de la fréquence de l'horloge
 		- Permet de synchroniser le moment de la mise à jour de $Q$ sur différentes bascules
+	- Ajout de deux nouvelles lignes permettant un contrôle asynchrone de la sortie $Q$ indépendament de l'état de $D$ ou $C$
+		- $PRE$ qui permet d

@@ -5,6 +5,7 @@ link:: [Wikipédia](https://en.wikipedia.org/wiki/Logic_gate)
 
 -
 - ## OR
+  id:: 64286e0a-93a1-433f-9f8c-9337c026f72c
 	- ![Gate_or](https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/OR_ANSI_Labelled.svg/180px-OR_ANSI_Labelled.svg.png)
 	- | A | B | Q  |
 	  |:-:|:-:|:--:|
@@ -21,6 +22,7 @@ link:: [Wikipédia](https://en.wikipedia.org/wiki/Logic_gate)
 		  | 1 | 0 | 0  |
 		  | 1 | 1 | 1  |
 - ## NOT
+  id:: 64286e0a-9764-4f9e-8a5b-6cb3509aa93f
 	- ![Gate_not](https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/NOT_ANSI_Labelled.svg/180px-NOT_ANSI_Labelled.svg.png)
 	- | A | Q|
 	  |:-:|:--:|
