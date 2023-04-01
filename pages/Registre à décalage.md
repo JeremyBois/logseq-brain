@@ -35,7 +35,11 @@ title:: Registre à décalage
 		- Parallel in - Parallel out (PIPO)
 			- Permet de transmettre bit par bit les entrées et de les lire bit par bit en sortie
 				- Chaque tick de l'horloge permet le transfert de toutes les entrées vers les sorties
+		- Universel
+			- Un unique composant permettant d'obtenir le comportement d'une des variantes
 - # Connections
 	- [[Scanning a full-size keyboard matrix with two 74hc595 in series]]
 		- {{embed ((642828da-1be8-49df-9f23-672e301f811c))}}
 	- [[The Learning Circuit/How Shift Registers Work]]
+	- [[The Learning Circuit/How to Add Outputs to an Arduino using a Shift Register]]
+	- [[The Learning Circuit/How to Add Multiple Inputs to an Arduino using a Shift Register]]
