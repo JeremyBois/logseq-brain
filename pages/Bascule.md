@@ -53,5 +53,7 @@ link:: [Wikipédia](https://en.wikipedia.org/wiki/Flip-flop_(electronics))
 - # Clocked Data
 	- La ligne $E$ est contrôlé par une horloge
 		- Chaque impulsion arrive à une certaine fréquence
-		- Permet de synchroniser plusieurs bascules
-		-
+		- Permet de synchroniser la période d'activation de plusieurs bascules
+	- Ajout de la détection d'un [front montant](https://fr.wikipedia.org/wiki/Flanc_(%C3%A9lectronique))
+		- Évite que la synchronisation soit dépendante de la fréquence de l'horloge
+		- Permet de synchroniser le moment de la mise à jour de $Q$ sur différentes bascules
