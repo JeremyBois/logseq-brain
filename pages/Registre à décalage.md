@@ -23,6 +23,7 @@ title:: Registre à décalage
 			- Permet de transmettre un [[bit]] d'une entrée vers une sortie
 				- La valeur en entrée est transmise en sortie à chaque tick de l'horloge
 		- **Serial in - Parallel out (SIPO)**
+		  id:: 64282b87-401d-4557-9f0c-7dfb1bf57497
 			- Permet de transmettre un [[Byte]] d'une entrée vers plusieurs sorties
 				- La valeur en entrée est envoyée séquentiellement aux sorties à chaque tick de l'horloge
 			- Permet dé-multiplier une sortie vers *x* sorties
