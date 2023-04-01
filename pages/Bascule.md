@@ -4,12 +4,15 @@ link:: [Wikipédia](https://en.wikipedia.org/wiki/Flip-flop_(electronics))
 [[Apr 1st, 2023]]
 
 - # Types
-	- ## Set (`S`) Reset (`R`)
+	- ## Set ($S$) Reset ($R$)
 		- **Active low**
 			- Utilise des portes logiques *NOR*
-			- `S` et `R` sont par défaut à 0
+			- $S$ et $R$ sont par défaut à 0
+			- On bascule **temporairement** $S$ ou $R$ à 1 pour changer d'état
 		- **Active high**
 			- Utilise des portes logiques NAND
-			- `S` et `R` sont par défaut à 0
-				- Souvent on note respectivement `
-	-
+			- $S$ et $R$ sont par défaut à 0
+				- Souvent on note respectivement $\bar{S}$ et $\bar{R}$
+			- On bascule **temporairement** $S$ ou $R$ à 0 pour changer d'état
+		- $S$ et $R$
+-
