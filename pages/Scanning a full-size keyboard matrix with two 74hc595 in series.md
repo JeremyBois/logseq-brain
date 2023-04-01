@@ -6,5 +6,6 @@ link:: https://mehmedbasic.dk/post/74hc595-keyboard/
 
 - Comment utiliser des #ShiftRegisters pour permettre de faire le scan de l'ensemble des touches d'un clavier avec seulement 3 pins
   id:: 642828da-1be8-49df-9f23-672e301f811c
-- # Problème
+- # Problèmes
 	- Le nombre de pins sur les microcontrolleurs est limité
+	-
