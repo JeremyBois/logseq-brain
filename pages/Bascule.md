@@ -1,7 +1,7 @@
 tags:: Hardware
 alias:: Bascules, Latch, Latches, Flip-flop, Flip-flops
 link:: [Wikipédia](https://en.wikipedia.org/wiki/Flip-flop_(electronics)) 
-[[Apr 1st, 2023]]
+[[Apr 1st, 2023]] [Youtube playlist]
 
 - # Principe
 	- La sortie est noté $Q$ et son complément $\bar{Q}$ est l'opposé
@@ -55,5 +55,7 @@ link:: [Wikipédia](https://en.wikipedia.org/wiki/Flip-flop_(electronics))
 		- Chaque impulsion arrive à une certaine fréquence
 		- Permet de synchroniser la période d'activation de plusieurs bascules
 	- Ajout de la détection d'un [front montant](https://fr.wikipedia.org/wiki/Flanc_(%C3%A9lectronique))
+		- Utilisation de la latence entre deux portes logiques pour la détection
+			-
 		- Évite que la synchronisation soit dépendante de la fréquence de l'horloge
 		- Permet de synchroniser le moment de la mise à jour de $Q$ sur différentes bascules
