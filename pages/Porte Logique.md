@@ -36,6 +36,7 @@ link:: [Wikipédia](https://en.wikipedia.org/wiki/Logic_gate)
 	  | 1 | 0 | 0  |
 	  | 1 | 1 | 0  |
 - ## NAND
+  id:: 64286e76-59c1-4722-8f80-69dc7b569f13
 	- ![Gate_nand](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/NAND_ANSI_Labelled.svg/180px-NAND_ANSI_Labelled.svg.png)
 	- | A | B | Q  |
 	  |:-:|:-:|:--:|
