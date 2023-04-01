@@ -18,7 +18,7 @@ link:: [Wikipédia](https://en.wikipedia.org/wiki/Flip-flop_(electronics))
 		- Impulsion LOW (0) pour changer d'état
 		- Nécessite une ((64287c00-cf70-4201-b24f-a0efe78451bb))
 - # Set ($S$) Reset ($R$)
-	- ![Latch_SR_nor_nand](https://image1.slideserve.com/2405882/sr-latch-l.jpg){:height 280, :width 450}
+	- ![Latch_SR_nor_nand](https://image1.slideserve.com/2405882/sr-latch-l.jpg){:height 308, :width 387}
 	- SR ((64286e6c-6645-4385-bea6-37e31aff7d75))
 	  id:: 64286e05-25a6-4849-8cdc-d3d9c1a6b810
 		- ((64289354-60ce-4bbb-a17e-7cfbe5e8894f))
@@ -38,11 +38,17 @@ link:: [Wikipédia](https://en.wikipedia.org/wiki/Flip-flop_(electronics))
 	- #+BEGIN_IMPORTANT
 	  Rebasculer $S$ et $R$ à la valeur courante en même temps donne un comportement indéterminé
 	  #+END_IMPORTANT
-- # Data $D$
+- # Data / Gated Data
 	- | ((64286e05-6815-4a91-af29-b1c5c34ef6c6)) | ((64286e05-25a6-4849-8cdc-d3d9c1a6b810)) |
 	  |:-:|:-:|
 	  | ![Latch_d_nand](https://upload.wikimedia.org/wikipedia/commons/2/2f/D-Type_Transparent_Latch.svg){:height 159, :width 300} | ![Latch_d_nor](https://upload.wikimedia.org/wikipedia/commons/c/cb/D-type_Transparent_Latch_%28NOR%29.svg) |
-	- Une seule ligne ($D$) pour contrôler la sortie $Q$ faisant office de set et reset
+	- Une seule ligne ($D$) pour contrôler la sortie $Q$
+		- Sert à la fois de set et de reset
 	- La ligne $E$ permet de contrôler la fenêtre durant laquelle la bascule est active
-	- Un changement d'état a un effet même si l'impulsion arrive alors que la ligne $E$ est LOW
-		- Persistence / mémoire de la variation de la ligne $D$
+	- Persistence / mémoire de la variation de la ligne $D$
+		- Impulsion HIGH sur $D$ et $E$ est HIGH
+			- $Q$ est HIGH
+		- Impulsion HIGH sur $D$ et $E$ est LOW
+			- $Q$ HIGH **dès que** $E$ bascule en HIGH
+- # Clocked D
+	-
