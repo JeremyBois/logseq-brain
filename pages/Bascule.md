@@ -12,6 +12,7 @@ link:: [Wikipédia](https://en.wikipedia.org/wiki/Flip-flop_(electronics))
 			- Utilise des portes logiques ((64286e6c-6645-4385-bea6-37e31aff7d75))
 			- $S$ et $R$ doivent êtres maintenus à 0 (LOW)
 			- Impulsion HIGH sur $S$ ou $R$ pour changer d'état
+			- Nécessite une [[Résistance]]
 		- **Active LOW**
 			- Utilise des portes logiques ((64286e76-59c1-4722-8f80-69dc7b569f13))
 			- $S$ (noté $\bar{S}$) et $R$ (noté $\bar{R}$) doivent êtres maintenus à 1 (HIGH)
