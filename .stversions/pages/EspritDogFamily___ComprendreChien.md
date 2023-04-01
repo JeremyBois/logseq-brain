@@ -1,0 +1,92 @@
+title:: EspritDogFamily/ComprendreChien
+auteur:: #Espritdog 
+tags:: Chien, Education
+link:: [Source](https://www.espritdog.com/chapitres/chapitre-5-comprendre-le-chien/)
+[[Jan 22nd, 2023]]
+
+- ## Mon chien mange de l’herbe
+	- Permet de se faire vomir
+		- Inconfort suite à l'ingurgissement d'une connerie
+		- Recherche d'un apport en fibres
+		- Vers dans son estomac
+			- Ne permet **pas** de le purger
+			- Rejette uniquement ceux existants
+- ## La notion du temps
+	- Les chiens ont bien la notion du temps en combinant plusieurs facteurs
+		- Odeurs de la journée
+		- Odeurs des personnes
+		- Intensité lumineuse
+		- Bruits discrets / répétitifs
+- ## Hiérarchie / Domination
+	- Deux cas existants
+		- Intra spécifique
+			- Relations entre membres d’une même espèce : chien-chien, humain-humain ...
+		- Inter spécifique
+			- Relations entre membres de deux espèces différentes
+			- #+BEGIN_QUOTE
+			  Aucune étude ne prouve que c’est possible ou bien que c'est impossible ... 
+			  #+END_QUOTE
+	- Bien que le loup soit un ancêtre commun du chien on ne peut considérer que leur comportement soient identiques
+	- ### Loup
+		- Travaux de [[Lucyan David Mech]]
+			- Introduction du concept du mâle alpha
+				- Observation d'une meute en captivité
+				- Biais sociaux et environnementaux introduits par l'homme
+			- [Alpha status, dominance, leadership, and division of labor in wolf packs ](https://www.usgs.gov/publications/alpha-status-dominance-leadership-and-division-labor-wolf-packs)
+				- Abandon du concept de mâle alpha résultat du processus de compétition
+				- Un couple est cependant le garant de la survie du groupe
+					- Femelle et enfants prioritaires sur la nourriture en cas de famine
+				- Ordre hierarchique construit par généalogie et non par rivalité
+					- Parent < première portée < seconde portée < ...
+				- Intégration de loup isolé dans une nouvelle meute
+					- Favorisation la survie de la meute
+						- Un est meilleur à la chasse ou au jeu
+					- Affrontement en dernier recours
+						- Si aucun des deux ne se retire
+		- ### Chien
+			- Très différent du loup/chien sauvage
+				- Domestication, modification génétique, création de races de toutes pièces, ...
+				- Hierarchie temporaire des individus non famillial (copains en balade, ...)
+				- Codes canins pas forcément utilisé/compris par tous les chiens
+				- Utilisation de **signaux d'apaissement** = politesse pour l'humain
+- ## Les chiens détestent les chats !
+	- Faux c'est un problème de communication
+		- Certains signaux sont diamétralement opposés
+		- Problème de partage de ressources
+	- Important de laisser le temps aux deux de communiquer
+- ## Coupe de la queue et oreilles
+	- Historiquement
+		- Éliminer un point faible pour un chien de combat
+		- Éviter les blessures pour un chien de chasse
+		- Éviter la mort du chien à cause d'une zone très complexe à gérir / cicatricer
+		- Esthétique
+	- Pas de raisons de continuer aujourd'hui à le faire ...
+- ## Un chien tombe-t-il amoureux ?
+	- Comme pour l'humain le chien peut secréter de [l'ocytocine](https://fr.wikipedia.org/wiki/Ocytocine)
+		- Un chien peut donc avoir une préférence
+- ## Mon chien fait le loup
+	- Éteint sur la plupart des chiens domestiques
+	- Possible  que ce soit par mimétisme (bruit des pompiers, ...)
+	- Marquage / Attirer l'attention traduisant
+		- Manque d'exercice physique / mental
+		- Sociabilisation trop limitée
+		- Anxiété
+- ## Mon chien n’obéit plus
+	- La récompense ne l'intéresse plus
+		- Penser à rarifier les biens
+			- Nourriture
+			- Jeux
+			- Caresses
+- ## Mon chien est malade en voiture
+	- Association d'un mauvais moment à la voiture
+		- Malade la première fois qu'il a prit la voiture
+	- Soucis avec l'oreille iterne
+		- Mettre de la musique
+		- Jouet d'occupation
+		- Coussin pour absorber les vibrations
+	- Pas à pas le réhabituer
+		- Le faire monter
+		- Faire 200m
+		- ...
+	-
+	-
