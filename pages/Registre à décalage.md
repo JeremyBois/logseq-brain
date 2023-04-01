@@ -38,4 +38,4 @@ title:: Registre à décalage
 - # Connections
 	- [[Scanning a full-size keyboard matrix with two 74hc595 in series]]
 		- {{embed ((642828da-1be8-49df-9f23-672e301f811c))}}
-	-
+	- [[The Learning Circuit/How Shift Registers Work]]
