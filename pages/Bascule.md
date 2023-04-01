@@ -1,13 +1,11 @@
 tags:: Hardware
-alias:: Bascules, Latch, Latches, Flip-flop, Flip-flops
+alias:: Bascules, Latch, Latches, Flip-Flop, Flip-Flops
 link:: [Wikipédia](https://en.wikipedia.org/wiki/Flip-flop_(electronics)) [Youtube Playlist](https://www.youtube.com/watch?v=-aQH0ybMd3U&list=PLTd6ceoshpreKyY55hA4vpzAUv9hSut1H)
 [[Apr 1st, 2023]]
 
 - # Avancement
-	- DONE 1
-	- DONE 2
-	- DONE 3
-	- $
+	- TODO D Type FlipFlop (5)
+	- TODO JK Flip-Flop (6)
 - # Principe
 	- Utilisation
 		- Stabilisation d'un changement de signal
