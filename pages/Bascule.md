@@ -1,12 +1,13 @@
 tags:: Hardware
 alias:: Bascules, Latch, Latches, Flip-flop, Flip-flops
-link:: [Wikipédia](https://en.wikipedia.org/wiki/Flip-flop_(electronics)) 
-[[Apr 1st, 2023]] [Youtube playlist]
+link:: [Wikipédia](https://en.wikipedia.org/wiki/Flip-flop_(electronics)) [Youtube Playlist](https://www.youtube.com/watch?v=-aQH0ybMd3U&list=PLTd6ceoshpreKyY55hA4vpzAUv9hSut1H)
+[[Apr 1st, 2023]]
 
 - # Principe
-	- La sortie est noté $Q$ et son complément $\bar{Q}$ est l'opposé
-		- $Q = 1 \rightarrow \bar{Q} = 0$
-		- $Q = 0 \rightarrow \bar{Q} = 1$
+	- Utilisation
+		- Stabilisation d'un changement de signal
+		- Mémoriser un bit d'information
+		- Bloc de base pour construire des [[Registre à décalage]]
 	- **Active HIGH**
 	  id:: 64289354-60ce-4bbb-a17e-7cfbe5e8894f
 		- État normal LOW (0)
@@ -17,6 +18,10 @@ link:: [Wikipédia](https://en.wikipedia.org/wiki/Flip-flop_(electronics))
 		- État normal HIGH (1)
 		- Impulsion LOW (0) pour changer d'état
 		- Nécessite une ((64287c00-cf70-4201-b24f-a0efe78451bb))
+- # Nomenclature
+	- La sortie est noté $Q$ et son complément $\bar{Q}$ est l'opposé
+		- $Q = 1 \rightarrow \bar{Q} = 0$
+		- $Q = 0 \rightarrow \bar{Q} = 1$
 - # Set ($S$) Reset ($R$)
 	- ![Latch_SR_nor_nand](https://image1.slideserve.com/2405882/sr-latch-l.jpg){:height 308, :width 387}
 	- SR ((64286e6c-6645-4385-bea6-37e31aff7d75))
@@ -56,6 +61,5 @@ link:: [Wikipédia](https://en.wikipedia.org/wiki/Flip-flop_(electronics))
 		- Permet de synchroniser la période d'activation de plusieurs bascules
 	- Ajout de la détection d'un [front montant](https://fr.wikipedia.org/wiki/Flanc_(%C3%A9lectronique))
 		- Utilisation de la latence entre deux portes logiques pour la détection
-			-
 		- Évite que la synchronisation soit dépendante de la fréquence de l'horloge
 		- Permet de synchroniser le moment de la mise à jour de $Q$ sur différentes bascules
