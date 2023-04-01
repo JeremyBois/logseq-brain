@@ -4,7 +4,6 @@ link:: [Wikipédia](https://en.wikipedia.org/wiki/Shift_register)
 title:: Registre à décalage
 [[Apr 1st, 2023]]
 
--
 - # Principe
 	- Composant constitué de [[bascules]] connectées en cascade
 		- Horloges partagées
@@ -18,7 +17,7 @@ title:: Registre à décalage
 		- Valeurs en mémoire transmises en sortie
 			- Mise à jour uniquement à chaque tick de l'horloge
 	- Chaque registre peut être connecté en série à un autre registre afin de multiplier les entrées et/ou sorties
-	- ## Plusieurs variantes
+	- ## Variantes
 		- **Serial in - Serial out (SISO)**
 			- Permet de transmettre un [[bit]] d'une entrée vers une sortie
 				- La valeur en entrée est transmise en sortie à chaque tick de l'horloge
@@ -38,6 +37,13 @@ title:: Registre à décalage
 				- Chaque tick de l'horloge permet le transfert de toutes les entrées vers les sorties
 		- **Universel**
 			- Un unique composant supportant les différentes variantes
+	- ## Types
+		- ### Set Reset latches
+			- Utilise des portes logiques *NOR*
+			- **Active low**
+				- Dans l'état de repos les
+		- **Active high**
+		-
 - # Connections
 	- [[Scanning a full-size keyboard matrix with two 74hc595 in series]]
 		- {{embed ((642828da-1be8-49df-9f23-672e301f811c))}}
