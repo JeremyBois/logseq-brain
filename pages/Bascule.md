@@ -47,6 +47,7 @@ link:: [Wikipédia](https://en.wikipedia.org/wiki/Flip-flop_(electronics)) [Yout
 	  Rebasculer $S$ et $R$ à la valeur courante en même temps donne un comportement indéterminé
 	  #+END_IMPORTANT
 - # Data / Gated Data
+  id:: 64289791-2e50-4ed1-9c46-bf9f84deb188
 	- | ((64286e05-6815-4a91-af29-b1c5c34ef6c6)) | ((64286e05-25a6-4849-8cdc-d3d9c1a6b810)) |
 	  |:-:|:-:|
 	  | ![Latch_d_nand](https://upload.wikimedia.org/wikipedia/commons/2/2f/D-Type_Transparent_Latch.svg){:height 159, :width 300} | ![Latch_d_nor](https://upload.wikimedia.org/wikipedia/commons/c/cb/D-type_Transparent_Latch_%28NOR%29.svg) |
@@ -59,10 +60,12 @@ link:: [Wikipédia](https://en.wikipedia.org/wiki/Flip-flop_(electronics)) [Yout
 		- Impulsion HIGH sur $D$ et $E$ est LOW
 			- $Q$ HIGH **dès que** $E$ bascule en HIGH
 - # Clocked Data
+  id:: 64289d37-3c2a-4f0d-bee6-9dc4bca1d209
+	- Variation de la bascule ((64289791-2e50-4ed1-9c46-bf9f84deb188))
 	- La ligne $E$ est contrôlé par une horloge et renommée $C$
 		- Chaque impulsion arrive à une certaine fréquence
 		- Permet de synchroniser la période d'activation de plusieurs bascules
-	- Ajout de la détection d'un [front montant](https://fr.wikipedia.org/wiki/Flanc_(%C3%A9lectronique))
+	- Détection d'un [front montant](https://fr.wikipedia.org/wiki/Flanc_(%C3%A9lectronique))
 		- Utilisation de la latence entre les portes logiques pour la détection en combinant un nombre impair de portes logiques ((64286e0a-9764-4f9e-8a5b-6cb3509aa93f)) et une porte logique ((64286e1e-893f-45a3-860b-6027376bfb68))
 		- ![Risingedge_detector](https://i.stack.imgur.com/GHbcC.png){:height 113, :width 367}
 		- Évite que la synchronisation soit dépendante de la fréquence de l'horloge

@@ -11,7 +11,9 @@ link:: https://mehmedbasic.dk/post/74hc595-keyboard/
 - # Solution
 	- Colonnes
 		- Utiliser un [[Registre à décalage]] ((64282b87-401d-4557-9f0c-7dfb1bf57497))
-			- Modèle *74hc595* ( ((64286e05-25a6-4849-8cdc-d3d9c1a6b810)) )
+			- Modèle *74hc595*
+				- Utilise des bascules ((64289d37-3c2a-4f0d-bee6-9dc4bca1d209))
+				- {{embed ((64289354-60ce-4bbb-a17e-7cfbe5e8894f))}}
 			- Très très rapide (20MHz)
 	- Lignes
 		- Utiliser un pin par ligne
