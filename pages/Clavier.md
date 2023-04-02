@@ -1,4 +1,5 @@
 alias:: Claviers, Keyboard, Keyboards
 
-- # Split
-- # Unsplit
+- ***
+  {{namespace Clavier}}
+  ***
