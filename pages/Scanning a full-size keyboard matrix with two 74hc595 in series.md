@@ -4,11 +4,15 @@ tags:: Hardware, Software, QMK, ShiftRegister
 link:: https://mehmedbasic.dk/post/74hc595-keyboard/
 [[Apr 1st, 2023]]
 
-- Comment utiliser des registres à décalage pour permettre de faire le scan de l'ensemble des touches d'un clavier avec seulement 3 pins
+- Comment utiliser des registres à décalage pour permettre de faire le scan de l'ensemble des touches d'un clavier
   id:: 642828da-1be8-49df-9f23-672e301f811c
 - # Problèmes
 	- Le nombre de pins sur les microcontrolleurs est limité
 - # Solution
-	- Utiliser un registre à décalage ((64282b87-401d-4557-9f0c-7dfb1bf57497))
-		- Modèle *74hc595* ( ((64286e05-25a6-4849-8cdc-d3d9c1a6b810)) )
-		- Très très rapide (20MHz)
+	- Colonnes
+		- Utiliser un [[Registre à décalage]] ((64282b87-401d-4557-9f0c-7dfb1bf57497))
+			- Modèle *74hc595* ( ((64286e05-25a6-4849-8cdc-d3d9c1a6b810)) )
+			- Très très rapide (20MHz)
+	- Lignes
+		- Utiliser un pin par ligne
+		- Trop peu de lignes pour rentabiliser l'utilisation d'un [[Registre à décalage]]
