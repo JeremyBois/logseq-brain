@@ -16,6 +16,7 @@ link:: [Wikipédia](https://en.wikipedia.org/wiki/Flip-flop_(electronics)) [Yout
 		- État normal LOW (0)
 		- Impulsion HIGH (1) pour changer d'état
 		- Nécessite une ((64287bf5-3871-41ed-9b00-98de29bb04b4))
+		-
 	- **Active LOW**
 	  id:: 6428918c-6d63-43ed-8ce0-6154ff6782ff
 		- État normal HIGH (1)
