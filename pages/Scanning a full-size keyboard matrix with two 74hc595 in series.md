@@ -19,3 +19,5 @@ link:: https://mehmedbasic.dk/post/74hc595-keyboard/
 				- Ajout de résistances entre chaque GPIO et la terre
 	- Conservation d'un GPIO par ligne
 		- Trop peu de lignes pour rentabiliser l'utilisation d'un [[Registre à décalage]]
+- # Améliorations
+	- Utiliser un [[Registre à décalage]] de type ((64282b87-401d-4557-9f0c-7dfb1bf57497)) pour aussi économiser sur les
