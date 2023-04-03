@@ -12,10 +12,10 @@ link:: [Wikipédia](https://en.wikipedia.org/wiki/Resistor)
 	  Sa place dans le circuit détermine son nom
 	  #+END_NOTE
 	- Permet d'éviter d'avoir une valeur flottante / indéfinie lorsque le circuit est ouvert
-	-
+		- Valeur qui bascule de HIGH à LOW car la vraie valeur est intermédiaire due aux variations de l'environnement
 	- ## Résistance de rappel / *Pull-down resistor*
 	  id:: 64287bf5-3871-41ed-9b00-98de29bb04b4
-		- Se place **entre la ligne et la terre** pour permettre de garantir un état stable (qui ne dépend pas de l'environnement)
+		- Se place **entre la ligne et la terre** pour permettre de garantir que l align
 			- Lorsque le composant transmet un signal HIGH
 				- La ligne est HIGH quand le circuit est fermée
 					- Alimentation et terre connecté
