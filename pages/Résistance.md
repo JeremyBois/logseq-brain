@@ -15,15 +15,15 @@ link:: [Wikipédia](https://en.wikipedia.org/wiki/Resistor)
 		- Valeur qui bascule de HIGH à LOW car la vraie valeur est intermédiaire due aux variations de l'environnement
 	- ## Résistance de rappel / *Pull-down resistor*
 	  id:: 64287bf5-3871-41ed-9b00-98de29bb04b4
-		- Se place **entre la ligne et la terre** pour permettre de garantir que :
-			- La ligne est LOW quand le circuit est ouvert (déconnecté)
-				- Connection vers la terre uniquement
+		- Se place **entre la ligne et la terre** garantissant que :
+			- La ligne est LOW quand le circuit est ouvert
+				- Ligne **tirée** au niveau de la terre
 			- La ligne est HIGH quand le circuit est fermée
-				- Alimentation et terre connecté
+				- Ligne au niveau de l'alimentation
 	- ## Résistance de tirage / *Pull up resistor*
 	  id:: 64287c00-cf70-4201-b24f-a0efe78451bb
-		- Se place **entre la ligne et la source d'alimentation**  pour permettre de garantir que :
+		- Se place **entre la ligne et la source d'alimentation**  garantissant que :
 			- La ligne est HIGH quand le circuit est ouvert
-				- Ligne tirée vers HIGH
+				- Ligne **tirée** au niveau de l'alimentation
 			- La ligne est LOW quand le circuit est fermée
-				- Ligne
+				- Ligne au niveau de la terre
