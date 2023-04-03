@@ -14,8 +14,10 @@ link:: [Wikipédia](https://en.wikipedia.org/wiki/Resistor)
 	- Permet d'éviter d'avoir une valeur flottante / indéfinie lorsque le circuit est ouvert
 		- Valeur qui bascule de HIGH à LOW car la vraie valeur est intermédiaire due aux variations de l'environnement
 	- Plus la résistance est importante moins de courant traverse
-		- Résistance faible --> Moins de courant
-		- Résistance forte --> Plus de courant
+		- Résistance faible --> Plus de courant passe au travers
+			- Pull-up / Pull-down forte
+		- Résistance forte --> Moins de courant passe au travers
+			- Pull-up / Pull-down faible
 		- #+BEGIN_IMPORTANT
 		  L'importance est toujours relative et c'est pourquoi 
 		  #+END_IMPORTANT
