@@ -30,3 +30,6 @@ link:: [Wikipédia](https://en.wikipedia.org/wiki/Resistor)
 				- Ligne **tirée** au niveau de l'alimentation
 			- La ligne est LOW quand le circuit est fermée
 				- Ligne au niveau de la terre
+		- Si un circuit connecte la terre à un GPIO
+			- Ligne LOW quand le circuit est fermée
+			- Ligne HIGH car tirée vers 3.3V quand il est ouvert
