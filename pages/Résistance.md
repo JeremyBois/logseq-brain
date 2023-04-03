@@ -1,6 +1,6 @@
 tags:: Harware, Software
 alias:: Résistances, Resistor, Resistors 
-link::
+link::[W]
 [[Apr 1st, 2023]]
 
 - # References
@@ -23,5 +23,3 @@ link::
 			- Lorsque la ligne est connecté à la terre
 				- La ligne est LOW quand le circuit est fermée
 				- La ligne est HIGH quand le circuit est ouvert
-		-
--
