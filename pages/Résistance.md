@@ -11,7 +11,8 @@ link:: [Wikipédia](https://en.wikipedia.org/wiki/Resistor)
 	- #+BEGIN_NOTE
 	  Sa place dans le circuit détermine son nom
 	  #+END_NOTE
-	- Permet d'éviter d'avoir une valeur flottante HIGH / LOW
+	- Permet d'éviter d'avoir une valeur flottante / indéfinie lorsque le circuit est ouvert
+	-
 	- ## Résistance de rappel / *Pull-down resistor*
 	  id:: 64287bf5-3871-41ed-9b00-98de29bb04b4
 		- Se place **entre la ligne et la terre** pour permettre de garantir un état stable (qui ne dépend pas de l'environnement)
