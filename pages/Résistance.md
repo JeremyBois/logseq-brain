@@ -20,6 +20,9 @@ link:: [Wikipédia](https://en.wikipedia.org/wiki/Resistor)
 				- Ligne **tirée** au niveau de la terre
 			- La ligne est HIGH quand le circuit est fermée
 				- Ligne au niveau de l'alimentation
+		- Si un circuit connecte 3.3V à un GPIO
+			- Ligne HIGH quand le circuit est fermée
+			- Ligne LOW car tirée vers la terre quand il est ouvert
 	- ## Résistance de tirage / *Pull up resistor*
 	  id:: 64287c00-cf70-4201-b24f-a0efe78451bb
 		- Se place **entre la ligne et la source d'alimentation**  garantissant que :
