@@ -3,5 +3,5 @@ alias:: Echinos
 link::
 [[Apr 8th, 2023]]
 
-- # Idées
-	- Utiliser un Wav
+- # Description
+	- Combiner
