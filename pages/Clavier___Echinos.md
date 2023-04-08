@@ -16,11 +16,12 @@ link::
 		-
 - # Options
 	- ## Trackball
-		- Capteur [Pixar_PMW3360DM-T2QU](hls__Pixar_PMW3360DM-T2QU_1676926052031_0) + module pour une boule
+		- [[Electronique/PMW3360DM-T2QU]]
+			- Utilisation de ((4d11a85a-63b7-437d-b681-b8b1550b686a))
 	- ## Trackpad
-		- Capteur [[Trackpad/GlidePointCircle]]
+		- Capteur [[Electronique/GlidePointCircle]]
 	- ## Encodeur
-		- Composant [Panasonic roller encoder EVQWGD001]()
+		- Composant [[Electronique/EVQWGD001]]
 	- ## Joystick
 	- ## LCD / OLED
 	-
