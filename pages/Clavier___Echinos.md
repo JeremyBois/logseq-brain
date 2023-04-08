@@ -13,7 +13,7 @@ link::
 			- Évite l'effet yoyo quand on veut modifier la position des switches
 	- Électronique --> #Kicad
 		- #PCB non réversible
-		- Empreintes pour [[Capuchon/Choc]] et [[Capuchon/Choc mini]]
+		- Empreintes pour [[Électronique/Choc]] et [[Électronique/Choc mini]]
 		-
 - # Options
 	- ## Trackball
