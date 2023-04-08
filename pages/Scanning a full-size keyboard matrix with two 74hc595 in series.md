@@ -21,6 +21,6 @@ link:: https://mehmedbasic.dk/post/74hc595-keyboard/
 		- Conservation d'un GPIO par ligne
 			- Trop peu de lignes pour rentabiliser l'utilisation d'un [[Registre à décalage]]
 - # Notes
-	- [[Ptechinos/Brainstorming]]
+	- [[Brainstorming]]
 		- Utiliser un [[Registre à décalage]] de type ((64282b87-401d-4557-9f0c-7dfb1bf57497)) pour aussi économiser sur les lignes
 		- Même horloge pour gérer les lignes et les colonnes

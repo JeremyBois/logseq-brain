@@ -3,7 +3,7 @@ link::
 [[Feb 23rd, 2023]]
 
 - #+BEGIN_WARNING
-  **Document partagé permettant de conserver une trace des nouvelles idées / remarques** 
+  **Document partagé entre les différents claviers**
   #+END_WARNING
 - # Boitier
 	- ## Fixation sandwich (plaques entre elles)
