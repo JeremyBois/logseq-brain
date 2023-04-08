@@ -3,7 +3,7 @@ alias:: Echinos
 link::
 [[Apr 8th, 2023]]
 
-- # Description
+- # Développement
 	- Combiner 3D et électronique pour obtenir un boitier adapté et limiter la complexité liée au processus itératif
 	- 3D / 2D --> #OpenScad
 		- Utiliser une projection du boitier sur le plan (XY) comme base pour le positionnement des  composants
@@ -14,3 +14,12 @@ link::
 	- Électronique --> #Kicad
 		-
 		-
+- # Options
+	- ## Trackball
+		- Utiliser un capteur
+	- ## Trackpad
+	- ## Encodeur
+	- ## Joystick
+	- ## LCD / OLED
+	-
+	-
