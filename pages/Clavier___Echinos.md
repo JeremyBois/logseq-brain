@@ -16,7 +16,7 @@ link::
 		-
 - # Options
 	- ## Trackball
-		- Utiliser un capteur
+		- Utiliser un capteur [[hls__Pixar_PMW3360DM-T2QU_1676926052031_0|dd]]
 	- ## Trackpad
 	- ## Encodeur
 	- ## Joystick
