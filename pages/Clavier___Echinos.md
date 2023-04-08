@@ -12,18 +12,20 @@ link::
 		- Le boitier ne doit pas être dépendant des composants
 			- Évite l'effet yoyo quand on veut modifier la position des switches
 	- Électronique --> #Kicad
-		- #PCB non réversible
+		- #PCB non **réversible** mais **symmétrique**
 		- Empreintes pour [[Électronique/Choc]] et [[Électronique/Choc mini]]
+		- Support pour ((6431652d-420c-49e3-bad0-6aab3c916bc8))
 		-
 - # Options
 	- ## Trackball
-		- Composant [[Electronique/PMW3360DM-T2QU]]
+		- Composant [[Électronique/PMW3360DM-T2QU]]
 			- Utilisation de ((4d11a85a-63b7-437d-b681-b8b1550b686a))
 	- ## Trackpad
-		- Composant [[Electronique/GlidePointCircle]]
+		- Composant [[Électronique/GlidePointCircle]]
 	- ## Encodeur
-		- Composant [[Electronique/EVQWGD001]]
+		- Composant [[Électronique/EVQWGD001]]
 	- ## Joystick
+	  id:: 6431652d-420c-49e3-bad0-6aab3c916bc8
 	- ## LCD / OLED
 	-
 	-
