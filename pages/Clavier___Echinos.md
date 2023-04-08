@@ -1,4 +1,5 @@
 tags:: Clavier, Trackball, Trackpad, Registre à décalage, QMK, OpenScad
+author:: #JeremyBois 
 alias:: Echinos
 link::
 [[Apr 8th, 2023]]
