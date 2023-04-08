@@ -4,4 +4,6 @@ link::
 [[Apr 8th, 2023]]
 
 - # Description
-	- Combiner
+	- Combiner 3D et électronique pour obtenir un boitier adapté et limiter la complexité
+	- #OpenScad
+		- À construire en premier
