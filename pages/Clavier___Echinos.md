@@ -4,6 +4,8 @@ link::
 [[Apr 8th, 2023]]
 
 - # Description
-	- Combiner 3D et électronique pour obtenir un boitier adapté et limiter la complexité
+	- Combiner 3D et électronique pour obtenir un boitier adapté et limiter la complexité liée au processus itératif
 	- #OpenScad
-		- À construire en premier
+		- Le boitier n'est pas dépendant des composants mais la forme est imposée
+			- Évite l'effet yoyo quand on veut modifier la position des switches
+		-
