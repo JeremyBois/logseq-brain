@@ -8,19 +8,16 @@ link:: [Wikipédia](https://en.wikipedia.org/wiki/Resistor)
 	- https://www.electronics-tutorials.ws/logic/pull-up-resistor.html
 	- https://learn.sparkfun.com/tutorials/pull-up-resistors/all)
 - # Description
-	- #+BEGIN_NOTE
-	  Sa place dans le circuit détermine son nom
-	  #+END_NOTE
-	- Permet d'éviter d'avoir une valeur flottante / indéfinie lorsque le circuit est ouvert
+	- Permet d'éviter d'avoir une valeur **flottante** / indéfinie lorsque le circuit est ouvert
 		- Valeur qui bascule de HIGH à LOW car la vraie valeur est intermédiaire due aux variations de l'environnement
 	- Plus la résistance est importante moins de courant traverse
 		- Résistance faible --> Plus de courant passe au travers
 			- Pull-up / Pull-down forte
 		- Résistance forte --> Moins de courant passe au travers
 			- Pull-up / Pull-down faible
-		- #+BEGIN_IMPORTANT
-		  L'importance est toujours relative et c'est pourquoi 
-		  #+END_IMPORTANT
+	- #+BEGIN_IMPORTANT
+	  L'importance de la résistance est toujours relative au reste du circuit. 
+	  #+END_IMPORTANT
 	- ## Résistance de rappel / *Pull-down resistor*
 	  id:: 64287bf5-3871-41ed-9b00-98de29bb04b4
 		- Se place **entre la ligne et la terre** garantissant que :

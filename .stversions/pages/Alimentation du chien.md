@@ -6,16 +6,8 @@ tags:: Yoshi, Chien
 		  [Alimentation](https://www.espritdog.com/chapitres/chapitre-6-lalimentation/) #Espritdog
 	- Vente en ligne :
 		- [Nourrir comme la nature](https://www.nourrircommelanature.com/)
-- ## Marques de croquettes
-  id:: 64301baf-6f34-481e-87ba-30e2f03b6aa0
-	- 🤩 [Atavik](https://shop.atavik.fr/)
-		- 👍️ Pas de grains
-		- 👍️ Riche en protéine animale
-		- 👍️ Peu d'additifs
-		- 👍️ Pauvre en glucide --> 25%
-		- 👍️ Variété dans le choix
-		- 👍️ Production française
-		- 👍️ Prix
+- ## Marques
+  collapsed:: true
 	- 🤩 Wolfood
 	  :LOGBOOK:
 	  CLOCK: [2022-12-29 Thu 10:48:15]--[2022-12-29 Thu 10:48:17] =>  00:00:02
@@ -98,7 +90,6 @@ tags:: Yoshi, Chien
 		- ➖ Peu de protéines animales
 	- Farmina
 	- Atavik
-	  id:: 64301baf-1e57-472b-8ad0-95c8882bc145
 	- Purizon
 	  :LOGBOOK:
 	  CLOCK: [2022-12-28 Wed 14:53:15]--[2022-12-28 Wed 14:53:15] =>  00:00:00

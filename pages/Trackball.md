@@ -31,6 +31,7 @@ alias:: Trackballs
 			- Caractérise le niveau sonore lors du mouvement de la boule sur les roulements
 	- ## Types
 		- ### Billes en céramiques (*Static céramique bearings*)
+		  id:: 4d11a85a-63b7-437d-b681-b8b1550b686a
 			- ![Static_bearings](https://github.com/Wimads/Trackball-mousekeys-add-on-for-Skeletyl/raw/main/Images/Trackball%20static%20bearings.jpg){:height 250, :width 320}
 			- Utilise des billes en céramiques ([Zro2 (zirconia) versus Si3N4 (silicon nitride)](https://prokcssmedia.blob.core.windows.net/sys-master-images/hb2/haf/9263251816478/ceramic-bearing-selection-guide.pdf))
 				- La boule est en contact avec les trois billes qui sont elles statiques

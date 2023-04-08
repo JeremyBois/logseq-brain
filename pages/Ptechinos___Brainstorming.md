@@ -62,3 +62,7 @@ link::
 		- Combiner plusieurs touches en même temps
 		- Ressources
 			- [Combos pour les modificateurs](https://jasoncarloscox.com/blog/combo-mods/)
+- # Trackball
+	- DOING Souder le pont JP1 pour ajouter la ((64287c00-cf70-4201-b24f-a0efe78451bb)) sur la ligne MISO
+		- [Github Ogen PCB](https://github.com/JeremyBois/Ogen)
+		- [MISO peut être flottant car contrôlée par l'esclave uniquement](https://electronics.stackexchange.com/a/234707)
