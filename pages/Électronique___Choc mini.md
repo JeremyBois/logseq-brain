@@ -5,10 +5,10 @@ link:: [Officiel](https://www.kailhswitch.com/info/kailh-mini-choc-switch-284695
 [[Apr 8th, 2023]]
 
 - # Description
-	- ## Spécification
-		- ![Kailh_switch_chocmini.pdf](../assets/Kailh_switch_chocmini_1681039976115_0.pdf)
-	- ## Caractéristiques
+	- ![Kailh_switch_chocmini.pdf](../assets/Kailh_switch_chocmini_1681039976115_0.pdf)
+	- Caractéristiques :
 		- White --> Clicky
 		- Red --> Linéaire
 		- Brown --> Tactile
 		- Force d'activation --> 50gf
+-
