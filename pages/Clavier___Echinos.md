@@ -26,6 +26,8 @@ link::
 	  id:: 643164e5-3903-461b-aff9-67821e9128cb
 		- Composant [[Électronique/PMW3360DM-T2QU]]
 			- Utilisation de ((4d11a85a-63b7-437d-b681-b8b1550b686a))
+		- TODO Refaire le PCB pour le capteur
+			- [Ogen](https://github.com/JeremyBois/Ogen) n'a pas de distinction de voltage sur les différents VDD alors qu'il faut du 3.3V et du 1.9V
 	- ## Trackpad
 	  id:: 643164ec-6f86-4685-9537-a178db9b1195
 		- Composant [[Électronique/GlidePointCircle]]
