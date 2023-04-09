@@ -290,6 +290,15 @@ link:: https://mastering-openscad.eu/buch/introduction/
 	  [[Apr 9th, 2023]]
 	- ## Debug Symbols
 		- Affichage d'un sous arbre en **transparence** (*gris*) et l'ignorer pour le rendu  -->`%`
+			- ```openscad
+			  difference() {
+			  	cylinder (h = 12, r=5, center = true, $fn=100);
+			  	// first object to be subtracted
+			  	rotate ([90,0,0]) cylinder (h = 15, r=1, center = true, $fn=100);
+			  	// second object to be subtracted
+			  	%rotate ([0,90,0]) cylinder (h = 15, r=3, center = true, $fn=100);
+			  }
+			  ```
 		- Affichage d'un sous arbre en **transparence** (*rouge*)  sans affecter le rendu des géométries en découlant --> `#`
 		  id:: 6431713b-bbca-4017-9d7d-974262fda20d
 			- Validation / Debug de la position des formes à combiner
@@ -297,4 +306,27 @@ link:: https://mastering-openscad.eu/buch/introduction/
 			  #cylinder( d = hole_dm, h = plate.z + 1);
 			  ```
 		- Désactiver complètement un sous arbre --> `*`
+			- ```openscad
+			  difference() {
+			  	cube(10, center = true);
+			  	translate([0, 0, 5]) {
+			  		rotate([0, 90, 0]) {
+			  			cylinder(r = 2, h = 20, center = true, $fn = 40);
+			  		}
+			  		*rotate([90, 0, 0]) {
+			  			#cylinder(r = 2, h = 20, center = true, $fn = 40);
+			  		}
+			  	}
+			  }
+			  ```
 		- Ignorer le reste du design et utiliser uniquement ce sous arbre --> `!`
+			- ```openscad
+			  difference() {
+			  	cube(10, center = true);
+			  	translate([0, 0, 5]) {
+			  		!rotate([90, 0, 0]) {
+			  			#cylinder(r = 2, h = 20, center = true, $fn = 40);
+			  		}
+			  	}
+			  }
+			  ```
