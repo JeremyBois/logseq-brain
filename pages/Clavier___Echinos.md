@@ -28,9 +28,14 @@ link::
 			- Utilisation de ((4d11a85a-63b7-437d-b681-b8b1550b686a))
 		- TODO Refaire le PCB pour le capteur
 			- [Ogen](https://github.com/JeremyBois/Ogen) n'a pas de distinction de voltage sur les différents VDD alors qu'il fudrait du 3.3V et du 1.9V pour être cohérent
-			- Régulateur de courant 3.3V --> 1.9V
-				- Sortie ajustable --> [AP2127K-ADJTRG1](https://www.lcsc.com/product-detail/Linear-Voltage-Regulators-LDO_Diodes-Incorporated-AP2127K-ADJTRG1_C96343.html) (existe en sortie fixe)
-				- Sortie fixe --> [VRH1902LTX](https://www.lcsc.com/product-detail/Linear-Voltage-Regulators-LDO_AnaSem-VRH1902LTX_C697975.html)
+			- Régulateurs de courant
+				- Sortie ajustable
+					- [AP2127K-ADJTRG1](https://www.lcsc.com/product-detail/Linear-Voltage-Regulators-LDO_Diodes-Incorporated-AP2127K-ADJTRG1_C96343.html)
+						- Nécessite 2 résistances pour fixer la tension de sortie
+				- Sortie fixe :
+					- --> 1.9V [VRH1902LTX](https://www.lcsc.com/product-detail/Linear-Voltage-Regulators-LDO_AnaSem-VRH1902LTX_C697975.html)
+					- --> 3.3V [AP2127K-3-3TRG1](https://www.lcsc.com/product-detail/Linear-Voltage-Regulators-LDO_Diodes-Incorporated-AP2127K-3-3TRG1_C156285.html)
+				-
 	- ## Trackpad
 	  id:: 643164ec-6f86-4685-9537-a178db9b1195
 		- Composant [[Électronique/GlidePointCircle]]
