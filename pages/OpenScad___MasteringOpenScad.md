@@ -88,12 +88,7 @@ link:: https://mastering-openscad.eu/buch/introduction/
 			  	cylinder( d = hole_dm, h = plate.z + 2);
 			  }
 			  ```
-	- Affichage d'un sous arbre  en **transparence** (*rouge*)  sans affecter le rendu des géométries en découlant --> `#`
-	  id:: 6431713b-bbca-4017-9d7d-974262fda20d
-		- Validation / Debug de la position des formes à combiner
-		- ```openscad
-		  #cylinder( d = hole_dm, h = plate.z + 1);
-		  ```
+	- ((6431713b-bbca-4017-9d7d-974262fda20d))
 	- Boucles --> `for`
 		- Permet de construire plusieurs géométries tout en évitant les répétitions
 		- Possible de parcourir des tableaux / vecteurs ou bien des *range loop*
@@ -294,9 +289,12 @@ link:: https://mastering-openscad.eu/buch/introduction/
 	  link:: https://mastering-openscad.eu/buch/wasfehlt/
 	  [[Apr 9th, 2023]]
 	- ## Debug Symbols
-		- Affichage d'un sous arbre en **transparence** (*gris*) et l'ignore pour le rendu  -->`%`
-		- Désactiver un sous arbre de transformation complètement--> `*`
-		- ((6431713b-bbca-4017-9d7d-974262fda20d))
-		- Ignorer le reste de l'arbre de transformation --> `!`
-		-
-		-
+		- Affichage d'un sous arbre en **transparence** (*gris*) et l'ignorer pour le rendu  -->`%`
+		- Affichage d'un sous arbre en **transparence** (*rouge*)  sans affecter le rendu des géométries en découlant --> `#`
+		  id:: 6431713b-bbca-4017-9d7d-974262fda20d
+			- Validation / Debug de la position des formes à combiner
+			- ```openscad
+			  #cylinder( d = hole_dm, h = plate.z + 1);
+			  ```
+		- Désactiver complètement un sous arbre --> `*`
+		- Ignorer le reste du design et utiliser uniquement ce sous arbre --> `!`
