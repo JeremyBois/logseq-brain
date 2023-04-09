@@ -132,8 +132,8 @@
     },
     {
       "type": "text",
-      "version": 160,
-      "versionNonce": 244159942,
+      "version": 161,
+      "versionNonce": 575840885,
       "isDeleted": false,
       "id": "xRJdnc3eWQHxV-bKKIRZJ",
       "fillStyle": "hachure",
@@ -152,17 +152,17 @@
       "groupIds": [],
       "strokeSharpness": "sharp",
       "boundElements": [],
-      "updated": 1677875306770,
+      "updated": 1681041231578,
       "link": null,
       "locked": false,
       "fontSize": 28,
       "fontFamily": 2,
-      "text": "Y",
+      "text": "X",
       "baseline": 26,
       "textAlign": "center",
       "verticalAlign": "top",
       "containerId": null,
-      "originalText": "Y"
+      "originalText": "X"
     },
     {
       "type": "text",
