@@ -88,7 +88,8 @@ link:: https://mastering-openscad.eu/buch/introduction/
 			  	cylinder( d = hole_dm, h = plate.z + 2);
 			  }
 			  ```
-	- Affichage d'une géométrie intermédiaire en **transparence** --> `#`
+	- Affichage d'une géométrie en **transparence**  sans affecter le rendu des géométries en découlant --> `#`
+	  id:: 6431713b-bbca-4017-9d7d-974262fda20d
 		- Validation / Debug de la position des formes à combiner
 		- ```openscad
 		  #cylinder( d = hole_dm, h = plate.z + 1);
@@ -295,4 +296,8 @@ link:: https://mastering-openscad.eu/buch/introduction/
 	- ## Debug Symbols
 		- Forcer la transparence pour une géométrie -->`%`
 		- Désactiver une géométrie --> `*`
+		- ((6431713b-bbca-4017-9d7d-974262fda20d))
+		- Ignorer le reste de l'arbre de transformation --> `!`
+			- Cumulable avec ((6431713b-bbca-4017-9d7d-974262fda20d)) pour afficher
+		-
 		-
