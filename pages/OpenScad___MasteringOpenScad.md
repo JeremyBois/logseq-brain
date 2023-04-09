@@ -289,6 +289,10 @@ link:: https://mastering-openscad.eu/buch/introduction/
 	-
 		-
 - # What is missing ?
-	- tags::
-	  link::
+	- type:: Article
+	  link:: https://mastering-openscad.eu/buch/wasfehlt/
 	  [[Apr 9th, 2023]]
+	- ## Debug Symbols
+		- Forcer la transparence pour une géométrie -->`%`
+		- Désactiver une géométrie --> `*`
+		-
