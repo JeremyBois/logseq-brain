@@ -5,8 +5,9 @@ link:: https://www.erlang.org/
 ***
 
 - Langage de programmation permettant de construire des applications
-	- massivement scalable
-	-
+	- Massivement scalable
+	- Modifiable à la volée (directement en production)
+	- Tolérant aux pannes
 - OTP (*Open Telecom Platform*)
 	- Outils et bibliothèques pour développer et déboguer son code
 	- Permet d'intérargir avec d'autres langages
