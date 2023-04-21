@@ -7,6 +7,7 @@ link:: https://lisp-lang.org/
 - Langage de programmation extensible et adaptable aux besoins / contraintes du développeur
 - Extensible
 	- Permet de construire ses propres [[Programmation/DSL]]
+	- Utilisable avec [[Programmation/Erlang]] grâce à [LFE](https://lfe.io/)
 - Performant et robuste
 - Coder directement un programme --> *Live coding*
 	- Éditer le code durant l'exécution

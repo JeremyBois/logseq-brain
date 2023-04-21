@@ -13,4 +13,3 @@ link:: https://clojure.org/
 	- *Live coding* avec [Clerk](https://clerk.vision/)
 		- Notebook sans les faiblesses inhérentes aux Jupyter notebook
 		- Outils graphiques pour
-		-
