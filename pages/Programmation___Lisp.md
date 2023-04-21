@@ -5,4 +5,11 @@ link:: https://lisp-lang.org/
 ***
 
 - Langage de programmation extensible et adaptable aux besoins / contraintes du développeur
-- Son extensibilité permet de construire son propre [[Programmation/DSL]]
+- Extensible
+	- Permet de construire ses propres [[Programmation/DSL]]
+- Performant
+- Nombreux outils
+	- Coder directement un programme --> *Live coding*
+		- Possible d'éditer le code durant l'exécution
+		-
+	- Manipuler la mémoire pour revenir en arrière et changer le code
