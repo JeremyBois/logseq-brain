@@ -6,7 +6,7 @@ link:: [Wikipédia](https://en.wikipedia.org/wiki/Boundary_representation)
 
 - # Description
 	- Description surfacique des solides
-		- Plus générale
+		- Approche généralisable et étendable
 		- Représentation exacte des modèles
 	- Plus flexible que la [[CSG]]
 		- Supporte les mêmes opérations
