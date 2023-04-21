@@ -16,3 +16,4 @@ link:: [Wikipédia](https://en.wikipedia.org/wiki/Boundary_representation)
 		-
 - ## Relations
 	- [[CSG]]
+	- [[F-Rep]]
