@@ -1,5 +1,5 @@
 tags:: 3D, CAD
-alias:: CSG, Constructive Solid Geometry, Modélisation solide, Modélisation volumique
+alias:: CSG, Constructive Solid Geometry, Modélisation volumique
 link:: [Wikipédia](https://en.wikipedia.org/wiki/Constructive_solid_geometry) 
 [[Apr 21st, 2023]]
 ***
@@ -12,6 +12,6 @@ link:: [Wikipédia](https://en.wikipedia.org/wiki/Constructive_solid_geometry)
 	- Utilisée pour de la modélisation #CAD ou de maillages
 	-
 - # Relations
-	- [[B-Rep]]
+	- [[Modélisation surfacique]]
 	- [[F-Rep]]
 	-

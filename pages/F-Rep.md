@@ -7,5 +7,5 @@ link:: [Wikipédia](https://en.wikipedia.org/wiki/Function_representation)
 - # Description
 -
 - # Relations
-	- [[B-Rep]]
+	- [[Modélisation surfacique]]
 	- [[CSG]]

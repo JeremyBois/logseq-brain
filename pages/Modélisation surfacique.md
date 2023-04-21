@@ -1,6 +1,6 @@
 tags:: 3D, CAD
-alias:: BREP, Boundary representation, Modélisation surfacique
-link:: [Wikipédia](https://en.wikipedia.org/wiki/Boundary_representation) 
+alias:: BREP, B-Rep, Boundary representation,
+link:: [Wikipédia](https://en.wikipedia.org/wiki/Boundary_representation)
 [[Apr 21st, 2023]]
 ***
 
