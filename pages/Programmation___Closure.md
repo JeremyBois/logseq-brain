@@ -1,4 +1,4 @@
-tags:: Functional, Dynamic
+tags:: Dynamique
 alias:: Closure
 link:: https://clojure.org/
 [[Apr 21st, 2023]]
@@ -13,6 +13,7 @@ link:: https://clojure.org/
 - De nombreux outils pour aider le dévelopeur
 	- *Live coding* avec [Clerk](https://clerk.vision/)
 		- Notebook sans les faiblesses inhérentes aux Jupyter notebook
-			- Éditeur non intégré
+			- Pas de nouveaux éditeur mais une ompatibilité avec le format de fichier classique
+				- Possible d'ajouter des informations en markdown
 			- Pas un format de fichier particulier
-		- Outils graphiques pour
+		- Outils graphiques pour visualiser les données et les algorithmes

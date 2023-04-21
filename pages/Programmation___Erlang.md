@@ -1,4 +1,4 @@
-tags::
+tags:: Statique
 alias:: Erlang
 link:: https://www.erlang.org/
 [[Apr 21st, 2023]]

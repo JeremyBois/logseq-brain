@@ -1,4 +1,4 @@
-tags:: Functional, Static
+tags:: Statique
 alias:: Lisp, Common Lisp
 link:: https://lisp-lang.org/
 [[Apr 21st, 2023]]
