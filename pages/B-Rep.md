@@ -1,4 +1,4 @@
-tags:: 3D, CAD, Moteur
+tags:: 3D, CAD
 alias:: BREP, Boundary representation, Modélisation surfacique
 link:: [Wikipédia](https://en.wikipedia.org/wiki/Boundary_representation) 
 [[Apr 21st, 2023]]
@@ -14,6 +14,6 @@ link:: [Wikipédia](https://en.wikipedia.org/wiki/Boundary_representation)
 			- Chanfreins et biseaux
 			- NURBS et B-spline
 		-
-- ## Relations
+- # Relations
 	- [[CSG]]
 	- [[F-Rep]]
