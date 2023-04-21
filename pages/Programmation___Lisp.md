@@ -7,9 +7,7 @@ link:: https://lisp-lang.org/
 - Langage de programmation extensible et adaptable aux besoins / contraintes du développeur
 - Extensible
 	- Permet de construire ses propres [[Programmation/DSL]]
-- Performant
-- Nombreux outils
-	- Coder directement un programme --> *Live coding*
-		- Possible d'éditer le code durant l'exécution
-		-
-	- Manipuler la mémoire pour revenir en arrière et changer le code
+- Performant et robuste
+- Coder directement un programme --> *Live coding*
+	- Éditer le code durant l'exécution
+	- Manipuler la mémoire sur la [[Programmation/Pile]]
