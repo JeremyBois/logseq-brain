@@ -11,5 +11,7 @@ link:: https://www.erlang.org/
 - OTP (*Open Telecom Platform*)
 	- Outils et bibliothèques pour développer et déboguer son code
 	- Permet d'intérargir avec d'autres langages
+	-
 - # Formations
-	- [[Programmation/Erlang/Learn You Some Erlang for Great Good!]] ]
+	- [Learn You Some Erlang for Great Good!](https://learnyousomeerlang.com/)
+-
