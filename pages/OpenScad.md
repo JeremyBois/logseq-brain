@@ -11,7 +11,7 @@ link:: [Site](https://openscad.org/) / [Github](https://github.com/openscad/open
 	- [Benchmark](https://gist.github.com/ochafik/2db96400e3c1f73558fcede990b8a355)
 - # Courses
 	- [Design into 3D](https://willadams.gitbook.io/design-into-3d/)
-		- De la 2D à la 3D en passant par
+		- De la 2D à la 3D en passant par la découpe par CNC
 	- [ScriptCAD](https://scriptcad.com/paulftw/OpenSCAD.Tutorial)
 	- [[OpenScad/MasteringOpenScad]]
 	- [Edutech Wiki](https://edutechwiki.unige.ch/fr/Tutoriel_OpenSCAD)
