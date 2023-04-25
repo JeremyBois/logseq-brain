@@ -3,33 +3,37 @@
 	  author:: 
 	  tags::
 	  link::
-	  template:: Book
+	  template:: BookPage
 	  <% Today %>
 	  ***
+	- type:: [[Book]]
+	  author:: 
+	  link::
+	  template:: Book
 	- type:: [[Video]]
 	  author:: 
 	  tags::
 	  link::
-	  template:: Video
+	  template:: VideoPage
 	  <% Today %>
 	  ***
 	- type:: [[Podcast]]
 	  author:: 
 	  tags::
 	  link::
-	  template:: Podcast
+	  template:: PodcastPage
 	  <% Today %>
 	  ***
 	- type:: [[Article]]
 	  author:: 
 	  tags::
 	  link::
-	  template:: Article
+	  template:: ArticlePage
 	  <% Today %>
 	  ***
 	- tags::
 	  link::
-	  template:: General
+	  template:: GeneralPage
 	  <% Today %>
 	  ***
 - ## Programmation
