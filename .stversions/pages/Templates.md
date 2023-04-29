@@ -43,15 +43,15 @@
 	  template:: ArticlePage
 	  <% Today %>
 	  ***
-	- type:: [[SocialNetwork]]
+	- type:: [[Article]]
 	  author:: 
 	  link::
-	  template:: SocialNetwork
-	- type:: [[SocialNetwork]]
+	  template:: Article
+	- type:: [[Article]]
 	  author:: 
 	  tags::
 	  link::
-	  template:: SocialNetworkPage
+	  template:: ArticlePage
 	  <% Today %>
 	  ***
 	- tags::

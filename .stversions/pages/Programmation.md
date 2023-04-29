@@ -1,4 +1,4 @@
-alias:: Langage de Programmation, Langages de programmation, Programming
+alias:: Langage de Programmation, Langages de programmation
 
 - ***
   {{namespace Programmation}}

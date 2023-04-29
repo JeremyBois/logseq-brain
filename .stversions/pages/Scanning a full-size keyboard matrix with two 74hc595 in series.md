@@ -6,7 +6,7 @@ link:: https://mehmedbasic.dk/post/74hc595-keyboard/
 
 - Comment utiliser des registres à décalage pour permettre de faire le scan de l'ensemble des touches d'un clavier
   id:: 642828da-1be8-49df-9f23-672e301f811c
-- # Description
+- #Description
 	- ## Problèmes
 		- Le nombre de pins sur les microcontrolleurs est limité
 		- Les microcontrolleurs AVR n'ont pas de ((64287bf5-3871-41ed-9b00-98de29bb04b4)) intégrées
