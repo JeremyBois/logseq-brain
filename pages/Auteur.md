@@ -1,1 +1,4 @@
-alias:: Author, Authors, Auteur, Auteurs, Creator, Creators, Créateur, Créateurs
+alias:: Author, Authors, Auteurs, Creator, Creators, Créateur, Créateurs
+title:: Auteur
+
+-
