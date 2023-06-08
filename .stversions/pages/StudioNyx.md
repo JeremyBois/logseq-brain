@@ -6,7 +6,6 @@ link:: https://www.studio-nyx.com/
 	- [Projet MCM - Monday](https://studio-nyx-team.monday.com/boards/2800311162)
 - ## Suivi des heures
 	- [Tableau de suivi journalier - Google Drive](https://docs.google.com/spreadsheets/d/1EqayOFppUccPdnXB0VI9qlFX2WD4RTxJS0vloIH3Wn0/edit#gid=1551011763)
-		- Détail des calculs sur chaque pages du suivi journalier
 	- ### 2022
 		- Décembre
 			- Supplémentaires : 2
@@ -31,12 +30,7 @@ link:: https://www.studio-nyx.com/
 			- Récupération : 0
 			- Cumul : 1
 		- Mai
-			- **Notes**
-				- Congé pris le [[May 3rd, 2023]] mais annulé
-			- Supplémentaires : 3.5
-			- Récupération : 0
-			- Cumul : 4.5
-		- Juin
 			- Supplémentaires :
 			- Récupération :
 			- Cumul :
+		-
