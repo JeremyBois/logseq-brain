@@ -4,9 +4,10 @@ author:: #[[Raspberry Pi]]
 tags:: PCB, Kicad
 link:: https://datasheets.raspberrypi.com/rp2040/hardware-design-with-rp2040.pdf
 [[Jun 8th, 2023]]
+
+![Internal Viewer](../assets/Hardware-design-with-rp2040_1686257740345_0.pdf) | [External viewer](../assets/Hardware-design-with-rp2040_1686257740345_0.pdf)
 ***
 
--
 - Guide pas à pour construire la partie hardware autour du [[Electronique/RP2040]]
 	-
 - it is important to place decoupling close to the power pins
