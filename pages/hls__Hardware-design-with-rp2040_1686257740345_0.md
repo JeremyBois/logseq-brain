@@ -6,6 +6,7 @@ link:: https://datasheets.raspberrypi.com/rp2040/hardware-design-with-rp2040.pdf
 [[Jun 8th, 2023]]
 ***
 
+-
 - Guide pas à pour construire la partie hardware autour du [[Electronique/RP2040]]
 	-
 - it is important to place decoupling close to the power pins
@@ -18,3 +19,8 @@ link:: https://datasheets.raspberrypi.com/rp2040/hardware-design-with-rp2040.pdf
   hl-page:: 8
   hl-color:: yellow
   id:: 64847c32-913f-415f-b778-dbece6a4ac97
+- 2.1.2. Decoupling capacitors Figure
+  ls-type:: annotation
+  hl-page:: 8
+  hl-color:: yellow
+  id:: 64848ac4-fed2-4c41-a640-1680a5cf9f2f
