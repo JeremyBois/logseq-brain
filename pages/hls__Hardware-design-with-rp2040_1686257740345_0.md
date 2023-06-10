@@ -6,4 +6,4 @@ link:: https://datasheets.raspberrypi.com/rp2040/hardware-design-with-rp2040.pdf
 ***
 
 - Guide pas à pour construire la partie hardware autour du [[Electronique/RP2040]]
--
+	-
