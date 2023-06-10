@@ -8,8 +8,9 @@ link:: https://datasheets.raspberrypi.com/rp2040/hardware-design-with-rp2040.pdf
 ![Internal Viewer](../assets/Hardware-design-with-rp2040_1686257740345_0.pdf) | [External viewer](../assets/Hardware-design-with-rp2040_1686257740345_0.pdf)
 ***
 
+- {{query (property file-path)}}
+  id:: 6484c98b-4cac-4b10-94c6-95cd4748e952
 - Guide pas à pour construire la partie hardware autour du [[Electronique/RP2040]]
-	-
 - it is important to place decoupling close to the power pins
   ls-type:: annotation
   hl-page:: 8
