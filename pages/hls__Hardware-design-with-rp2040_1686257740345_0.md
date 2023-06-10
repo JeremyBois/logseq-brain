@@ -5,12 +5,12 @@ tags:: PCB, Kicad
 link:: https://datasheets.raspberrypi.com/rp2040/hardware-design-with-rp2040.pdf
 [[Jun 8th, 2023]]
 
-![Internal Viewer](../assets/Hardware-design-with-rp2040_1686257740345_0.pdf) | [External viewer](../assets/Hardware-design-with-rp2040_1686257740345_0.pdf)
+![Viewer](../assets/Hardware-design-with-rp2040_1686257740345_0.pdf) | [PDF](../assets/Hardware-design-with-rp2040_1686257740345_0.pdf)
 ***
 
-- {{query (property file-path)}}
-  id:: 6484c98b-4cac-4b10-94c6-95cd4748e952
 - Guide pas à pour construire la partie hardware autour du [[Electronique/RP2040]]
+  id:: 6484c98b-4cac-4b10-94c6-95cd4748e952
+  query-properties:: [:file-path]
 - it is important to place decoupling close to the power pins
   ls-type:: annotation
   hl-page:: 8
