@@ -71,3 +71,13 @@
   template:: EspritDog
   <% Today %>
   ***
+- # Assets
+- template:: PDF
+	- alias:: 
+	  type:: [[Article]]
+	  author:: 
+	  tags:: 
+	  link:: 
+	  <% Today %>
+	  ***
+	- ![]| [PDF]() ***
