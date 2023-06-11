@@ -11,5 +11,6 @@ link:: https://www.masterzen.fr/
   link:: https://www.masterzen.fr/2020/05/25/designing-a-keyboard-part2/
 - # Partie 3 - PCB et routing
   link:: https://www.masterzen.fr/2020/10/20/designing-a-keyboard-part3/
+  id:: 64863889-62cb-43d9-bd81-492d4fd8cd1b
 - # Partie 4 - Fabrication et tests
   link:: https://www.masterzen.fr/2020/12/16/desiging-a-keyboard-part4/
