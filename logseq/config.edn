@@ -45,7 +45,7 @@
 
  ;; Specify the date on which the week starts.
  ;; Goes from 0 to 6 (Monday to Sunday), default to 6
- :start-of-week 6
+ :start-of-week 0
 
  ;; Specify a custom CSS import
  ;; This option take precedence over your local `logseq/custom.css` file
@@ -218,7 +218,7 @@
  :ref/linked-references-collapsed-threshold 50
 
  ;; Favorites to list on the left sidebar
- :favorites ["brainstorming" "adventures in ploopy-land" "Root/Todo" "Ptechinos" "Espritdog"]
+ :favorites ["Clavier/Echinos" "brainstorming" "adventures in ploopy-land" "Root/Todo" "Ptechinos" "Espritdog"]
 
  ;; any number between 0 and 1 (the greater it is the faster the changes of the next-interval of card reviews) (default 0.5)
  ;; :srs/learning-fraction 0.5

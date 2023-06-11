@@ -1,3 +1,11 @@
+auteur:: #[[Jérémy Bois]]
+alias:: Ptechinos
+tags:: PCB, CAD, Projet 
+link:: [PCB](https://github.com/JeremyBois/Ptechinos) [Layout](https://github.com/JeremyBois/qmk-ptechinos)
+[[Feb 23rd, 2023]]
+***
+
+-
 # Boitier
 	- ## Fixation sandwich (plaques entre elles)
 		- Utiliser des aimants pour faire tenir les différentes plates entre elles
