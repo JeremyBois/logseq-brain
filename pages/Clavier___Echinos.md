@@ -1,7 +1,7 @@
 tags:: Clavier, Trackball, Trackpad, Registre à décalage, QMK, OpenScad
 author:: #JeremyBois 
 alias:: Echinos
-link::
+link:: [Github](https://github.com/JeremyBois/Echinos)
 [[Apr 8th, 2023]]
 
 - # Développement
@@ -27,7 +27,7 @@ link::
 		- Composant [[Électronique/PMW3360DM-T2QU]]
 			- Utilisation de ((4d11a85a-63b7-437d-b681-b8b1550b686a))
 		- TODO Refaire le PCB pour le capteur
-			- [Ogen](https://github.com/JeremyBois/Ogen) n'a pas de distinction de voltage sur les différents VDD alors qu'il fudrait du 3.3V et du 1.9V pour être cohérent
+			- [Ogen](https://github.com/JeremyBois/Ogen) n'a pas de distinction de voltage sur les différents VDD alors qu'il faudrait du 3.3V et du 1.9V pour être cohérent
 			- Régulateurs de courant
 				- Sortie ajustable
 					- [AP2127K-ADJTRG1](https://www.lcsc.com/product-detail/Linear-Voltage-Regulators-LDO_Diodes-Incorporated-AP2127K-ADJTRG1_C96343.html)
