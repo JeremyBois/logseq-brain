@@ -7,4 +7,3 @@ link::
   {{namespace Électronique}}
   ***
 -
--
