@@ -9,7 +9,7 @@
                           :rects (),
                           :page 13},
                :content {:text "[:span]", :image 1686475812984},
-               :properties {:color "blue"}}
+               :properties {:color "yellow"}}
               {:id #uuid "6485944c-0392-4048-a04c-8f8875c81a1d",
                :page 14,
                :position {:bounding {:x1 141.209716796875,
@@ -26,5 +26,5 @@
                                    :height 1033.8354891815616}),
                           :page 14},
                :content {:text "1.4.3. GPIO Functions"},
-               :properties {:color "blue"}}],
- :extra {:page 13}}
+               :properties {:color "yellow"}}],
+ :extra {:page 24}}

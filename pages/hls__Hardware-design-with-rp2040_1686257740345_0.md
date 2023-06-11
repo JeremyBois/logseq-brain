@@ -6,10 +6,10 @@ author:: #[[Raspberry Pi]]
 tags:: PCB, Kicad
 link:: https://datasheets.raspberrypi.com/rp2040/hardware-design-with-rp2040.pdf
 [[Jun 8th, 2023]]
-
-![Viewer](../assets/Hardware-design-with-rp2040_1686257740345_0.pdf) | [PDF](../assets/Hardware-design-with-rp2040_1686257740345_0.pdf)
 ***
 
+- ![Viewer](../assets/Hardware-design-with-rp2040_1686257740345_0.pdf) | [PDF](../assets/Hardware-design-with-rp2040_1686257740345_0.pdf)
+  ***
 - Guide pas à pour construire la partie hardware autour du [[Electronique/RP2040]]
   id:: 6484c98b-4cac-4b10-94c6-95cd4748e952
   query-properties:: [:file-path]
