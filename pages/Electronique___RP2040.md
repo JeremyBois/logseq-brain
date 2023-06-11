@@ -4,3 +4,5 @@ link::
 ***
 
 - # Documentation
+	- [[Hardware design with RP2040]]
+	-

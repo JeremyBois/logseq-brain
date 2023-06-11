@@ -1,4 +1,5 @@
 file-path:: ../assets/Hardware-design-with-rp2040_1686257740345_0.pdf
+alias:: Hardware design with RP2040
 type:: [[Article]]
 author:: #[[Raspberry Pi]]
 tags:: PCB, Kicad
