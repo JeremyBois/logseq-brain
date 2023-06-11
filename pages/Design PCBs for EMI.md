@@ -1,6 +1,6 @@
 type:: [[Article]]
 author:: #[[Kenneth Wyatt]]
-tags:: PCB, Kicad
+tags:: PCB, Kicad, Tutorial
 [[Jun 9th, 2023]]
 ***
 
