@@ -30,6 +30,7 @@ link:: [Wikipédia](https://en.wikipedia.org/wiki/Resistor)
 			- Ligne LOW car tirée vers la terre quand il est ouvert
 	- ## Résistance de tirage / *Pull up resistor*
 	  id:: 64287c00-cf70-4201-b24f-a0efe78451bb
+		- ![Pull-up circuit](https://upload.wikimedia.org/wikipedia/commons/5/5a/Pullup_Resistor.png)
 		- Se place **entre la ligne et la source d'alimentation**  garantissant que :
 			- La ligne est LOW quand le circuit est fermée
 				- Ligne au niveau de la terre
