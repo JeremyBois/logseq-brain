@@ -127,4 +127,4 @@
                           :page 13},
                :content {:text "SWCLK and SWDIO Access to the internal Serial Wire Debug multi-drop bus. Provides debug access to both processors, and can be used to download code."},
                :properties {:color "yellow"}}],
- :extra {:page 14}}
+ :extra {:page 15}}
