@@ -1,4 +1,4 @@
-tags:: Kicad, PCB
+tags:: Kicad, PCB, Processeur
 alias:: RP2040
 link::
 ***
