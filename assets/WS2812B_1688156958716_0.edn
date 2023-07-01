@@ -21,5 +21,22 @@
                           :rects (),
                           :page 3},
                :content {:text "[:span]", :image 1688157121767},
+               :properties {:color "yellow"}}
+              {:id #uuid "64a045d0-0122-4f89-8481-5935903210fb",
+               :page 1,
+               :position {:bounding {:x1 56.34114456176758,
+                                     :y1 400.078125,
+                                     :x2 223.8771743774414,
+                                     :y2 413.41143798828125,
+                                     :width 666.0000000000001,
+                                     :height 941.8778472082241},
+                          :rects ({:x1 56.34114456176758,
+                                   :y1 400.078125,
+                                   :x2 223.8771743774414,
+                                   :y2 413.41143798828125,
+                                   :width 666.0000000000001,
+                                   :height 941.8778472082241}),
+                          :page 1},
+               :content {:text " Send data at speeds of 800Kbps."},
                :properties {:color "yellow"}}],
- :extra {:page 3}}
+ :extra {:page 1}}
