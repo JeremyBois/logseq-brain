@@ -8,9 +8,9 @@ alias:: Neopixel
 	- Avec un MCU alimenté avec une tension de **3.3V** il faut:
 		- Un réhausseur de tension (*level shifter*) + une ligne de **5V**
 			- N'inversant pas la valeur logique in/out
-			- Compatible avec des entrées TTL
+			- Niveaux de tension compatible ((64a178e4-c096-4bd5-b3ef-f2f8b28aa424))
 			- Supportant une alimentation de 5V
-			- Famille **74HCT** (CMOS --> HC, TTL --> HCT)
+			- Famille **74HCT**
 				- [SN74HCT08](https://www.ti.com/product/SN74HCT08) (4 lignes AND)
 				- [74HCT245](https://www.nexperia.com/products/analog-logic-ics/logic/buffers-inverters-transceivers/transceivers/series/74HC245-74HCT245.html) (8 lignes)
 			- Famille **TXB010**
@@ -20,4 +20,3 @@ alias:: Neopixel
 			- La distance entre l'alimentation et la première #LED doit être la plus faible possible
 			- La luminosité maximale est moins importante
 			-
--

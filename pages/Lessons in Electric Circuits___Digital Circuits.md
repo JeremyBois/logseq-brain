@@ -14,6 +14,7 @@ link:: [PDF (original)](https://www.ibiblio.org/kuphaldt/electricCircuits/Digita
 		- Haut (1, *HIGH*) lorsque la tension d'alimentation est maximale
 		- Bas (*0, LOW*) lorsque la tension d'alimentation est $0V$
 		- ### Porte TTL
+		  id:: 64a178e4-c096-4bd5-b3ef-f2f8b28aa424
 			- Fonctionne uniquement pour une tension de $5.0V \pm 0.25V$
 			- En pratique on a une marge de tolérance en entrée comme en sortie
 				- ![voltage tolerance of ttl gate inputs](https://www.allaboutcircuits.com/uploads/articles/voltage-tolerance-of-ttl-gate-inputs.jpg){:height 236, :width 478}
@@ -21,7 +22,6 @@ link:: [PDF (original)](https://www.ibiblio.org/kuphaldt/electricCircuits/Digita
 				- *LOW* --> 0.3V
 				- *HIGH* --> 0.7V
 				- Supporte moins de variations parasitaires qu'une porte **CMOS**
-			- La marge basse pour l'état *HIGH* est compatible avec un signal utilisant une alimentation de $3.3V$
 				- Utilisable pour réhausser un signal si on veut communiquer avec un système fonctionnant en $5V$ depuis un MCU fonctionnant en $3.3V$
 			- ### Porte CMOS
 				- Supporte une large palette de tensions pour les signaux ($0 \to 15V$)
@@ -31,4 +31,6 @@ link:: [PDF (original)](https://www.ibiblio.org/kuphaldt/electricCircuits/Digita
 					- *LOW* --> 1.45V
 					- *HIGH* --> 1.45V
 					- Support plus de variations parasitaires qu'une porte **TTL**
+					- Ne permet pas de coupler logique $3.3V$ et logique $5.0V$
+					-
 					-
