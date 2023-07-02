@@ -15,9 +15,10 @@ link:: [PDF (original)](https://www.ibiblio.org/kuphaldt/electricCircuits/Digita
 		- Bas (*0, LOW*) lorsque la tension d'alimentation est $0V$
 		- ### Porte TTL
 			- Théoriquement l'entrée devrait être $5.0V \pm 0.25V$
-			- ![voltage tolerance of ttl gate inputs](https://www.allaboutcircuits.com/uploads/articles/voltage-tolerance-of-ttl-gate-inputs.jpg){:height 193, :width 399}
-			-
-		-
-		-
-	-
--
+			- En pratique on a une marge de tolérance en entrée comme en sortie
+				- ![voltage tolerance of ttl gate inputs](https://www.allaboutcircuits.com/uploads/articles/voltage-tolerance-of-ttl-gate-inputs.jpg){:height 236, :width 478}
+			- La marge de bruit entre deux portes TTL est calculée en fonction de la différence de la marge entre l'entrée et la sortie
+				- *LOW* --> 0.3V
+				- *HIGH* --> 0.7V
+			- Porte **CMOS**
+				-
