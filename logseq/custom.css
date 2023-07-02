@@ -97,7 +97,7 @@ html[data-theme='dark'] {
     --ls-selection-background-color: var(--cp-accent-opacity);
     --ls-block-highlight-color: var(--cp-accent-opacity);
 
-    --ls-a-chosen-bg: var(--ls-secondary-background-color);
+    --ls-a-chosen-bg: var(--ls-primary-background-color);
 
     --ls-page-properties-background-color: var(--ls-tertiary-background-color);
     --ls-block-properties-background-color: var(--ls-tertiary-background-color);
