@@ -1,6 +1,13 @@
 type:: [[Book]]
-author:: 
-tags::
-link::
+author:: #[[Tony R. Kuphaldt]]
+tags:: Électronique, Formation
+link:: [PDF (original)](https://www.ibiblio.org/kuphaldt/electricCircuits/) [Online (All about circuit)](https://www.allaboutcircuits.com/textbook/) 
 [[Jul 2nd, 2023]]
 ***
+
+- # Description
+	- Livre sur le fonctionnement théorique comme pratique des circuits électroniques
+		- Courant direct
+		- Courant alternatif
+		- Semi-conducteurs
+		-
