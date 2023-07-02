@@ -1,15 +1,6 @@
 :root {
   font-size: 18px !important;
-  --bg-overlay: #77777777; /* Background solid color or gradient*/
 }
-
-a.tag[data-ref]{
-  font-size: 18px !important;
-  color: #268bd2 !important
-}
-/* Changing appearance of query tables */
-th {font-size: 1.1rem; font-weight: bold; text-transform: capitalize}/* Wrapping text in query table */
-td {white-space: pre-wrap !important}
 
 /* Colors palette */
 .white-theme,
@@ -97,7 +88,7 @@ html[data-theme='dark'] {
     --ls-selection-background-color: var(--cp-accent-opacity);
     --ls-block-highlight-color: var(--cp-accent-opacity);
 
-    --ls-a-chosen-bg: var(--ls-primary-background-color);
+    --ls-a-chosen-bg: var(--ls-tertiary-background-color);
 
     --ls-page-properties-background-color: var(--ls-tertiary-background-color);
     --ls-block-properties-background-color: var(--ls-tertiary-background-color);
@@ -145,7 +136,13 @@ html[data-theme='dark'] {
     font-family: 'Fira Sans', sans-serif;
 }
 
-
+a.tag[data-ref]{
+  font-size: 18px !important;
+  color: #268bd2 !important
+}
+/* Changing appearance of query tables */
+th {font-size: 1.1rem; font-weight: bold; text-transform: capitalize}/* Wrapping text in query table */
+td {white-space: pre-wrap !important}
 
 /* ==========  BETTER-SIDEBAR - right sidebarshrinking panes w/ horizontal scroll v20221217==================*/
 

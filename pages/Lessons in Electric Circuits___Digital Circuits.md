@@ -23,8 +23,7 @@ link:: [PDF (original)](https://www.ibiblio.org/kuphaldt/electricCircuits/Digita
 				- Supporte moins de variations parasitaires qu'une porte **CMOS**
 			- La marge basse pour l'état *HIGH* est compatible avec un signal utilisant une alimentation de $3.3V$
 				- Utilisable pour réhausser un signal si on veut communiquer avec un système fonctionnant en $5V$ depuis un MCU fonctionnant en $3.3V$
-					-
-			- Porte **CMOS**
+			- ### Porte CMOS
 				- Supporte une large palette de tensions pour les signaux ($0 \to 15V$)
 				- En pratique on a une marge de tolérance en entrée comme en sortie
 				- ![voltage tolerance of cmos gate inputs](https://www.allaboutcircuits.com/uploads/articles/voltage-tolerance-of-cmos-gate-inputs.jpg){:height 220, :width 494}
