@@ -18,7 +18,9 @@ link:: [PDF (original)](https://www.ibiblio.org/kuphaldt/electricCircuits/Digita
 			- Fonctionne uniquement pour une tension de $5.0V \pm 0.25V$
 			- En pratique on a une marge de tolérance en entrée comme en sortie
 				- ![voltage tolerance of ttl gate inputs](https://www.allaboutcircuits.com/uploads/articles/voltage-tolerance-of-ttl-gate-inputs.jpg){:height 236, :width 478}
-				- Sortie **non utilisable** en entrée d'une ((64a17b2c-4eae-40e5-84c7-54de6459807a))
+				- Sortie **non utilisable** directement en entrée d'une ((64a17b2c-4eae-40e5-84c7-54de6459807a))
+					- Une ((64287c00-cf70-4201-b24f-a0efe78451bb)) est nécessaire pour garantir que le signal HIGH sera correctement interprété
+						- Doit être mise sur l'alimentation
 			- La marge de bruit entre deux portes TTL est calculée en fonction de la différence de la marge entre l'entrée et la sortie
 			  id:: 64a17a08-c0fe-4567-bc29-9a1607b34789
 				- *LOW* --> 0.3V
