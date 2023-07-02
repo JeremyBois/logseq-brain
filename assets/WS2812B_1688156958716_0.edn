@@ -39,4 +39,4 @@
                           :page 1},
                :content {:text " Send data at speeds of 800Kbps."},
                :properties {:color "yellow"}}],
- :extra {:page 1}}
+ :extra {:page 3}}
