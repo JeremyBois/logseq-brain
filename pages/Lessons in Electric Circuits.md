@@ -10,4 +10,6 @@ link:: [PDF (original)](https://www.ibiblio.org/kuphaldt/electricCircuits/) [Onl
 		- Courant direct
 		- Courant alternatif
 		- Semi-conducteurs
-		-
+		- [[Lessons in Electric Circuits/Digital Circuits]]
+		- Electronics Engineering (EE)
+		- Projets
