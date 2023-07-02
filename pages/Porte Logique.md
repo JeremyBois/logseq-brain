@@ -1,7 +1,8 @@
+[[Apr 1st, 2023]]
 tags:: Software
 alias:: Portes Logiques, Logical Gate, Logical Gates
-link:: [Wikipédia](https://en.wikipedia.org/wiki/Logic_gate) 
-[[Apr 1st, 2023]]
+link:: [Wikipédia](https://en.wikipedia.org/wiki/Logic_gate)
+id:: 6494b6c1-828d-4daf-bb9f-5822c80fc66a
 
 -
 - ## OR
