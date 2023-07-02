@@ -20,3 +20,4 @@ alias:: Neopixel
 			- La distance entre l'alimentation et la première #LED doit être la plus faible possible
 			- La luminosité maximale est moins importante
 			-
+-

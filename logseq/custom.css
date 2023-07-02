@@ -1,5 +1,6 @@
 :root {
   font-size: 18px !important;
+  --bg-overlay: #77777777; /* Background solid color or gradient*/
 }
 
 a.tag[data-ref]{
@@ -143,6 +144,8 @@ html[data-theme='dark'] {
 
     font-family: 'Fira Sans', sans-serif;
 }
+
+
 
 /* ==========  BETTER-SIDEBAR - right sidebarshrinking panes w/ horizontal scroll v20221217==================*/
 
