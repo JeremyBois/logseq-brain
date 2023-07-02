@@ -10,101 +10,138 @@ a.tag[data-ref]{
 th {font-size: 1.1rem; font-weight: bold; text-transform: capitalize}/* Wrapping text in query table */
 td {white-space: pre-wrap !important}
 
-:root {
-  --background: #282a36;
-  --light-background: #343746;
-  --lighter-background: #424450;
-  --dark-background: #21222c;
-  --darker-background: #191a21;
-  --foreground: #f8f8f2;
-  --current-line: #44475a;
-  --comment: #6272a4;
-  --white: var(--foreground);
-  --white-hover: #f8f8f280;
-  --red: #ff5555;
-  --orange: #ffb86c;
-  --yellow: #f1fa8c;
-  --green: #50fa7b;
-  --purple: #bd93f9;
-  --purple-hover: #bf93f980;
-  --cyan: #8be9fd;
-  --cyan-hover: #8be9fd80;
-  --pink: #ff79c6;
-  --pink-hover: #ff79c680;
+/* Colors palette */
+.white-theme,
+.light-theme,
+html[data-theme='light'] {
+    --cp-accent: #2aa198;
+    --cp-accent-opacity: #e1efe1;
+    --cp-accent-opacity-semi: #99d4c7;
 
-  --ls-tag-text-opacity: 0.8;
-  --ls-tag-text-hover-opacity: 0.8;
-  --ls-page-text-size: 16px;
-  --ls-page-title-size: 36px;
-  --ls-font-family: "Fira Sans";
-  --ls-font-weight: 300;
-  --ls-font-letter-spacing: 0.002em;
-  --ls-font-line-height: 1.5;
+    --cp-white-light: #fefcf5;
+    --cp-white: #fef9ec;
+    --cp-white-dark: #f3efe2;
+    --cp-white-darker: #efe9d7;
+    --cp-dark: #d7d1c1;
+    --cp-black: #333333;
+    --cp-gray: #aaaaaa;
 
-  --ls-border-radius-low: 3px;
-  --ls-border-radius-medium: 6px;
+    --cp-red: #d3455b;
+    --cp-orange: #ffa542;
+    --cp-yellow: #f6c423;
+    --cp-yellow-light: #ffe79a;
+    --cp-green: #27ae9e;
+    --cp-blue: #2c89d9;
+    --cp-purple: #9c739c;
+    --cp-cherry: #955f60;
+
+    --mark-bg: var(--cp-yellow-light);
+}
+.dark-theme,
+html[data-theme='dark'] {
+    --cp-accent: #2aa198;
+    --cp-accent-opacity: #e1efe1;
+    --cp-accent-opacity-semi: #99d4c7;
+
+    --cp-white-light: #04252f;
+    --cp-white: #002b36;
+    --cp-white-dark: #073642;
+    --cp-white-darker: #041e25;
+    --cp-dark: #586e75;
+    --cp-black: #93a1a1;
+    --cp-gray: #657b83;
+
+    --cp-red: #d3455b;
+    --cp-orange: #ffa542;
+    --cp-yellow: #f6c423;
+    --cp-yellow-light: #ffe79a;
+    --cp-green: #27ae9e;
+    --cp-blue: #2c89d9;
+    --cp-purple: #9c739c;
+    --cp-cherry: #955f60;
+
+    --mark-bg: var(--cp-yellow-light);
 }
 
-
+/*
+  Remap common Logseq variables to reuse each other
+  and then remap to own small sized palette -`-cp-*`
+*/
+.white-theme,
 .light-theme,
-html[data-theme="light"] {
-  --ls-primary-background-color: var(--background);
-  --ls-secondary-background-color: var(--dark-background);
-  --ls-tertiary-background-color: var(--light-background);
-  --ls-quaternary-background-color: var(--light-background);
-  --ls-quinary-background-color: var(--darker-background);
+html[data-theme='light'],
+.dark-theme,
+html[data-theme='dark'] {
+    --bg-shadow: rgba(0, 0, 0, 0.3) 0px 4px 10px 4px;
 
-  --ls-active-primary-color: var(--foreground);
-  --ls-active-secondary-color: var(--foreground);
+    --ls-right-sidebar-width: 500px;
+    --ls-main-content-max-width: 1000px;
 
-  --ls-primary-text-color: var(--foreground);
-  --ls-secondary-text-color: var(--white-hover);
+    --ls-page-text-size: 17px;
+    --ct-text-size: 19px;
+    --sb-text-size: 15px;
 
-  --ls-search-background-color: var(--background);
-  --ls-border-color: var(--comment);
-  --ls-secondary-border-color: var(--ls-border-color);
-  --ls-menu-hover-color: var(--light-background);
-  --ls-table-tr-even-background-color: var(--light-background);
+    --ls-page-title-size: 26px;
+    --ct-page-title-font-family: var(--ls-font-family);
+    --ls-title-text-color: var(--cp-accent);
 
-  --ls-head-text-color: var(--foreground);
-  --ls-title-text-color: var(--foreground);
+    --ls-page-blockquote-bg-color: var(--cp-accent-opacity);
+    --ls-page-blockquote-border-color: var(--cp-accent);
 
-  --ls-link-text-color: var(--pink);
-  --ls-link-text-hover-color: var(--pink-hover);
+    --ls-block-bullet-color: var(--cp-accent);
+    --ls-block-bullet-active-color: var(--cp-accent);
+    --ls-block-bullet-border-color: var(--cp-accent-opacity-semi);
+    --ls-bullet-closed-color: var(--ls-secondary-text-color);
 
-  --ls-link-ref-text-color: var(--pink);
-  --ls-link-ref-text-hover-color: var(--pink-hover);
-  --ls-block-ref-link-text-color: var(--ls-border-color);
+    --ls-selection-background-color: var(--cp-accent-opacity);
+    --ls-block-highlight-color: var(--cp-accent-opacity);
 
-  --ls-tag-text-color: var(--purple);
-  --ls-tag-text-hover-color: var(--purple-hover);
+    --ls-a-chosen-bg: var(--ls-secondary-background-color);
 
-  --ls-block-bullet-border-color: var(--current-line);
-  --ls-block-bullet-color: var(--foreground);
-  --ls-block-highlight-color: var(--current-line);
-  --ls-block-properties-background-color: var(--light-background);
+    --ls-page-properties-background-color: var(--ls-tertiary-background-color);
+    --ls-block-properties-background-color: var(--ls-tertiary-background-color);
 
-  --ls-page-checkbox-color: transparent;
-  --ls-page-checkbox-border-color: var(--comment);
+    --ls-page-checkbox-color: var(--cp-accent);
+    --ls-page-checkbox-border-color: var(--cp-accent);
 
-  --ls-page-blockquote-color: var(--foreground);
-  --ls-page-blockquote-bg-color: var(--light-background);
-  --ls-page-blockquote-border-color: var(--yellow);
+    --ls-table-tr-even-background-color: var(--ls-tertiary-background-color);
 
-  --ls-page-inline-code-color: var(--orange);
-  --ls-page-inline-code-bg-color: var(--background);
+    --mark-color: var(--cp-black);
+    --ls-page-inline-code-color: var(--cp-black);
 
-  --ls-scrollbar-background-color: var(--background);
-  --ls-scrollbar-foreground-color: var(--darker-background);
-  --ls-scrollbar-thumb-hover-color: var(--light-background);
+    --marker-now-doing: var(--cp-green);
+    --marker-later: var(--cp-orange);
+    --marker-todo: var(--cp-red);
+    --marker-waiting: var(--cp-yellow);
 
-  --ls-icon-color: var(--white-hover);
-  --ls-search-icon-color: var(--white-hover);
-  --ls-a-chosen-bg: var(--light-background);
-  --ls-right-sidebar-code-bg-color: var(--light-background);
-  --ls-selection-background-color: var(--comment);
-  --ls-slide-background-color: var(--ls-primary-background-color);
-  --ls-guideline-color: var(--ls-border-color);
+    --priority-a: var(--cp-red);
+    --priority-b: var(--cp-orange);
+    --priority-c: var(--cp-green);
+
+    --ls-primary-text-color: var(--cp-black);
+    --ls-primary-background-color: var(--cp-white);
+    --ls-secondary-background-color: var(--cp-white-darker);
+    --ls-tertiary-background-color: var(--cp-white-dark);
+    --ls-quaternary-background-color: var(--cp-white);
+
+    --color-level-4: var(--cp-white-light);
+    --color-level-5: #ffffff;
+
+    --link-hover-bg: var(--cp-accent-opacity);
+
+    --ls-scrollbar-foreground-color: var(--cp-accent);
+    --ls-scrollbar-background-color: var(--cp-dark);
+    --ls-scrollbar-thumb-hover-color: var(--cp-red);
+
+    --ls-menu-hover-color: var(--ls-secondary-background-color);
+
+    --border: var(--cp-dark);
+    --border-opacity: #d7d1c166;
+    --shadow: var(--ls-secondary-background-color) 0px 2px 3px 0px;
+
+    --tabs-height: 40px;
+
+    font-family: 'Fira Sans', sans-serif;
 }
 
 /* ==========  BETTER-SIDEBAR - right sidebarshrinking panes w/ horizontal scroll v20221217==================*/
