@@ -14,17 +14,5 @@
                                    :height 861.8823529411764}),
                           :page 1},
                :content {:text nil},
-               :properties {:color "yellow"}}
-              {:id #uuid "64a48669-582b-4737-bd53-4b5ca0cf2d20",
-               :page 1,
-               :position {:bounding {:x1 147,
-                                     :y1 550.8333282470703,
-                                     :x2 201,
-                                     :y2 610.8333282470703,
-                                     :width 666,
-                                     :height 861.8823529411764},
-                          :rects (),
-                          :page 1},
-               :content {:text "[:span]", :image 1688503913584},
                :properties {:color "yellow"}}],
  :extra {:page 1}}

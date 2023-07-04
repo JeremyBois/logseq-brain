@@ -1,2 +1,0 @@
--
-- ![USB 2.0 Board Design and Layout Guidelines.pdf](../assets/USB_2.0_Board_Design_and_Layout_Guidelines_1688503819539_0.pdf)
