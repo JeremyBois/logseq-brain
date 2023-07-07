@@ -7,7 +7,7 @@
 .light-theme,
 html[data-theme='light'] {
     --cp-accent: #2aa198;
-    --cp-accent-opacity: #f3efe2;
+    --cp-accent-opacity: #e1efe1;
     --cp-accent-opacity-semi: #99d4c7;
 
     --cp-white-light: #fefcf5;
@@ -32,7 +32,7 @@ html[data-theme='light'] {
 .dark-theme,
 html[data-theme='dark'] {
     --cp-accent: #2aa198;
-    --cp-accent-opacity: #073642;
+    --cp-accent-opacity: #e1efe1;
     --cp-accent-opacity-semi: #99d4c7;
 
     --cp-white-light: #04252f;
@@ -88,7 +88,7 @@ html[data-theme='dark'] {
     --ls-selection-background-color: var(--cp-accent-opacity);
     --ls-block-highlight-color: var(--cp-accent-opacity);
 
-    --ls-a-chosen-bg: var(--ls-tertiary-background-color);
+    --ls-a-chosen-bg: var(--ls-primary-background-color);
 
     --ls-page-properties-background-color: var(--ls-tertiary-background-color);
     --ls-block-properties-background-color: var(--ls-tertiary-background-color);

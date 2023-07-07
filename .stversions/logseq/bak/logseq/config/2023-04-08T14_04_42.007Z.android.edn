@@ -45,7 +45,7 @@
 
  ;; Specify the date on which the week starts.
  ;; Goes from 0 to 6 (Monday to Sunday), default to 6
- :start-of-week 0
+ :start-of-week 6
 
  ;; Specify a custom CSS import
  ;; This option take precedence over your local `logseq/custom.css` file
@@ -218,7 +218,7 @@
  :ref/linked-references-collapsed-threshold 50
 
  ;; Favorites to list on the left sidebar
- :favorites ["Clavier/Ptechinos" "Clavier/Echinos" "brainstorming" "adventures in ploopy-land" "Root/Todo" "Espritdog"]
+ :favorites ["adventures in ploopy-land" "Root/Todo" "Ptechinos" "Espritdog"]
 
  ;; any number between 0 and 1 (the greater it is the faster the changes of the next-interval of card reviews) (default 0.5)
  ;; :srs/learning-fraction 0.5
@@ -314,7 +314,7 @@
  ;;     ;use triple underscore `___` for slash `/` in page title
  ;;     ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
- :graph/settings {:journal? false, :orphan-pages? false, :excluded-pages? true}
+ :graph/settings {:journal? false, :orphan-pages? false, :excluded-pages? false}
  :publishing/all-pages-public? true
  :journal/page-title-format "MMM do, yyyy"
  :feature/enable-timetracking? false

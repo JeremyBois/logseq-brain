@@ -1,13 +1,22 @@
 :root {
   font-size: 18px !important;
+  --bg-overlay: #77777777; /* Background solid color or gradient*/
 }
+
+a.tag[data-ref]{
+  font-size: 18px !important;
+  color: #268bd2 !important
+}
+/* Changing appearance of query tables */
+th {font-size: 1.1rem; font-weight: bold; text-transform: capitalize}/* Wrapping text in query table */
+td {white-space: pre-wrap !important}
 
 /* Colors palette */
 .white-theme,
 .light-theme,
 html[data-theme='light'] {
     --cp-accent: #2aa198;
-    --cp-accent-opacity: #f3efe2;
+    --cp-accent-opacity: #e1efe1;
     --cp-accent-opacity-semi: #99d4c7;
 
     --cp-white-light: #fefcf5;
@@ -32,7 +41,7 @@ html[data-theme='light'] {
 .dark-theme,
 html[data-theme='dark'] {
     --cp-accent: #2aa198;
-    --cp-accent-opacity: #073642;
+    --cp-accent-opacity: #e1efe1;
     --cp-accent-opacity-semi: #99d4c7;
 
     --cp-white-light: #04252f;
@@ -88,7 +97,7 @@ html[data-theme='dark'] {
     --ls-selection-background-color: var(--cp-accent-opacity);
     --ls-block-highlight-color: var(--cp-accent-opacity);
 
-    --ls-a-chosen-bg: var(--ls-tertiary-background-color);
+    --ls-a-chosen-bg: var(--cp-black);
 
     --ls-page-properties-background-color: var(--ls-tertiary-background-color);
     --ls-block-properties-background-color: var(--ls-tertiary-background-color);
@@ -136,13 +145,7 @@ html[data-theme='dark'] {
     font-family: 'Fira Sans', sans-serif;
 }
 
-a.tag[data-ref]{
-  font-size: 18px !important;
-  color: #268bd2 !important
-}
-/* Changing appearance of query tables */
-th {font-size: 1.1rem; font-weight: bold; text-transform: capitalize}/* Wrapping text in query table */
-td {white-space: pre-wrap !important}
+
 
 /* ==========  BETTER-SIDEBAR - right sidebarshrinking panes w/ horizontal scroll v20221217==================*/
 

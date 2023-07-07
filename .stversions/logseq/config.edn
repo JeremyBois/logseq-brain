@@ -314,7 +314,7 @@
  ;;     ;use triple underscore `___` for slash `/` in page title
  ;;     ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
- :graph/settings {:journal? false, :orphan-pages? false, :excluded-pages? true}
+ :graph/settings {:journal? false, :orphan-pages? false, :excluded-pages? false}
  :publishing/all-pages-public? true
  :journal/page-title-format "MMM do, yyyy"
  :feature/enable-timetracking? false
