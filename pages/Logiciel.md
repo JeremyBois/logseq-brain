@@ -1,0 +1,3 @@
+alias:: Logiciels, Software, Softwares
+
+-
