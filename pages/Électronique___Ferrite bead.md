@@ -24,9 +24,11 @@ link:: [All about circuits](Choosing and Using Ferrite Beads) [Analogue dialogue
 		- #+BEGIN_CAUTION
 		  Les zones de réponse sont souvent indiquées pour un courant continue nul alors que la variation du courant influe fortement sur le comportement du composant
 		  #+END_CAUTION
-			- Réduction de l;
+			- Réduction de l'impédance et de [l'inductance](https://fr.wikipedia.org/wiki/Inductance) lorsque le courant augmente
+				- Décalage de la zone inductive vers les très hautes fréquences
 			-
 - ## Comment la sélectionner ?
 	- Courant maximal supporté (*Rated current*)
 		- ![FerriteBead_RatedCurrent](https://www.allaboutcircuits.com/uploads/articles/CP4_Wurth_derating.JPG){:height 236, :width 276}
-		- Le courant maximal dans le circuit doit correspondre à 20 / 30% du *Rated current* de la noyau de ferrite pour pallier le
+		- Le courant maximal dans le circuit doit correspondre à 20 / 30% du *Rated current* de la noyau de ferrite pour éviter le biais de courant qui déplace la zone inductive
+		-
