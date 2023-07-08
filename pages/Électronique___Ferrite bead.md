@@ -31,4 +31,4 @@ link:: [All about circuits](Choosing and Using Ferrite Beads) [Analogue dialogue
 	- Courant maximal supporté (*Rated current*)
 		- ![FerriteBead_RatedCurrent](https://www.allaboutcircuits.com/uploads/articles/CP4_Wurth_derating.JPG){:height 236, :width 276}
 		- Le courant maximal dans le circuit doit correspondre à 20 / 30% du *Rated current* de la noyau de ferrite pour éviter le biais de courant qui déplace la zone inductive
-		-
+	-
