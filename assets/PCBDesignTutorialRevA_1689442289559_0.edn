@@ -1120,4 +1120,4 @@
                           :page 12},
                :content {:text "Remember that each via adds two solder joints to your board. The more solder joints you have, the less reliable your board becomes."},
                :properties {:color "yellow"}}],
- :extra {:page 12}}
+ :extra {:page 9}}

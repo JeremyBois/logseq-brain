@@ -105,6 +105,8 @@ link:: [Front page](https://alternatezone.com/electronics/pcbdesign.htm)
   hl-color:: purple
   id:: 64b2e290-52b0-44d2-9ac5-3a98bf8e9c93
 	- Set your snap grid, visible grid, and default track/pad sizes.
+	  hl-type:: area
+	  hl-stamp:: 1689447060988
 	  ls-type:: annotation
 	  hl-page:: 9
 	  hl-color:: purple
