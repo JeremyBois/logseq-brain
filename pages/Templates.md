@@ -2,12 +2,12 @@
 	- type:: [[Book]]
 	  author:: 
 	  link::
-	  template:: Book
+	  template:: Book_Note
 	- type:: [[Book]]
 	  author:: 
 	  tags::
 	  link::
-	  template:: BookPage
+	  template:: Book_Header
 	  <% Today %>
 	  ***
 	- type:: [[Video]]

@@ -67,5 +67,22 @@
                                    :height 940.8926174496644}),
                           :page 5},
                :content {:text "This will do 99% of boards. Make sure the finer grid you choose is a nice even division of your standard 100 thou. This means 50, 25, 20, 10, or 5 thou. Don’t use anything else, you’ll regret it."},
+               :properties {:color "yellow"}}
+              {:id #uuid "64b2d998-5c3f-4d41-823a-0f6669184866",
+               :page 5,
+               :position {:bounding {:x1 264.8254089355469,
+                                     :y1 235.5208282470703,
+                                     :x2 595.1930541992188,
+                                     :y2 248.0208282470703,
+                                     :width 666,
+                                     :height 940.8926174496644},
+                          :rects ({:x1 264.8254089355469,
+                                   :y1 235.5208282470703,
+                                   :x2 595.1930541992188,
+                                   :y2 248.0208282470703,
+                                   :width 666,
+                                   :height 940.8926174496644}),
+                          :page 5},
+               :content {:text "100 thou (0.1 inch) = 2.54mm, and 200 thou (0.2 inch) = 5.08mm"},
                :properties {:color "yellow"}}],
- :extra {:page 5}}
+ :extra {:page 6}}
