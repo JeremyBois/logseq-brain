@@ -149,3 +149,28 @@ link:: [Front page](https://alternatezone.com/electronics/pcbdesign.htm)
 	  hl-page:: 10
 	  hl-color:: purple
 	  id:: 64b2e2f6-0684-44d4-9d11-279306d3ce6e
+- The best way to start your layout is to get ALL of your components onto the screen first.
+  ls-type:: annotation
+  hl-page:: 10
+  hl-color:: purple
+  id:: 64b2e3b6-a116-4ff6-b800-5ac1140bcfd4
+	- With all the components on screen, you should get a good indication of whether or not your parts will easily fit onto the size (and shape) of board that you require.
+	  ls-type:: annotation
+	  hl-page:: 10
+	  hl-color:: purple
+	  id:: 64b2e3be-4df0-4e01-a7ba-1e84ceb2b3b6
+	- Now analyse your schematic and determine which parts of the design can be broken up into “building blocks”.
+	  ls-type:: annotation
+	  hl-page:: 10
+	  hl-color:: purple
+	  id:: 64b2e3c4-9ae4-4e65-9546-e3562cd082c5
+		- Digital and analog just do not mix, and will need to be physically and electrically separated
+		  ls-type:: annotation
+		  hl-page:: 10
+		  hl-color:: purple
+		  id:: 64b2e432-abc0-4b09-8777-67424f54a53a
+		- Another example is with high frequency and high current circuits, they do not mix with low frequency and low current sensitive circuits.
+		  ls-type:: annotation
+		  hl-page:: 10
+		  hl-color:: purple
+		  id:: 64b2e438-c50a-411a-b0ca-0d1f0da3588e
