@@ -195,13 +195,23 @@ link:: [Front page](https://alternatezone.com/electronics/pcbdesign.htm)
 		  hl-page:: 11
 		  hl-color:: yellow
 		  id:: 64b2e4e4-72e8-49b9-8a4f-9ce9145138ee
-	- Forget nice rounded track corners,
+		- Forget nice rounded track corners,
+		  ls-type:: annotation
+		  hl-page:: 11
+		  hl-color:: yellow
+		  id:: 64b2e4ff-23df-4114-aea1-9c350d4fef0b
+		- Always take your track to the center of the pad, don’t make your track and pad “just touch”
+		  ls-type:: annotation
+		  hl-page:: 11
+		  hl-color:: yellow
+		  id:: 64b2e52d-7ccc-4543-a0fc-6489ecb2f6a0
+	- Keep power and ground tracks running in close proximity to each other if possible, don’t send them in opposite directions around the board. This lowers the loop inductance of your power system, and allows for effective bypassing.
 	  ls-type:: annotation
-	  hl-page:: 11
+	  hl-page:: 12
 	  hl-color:: yellow
-	  id:: 64b2e4ff-23df-4114-aea1-9c350d4fef0b
-- Always take your track to the center of the pad, don’t make your track and pad “just touch”
-  ls-type:: annotation
-  hl-page:: 11
-  hl-color:: yellow
-  id:: 64b2e52d-7ccc-4543-a0fc-6489ecb2f6a0
+	  id:: 64b2e84f-10d7-4e27-9ba8-d5453244186e
+	- Don’t leave any unconnected copper fills (also called “dead copper”), ground them or take them out.
+	  ls-type:: annotation
+	  hl-page:: 12
+	  hl-color:: yellow
+	  id:: 64b2e859-909f-43ab-8f99-1b12d85c8e8c
