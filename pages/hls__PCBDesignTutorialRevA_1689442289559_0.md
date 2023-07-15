@@ -37,3 +37,23 @@ link:: [Front page](https://alternatezone.com/electronics/pcbdesign.htm)
   hl-page:: 6
   hl-color:: yellow
   id:: 64b2de17-555d-4193-9c53-c026e132e1ea
+	- In practice, your track width will be dictated by the current flowing through it, and the maximum temperature rise of the track you are willing to tolerate. Remember that every track will have a certain amount of resistance, so the track will dissipate heat just like a resistor. The wider the track the lower the resistance
+	  ls-type:: annotation
+	  hl-page:: 6
+	  hl-color:: yellow
+	  id:: 64b2df03-16c0-4ab4-ae22-d1f07c969016
+- As a simple rule of thumb, the pad should be at least 1.8 times the diameter of the hole, or at least 0.5mm larger. This is to allow for alignment tolerances on the drill and the artwork on top and bottom layers. This ratio gets more important the smaller the pad and hole become, and is particularly relevant to vias.
+  ls-type:: annotation
+  hl-page:: 7
+  hl-color:: yellow
+  id:: 64b2dfd8-f4fa-4ee9-9997-1f571a996534
+	- Pin 1 of the chip sould always be a different pad shape, usually rectangular, and with the same dimensions as the other pins.
+	  ls-type:: annotation
+	  hl-page:: 7
+	  hl-color:: yellow
+	  id:: 64b2e013-c119-41fe-bac0-5249c7d4c628
+	- Octagonal pads are seldom used, and should generally be avoided. As a general rule, use circular or oval pads unless you need to use rectangular.
+	  ls-type:: annotation
+	  hl-page:: 8
+	  hl-color:: yellow
+	  id:: 64b2e027-da23-4f65-9128-c43091024720
