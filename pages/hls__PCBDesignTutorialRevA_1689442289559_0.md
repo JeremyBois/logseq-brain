@@ -88,3 +88,64 @@ link:: [Front page](https://alternatezone.com/electronics/pcbdesign.htm)
   hl-color:: green
   id:: 64b2e18a-fcca-4255-9a5c-25b0430dc7f0
   hl-stamp:: 1689444748606
+- Too tight a clearance between tracks and pads may lead to “hairline” shorts and other etching problems during the manufacturing process
+  ls-type:: annotation
+  hl-page:: 8
+  hl-color:: blue
+  id:: 64b2e1be-daf9-4f4d-9339-b398c55eaf6a
+  hl-stamp:: 1689444801013
+	- At least 15 thou is a good clearance limit for basic through hole designs, with 10 thou or 8 thou being used for more dense surface mount layouts. If you go below this, it’s a good idea to consult with your PCB manufacturer first.
+	  ls-type:: annotation
+	  hl-page:: 8
+	  hl-color:: blue
+	  id:: 64b2e1dd-401a-451c-ac4f-413baca3a4be
+- An old saying is that PCB design is 90% placement and 10% routing
+  ls-type:: annotation
+  hl-page:: 9
+  hl-color:: purple
+  id:: 64b2e290-52b0-44d2-9ac5-3a98bf8e9c93
+	- Set your snap grid, visible grid, and default track/pad sizes.
+	  ls-type:: annotation
+	  hl-page:: 9
+	  hl-color:: purple
+	  id:: 64b2e294-b33b-49d2-87b2-7ee39258a27b
+	- Throw down all the components onto the board.
+	  ls-type:: annotation
+	  hl-page:: 9
+	  hl-color:: purple
+	  id:: 64b2e297-fd34-42d5-b9c4-03f28c8409f4
+	- Divide and place your components into functional “building blocks” where possible.
+	  ls-type:: annotation
+	  hl-page:: 9
+	  hl-color:: purple
+	  id:: 64b2e29c-938b-45ea-83e7-9daa8ceb07b0
+	- Identify layout critical tracks on your circuit and route them first.
+	  ls-type:: annotation
+	  hl-page:: 9
+	  hl-color:: purple
+	  id:: 64b2e2a0-1cfd-4c7c-b0ee-c386af2c1f09
+	- Place and route each building block separately, off the board.
+	  ls-type:: annotation
+	  hl-page:: 9
+	  hl-color:: purple
+	  id:: 64b2e2a7-28f7-4216-a689-ee2bc84defe2
+	- Move completed building blocks into position on your main board.
+	  ls-type:: annotation
+	  hl-page:: 9
+	  hl-color:: purple
+	  id:: 64b2e2b0-57b3-4f85-8e82-c9584f0b29a2
+	- Route the remaining signal and power connections between blocks.
+	  ls-type:: annotation
+	  hl-page:: 9
+	  hl-color:: purple
+	  id:: 64b2e2b3-bd1a-4a8c-acc7-6fefcf3f9a80
+	- Do a Design Rule Check.
+	  ls-type:: annotation
+	  hl-page:: 9
+	  hl-color:: purple
+	  id:: 64b2e2ba-f78e-45be-9c37-6d83c6d99fbc
+	- We have already looked at the grids and track/pad sizes, these should be the first things that you set up before you start doing anything. No exceptions!
+	  ls-type:: annotation
+	  hl-page:: 10
+	  hl-color:: purple
+	  id:: 64b2e2f6-0684-44d4-9d11-279306d3ce6e
