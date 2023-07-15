@@ -174,3 +174,34 @@ link:: [Front page](https://alternatezone.com/electronics/pcbdesign.htm)
 		  hl-page:: 10
 		  hl-color:: purple
 		  id:: 64b2e438-c50a-411a-b0ca-0d1f0da3588e
+- Routing is the process of laying down tracks to connect components on your board. An electrical connection between two or more pads is known as a “net”.
+  ls-type:: annotation
+  hl-page:: 11
+  hl-color:: yellow
+  id:: 64b2e4a2-5865-4d81-ac79-2efa461070ba
+  hl-stamp:: 1689445542169
+	- Keep nets as short as possible. The longer your total track length, the greater it’s resistance, capacitance and inductance. All of which can be undesirable factors.
+	  ls-type:: annotation
+	  hl-page:: 11
+	  hl-color:: yellow
+	  id:: 64b2e4b1-3272-4f5a-8c7e-07e292496f4e
+	- Tracks should only have angles of 45 degrees.
+	  ls-type:: annotation
+	  hl-page:: 11
+	  hl-color:: yellow
+	  id:: 64b2e4dd-a1b8-45d9-bee5-d574fcbb23a1
+		- The reasons to avoid right angles are much simpler - it just doesn’t look good, and it may have some manufacturing implications.
+		  ls-type:: annotation
+		  hl-page:: 11
+		  hl-color:: yellow
+		  id:: 64b2e4e4-72e8-49b9-8a4f-9ce9145138ee
+	- Forget nice rounded track corners,
+	  ls-type:: annotation
+	  hl-page:: 11
+	  hl-color:: yellow
+	  id:: 64b2e4ff-23df-4114-aea1-9c350d4fef0b
+- Always take your track to the center of the pad, don’t make your track and pad “just touch”
+  ls-type:: annotation
+  hl-page:: 11
+  hl-color:: yellow
+  id:: 64b2e52d-7ccc-4543-a0fc-6489ecb2f6a0
