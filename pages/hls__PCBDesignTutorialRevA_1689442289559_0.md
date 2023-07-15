@@ -195,16 +195,16 @@ link:: [Front page](https://alternatezone.com/electronics/pcbdesign.htm)
 		  hl-page:: 11
 		  hl-color:: yellow
 		  id:: 64b2e4e4-72e8-49b9-8a4f-9ce9145138ee
-		- Forget nice rounded track corners,
-		  ls-type:: annotation
-		  hl-page:: 11
-		  hl-color:: yellow
-		  id:: 64b2e4ff-23df-4114-aea1-9c350d4fef0b
-		- Always take your track to the center of the pad, don’t make your track and pad “just touch”
-		  ls-type:: annotation
-		  hl-page:: 11
-		  hl-color:: yellow
-		  id:: 64b2e52d-7ccc-4543-a0fc-6489ecb2f6a0
+	- Forget nice rounded track corners,
+	  ls-type:: annotation
+	  hl-page:: 11
+	  hl-color:: yellow
+	  id:: 64b2e4ff-23df-4114-aea1-9c350d4fef0b
+	- Always take your track to the center of the pad, don’t make your track and pad “just touch”
+	  ls-type:: annotation
+	  hl-page:: 11
+	  hl-color:: yellow
+	  id:: 64b2e52d-7ccc-4543-a0fc-6489ecb2f6a0
 	- Keep power and ground tracks running in close proximity to each other if possible, don’t send them in opposite directions around the board. This lowers the loop inductance of your power system, and allows for effective bypassing.
 	  ls-type:: annotation
 	  hl-page:: 12
@@ -215,3 +215,18 @@ link:: [Front page](https://alternatezone.com/electronics/pcbdesign.htm)
 	  hl-page:: 12
 	  hl-color:: yellow
 	  id:: 64b2e859-909f-43ab-8f99-1b12d85c8e8c
+	- Do not place vias under components. Once the component is soldered in place you won’t be able to access the joint to solder a feed through
+	  ls-type:: annotation
+	  hl-page:: 12
+	  hl-color:: yellow
+	  id:: 64b2e913-8789-42f0-baec-1062f42a7c9f
+	- Try and use through hole component legs to connect top tracks to bottom tracks. This minimises the number of vias.
+	  ls-type:: annotation
+	  hl-page:: 12
+	  hl-color:: yellow
+	  id:: 64b2e922-4f4a-4c93-b9fb-ecd1490e0abd
+		- Remember that each via adds two solder joints to your board. The more solder joints you have, the less reliable your board becomes.
+		  ls-type:: annotation
+		  hl-page:: 12
+		  hl-color:: yellow
+		  id:: 64b2e939-cf49-4fde-9678-236f2b40a43b
