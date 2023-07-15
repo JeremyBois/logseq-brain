@@ -9,7 +9,7 @@ link:: [PDF (original)](https://www.ibiblio.org/kuphaldt/electricCircuits/) [Onl
   ***
 - # Description
 	- TODO Livre sur le fonctionnement théorique comme pratique des circuits électroniques
-		- DOING [[Lessons in Electric Circuits/Direct current]]
+		- Courant direct
 		- Courant alternatif
 		- Semi-conducteurs
 		- TODO [[Lessons in Electric Circuits/Digital Circuits]]
