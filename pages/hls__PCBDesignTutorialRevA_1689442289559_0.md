@@ -21,7 +21,7 @@ link:: [Front page](https://alternatezone.com/electronics/pcbdesign.htm)
 	  hl-page:: 5
 	  hl-color:: yellow
 	  id:: 64b2d998-5c3f-4d41-823a-0f6669184866
-		- Unité souvent utilisée pour la grille d'aimantage
+	- Unité souvent utilisée pour la grille d'aimantage
 - The second major rule of PCB design, and the one most often missed by beginners, is to lay out your board on a fixed grid. This is called a “snap grid”, as your cursor, components and tracks will “snap” into fixed grid positions. Not just any size grid mind you, but a fairly coarse one.
   ls-type:: annotation
   hl-page:: 5

@@ -1,6 +1,7 @@
 - ## General
 	- type:: [[Book]]
-	  author:: 
+	  author::
+	  tags:: 
 	  link::
 	  template:: Book (journal)
 	- type:: [[Book]]
@@ -65,7 +66,6 @@
 	  template:: General
 	  <% Today %>
 	  ***
-	- /jour
 - ## Programmation
 - ## Éducation du chien
 	- type:: [[Video]]
@@ -75,14 +75,13 @@
 	  template:: EspritDog
 	  <% Today %>
 	  ***
-
 - ## Assets
 	- alias:: 
 	  type:: [[Article]]
 	  author:: 
 	  tags:: 
 	  link:: 
-	  template:: PDF
+	  template:: PDF (local)
 	  <% Today %>
 	  ***
 	- ![Viewer]() | [PDF]()
