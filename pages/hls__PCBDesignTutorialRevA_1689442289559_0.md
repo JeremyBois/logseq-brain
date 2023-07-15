@@ -27,3 +27,13 @@ link:: [Front page](https://alternatezone.com/electronics/pcbdesign.htm)
   hl-page:: 5
   hl-color:: yellow
   id:: 64b2d820-b2ed-4d42-84dd-b44d27c30774
+- As a general rule though, the bigger the track width, the better. Bigger tracks have lower DC resistance, lower inductance, can be easier and cheaper for the manufacturer to etch, and are easier to inspect and rework.
+  ls-type:: annotation
+  hl-page:: 6
+  hl-color:: yellow
+  id:: 64b2dd8e-2806-4903-8cd2-0213113ab233
+- As a start, you may like to use say 25 thou for signal tracks, 50 thou for power and ground tracks, and 10-15 thou for going between IC and component pads.
+  ls-type:: annotation
+  hl-page:: 6
+  hl-color:: yellow
+  id:: 64b2de17-555d-4193-9c53-c026e132e1ea
