@@ -16,16 +16,16 @@ link:: [Front page](https://alternatezone.com/electronics/pcbdesign.htm)
   hl-color:: yellow
   id:: 64b2e0b5-8223-486e-9e65-3b4b07cd2687
   hl-stamp:: 1689444536158
-- A “thou” is 1/1000th of an inch, and is universally used and recognised by PCB designers and manufacturers everywhere. So start practicing speaking in terms of “10 thou spacing” and “25 thou grid”, you’ll sound like a professional in no time!
-  ls-type:: annotation
-  hl-page:: 4
-  hl-color:: red
-  id:: 64b2e11e-d331-4874-8bd0-e726e30d6151
 - This will do 99% of boards. Make sure the finer grid you choose is a nice even division of your standard 100 thou. This means 50, 25, 20, 10, or 5 thou. Don’t use anything else, you’ll regret it.
   ls-type:: annotation
   hl-page:: 5
   hl-color:: blue
   id:: 64b2dcc3-d5e3-4b00-aa19-276287d6eeb8
+	- A “thou” is 1/1000th of an inch, and is universally used and recognised by PCB designers and manufacturers everywhere. So start practicing speaking in terms of “10 thou spacing” and “25 thou grid”, you’ll sound like a professional in no time!
+	  ls-type:: annotation
+	  hl-page:: 4
+	  hl-color:: red
+	  id:: 64b2e11e-d331-4874-8bd0-e726e30d6151
 	- 100 thou (0.1 inch) = 2.54mm, and 200 thou (0.2 inch) = 5.08mm
 	  ls-type:: annotation
 	  hl-page:: 5
