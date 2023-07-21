@@ -28,4 +28,17 @@ link:: https://ocaml.org/
 			- Environnement de développement
 				- `opam install merlin ocaml-lsp-server` (*merlin* est utilisé par le serveur LSP)
 				-
-				-
+- # Organisation d'un projet
+	- ```text
+	  |-- dune-project
+	  |-- hello.opam
+	  |-- lib
+	  |   |-- dune
+	  |-- bin
+	  |   |-- dune
+	  |   `-- main.ml
+	  `-- test
+	      |-- dune
+	      `-- hello.ml
+	  ```
+-
