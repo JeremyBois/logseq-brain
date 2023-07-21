@@ -40,13 +40,14 @@ link:: https://ocaml.org/
 		          "--stdio"
 		      ],
 		      "env": {
-		          "$PATH": "$PATH:/home/pampi/.opam/default/bin/"
+		          "PATH": "$PATH:/home/pampi/.opam/default/bin/"
 		      },
 		      "selector": "source.reason | source.ocaml",
 		  },
 		  ```
 		- Par défaut le serveur récupère uniquement les informations à partir du dernier build
-			- Utiliser `dune build --watch`  (si le projet utilise Dune ...) pour maintenir à jour les informations de build automatiquement
+			- Si le projet utilise Dune  on peut maintenir à jour les informations de build automatiquement
+				- `dune build -w` ou `dune build --watch`
 			- Plus d'informations dans la [documentation](https://github.com/ocaml/ocaml-lsp#usage))
 		-
 - # Organisation d'un projet
