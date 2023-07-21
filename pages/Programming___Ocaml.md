@@ -45,7 +45,10 @@ link:: https://ocaml.org/
 		      "selector": "source.reason | source.ocaml",
 		  },
 		  ```
-		- Permet d'avoir
+		- Par défaut le serveur récupère uniquement les informations à partir du dernier build
+			- Utiliser `dune build --watch`  (si le projet utilise Dune ...) pour maintenir à jour les informations de build automatiquement
+			- Plus d'informations dans la [documentation](https://github.com/ocaml/ocaml-lsp#usage))
+		-
 - # Organisation d'un projet
 	- ```text
 	  |-- dune-project
