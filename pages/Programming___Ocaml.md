@@ -11,11 +11,11 @@ link:: https://ocaml.org/
 	- Installation du langage et du gestionnaire de paquets
 		- `sudo pacman -Syu ocaml opam`
 	- **Switch** : Environnement avec ces propres dépendances
-		- `opam init`
+		- `opam init` puis `eval $(opam env)`
 			- Construction du switch par défaut dans `~/.opam/default`
 		- `opam switch`
 			- Liste les environnements disponibles
-		- `opam switch create <path>`
+		- `opam switch create <path>` puis `eval $(opam env)`
 			- Construction d'un nouveau switch
 		- Configuration minimal
 			- Installer le système de build automatique [Dune](https://dune.build/)
