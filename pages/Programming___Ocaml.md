@@ -13,6 +13,11 @@ link:: https://ocaml.org/
 	- **Switch** : Environnement avec ces propres dépendances
 		- `opam init` puis `eval $(opam env)`
 			- Construction du switch par défaut dans `~/.opam/default`
+			- Charger directement ce switch dans chaque shell en modifiant le `.bashrc` avec
+				- ```bash
+				  ### Opam
+				  test -r /home/pampi/.opam/opam-init/init.sh && . /home/pampi/.opam/opam-init/init.sh > /dev/null 2> /dev/null || true
+				  ```
 		- `opam switch`
 			- Liste les environnements disponibles
 		- `opam switch create <path>` puis `eval $(opam env)`
