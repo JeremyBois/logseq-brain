@@ -18,8 +18,8 @@ link:: https://ocaml.org/
 		- `opam switch create <path>`
 			- Construction d'un nouveau switch
 		- Configuration minimal
-			- Installer un système de build automatique
-				- `opam install tdune dune-release`
+			- Installer le système de build automatique [Dune](https://dune.build/)
+				- `opam install dune dune-release`
 			- Génération de documentation et mise en forme
 				- `opam install odoc ocamlformat`
 			- Interpréteur avancé
