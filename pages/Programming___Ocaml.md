@@ -14,4 +14,11 @@ link:: https://ocaml.org/
 		- `opam init` construit un **switch** par défaut dans `~/.opam/default`
 	- Voir les **switch** existants
 		- `opam switch`
+	- Installer un système de build automatique
+		- `opam tdune dune-release`
+	- Génération de documentation et mise en forme
+		- `opam odoc ocamlformat`
+	- Interpréteur avancé
+		- `opam utop`
+		  id:: 64baa458-6823-4cb0-a185-6da8077e40d4
 		-
