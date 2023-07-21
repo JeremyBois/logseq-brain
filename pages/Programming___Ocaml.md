@@ -32,7 +32,20 @@ link:: https://ocaml.org/
 				  id:: 64baa458-6823-4cb0-a185-6da8077e40d4
 			- Environnement de développement
 				- `opam install merlin ocaml-lsp-server` (*merlin* est utilisé par le serveur LSP)
-				-
+	- **LSP**
+		- ```json
+		  "ocaml": {
+		      "command": [
+		          "/home/pampi/.opam/default/bin/ocamllsp",
+		          "--stdio"
+		      ],
+		      "env": {
+		          "$PATH": "$PATH:/home/pampi/.opam/default/bin/"
+		      },
+		      "selector": "source.reason | source.ocaml",
+		  },
+		  ```
+		- Permet d'avoir
 - # Organisation d'un projet
 	- ```text
 	  |-- dune-project
