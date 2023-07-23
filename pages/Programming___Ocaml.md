@@ -63,4 +63,6 @@ link:: https://ocaml.org/
 	      |-- dune
 	      `-- hello.ml
 	  ```
--
+- # Ressources
+	- [Ocaml pour ceux connaissant Haskell](http://blog.ezyang.com/2010/10/ocaml-for-haskellers/)
+	-
