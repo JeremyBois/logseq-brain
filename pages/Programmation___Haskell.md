@@ -4,6 +4,13 @@ link:: [Officiel](https://www.haskell.org/)
 [[Jul 24th, 2023]]
 ***
 
+- ## Langage
+	- [[Haskell/Extensions]]
+- ## Outils
+	- [[Haskell/LSP]]
+	- [[Haskell/hie-bios]]
+	- [[Haskell/Cabal]]
+	- [[Haskell/Stack]]
 - ## Ressources
 	- [Typeclasses](https://typeclasses.com/)
 		- Cours et articles de qualités
@@ -22,10 +29,4 @@ link:: [Officiel](https://www.haskell.org/)
 		- Notions avancées et application / utilisation concrète
 	- [Get programming in Haskell](https://www.manning.com/books/get-programming-with-haskell)
 		- Apprentissage par l'exemple avec des projets de plus en plus complexes
-		- Livre payant
-- ## Outils
-	- [[Haskell/Extensions]]
-	- [[Haskell/hie-bios]]
-	- [[Haskell/Cabal]]
-	- [[Haskell/Stack]]
 -
