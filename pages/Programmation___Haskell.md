@@ -7,6 +7,7 @@ link:: [Officiel](https://www.haskell.org/)
 - ## Ressources
 	- [Typeclasses](https://typeclasses.com/)
 		- Cours et articles de qualités
+		- Formations payantes
 	- [Kowainik](https://kowainik.github.io/)
 		- Blog + Cours
 		- Articles très complets
@@ -21,6 +22,7 @@ link:: [Officiel](https://www.haskell.org/)
 		- Notions avancées et application / utilisation concrète
 	- [Get programming in Haskell](https://www.manning.com/books/get-programming-with-haskell)
 		- Apprentissage par l'exemple avec des projets de plus en plus complexes
+		- Livre payant
 - ## Outils
 	- [[Haskell/Extensions]]
 	- [[Haskell/hie-bios]]
