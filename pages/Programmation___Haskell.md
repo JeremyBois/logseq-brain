@@ -23,3 +23,7 @@ link:: [Officiel](https://www.haskell.org/)
 		- Apprentissage par l'exemple avec des projets de plus en plus complexes
 - ## Outils
 	- [[Haskell/Extensions]]
+	- [[Haskell/hie-bios]]
+	- [[Haskell/Cabal]]
+	- [[Haskell/Stack]]
+-
