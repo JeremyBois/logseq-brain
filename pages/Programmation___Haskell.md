@@ -10,6 +10,7 @@ link:: [Officiel](https://www.haskell.org/)
 - ## Langage
 	- [[Haskell/Extensions]]
 	- [[Haskell/Style]]
+	- [[Haskell/Type]]
 - ## Outils
 	- [[Haskell/LSP]]
 	- [[Haskell/hie-bios]]
