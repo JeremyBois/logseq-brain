@@ -2,7 +2,7 @@ tags:: Haskell
 [[Jul 26th, 2023]]
 ***
 
-- Construction de nouveau types
+- Construire des types
 	- `newtype`
 		- Construction d'un alias de type par encapsulation
 			- Même représentation en mémoire au *runtime* que le type encapsulé
@@ -10,7 +10,7 @@ tags:: Haskell
 		- Supporte un seul constructeur et un seul champ
 		- ```haskell
 		  newtype Vec2D = Vec2D  { unVec :: (Float, Float) }
-		  
+		  -- Or
 		  newtype Vec2D = Vec2D(Float, Float)
 		  ```
 	- `data`
@@ -23,5 +23,7 @@ tags:: Haskell
 		  
 		  data Character = Character Race Profession
 		  ```
-		-
-		-
+- Stratégie de dérivation automatique
+	- link:: [Strategic Deriving](https://kowainik.github.io/posts/deriving)
+	-
+	-
