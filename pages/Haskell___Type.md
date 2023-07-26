@@ -9,6 +9,8 @@ tags:: Haskell
 			- Pas d'impact sur les performances
 		- Supporte un seul constructeur et un seul champ
 		- ```haskell
+		  newtype Vec2D = Vec2D  { unVec :: (Float, Float) }
+		  
 		  newtype Vec2D = Vec2D(Float, Float)
 		  ```
 	- `data`
