@@ -4,12 +4,8 @@ link:: [Officiel](https://www.haskell.org/)
 [[Jul 24th, 2023]]
 ***
 
-- {{namespace Haskell}}
-  ***
--
 - ## Langage
 	- [[Haskell/Extensions]]
-	- [[Haskell/Style]]
 - ## Outils
 	- [[Haskell/LSP]]
 	- [[Haskell/hie-bios]]
@@ -33,5 +29,4 @@ link:: [Officiel](https://www.haskell.org/)
 		- Notions avancées et application / utilisation concrète
 	- [Get programming in Haskell](https://www.manning.com/books/get-programming-with-haskell)
 		- Apprentissage par l'exemple avec des projets de plus en plus complexes
-	- [Serokell](https://serokell.io)
-		- [Présentation d'entreprises utilisant Haskell (chaque mois)](https://serokell.io/blog/haskell-in-production)
+-

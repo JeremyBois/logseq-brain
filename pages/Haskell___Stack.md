@@ -4,3 +4,4 @@ link:: https://docs.haskellstack.org/en/stable/
 ***
 
 - TODO Récupérer les notes de Obsidian
+-
