@@ -9,7 +9,9 @@ link:: [Github](https://github.com/JeremyBois/Echinos)
 	- TODO Valider l'utilisation d'un oscillateur
 		- [Un large nombre de raisons en faveur de l'oscillateur](https://www.sitime.com/top-8-reasons-use-oscillator-instead-crystal-resonator)
 	- TODO Détection de l'orientation de l'USB C
-		- [TUSB321 (Détecteur)](https://www.ti.com/lit/ds/symlink/tusb321.pdf) + [TPD4E05U06 (protection CC et D lines)](https://www.ti.com/lit/ds/symlink/tpd4e05u06.pdf)
+		- [TUSB321 (Détecteur)](https://www.ti.com/lit/ds/symlink/tusb321.pdf) + [TPD4E05U06 (protection)](https://www.ti.com/lit/ds/symlink/tpd4e05u06.pdf)
+		- Fait par [[Clavier/Honeydew]]
+			- Pourquoi ??
 	-
 - # Développement
 	- Combiner 3D et électronique pour obtenir un boitier adapté et limiter la complexité liée au processus itératif
