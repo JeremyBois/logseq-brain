@@ -26,8 +26,9 @@ link:: [Officiel](https://www.haskell.org/)
 		- Bibliothèques [[OpenSource]]
 	- [Wikibook](https://en.m.wikibooks.org/wiki/Haskell)
 		- Livre communautaire pour débutant comme confirmé avec des applications concrètes
-	- [Learn you a Haskell for great good](http://learnyouahaskell.com/)
+	- Learn you a Haskell for great good
 	  id:: 64be9ed7-4a46-4092-ab19-2fca667f58ec
+		- link:: [Up to date](https://learnyouahaskell.github.io/) [Original](http://learnyouahaskell.com/)
 		- Apprentissage adapté à des personnes sachant déjà programmer dans un autre langage
 		- En couleurs et avec des dessins rendant l'apprentissage ludique
 	- [Production Haskell](https://leanpub.com/production-haskell)

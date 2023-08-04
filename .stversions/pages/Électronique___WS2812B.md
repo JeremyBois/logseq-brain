@@ -1,5 +1,5 @@
 tags:: LED, PCB
-alias:: Neopixel, WS2812B
+alias:: Neopixel
 ***
 
 - # Description

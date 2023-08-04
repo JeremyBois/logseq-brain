@@ -1,5 +1,5 @@
 tags:: Hardware, Software
-alias:: Registres à décalage, ShiftRegister, ShiftRegisters, Shift register
+alias:: Registres à décalage, ShiftRegister, ShiftRegisters
 link:: [Wikipédia](https://en.wikipedia.org/wiki/Shift_register)
 title:: Registre à décalage
 [[Apr 1st, 2023]]
