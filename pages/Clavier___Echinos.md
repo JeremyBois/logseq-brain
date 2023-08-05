@@ -34,7 +34,12 @@ link:: [Github](https://github.com/JeremyBois/Echinos)
 		- [ESD7L5.0DT5G-N](https://datasheet.lcsc.com/lcsc/2306211546_BORN-ESD7L5-0DT5G-N_C6165124.pdf)
 			- [SOT 723](https://en.wikipedia.org/wiki/List_of_integrated_circuit_packaging_types#Small-outline_transistor_(SOT))
 	- TODO Déterminer les tailles minimales pour les différentes lignes
-		- >
+		- |     Nom    | Power | USB | Signal |
+		  |:----------:|:-----:|:---:|--------|
+		  | Espacement |  0.2  | 0.2 | 0.2    |
+		  |  Épaisseur | 0.254 | 0.3 | 0.254  |
+		  | Raison     | MCU   | USB | MCU    |
+		-
 	-
 - # Développement
 	- Combiner 3D et électronique pour obtenir un boitier adapté et limiter la complexité liée au processus itératif
