@@ -37,3 +37,8 @@ link:: [Officiel](https://www.haskell.org/)
 		- Apprentissage par l'exemple avec des projets de plus en plus complexes
 	- [Serokell](https://serokell.io)
 		- [Présentation d'entreprises utilisant Haskell (chaque mois)](https://serokell.io/blog/haskell-in-production)
+	- [Monday Morning Haskell](https://mmhaskell.com/)
+		- Articles sur différentes notions et cas d'applications réels
+		- Formations payantes
+	-
+-

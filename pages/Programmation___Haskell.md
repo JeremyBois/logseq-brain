@@ -6,7 +6,6 @@ link:: [Officiel](https://www.haskell.org/)
 
 - {{namespace Haskell}}
   ***
--
 - ## Langage
 	- [[Haskell/Extensions]]
 	- [[Haskell/Style]]
@@ -16,11 +15,12 @@ link:: [Officiel](https://www.haskell.org/)
 	- [[Haskell/hie-bios]]
 	- [[Haskell/Cabal]]
 	- [[Haskell/Stack]]
+	- [Aide sur les messages d'erreurs](https://errors.haskell.org/)
 - ## Ressources
 	- [Typeclasses](https://typeclasses.com/)
 		- Cours et articles de qualités
 		- Formations payantes
-	- [Kowainik](https://kowainik.github.io/)
+	- [[Kowainik]]
 		- Blog + Cours
 		- Articles très complets
 		- Bibliothèques [[OpenSource]]
@@ -40,5 +40,12 @@ link:: [Officiel](https://www.haskell.org/)
 	- [Monday Morning Haskell](https://mmhaskell.com/)
 		- Articles sur différentes notions et cas d'applications réels
 		- Formations payantes
-	-
--
+	- [Haskell foundation](https://haskell.foundation/)
+		- [Podcasts](https://haskell.foundation/podcast/)
+		- [Projets](https://haskell.foundation/projects/)
+	- [Real world Haskell](https://book.realworldhaskell.org/) (2008)
+		- Applications concrètes avec des mini projets
+	- [Effective Haskell](https://pragprog.com/titles/rshaskell/effective-haskell/) (2023)
+		- Des bases vers les transformeurs et family types
+		- Apprentissage par projets / exemples
+		-
