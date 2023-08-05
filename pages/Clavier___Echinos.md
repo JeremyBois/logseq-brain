@@ -34,9 +34,12 @@ link:: [Github](https://github.com/JeremyBois/Echinos)
 		- [ESD7L5.0DT5G-N](https://datasheet.lcsc.com/lcsc/2306211546_BORN-ESD7L5-0DT5G-N_C6165124.pdf)
 			- [SOT 723](https://en.wikipedia.org/wiki/List_of_integrated_circuit_packaging_types#Small-outline_transistor_(SOT))
 	- TODO Sélectionner la taille de la mémoire flash
-		- Max = 16Mo
+		- Notes
+			- Max = 16Mo
+			- [209mil 8-SOP and 8x6mm 8-WSON Dual Layout](https://www.macronix.com/Lists/ApplicationNote/Attachments/2044/AN0226V2%20-%20209mil%208-SOP%20and%208x6mm%208-WSON%20Dual%20Layout%20Guide.pdf)
 		- [ZD25WQ32C (4Mo)](https://datasheet.lcsc.com/lcsc/2211091800_Zetta-ZD25WQ32CEIGR_C5258281.pdf)
 		- [W25Q128JV (16Mo)](https://www.winbond.com/resource-files/w25q128jv_dtr%20revc%2003272018%20plus.pdf)
+		-
 	- TODO Déterminer les tailles minimales pour les différentes lignes
 		- |     Nom    | Power | USB | Signal |
 		  |:----------:|:-----:|:---:|--------|
