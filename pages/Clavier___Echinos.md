@@ -10,10 +10,9 @@ link:: [Github](https://github.com/JeremyBois/Echinos)
 		- [Un large nombre de raisons en faveur de l'oscillateur](https://www.sitime.com/top-8-reasons-use-oscillator-instead-crystal-resonator)
 	- TODO Détection de l'orientation de l'USB C
 		- [TUSB321 (Détecteur)](https://www.ti.com/lit/ds/symlink/tusb321.pdf) + [TPD4E05U06 (protection)](https://www.ti.com/lit/ds/symlink/tpd4e05u06.pdf)
-		- Fait par [[Clavier/Honeydew]]
-			- Pourquoi ??
+		- Fait par [[Clavier/Honeydew]] mais pourquoi ??
 	- TODO Sélection de la diode TVS pour protéger l'USB
-		- [TPD2E2U06-Q1](https://www.ti.com/lit/ds/symlink/tpd2e2u06-q1.pdf) (LCSC = C915089)
+		- [TPD2E2U06-Q1](https://www.ti.com/lit/ds/symlink/tpd2e2u06-q1.pdf) (LCSC = C915089, C5350871)
 			- [SOT 323 (SC70-3, UMT3)](https://en.wikipedia.org/wiki/List_of_integrated_circuit_packaging_types#Small-outline_transistor_(SOT))
 		- [ESD7L5.0DT5G-N](https://datasheet.lcsc.com/lcsc/2306211546_BORN-ESD7L5-0DT5G-N_C6165124.pdf)
 			- [SOT 723](https://en.wikipedia.org/wiki/List_of_integrated_circuit_packaging_types#Small-outline_transistor_(SOT))
