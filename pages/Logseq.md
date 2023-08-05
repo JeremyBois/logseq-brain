@@ -3,8 +3,9 @@ link::
 [[Mar 4th, 2023]]
 ***
 
-- [Documentation non officielle](https://unofficial-logseq-docs.gitbook.io/unofficial-logseq-docs/)
-- [Documentation officielle](https://docs.logseq.com/#/page/contents)
+- # Documentation
+	- [Officielle](https://docs.logseq.com/#/page/contents)
+	- [Non officielle](https://unofficial-logseq-docs.gitbook.io/unofficial-logseq-docs/)
 - # Requêtes
 - ## Requêtes Simples
 	- link:: [Doc officielle](https://docs.logseq.com/#/page/queries) [Doc communauté](https://hub.logseq.com/features/av5LyiLi5xS7EFQXy4h4K8/how-to-use-queries-and-indentation-in-logseq/c3hkRvkQWqE55Ccv91NGT4)
