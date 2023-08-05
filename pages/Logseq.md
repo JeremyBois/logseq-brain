@@ -1,8 +1,10 @@
 tags:: PKM, Logiciel
 link::
 [[Mar 4th, 2023]]
+***
 
-- # Description
+- # Documentation
+	-
 - # Requêtes
 - ## Requêtes Simples
 	- link:: [Doc officielle](https://docs.logseq.com/#/page/queries) [Doc communauté](https://hub.logseq.com/features/av5LyiLi5xS7EFQXy4h4K8/how-to-use-queries-and-indentation-in-logseq/c3hkRvkQWqE55Ccv91NGT4)
