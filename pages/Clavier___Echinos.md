@@ -37,8 +37,8 @@ link:: [Github](https://github.com/JeremyBois/Echinos)
 		- |     Nom    | Power | USB | Signal |
 		  |:----------:|:-----:|:---:|--------|
 		  | Espacement |  0.2  | 0.2 | 0.2    |
-		  |  Épaisseur | 0.254 | 0.3 | 0.254  |
-		  | Raison     | MCU   | USB | MCU    |
+		  |  Largeur | 0.254 | 0.3 | 0.254  |
+		  | Raison     |  MCU   | USB | MCU    |
 		-
 	-
 - # Développement
