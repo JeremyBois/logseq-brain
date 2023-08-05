@@ -6,6 +6,23 @@ link:: [Github](https://github.com/JeremyBois/Echinos)
 
 - # Tâches
 	- TODO Support pour [[Clavier/VIK]]
+		- The interface includes the following signals (pin 0 to 12)
+		      3.3V
+		      GND
+		      SDA
+		      SCL
+		      RGB Data Out
+		      5V
+		      Digital/Analog GPIO 1
+		      MOSI
+		      Digital/Analog GPIO 2
+		      SPI CS
+		      MISO
+		      SCLK
+			- [[Ptechinos]] utilise l'ordre inverse pour être compatible directement avec [[GlidePointCircle]]
+				- Possible d'être compatible avec les deux en utilisant un câble inversé
+					- Câble normal **inverse** inverse l'ordre des pins
+					- Câble inversé **conserve** l'ordre des pins
 	- TODO Valider l'utilisation d'un oscillateur
 		- [Un large nombre de raisons en faveur de l'oscillateur](https://www.sitime.com/top-8-reasons-use-oscillator-instead-crystal-resonator)
 	- TODO Détection de l'orientation de l'USB C
