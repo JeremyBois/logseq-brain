@@ -12,6 +12,9 @@ link:: [Github](https://github.com/JeremyBois/Echinos)
 		- [TUSB321 (Détecteur)](https://www.ti.com/lit/ds/symlink/tusb321.pdf) + [TPD4E05U06 (protection)](https://www.ti.com/lit/ds/symlink/tpd4e05u06.pdf)
 		- Fait par [[Clavier/Honeydew]]
 			- Pourquoi ??
+	- TODO Sélection de la diode TVS pour protéger l'USB
+		- [TPD2E2U06-Q1](https://www.ti.com/lit/ds/symlink/tpd2e2u06-q1.pdf) (LCSC = C915089)
+		- /link
 	-
 - # Développement
 	- Combiner 3D et électronique pour obtenir un boitier adapté et limiter la complexité liée au processus itératif
