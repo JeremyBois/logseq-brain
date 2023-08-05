@@ -14,7 +14,9 @@ link:: [Github](https://github.com/JeremyBois/Echinos)
 			- Pourquoi ??
 	- TODO Sélection de la diode TVS pour protéger l'USB
 		- [TPD2E2U06-Q1](https://www.ti.com/lit/ds/symlink/tpd2e2u06-q1.pdf) (LCSC = C915089)
-		- /link
+			- SOT323 (SC70-3, UMT3)
+		- [ESD7L5.0DT5G-N](https://datasheet.lcsc.com/lcsc/2306211546_BORN-ESD7L5-0DT5G-N_C6165124.pdf)
+			- SOT-723
 	-
 - # Développement
 	- Combiner 3D et électronique pour obtenir un boitier adapté et limiter la complexité liée au processus itératif
