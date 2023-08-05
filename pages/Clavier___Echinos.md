@@ -33,6 +33,7 @@ link:: [Github](https://github.com/JeremyBois/Echinos)
 			- [SOT 323 (SC70-3, UMT3)](https://en.wikipedia.org/wiki/List_of_integrated_circuit_packaging_types#Small-outline_transistor_(SOT))
 		- [ESD7L5.0DT5G-N](https://datasheet.lcsc.com/lcsc/2306211546_BORN-ESD7L5-0DT5G-N_C6165124.pdf)
 			- [SOT 723](https://en.wikipedia.org/wiki/List_of_integrated_circuit_packaging_types#Small-outline_transistor_(SOT))
+	- TODO Sélectionner la
 	- TODO Déterminer les tailles minimales pour les différentes lignes
 		- |     Nom    | Power | USB | Signal |
 		  |:----------:|:-----:|:---:|--------|
