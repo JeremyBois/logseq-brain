@@ -21,8 +21,8 @@ link:: [Github](https://github.com/JeremyBois/Echinos)
 		      SCLK
 			- [[Ptechinos]] utilise l'ordre inverse pour être compatible directement avec [[GlidePointCircle]]
 				- Possible d'être compatible avec les deux en utilisant un câble inversé
-					- Câble normal **inverse** inverse l'ordre des pins
-					- Câble inversé **conserve** l'ordre des pins
+					- Câble normal (type A) **inverse** inverse l'ordre des pistes
+					- Câble inversé (Type D) **conserve** l'ordre des pistes
 	- TODO Valider l'utilisation d'un oscillateur
 		- [Un large nombre de raisons en faveur de l'oscillateur](https://www.sitime.com/top-8-reasons-use-oscillator-instead-crystal-resonator)
 	- TODO Détection de l'orientation de l'USB C
