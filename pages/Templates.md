@@ -75,10 +75,8 @@
 	  <% Today %>
 	  ***
 	- template:: ParentRef
-	  #+BEGIN_PINNED
-	  [[]]
-	      ↳ TITLE
-	  #+END_PINNED
+	  ↳ [[]]
+	  ***
 	- template:: PDF
 	  ![Viewer]() | [PDF]()
 	  ***

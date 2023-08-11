@@ -5,15 +5,6 @@ link:: [Basic concepts of electricity](https://www.allaboutcircuits.com/textbook
 
 - ↳ [[Lessons in Electric Circuits/Direct current]]
   ***
-- ↳
-  #+BEGIN_CENTER
-  [[Lessons in Electric Circuits/Direct current]]
-  ***
-  #+END_CENTER
-- #+BEGIN_NOTE
-  ↳ [[Lessons in Electric Circuits/Direct current]]
-  #+END_NOTE
--
 - La **tension** ($V$, volt) est la mesure de l'énergie potentielle relative par charge unitaire
 	- Elle se mesure entre deux points
 	- Le signe est fonction du sens de circulation et de l'ordre des points choisi
