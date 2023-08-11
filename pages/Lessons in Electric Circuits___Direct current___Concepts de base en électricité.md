@@ -7,6 +7,7 @@ link:: [Basic concepts of electricity](https://www.allaboutcircuits.com/textbook
   [[Lessons in Electric Circuits/Direct current]]
       ↳ Concepts de base en électricité
   #+END_PINNED
+  ***
 -
 - La **tension** ($V$, volt) est la mesure de l'énergie potentielle relative par charge unitaire
 	- Elle se mesure entre deux points
