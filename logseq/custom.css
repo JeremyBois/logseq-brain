@@ -153,22 +153,22 @@ span.pill {
   padding-right: 0.3em;
 }
 
-span.pill-red {
+span.pill-r {
   border-color: var(--cp-red);
   color: var(--cp-red);
 }
 
-span.pill-yellow {
+span.pill-y {
   border-color: var(--cp-yellow);
   color: var(--cp-yellow);
 }
 
-span.pill-blue {
+span.pill-b {
   border-color: var(--cp-blue);
   color: var(--cp-blue);
 }
 
-span.pill-green {
+span.pill-g {
   border-color: var(--cp-green);
   color: var(--cp-green);
 }
