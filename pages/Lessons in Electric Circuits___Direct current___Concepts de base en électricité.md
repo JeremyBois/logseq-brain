@@ -10,6 +10,8 @@ link:: [Basic concepts of electricity](https://www.allaboutcircuits.com/textbook
   ***
 - {{pill red, Tortue ninja}} {{pill blue, Coucou}}
 -
+- /pil
+-
 -
 - La **tension** ($V$, volt) est la mesure de l'énergie potentielle relative par charge unitaire
 	- Elle se mesure entre deux points
