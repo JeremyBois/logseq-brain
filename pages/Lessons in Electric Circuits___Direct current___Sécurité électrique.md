@@ -9,8 +9,7 @@ link:: [Electrical safety](https://www.allaboutcircuits.com/textbook/direct-curr
 - ## Sécurité électrique
 - Contraction involontaire lorsque un courant important traverse le corps
 	- Surcharge le courant généré entre les neuronnes
-	- Impossi
-	- ble de s'extraire
+	- Impossible de s'extraire
 - Courant direct (DC) a plus de chance d'entrainer une tetanie qu'une fibrillation
 	- DC utilisé dans les défibrillateur
 	- Courant alternatif (AC) a plus de chance d'entrainer une fibrillation
