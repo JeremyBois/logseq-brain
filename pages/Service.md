@@ -5,7 +5,9 @@
 	  id:: 64c0f891-10ac-4466-bff5-12736d8d3b68
 		- Générateur de tables en markdown
 	- [Wikiland](https://www.wikiwand.com/)
-		- Liseuse pour le site Wikipédia utilisable depuis
+		- Liseuse pour le site Wikipédia
+			- Plugin Firefox
+			- Différents thèmes
 - # Documentation
 	- [Sci-hub](https://www.sci-hub.st/) #Science
 	  id:: 64ce6817-fadd-4d22-87b6-3614ce3601e3
