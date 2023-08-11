@@ -177,15 +177,6 @@
     :inputs [:today :7d-after]
     :collapsed? false}]}
 
- ;; Add your own commands to slash menu to speedup.
- ;; E.g.
- ;; :commands
- ;; [
- ;; ["js" "Javascript"]
- ;; ["md" "Markdown"]
- ;; ]
- :commands
- []
 
  ;; By default, a block can only be collapsed if it has some children.
  ;; `:outliner/block-title-collapse-enabled? true` enables a block with a title
@@ -201,7 +192,25 @@
  ;; input "{{poem red,blue}}"
  ;; becomes
  ;; Rose is red, violet's blue. Life's ordered: Org assists you.
- :macros {}
+ :macros {
+     "pill" "<span class=\"pill pill-$1\">$2</span>"
+ }
+
+ 
+  ;; Add your own commands to slash menu to speedup.
+ ;; E.g.
+ ;; :commands
+ ;; [
+ ;; ["js" "Javascript"]
+ ;; ["md" "Markdown"]
+ ;; ]
+ :commands [
+    ["pill-red" [[:editor/input "{{pill red,}}" {:backward-pos 2}]]]
+    ["pill-yellow" [[:editor/input "{{pill yellow,}}" {:backward-pos 2}]]]
+    ["pill-blue" [[:editor/input "{{pill blue,}}" {:backward-pos 2}]]]
+    ["pill-green" [[:editor/input "{{pill green,}}" {:backward-pos 2}]]]
+    ["pill-grey" [[:editor/input "{{pill grey,}}" {:backward-pos 2}]]]
+ ]
 
  ;; The default level to be opened for the linked references.
  ;; For example, if we have some example blocks like this:
