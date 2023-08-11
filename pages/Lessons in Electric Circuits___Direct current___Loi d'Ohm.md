@@ -3,7 +3,8 @@ link:: [Ohm's law](https://www.allaboutcircuits.com/textbook/direct-current/chpt
 [[Aug 11th, 2023]]
 ***
 
-- ↳ [[Lessons in Electric Circuits/Direct current]] 
+- ↳ [[Lessons in Electric Circuits/Direct current]]
+  {{namespace Lessons in Electric Circuits/Direct current/Loi d'Ohm}}
   ***
 - La résistance (R en $Ω$) est la mesure relative de l'opposition au mouvement du flux
 	- Se mesure entre deux points

@@ -6,6 +6,5 @@ link:: [PDF (original)](http://www.ibiblio.org/kuphaldt/electricCircuits/DC/inde
 ***
 
 - ↳ [[Lessons in Electric Circuits]] 
+  {{namespace Lessons in Electric Circuits/Direct current}}
   ***
-- {{namespace Lessons in Electric Circuits/Direct current}}
--

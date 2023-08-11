@@ -1,11 +1,11 @@
 tags:: Logic Gates
 link:: https://www.allaboutcircuits.com/textbook/digital/chpt-3/logic-signal-voltage-levels/
 [[Aug 11th, 2023]]
+***
 
 - ↳ [[Lessons in Electric Circuits/Digital Circuits]] 
   {{namespace Lessons in Electric Circuits/Digital Circuits/Portes logiques }}
   ***
--
 ## Logic Signal Voltage Levels
 	- Un circuit de portes logiques acceptent en entrées comme en sorties uniquement deux types de signaux
 	- Haut (1, *HIGH*) lorsque la tension d'alimentation est maximale

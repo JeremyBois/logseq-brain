@@ -4,6 +4,7 @@ link:: [Electrical safety](https://www.allaboutcircuits.com/textbook/direct-curr
 ***
 
 - ↳ [[Lessons in Electric Circuits/Direct current]] 
+  {{namespace Lessons in Electric Circuits/Direct current/Sécurité électrique}}
   ***
 - ## Sécurité électrique
 - Contraction involontaire lorsque un courant important traverse le corps

@@ -74,13 +74,14 @@
 	  link::
 	  <% Today %>
 	  ***
-	- template:: ParentRef
+	- template:: Parent
 	  ↳ [[]]
+	  {{namespace }}
 	  ***
 	- template:: PDF
 	  ![Viewer]() | [PDF]()
 	  ***
-	- template:: Notion
+	- template:: Alias
 	  alias::
 	  <% Today %>
 	  ***

@@ -3,7 +3,8 @@ link:: [Scientific Notation And Metric Prefixes](https://www.allaboutcircuits.co
 [[Aug 11th, 2023]]
 ***
 
-- ↳ [[Lessons in Electric Circuits/Direct current]] 
+- ↳ [[Lessons in Electric Circuits/Direct current]]
+  {{namespace Lessons in Electric Circuits/Direct current/Notation scientifique et système métrique}}
   ***
-- ## DOING Notation scientifique et système métrique
-	-
+- DOING Lire Notation scientifique et système métrique
+-
