@@ -7,5 +7,5 @@ link:: [PDF (original)](https://www.ibiblio.org/kuphaldt/electricCircuits/) [Onl
 
 - **Collection de livres sur le fonctionnement théorique comme pratique des circuits électroniques**
   {{namespace Lessons in Electric Circuits}}
-  ***
+  ***c
 -
