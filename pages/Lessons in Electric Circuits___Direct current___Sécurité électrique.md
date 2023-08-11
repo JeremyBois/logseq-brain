@@ -1,106 +1,107 @@
-- tags::
-  link::
-  [[Aug 11th, 2023]]
-  ***
+tags:: DC, Safety
+link:: [Electrical safety](https://www.allaboutcircuits.com/textbook/direct-current/chpt-3)
+[[Aug 11th, 2023]]
+***
+
 - ↳ [[Lessons in Electric Circuits/Direct current]] 
   ***
 - ## Sécurité électrique
-	- Contraction involontaire lorsque un courant important traverse le corps
-		- Surcharge le courant généré entre les neuronnes
-		- Impossible de s'extraire
-	- Courant direct (DC) a plus de chance d'entrainer une tetanie qu'une fibrillation
-		- DC utilisé dans les défibrillateur
+- Contraction involontaire lorsque un courant important traverse le corps
+	- Surcharge le courant généré entre les neuronnes
+	- Impossible de s'extraire
+- Courant direct (DC) a plus de chance d'entrainer une tetanie qu'une fibrillation
+	- DC utilisé dans les défibrillateur
 	- Courant alternatif (AC) a plus de chance d'entrainer une fibrillation
 		- Potentiel de dangerosité plus élevé en particulier pour le coeur
-	- La fréquence en AC joue un rôle important
-		- Un courant à faible fréquence (50-60Hz) que l'on retrouve dans une installation domestique ...
-			- est plus dangereux que un courant AC à haute fréquence
-			- est 3/4 fois plus dangereux que un courant DC
-	- Toucher un seul fil électrique
-		- Si on est en contact avec la même terre
-			- Électrocution car on forme un circuit
-			- C'est le cas d'un humain au sol
-		- Si on est **pas** en contact avec la mêle terre
-			- Tension nulle car mesurée en un même point car on ne forme pas de circuit
-			- C'est le cas d'un oiseau
+- La fréquence en AC joue un rôle important
+	- Un courant à faible fréquence (50-60Hz) que l'on retrouve dans une installation domestique ...
+		- est plus dangereux que un courant AC à haute fréquence
+		- est 3/4 fois plus dangereux que un courant DC
+- Toucher un seul fil électrique
+	- Si on est en contact avec la même terre
+		- Électrocution car on forme un circuit
+		- C'est le cas d'un humain au sol
+- Si on est **pas** en contact avec la mêle terre
+	- Tension nulle car mesurée en un même point car on ne forme pas de circuit
+	- C'est le cas d'un oiseau
 	- Terre de référence
 		- Permet de contrôler la référence pour la terre
 			- Assure que un point du circuit est sans risque
 		- Évite la création hazardeuse de circuits (supprime l'aléatoire)
-			- ![Ground fault - humain arbre](https://www.allaboutcircuits.com/uploads/articles/high-voltage-power-accidental-ground-path.jpg)
-			- ![Ground fault - humain humain](https://www.allaboutcircuits.com/uploads/articles/high-voltage-power-two-persons-getting-shocked.jpg)
+			- ![Ground fault - humain arbre](https://www.allaboutcircuits.com/uploads/articles/high-voltage-power-accidental-ground-path.jpg){:height 244, :width 386}
+			- ![Ground fault - humain humain](https://www.allaboutcircuits.com/uploads/articles/high-voltage-power-two-persons-getting-shocked.jpg){:height 272, :width 388}
 			- Si une ligne touche la terre alors un circuit se forme
 				- Une électrocution est possible si on se place entre la terre de référence et le point de contact de la ligne avec le sol
-				- ![Électrocution - ligne qui touche le sol](https://www.allaboutcircuits.com/uploads/articles/deadly-voltage-across-the-body-through-both-legs-image2.jpg)
-	- C'est le courant qui est dangereux pas la tension ?
-		- Sans différentiel de tension le courant ne circule pas
-		- Une tension très importante est suffisant pour avoir un courant mortel si la résistance est faible --> ## Loi d'Ohm
-			- Résistance du corps humain variable ($\sim 1MΩ$)
-	- Niveaux de dangerosités
-		- Varie de personne à personne
-		- ![Danger ampérage](https://www.allaboutcircuits.com/uploads/articles/electricity-body-effects-table.jpg)
-		- Selon les conditions une tension de 17V peut être suffisant pour induire un arrêt cardiaque
-			- En conditions normales une tension supérieure à 30V est dangereuse et nécessite des protections particulières
-	- Facteurs réduisants notre résistance au courant
-		- Force du grip
-		- Surface de contact
-		- Nombres de contact
-			- Des circuits en parallèles ont moins de résistance que un seul circuit
-			- Utiliser une seule main lors de travaux électrique sous tension
-		- Immersion dans des liquides conducteurs
-		- Contact avec des métaux
-		- Augmentation du voltage du au contact
-			- On devient plus conducteur après le contact
-		- Humidité interne / externe
-		- ...
-	- Procédure de sécurité
-		- Ouvrir le circuit avec l'interupteur prévu pour
-		- Utiliser la procédure *Lock/Tag*
-			- Inscrire l'opération en cours + durée
-			- Activer l'interupteur
-			- Protéger l'interupteur avec son code
-			- ((64c75ca1-6915-422b-b149-73707980e1bc))
-			- Tester avec le dos de la main
-			- Faire la maintenance
-			- Retirer la protection et re-connecter le circuit
-			- Inscrire la fin de l'opération
-		- Tester avec un multimètre
-		  id:: 64c75ca1-6915-422b-b149-73707980e1bc
-			- Source connue pour confirmer le fonctionnement
-			- Circuit
-			- Source connue pour confirmer qu'il est toujours fonctionnel
-	- Aider une personne électrocutée
-		- Activer l'interupteur + vérifier la non présence de courant
-			- Si l'interupteur est inaccessible
-				- Utiliser un bout de bois sec ou autre matériaux non conducteur pour le déconnecter du courant
-		- Vérifier le poul + procédure de premier secours en attentant les secours
-		- Maintenir au chaud en cas de choc physiologique / circulation sanguine insuffisante
-	- ![Hot vs Neutral](https://www.allaboutcircuits.com/uploads/articles/two-wire-electrical-power-system-image1.jpg)
+				- ![Électrocution - ligne qui touche le sol](https://www.allaboutcircuits.com/uploads/articles/deadly-voltage-across-the-body-through-both-legs-image2.jpg){:height 245, :width 356}
+- C'est le courant qui est dangereux pas la tension ?
+	- Sans différentiel de tension le courant ne circule pas
+	- Une tension très importante est suffisant pour avoir un courant mortel si la résistance est faible --> ## Loi d'Ohm
+		- Résistance du corps humain variable ($\sim 1MΩ$)
+- Niveaux de dangerosités
+	- Varie de personne à personne
+	- ![Danger ampérage](https://www.allaboutcircuits.com/uploads/articles/electricity-body-effects-table.jpg){:height 302, :width 395}
+	- Selon les conditions une tension de 17V peut être suffisant pour induire un arrêt cardiaque
+		- En conditions normales une tension supérieure à 30V est dangereuse et nécessite des protections particulières
+- Facteurs réduisants notre résistance au courant
+	- Force du grip
+	- Surface de contact
+	- Nombres de contact
+		- Des circuits en parallèles ont moins de résistance que un seul circuit
+		- Utiliser une seule main lors de travaux électrique sous tension
+	- Immersion dans des liquides conducteurs
+	- Contact avec des métaux
+	- Augmentation du voltage du au contact
+		- On devient plus conducteur après le contact
+	- Humidité interne / externe
+	- ...
+- Procédure de sécurité
+	- Ouvrir le circuit avec l'interupteur prévu pour
+	- Utiliser la procédure *Lock/Tag*
+		- Inscrire l'opération en cours + durée
+		- Activer l'interupteur
+		- Protéger l'interupteur avec son code
+		- ((64c75ca1-6915-422b-b149-73707980e1bc))
+		- Tester avec le dos de la main
+		- Faire la maintenance
+		- Retirer la protection et re-connecter le circuit
+		- Inscrire la fin de l'opération
+	- Tester avec un multimètre
+	  id:: 64c75ca1-6915-422b-b149-73707980e1bc
+		- Source connue pour confirmer le fonctionnement
+		- Circuit
+		- Source connue pour confirmer qu'il est toujours fonctionnel
+- Aider une personne électrocutée
+	- Activer l'interupteur + vérifier la non présence de courant
+		- Si l'interupteur est inaccessible
+			- Utiliser un bout de bois sec ou autre matériaux non conducteur pour le déconnecter du courant
+	- Vérifier le poul + procédure de premier secours en attentant les secours
+	- Maintenir au chaud en cas de choc physiologique / circulation sanguine insuffisante
+	- ![Hot vs Neutral](https://www.allaboutcircuits.com/uploads/articles/two-wire-electrical-power-system-image1.jpg){:height 175, :width 313}
 		- **Hot** = conducteur comportant un risque d'électrocution
 		- **Neutral** = conducteur sans risques
-	- Isolation du boitier
-		- Ajouter un fil Boitier --> Terre
-			- Assure un contact permanent même si un court circuit se forme (fil Hot qui touche le boitier)
-			- Prises avec 3 broches
-		- Isoler le boitier du circuit afin d'éviter un risque de court circuit
-		- Ground Fault Current Interrupters
-			- Suivi de la différence de courant entre Hot et Neutral et ouverture du circuit en cas de différence trop importantes
-	- Le multimètre
-		- Si possible utiliser une seule main pour éviter tous risques d'électrocution
-		- Mode résistance
-			- Doit être utilisé sur un circuit non alimenté
-				- `.0L` --> Circuit ouvert
-				- `0.0` --> Circuit fermé sans résistance
-			- Connecter les probes ensemble permet de mesurer le bon fonctionnement du fusible
-				- `.0L` --> Fusible mort
-				- Résistance faible --> Fusible ok
-				- Résistance forte --> Soucis
-		- Tester DC et AC nécessite deux modes différents
-		- Mode voltage
-			- Résistance en les deux probes très grand (plusieurs méga ohms)
-				- Toujours utiliser la sortie prévue pour
-			- Se connecte en parallèl
-		- Mode courant
-			- Résistance proche de 0
-				- Toujours utilisé la sortie prévue pour
-			- Se connecte en série
+- Isolation du boitier
+	- Ajouter un fil Boitier --> Terre
+		- Assure un contact permanent même si un court circuit se forme (fil Hot qui touche le boitier)
+		- Prises avec 3 broches
+	- Isoler le boitier du circuit afin d'éviter un risque de court circuit
+	- Ground Fault Current Interrupters
+		- Suivi de la différence de courant entre Hot et Neutral et ouverture du circuit en cas de différence trop importantes
+- Le multimètre
+	- Si possible utiliser une seule main pour éviter tous risques d'électrocution
+	- Mode résistance
+		- Doit être utilisé sur un circuit non alimenté
+			- `.0L` --> Circuit ouvert
+			- `0.0` --> Circuit fermé sans résistance
+		- Connecter les probes ensemble permet de mesurer le bon fonctionnement du fusible
+			- `.0L` --> Fusible mort
+			- Résistance faible --> Fusible ok
+			- Résistance forte --> Soucis
+	- Tester DC et AC nécessite deux modes différents
+	- Mode voltage
+		- Résistance en les deux probes très grand (plusieurs méga ohms)
+			- Toujours utiliser la sortie prévue pour
+		- Se connecte en parallèl
+	- Mode courant
+		- Résistance proche de 0
+			- Toujours utilisé la sortie prévue pour
+		- Se connecte en série

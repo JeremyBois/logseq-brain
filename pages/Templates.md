@@ -69,7 +69,7 @@
 - ## Spécialisations
 	- template:: EspritDog
 	  type:: [[Video]]
-	  auteur:: #Espritdog
+	  author:: #Espritdog
 	  tags:: Chien, Education
 	  link::
 	  <% Today %>
@@ -79,4 +79,13 @@
 	  ***
 	- template:: PDF
 	  ![Viewer]() | [PDF]()
+	  ***
+	- template:: Word
+	  alias::
+	  <% Today %>
+	  ***
+	- template:: Author
+	  tags:: Author
+	  link::
+	  <% Today %>
 	  ***
