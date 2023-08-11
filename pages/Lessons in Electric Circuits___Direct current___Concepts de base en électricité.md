@@ -1,11 +1,11 @@
 tags:: DC, DirectCurrent
-link:: link:: [Basic concepts of electricity](https://www.allaboutcircuits.com/textbook/direct-current/chpt-1)
+link:: [Basic concepts of electricity](https://www.allaboutcircuits.com/textbook/direct-current/chpt-1)
 [[Aug 11th, 2023]]
 ***
 
 - #+BEGIN_PINNED
   [[Lessons in Electric Circuits/Direct current]]
-  ↳ Concepts de base en électricité
+      ↳ Concepts de base en électricité
   #+END_PINNED
 -
 - La **tension** ($V$, volt) est la mesure de l'énergie potentielle relative par charge unitaire
