@@ -66,7 +66,12 @@
 	  template:: General
 	  <% Today %>
 	  ***
-- ## Programmation
+- ## Hierarchie
+	- type:: [[Video]]
+	  auteur:: #Espritdog
+	  tags:: Chien, Education
+	  link::
+	  template:: ParentRef
 - ## Éducation du chien
 	- type:: [[Video]]
 	  auteur:: #Espritdog
