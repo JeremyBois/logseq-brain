@@ -1,0 +1,9 @@
+tags:: SI
+link:: [Scientific Notation And Metric Prefixes](https://www.allaboutcircuits.com/textbook/direct-current/chpt-4)
+[[Aug 11th, 2023]]
+***
+
+- ↳ [[Lessons in Electric Circuits/Direct current]] 
+  ***
+- ## DOING Notation scientifique et système métrique
+	-

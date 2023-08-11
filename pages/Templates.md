@@ -80,7 +80,7 @@
 	- template:: PDF
 	  ![Viewer]() | [PDF]()
 	  ***
-	- template:: Word
+	- template:: Notion
 	  alias::
 	  <% Today %>
 	  ***

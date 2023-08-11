@@ -1,4 +1,4 @@
-tags:: DC, DirectCurrent
+tags:: DC
 link:: [Basic concepts of electricity](https://www.allaboutcircuits.com/textbook/direct-current/chpt-1)
 [[Aug 11th, 2023]]
 ***
