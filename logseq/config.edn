@@ -212,10 +212,14 @@
  ;    ["pill/grey" [[:editor/input "{{pill grey, }}" {:backward-pos 2}]]]
  ; ]
 
-:commands
-[
-  ["Review", "TODO: [[Code Review]] "]
+:commands [
+   ["pill" [[:editor/input "{{pill red, }}" {:backward-pos 2}]]]
+   ["pill/yellow" [[:editor/input "{{pill yellow, }}" {:backward-pos 2}]]]
+   ["pill/blue" [[:editor/input "{{pill blue, }}" {:backward-pos 2}]]]
+   ["pill/green" [[:editor/input "{{pill green, }}" {:backward-pos 2}]]]
+   ["pill/grey" [[:editor/input "{{pill grey, }}" {:backward-pos 2}]]]
 ]
+
 
  ;; The default level to be opened for the linked references.
  ;; For example, if we have some example blocks like this:
