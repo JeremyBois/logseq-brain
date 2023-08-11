@@ -8,7 +8,7 @@ alias:: Neopixel, WS2812B
 	- Avec un MCU alimenté avec une tension de $3.3V$ il faut:
 		- Un réhausseur de tension (*level shifter*) + une ligne de $5V$
 			- Ne pas inverser le niveau logique entrée / sortie
-			- Composant utilisant des ((64a178e4-c096-4bd5-b3ef-f2f8b28aa424)) pour garantir une sortie $5V$
+			- Composant utilisant des ### Porte TTL pour garantir une sortie $5V$
 			- Supportant une alimentation de 5V
 			- Famille **74HCT**
 				- [SN74HCT08](https://www.ti.com/product/SN74HCT08) (4 lignes AND)
