@@ -54,7 +54,6 @@
  ;; Example:
  ;; :custom-css-url "@import url('https://cdn.jsdelivr.net/gh/dracula/logseq@master/custom.css');"
 
- ;; Set Bullet indentation when exporting
  ;; default option: tab
  ;; Possible options are for `:sidebar` are
  ;; 1. `:eight-spaces` as eight spaces
@@ -310,7 +309,6 @@
  ;;   clients after the files are synced. Wrong handling may cause page titles
  ;;   containing special characters to be messy.
  ;; Available values:
- ;;   :file/name-format :triple-lowbar
  ;;     ;use triple underscore `___` for slash `/` in page title
  ;;     ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
