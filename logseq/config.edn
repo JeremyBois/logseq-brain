@@ -193,7 +193,7 @@
  ;; becomes
  ;; Rose is red, violet's blue. Life's ordered: Org assists you.
  :macros {
-     "pill" "<span class=\"pill pill-$1\">$2</span>"
+     "Pill" "<span class=\"pill pill-$1\">$2</span>"
  }
 
  
@@ -204,16 +204,8 @@
  ;; ["js" "Javascript"]
  ;; ["md" "Markdown"]
  ;; ]
- ; :commands [
- ;    ["pill/red" [[:editor/input "{{pill red, }}" {:backward-pos 2}]]]
- ;    ["pill/yellow" [[:editor/input "{{pill yellow, }}" {:backward-pos 2}]]]
- ;    ["pill/blue" [[:editor/input "{{pill blue, }}" {:backward-pos 2}]]]
- ;    ["pill/green" [[:editor/input "{{pill green, }}" {:backward-pos 2}]]]
- ;    ["pill/grey" [[:editor/input "{{pill grey, }}" {:backward-pos 2}]]]
- ; ]
-
 :commands [
-   ["pill" [[:editor/input "{{pill }}" {:backward-pos 2}]]]
+   ["Pill" [[:editor/input "{{Pill }}" {:backward-pos 2}]]]
 ]
 
 
