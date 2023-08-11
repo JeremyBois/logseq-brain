@@ -66,12 +66,6 @@
 	  template:: General
 	  <% Today %>
 	  ***
-- ## Hierarchie
-	- type:: [[Video]]
-	  auteur:: #Espritdog
-	  tags:: Chien, Education
-	  link::
-	  template:: ParentRef
 - ## Éducation du chien
 	- type:: [[Video]]
 	  auteur:: #Espritdog
@@ -80,14 +74,12 @@
 	  template:: EspritDog
 	  <% Today %>
 	  ***
-- ## Assets
-	- alias:: 
-	  type:: [[Article]]
-	  author:: 
-	  tags:: 
-	  link:: 
-	  template:: PDF (local)
-	  <% Today %>
-	  ***
-	- ![Viewer]() | [PDF]()
+- ## Misc
+	- template:: ParentRef
+	  #+BEGIN_PINNED
+	  [[]]
+	      ↳ TITLE
+	  #+END_PINNED
+	- template:: PDF
+	  ![Viewer]() | [PDF]()
 	  ***
