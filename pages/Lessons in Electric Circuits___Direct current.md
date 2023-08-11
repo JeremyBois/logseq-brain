@@ -67,7 +67,7 @@ link:: [PDF (original)](http://www.ibiblio.org/kuphaldt/electricCircuits/DC/inde
 		- Tension nulle entre deux points dits communs
 		- Résistance des fils négligeable dans la plupart des cas
 		-
-- DOING Sécurité électrique
+- ## Sécurité électrique
 	- link:: [Electrical safety](https://www.allaboutcircuits.com/textbook/direct-current/chpt-3)
 	- Contraction involontaire lorsque un courant important traverse le corps
 		- Surcharge le courant généré entre les neuronnes
@@ -93,6 +93,9 @@ link:: [PDF (original)](http://www.ibiblio.org/kuphaldt/electricCircuits/DC/inde
 		- Évite la création hazardeuse de circuits (supprime l'aléatoire)
 			- ![Ground fault - humain arbre](https://www.allaboutcircuits.com/uploads/articles/high-voltage-power-accidental-ground-path.jpg)
 			- ![Ground fault - humain humain](https://www.allaboutcircuits.com/uploads/articles/high-voltage-power-two-persons-getting-shocked.jpg)
+			- Si une ligne touche la terre alors un circuit se forme
+				- Une électrocution est possible si on se place entre la terre de référence et le point de contact de la ligne avec le sol
+				- ![Électrocution - ligne qui touche le sol](https://www.allaboutcircuits.com/uploads/articles/deadly-voltage-across-the-body-through-both-legs-image2.jpg)
 	- C'est le courant qui est dangereux pas la tension ?
 		- Sans différentiel de tension le courant ne circule pas
 		- Une tension très importante est suffisant pour avoir un courant mortel si la résistance est faible --> ((64b39f89-7fab-43df-8920-433ebceb0af4))
@@ -136,4 +139,36 @@ link:: [PDF (original)](http://www.ibiblio.org/kuphaldt/electricCircuits/DC/inde
 				- Utiliser un bout de bois sec ou autre matériaux non conducteur pour le déconnecter du courant
 		- Vérifier le poul + procédure de premier secours en attentant les secours
 		- Maintenir au chaud en cas de choc physiologique / circulation sanguine insuffisante
+	- ![Hot vs Neutral](https://www.allaboutcircuits.com/uploads/articles/two-wire-electrical-power-system-image1.jpg)
+		- **Hot** = conducteur comportant un risque d'électrocution
+		- **Neutral** = conducteur sans risques
+	- Isolation du boitier
+		- Ajouter un fil Boitier --> Terre
+			- Assure un contact permanent même si un court circuit se forme (fil Hot qui touche le boitier)
+			- Prises avec 3 broches
+		- Isoler le boitier du circuit afin d'éviter un risque de court circuit
+		- Ground Fault Current Interrupters
+			- Suivi de la différence de courant entre Hot et Neutral et ouverture du circuit en cas de différence trop importantes
+	- Le multimètre
+		- Si possible utiliser une seule main pour éviter tous risques d'électrocution
+		- Mode résistance
+			- Doit être utilisé sur un circuit non alimenté
+				- `.0L` --> Circuit ouvert
+				- `0.0` --> Circuit fermé sans résistance
+			- Connecter les probes ensemble permet de mesurer le bon fonctionnement du fusible
+				- `.0L` --> Fusible mort
+				- Résistance faible --> Fusible ok
+				- Résistance forte --> Soucis
+		- Tester DC et AC nécessite deux modes différents
+		- Mode voltage
+			- Résistance en les deux probes très grand (plusieurs méga ohms)
+				- Toujours utiliser la sortie prévue pour
+			- Se connecte en parallèl
+		- Mode courant
+			- Résistance proche de 0
+				- Toujours utilisé la sortie prévue pour
+			- Se connecte en série
+- ## DOING Notation scientifique et système métrique
+	- link:: [Scientific Notation And Metric Prefixes](https://www.allaboutcircuits.com/textbook/direct-current/chpt-4)
+	-
 -

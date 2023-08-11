@@ -7,13 +7,7 @@ link:: [PCB](https://github.com/JeremyBois/Ptechinos) [Layout](https://github.co
 {{namespace Ptechinos}}
 ***
 
-- # Tâches
-	- TODO Soucis lors l'envoi de certaines touches
-		- `e`  et `espace` sortent en double assez souvent
-		- Observé sur Windows avec la version **0.6**
-	- TODO Implémenter le code pour le support des périphérique de pointage
-		-
-- # Boitier
+# Boitier
 	- ## Fixation sandwich (plaques entre elles)
 		- Utiliser des aimants pour faire tenir les différentes plates entre elles
 			- Épaisseur des aimants pour **rigidifier** l'ensemble #PCB / `top plate`
@@ -32,7 +26,7 @@ link:: [PCB](https://github.com/JeremyBois/Ptechinos) [Layout](https://github.co
 				- Éviter de voir la tête de vis dépasser
 	- Laisser plus de place sur la *top plate* au niveau des encodeurs
 		- Permet de laisser passer les switches qui doivent êtres soudés
-- # Firmware
+# Firmware
 	- ## Commun
 		- Flasher --> `qmk flash`
 			- Promicro
@@ -54,7 +48,7 @@ link:: [PCB](https://github.com/JeremyBois/Ptechinos) [Layout](https://github.co
 	- [Auto mouse layer](https://github.com/qmk/qmk_firmware/blob/master/docs/feature_pointing_device.md#automatic-mouse-layer-idpointing-device-auto-mouse)
 		- Permet d'activer une couche quand on utilise le #Trackpad ou la #Trackball
 		- Permet de d'ajouter les clics de souris ou autres outils de navigation
-- # Layout
+# Layout
 	- *Shift* avec ((640bbca1-3642-48bf-a8a9-57c18d9f0ea3))
 		- Gauche --> `S+F`
 		- Droite    --> `J+L`
@@ -69,7 +63,7 @@ link:: [PCB](https://github.com/JeremyBois/Ptechinos) [Layout](https://github.co
 		- Combiner plusieurs touches en même temps
 		- Ressources
 			- [Combos pour les modificateurs](https://jasoncarloscox.com/blog/combo-mods/)
-- # Trackball
+# Trackball
 	- DONE Souder le pont JP1 pour ajouter la ((64287c00-cf70-4201-b24f-a0efe78451bb)) sur la ligne MISO
 		- [Github Ogen PCB](https://github.com/JeremyBois/Ogen)
 		- [MISO peut être flottant car contrôlée par l'esclave uniquement](https://electronics.stackexchange.com/a/234707)
