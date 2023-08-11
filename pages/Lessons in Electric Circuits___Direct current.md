@@ -5,7 +5,7 @@ link:: [PDF (original)](http://www.ibiblio.org/kuphaldt/electricCircuits/DC/inde
 [[Jul 10th, 2023]]
 ***
 
-- ↳ [[]]
+- ↳ [[Lessons in Electric Circuits]] 
   ***
 - {{namespace Lessons in Electric Circuits/Direct current}}
 -
