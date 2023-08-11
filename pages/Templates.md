@@ -66,15 +66,14 @@
 	  template:: General
 	  <% Today %>
 	  ***
-- ## Éducation du chien
-	- type:: [[Video]]
+- ## Spécialisations
+	- template:: EspritDog
+	  type:: [[Video]]
 	  auteur:: #Espritdog
 	  tags:: Chien, Education
 	  link::
-	  template:: EspritDog
 	  <% Today %>
 	  ***
-- ## Misc
 	- template:: ParentRef
 	  #+BEGIN_PINNED
 	  [[]]
