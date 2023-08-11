@@ -144,6 +144,39 @@ a.tag[data-ref]{
 th {font-size: 1.1rem; font-weight: bold; text-transform: capitalize}/* Wrapping text in query table */
 td {white-space: pre-wrap !important}
 
+/* Add pills support */
+span.pill {
+  border-radius: var(--ls-border-radius-low);
+  background-color: var(--ls-page-inline-code-bg-color);
+  border: 1px solid;
+  padding-left: 0.3em;
+  padding-right: 0.3em;
+}
+
+span.pill-red {
+  border-color: var(--cp-red);
+  color: var(--cp-red);
+}
+
+span.pill-yellow {
+  border-color: var(--cp-yellow);
+  color: var(--cp-yellow);
+}
+
+span.pill-blue {
+  border-color: var(--cp-blue);
+  color: var(--cp-blue);
+}
+
+span.pill-green {
+  border-color: var(--cp-green);
+  color: var(--cp-green);
+}
+
+span.inline div {
+  display:inline;
+}
+
 /* ==========  BETTER-SIDEBAR - right sidebarshrinking panes w/ horizontal scroll v20221217==================*/
 
         :root {
