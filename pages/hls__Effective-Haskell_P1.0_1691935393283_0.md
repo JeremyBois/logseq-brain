@@ -5,15 +5,21 @@ file-path:: ../assets/Effective-Haskell_P1.0_1691935393283_0.pdf
 
 - ![Viewer](../assets/Effective-Haskell_P1.0_1691935393283_0.pdf) | [PDF](../assets/Effective-Haskell_P1.0_1691935393283_0.pdf)
   ***
-	- #+BEGIN_QUERY
-	  {
-	  :query [:find (pull ?p [*])
-	  :where
-	  [?b :block/page ?p]
-	  (page-property ?p :parent "Project")
-	  ]
-	  #+END_QUERY
--
--
-- {{query (property type Book)}}
+- Minimal style for some queries  #minimal-query
+  query-sort-by:: block
   query-table:: true
+  query-sort-desc:: false
+  #+BEGIN_QUERY
+  {
+  :query [:find (pull ?b [*])
+  :where
+  (task ?b #{"TODO" "DOING"})
+  
+  [?b :block/page ?p]
+  (page-property ?p :type "Book")
+  ]
+  
+  :collapsed? false
+  :breadcrumb-show? true
+  }
+  #+END_QUERY
