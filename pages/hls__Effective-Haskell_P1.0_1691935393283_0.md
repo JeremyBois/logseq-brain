@@ -5,18 +5,6 @@ file-path:: ../assets/Effective-Haskell_P1.0_1691935393283_0.pdf
 
 - ![Viewer](../assets/Effective-Haskell_P1.0_1691935393283_0.pdf) | [PDF](../assets/Effective-Haskell_P1.0_1691935393283_0.pdf)
   ***
-- Minimal style for some queries #minimal-query
-  collapsed:: true
-  #+BEGIN_QUERY
-  {
-  :query [:find (pull ?p [*])
-  :where
-  [?b :block/page ?p]
-  (page-property ?p :type "Book")
-  ]
-  :breadcrumb-show? false
-  :result-transform (fn [r] r)}
-  }
-  #+END_QUERY
 - {{query (page-property :parent "Haskell")}}
   query-properties:: [:parent :link :page]
+- {{query (page-tags project)}}
