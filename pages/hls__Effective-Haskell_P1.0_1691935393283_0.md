@@ -5,6 +5,15 @@ file-path:: ../assets/Effective-Haskell_P1.0_1691935393283_0.pdf
 
 - ![Viewer](../assets/Effective-Haskell_P1.0_1691935393283_0.pdf) | [PDF](../assets/Effective-Haskell_P1.0_1691935393283_0.pdf)
   ***
-- {{query (page-property :parent "Haskell")}}
-  query-properties:: [:parent :link :page]
-- {{query (page-tags project)}}
+- #+BEGIN_QUERY
+{
+:title [:h2 "My books"]
+:query [:find (pull ?b [*])
+:where
+[?b :block/page ?p]
+(page-property ?p :parent "Haskell")
+]
+:collapsed? false
+:breadcrumb-show? false
+}
+#+END_QUERY
