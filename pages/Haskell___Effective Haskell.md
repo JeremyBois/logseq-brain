@@ -3,9 +3,8 @@ type:: [[Book]]
 author:: #[[Rebecca Skinner]]
 tags:: Haskell
 link:: https://pragprog.com/titles/rshaskell/effective-haskell/
+***
 
-- /tem
-- Livre encore en beta
-	- Approche du langage avec des applications
-		-
-- ![Effective-Haskell_P1.0.pdf](../assets/Effective-Haskell_P1.0_1691935393283_0.pdf)
+- ![Viewer](../assets/Effective-Haskell_P1.0_1691935393283_0.pdf) | [PDF](../assets/Effective-Haskell_P1.0_1691935393283_0.pdf)
+  ***
+- Approche du langage avec des applications
