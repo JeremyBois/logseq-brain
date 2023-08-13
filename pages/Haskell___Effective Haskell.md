@@ -13,5 +13,10 @@ link:: https://pragprog.com/titles/rshaskell/effective-haskell/
 -
 - Lambda
 	- `\salutation person -> salutation <> " " <> person`
-		- Utilise -`\` pour +21
--
+		- `\`
+		- Paramètres
+		- `->`
+		- Corps de la fonction
+	-
+	-
+	-
