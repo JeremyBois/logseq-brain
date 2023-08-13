@@ -144,31 +144,6 @@ a.tag[data-ref]{
 th {font-size: 1.1rem; font-weight: bold; text-transform: capitalize}/* Wrapping text in query table */
 td {white-space: pre-wrap !important}
 
-/* Readable queries */
-[data-refs-self*="minimal-query"] .custom-query > .flex > .content {
-    display: none;
-}
-
-[data-refs-self*="minimal-query"] .custom-query .fade-link {
-    display: none;
-}
-
-[data-refs-self*="minimal-query"] .custom-query .initial > div > .flex.flex-row .ui__toggle {
-    display: none;
-}
-
-[data-refs-self*="minimal-query"] .custom-query {
-    margin-top: 0;
-}
-
-[data-refs-self*="minimal-query"] .custom-query .initial>div>.flex.flex-row {
-    margin-top: 0;
-}
-
-a.tag[data-ref*="minimal-query"] {
-    display: none;
-}
-
 /* Add pills support */
 span.pill {
   border-radius: var(--ls-border-radius-low);
