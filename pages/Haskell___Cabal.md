@@ -18,8 +18,9 @@ link:: https://www.haskell.org/cabal/
 			- Bibliothèque implémentant un parseur pour les fichiers `.cabal` afin de les utiliser avec *cabal-install*
 - ## Cabal-install
 	- Installation avec #Haskell/ghcup
-	- ```bash
-	  ghcup install cabal
-	  ```
+		- ```bash
+		  ghcup install cabal		
+		  ```
 		- Construit un raccourci à`~/.ghcup/bin/cabal`
-	-
+	- Possible de simplifier la configuration d
+-
