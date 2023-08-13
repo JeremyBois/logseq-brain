@@ -1,9 +1,9 @@
-tags:: Haskell
+tags:: Haskell, Developpement
 link:: https://www.haskell.org/cabal/
 [[Jul 25th, 2023]]
 ***
 
-- DOING Récupérer les notes de Obsidian
+- TODO Récupérer les notes de Obsidian
 - # Définition
 	- Cabal peut correspondre à plusieurs choses
 		- *cabal-install*
@@ -22,5 +22,6 @@ link:: https://www.haskell.org/cabal/
 		  ghcup install cabal		
 		  ```
 		- Construit un raccourci à`~/.ghcup/bin/cabal`
-	- Possible de simplifier la configuration d
+	- Possible de simplifier la configuration d'un projet avec [[Haskell/Hpack]]
+	-
 -

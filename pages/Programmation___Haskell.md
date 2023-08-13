@@ -1,4 +1,4 @@
-tags:: Fonctionelle, Lazy, ghc, ghci
+tags:: Programmation, Fonctionelle
 alias:: Haskell
 link:: [Officiel](https://www.haskell.org/) 
 [[Jul 24th, 2023]]

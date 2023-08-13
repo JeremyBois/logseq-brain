@@ -3,6 +3,7 @@ link::
 [[Aug 13th, 2023]]
 ***
 
+- TODO Récupérer les notes de Obsidian
 - Centralisation de la gestion des outils pour développer dans le langage #Haskell
 	- Installation
 	- Mise à jour
