@@ -5,10 +5,15 @@ file-path:: ../assets/Effective-Haskell_P1.0_1691935393283_0.pdf
 
 - ![Viewer](../assets/Effective-Haskell_P1.0_1691935393283_0.pdf) | [PDF](../assets/Effective-Haskell_P1.0_1691935393283_0.pdf)
   ***
-- #+BEGIN_QUERY
-  {
-  :title [:b "Parent"]
-  :query 
-  }
-  #+END_QUERY
+	- #+BEGIN_QUERY
+	  {
+	  :query [:find (pull ?p [*])
+	  :where
+	  [?b :block/page ?p]
+	  (page-property ?p :parent "Project")
+	  ]
+	  #+END_QUERY
 -
+-
+- {{query (property type Book)}}
+  query-table:: true
