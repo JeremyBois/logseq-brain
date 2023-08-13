@@ -5,3 +5,8 @@ file-path:: ../assets/Effective-Haskell_P1.0_1691935393283_0.pdf
 
 - ![Viewer](../assets/Effective-Haskell_P1.0_1691935393283_0.pdf) | [PDF](../assets/Effective-Haskell_P1.0_1691935393283_0.pdf)
   ***
+- #+BEGIN_QUERY
+  [:find ?title
+   :where 
+   [_ :movie/title ?title]]
+  #+END_QUERY
