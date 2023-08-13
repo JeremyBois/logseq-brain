@@ -10,3 +10,8 @@ link:: https://pragprog.com/titles/rshaskell/effective-haskell/
   ↳ [Notes]([[hls__Effective-Haskell_P1.0_1691935393283_0]])
   ***
 - Approche du langage avec des applications
+-
+- Lambda
+	- `\salutation person -> salutation <> " " <> person`
+		- Utilise -`\` pour +21
+-
