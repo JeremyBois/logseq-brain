@@ -20,5 +20,4 @@ link::
 	- Astuces
 		- `?b` and `?p` sont des *variables patterns* particulières pour respectivement les **blocs** et les **pages**
 		- Le nom des pages est en minuscule dans la base de donnée
-		-
--
+	- [Nombreuses informations sur le fonctionnement des requêtes avancées](https://bgrolleman.gitlab.io/logseq_publish_toolsontech/#/page/logseq%2Fadvanced%20queries)
