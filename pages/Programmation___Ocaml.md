@@ -6,10 +6,6 @@ link:: https://ocaml.org/
 
 - # Resources
 	- [Real world Ocaml](https://dev.realworldocaml.org/platform.html)
-	- [[[[Logseq]] is an incredible note taking app.]]
-	-
-	-
-	-
 - # Setup
 	- Installation du langage et du gestionnaire de paquets
 		- `sudo pacman -Syu ocaml opam`
