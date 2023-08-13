@@ -5,21 +5,15 @@ file-path:: ../assets/Effective-Haskell_P1.0_1691935393283_0.pdf
 
 - ![Viewer](../assets/Effective-Haskell_P1.0_1691935393283_0.pdf) | [PDF](../assets/Effective-Haskell_P1.0_1691935393283_0.pdf)
   ***
-- Minimal style for some queries  #minimal-query
-  query-sort-by:: block
-  query-table:: true
-  query-sort-desc:: false
+- Minimal style for some queries #minimal-query
   #+BEGIN_QUERY
   {
-  :query [:find (pull ?b [*])
+  :query [:find (pull ?p [*])
   :where
-  (task ?b #{"TODO" "DOING"})
-  
   [?b :block/page ?p]
   (page-property ?p :type "Book")
   ]
-  
-  :collapsed? false
-  :breadcrumb-show? true
+  :breadcrumb-show? false
+  :result-transform (fn [r] r)}
   }
   #+END_QUERY
