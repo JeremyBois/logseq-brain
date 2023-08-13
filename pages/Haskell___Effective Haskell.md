@@ -5,6 +5,7 @@ tags:: Haskell
 link:: https://pragprog.com/titles/rshaskell/effective-haskell/
 ***
 
-- ![Viewer](../assets/Effective-Haskell_P1.0_1691935393283_0.pdf) | [PDF](../assets/Effective-Haskell_P1.0_1691935393283_0.pdf)
+- ![Viewer](../assets/Effective-Haskell_P1.0_1691935393283_0.pdf) | [PDF](../assets/Effective-Haskell_P1.0_1691935393283_0.pdf) | [[hls__Effective-Haskell_P1.0_1691935393283_0]] 
   ***
 - Approche du langage avec des applications
+-

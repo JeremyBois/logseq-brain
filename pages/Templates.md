@@ -80,6 +80,7 @@
 	  ***
 	- template:: PDF
 	  ![Viewer]() | [PDF]()
+	  ↳ [[]]
 	  ***
 	- template:: Alias
 	  alias::
