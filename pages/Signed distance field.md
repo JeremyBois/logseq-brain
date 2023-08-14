@@ -7,3 +7,6 @@ link::
 - # Ressources
 	- [SDFs de formes simples + formules pour les combiner](https://iquilezles.org/articles/distfunctions/)
 	- [Listes de ressources sur les SDFs](https://github.com/CedricGuillemet/SDF)
+- # Applications
+	- [Zed](https://zed.dev/)
+		- Éditeur de texte avec un rendu GPU
