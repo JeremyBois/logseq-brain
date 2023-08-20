@@ -12,11 +12,16 @@ link:: https://pragprog.com/titles/rshaskell/effective-haskell/
 - Approche du langage avec des applications
 -
 - Lambda
-	- `\salutation person -> salutation <> " " <> person`
+	- `\arg1 arg2 -> arg1 <> " " <> arg2`
 		- `\`
 		- Paramètres
 		- `->`
 		- Corps de la fonction
+- Opérateur d'application de fonction
+	- `$`
+	- Permet de réduire l'utilisation de parenthèses
+- Opérateur de composition de fonction
+	- ` . `
 	-
 	-
 	-
