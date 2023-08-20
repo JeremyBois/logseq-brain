@@ -6,4 +6,6 @@ link::
 - TODO Récupérer les notes de Obsidian
 - `:type`
 	- Permet de récupérer le type d'une fonction
--
+- `:info`
+	- Plus complet que `:type`
+	-

@@ -30,5 +30,5 @@ link:: https://pragprog.com/titles/rshaskell/effective-haskell/
 	  f . g = \arg -> f (g arg)
 	  ```
 	- Permet de chaîner l'application de fonctions
-		- Le sortie de la première fonction (`a->b`) est utilisée comme entré de la seconde (b->c)
+		- Le sortie de la première fonction (`a->b`) est utilisée comme entré de la seconde (`b->c`)
 -

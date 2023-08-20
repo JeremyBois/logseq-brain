@@ -7,4 +7,3 @@ link:: https://hoogle.haskell.org/
 	- Nom de fonction
 	- Signature (complète ou non)
 - Très pratique pour découvrir de nouvelles fonctions à partir des types en entrée et sortie
--
