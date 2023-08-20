@@ -19,9 +19,11 @@ link:: https://pragprog.com/titles/rshaskell/effective-haskell/
 		- Corps de la fonction
 - Opérateur d'application de fonction
 	- `$`
+	- `(a -> b) -> a -> b`
 	- Permet de réduire l'utilisation de parenthèses
 - Opérateur de composition de fonction
 	- ` . `
-	-
-	-
-	-
+	- `(b -> c) -> (a -> b) -> a -> c`
+	- Permet de chaîner l'application de fonctions
+		- Le sortie de la première fonction (`a->b`) est utilisée comme entré de la seconde (b->c)
+-
