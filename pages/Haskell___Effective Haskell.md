@@ -17,16 +17,17 @@ link:: https://pragprog.com/titles/rshaskell/effective-haskell/
 		- Paramètres
 		- `->`
 		- Corps de la fonction
+	- Permet l'écriture de fonction inline / anonyme
 - Opérateur d'application de fonction: `$`
 	- ```haskell
 	  ($) :: (a -> b) -> a -> b
-	  ($) 
+	  f $ x = f x
 	  ```
 	- Permet de réduire l'utilisation de parenthèses
 - Opérateur de composition de fonction: ` . `
 	- ```haskell
 	  (.) :: (b -> c) -> (a -> b) -> a -> c
-	  (.) f g = \arg -> f (g arg)
+	  f . g = \arg -> f (g arg)
 	  ```
 	- Permet de chaîner l'application de fonctions
 		- Le sortie de la première fonction (`a->b`) est utilisée comme entré de la seconde (b->c)

@@ -15,6 +15,7 @@ link:: [Officiel](https://www.haskell.org/)
 	- [[Haskell/hie-bios]]
 	- [[Haskell/Cabal]]
 	- [[Haskell/Stack]]
+	- [[Haskell/Hoogle]]
 	- [Aide sur les messages d'erreurs](https://errors.haskell.org/)
 - ## Ressources
 	- [Typeclasses](https://typeclasses.com/)
