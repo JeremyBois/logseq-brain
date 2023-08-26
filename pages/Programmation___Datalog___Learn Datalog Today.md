@@ -1,7 +1,7 @@
 type:: Book
 auteur:: #[[Jonas Enlund]]
 tags:: #Query #Datalog #BDD
-alias:: Datalog/Learn Datalog Today 
+alias:: Learn Datalog Today 
 link:: https://www.learndatalogtoday.org/
 [[Mar 4th, 2023]]
 
