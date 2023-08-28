@@ -20,4 +20,6 @@ link:: https://github.com/ratfactor/ziglings
 		      std.debug.print("Hello world!\n", .{});
 		  }
 		  ```
-	-
+- `const` permet d'indiquer qu'une expression est évaluée à la compilation
+	- `const std = @import("std");`
+-
