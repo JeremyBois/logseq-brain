@@ -12,22 +12,25 @@ link:: [PCB](https://github.com/JeremyBois/Ptechinos) [Layout](https://github.co
 		- `e`  et `espace` sortent en double assez souvent
 		- Observé sur Windows avec la version **0.6**
 	- TODO Implémenter le code pour le support des périphérique de pointage
-	- TODO Adoucir le son du Clavier
+	- TODO Adoucir le son du Clavier #Foam
 	  id:: 64da80fd-a516-476c-b4a9-8cb1c58996eb
 		- Applications
 			- [Au niveau des switches](https://switchandclick.com/pe-foam-mod/)
+				- Réduction de la transmission des vibrations
+				- Feuilles <= 1mm
 			- Sous le PCB
 				- Réduction de l'effet caisson de résonance
 				- Liège ~2mm
-		- Options
-			- Feuilles en polyéthylène (PE)
+		- Matériaux
+			- Polyéthylène (PE)
 				- Réflection du son
 					- Donne un effet unique au son
 					- Évite la propagation vers le bas du boitier
 				- **Peut entraîner des #ESD**
-			- Feuilles en éthylène-acétate de vinyle (EVA)
-			- Feuilles en polyuréthane (Poron)
+			- Éthylène-acétate de vinyle (EVA)
+			- Uréthane (Poron)
 				- Attenuation plus importante que le PE
+			- Caoutchouc de silicone
 			- Cuir
 				- Naturel
 				- **Odorant**
