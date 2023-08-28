@@ -35,6 +35,11 @@ link:: https://github.com/ratfactor/ziglings
 	- Type déduit par le compilateur
 		- `var foo = [_]u32{ 42, 108, 5423 };`
 	- Addition de tableaux --> `++` #comptime
+		- `const c = a ++ b ++ [_]u8{ 5 };`
 	- Multiplication de tableaux --> `**` #comptime
 		- `const d = [_]u8{ 1,2,3 } ** 2; // equals 1 2 3 1 2 3`
+- Boucles
+	- `for (<item array>) |item| { <do something with item> }`
+	- `for (leet) |n| {std.debug.print("{}", .{n});}`
+	-
 	-
