@@ -22,4 +22,7 @@ link:: https://github.com/ratfactor/ziglings
 		  ```
 - `const` permet d'indiquer qu'une expression est évaluée à la compilation
 	- `const std = @import("std");`
+	- `const foo: u8 = 20;`
+- `var` permet d'indiquer qu'une expression est une variable mutable
+	- `var bar: u8 = 20;`
 -
