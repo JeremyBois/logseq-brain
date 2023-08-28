@@ -25,4 +25,7 @@ link:: https://github.com/ratfactor/ziglings
 	- `const foo: u8 = 20;`
 - `var` permet d'indiquer qu'une expression est une variable mutable
 	- `var bar: u8 = 20;`
+- Le type est déclaré en utilisant `:`
+	- `var n: u8 = 50;`
+	- `const pi: u32 = 314159;`
 -
