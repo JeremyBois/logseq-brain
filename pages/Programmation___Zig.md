@@ -5,7 +5,7 @@ link:: [Official](https://ziglang.org/) [Github](https://github.com/ziglang/zig)
 ***
 
 - ↳ [[Programmation]] 
-  {{namespace }}
+  {{namespace Zig}}
   ***
 - ![Zig logo](https://miro.medium.com/fit/c/224/224/1*b3og8n0fDkAnHUx-0lDMHg.png)
 - **Le successeur du [[Programming/C]]** combinant vitesse et simplicité**

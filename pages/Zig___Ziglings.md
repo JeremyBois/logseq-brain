@@ -4,9 +4,6 @@ link:: https://github.com/ratfactor/ziglings
 [[Aug 28th, 2023]]
 ***
 
-- ↳ [[Programming/Zig]] 
-  {{namespace Programming/Zig/Ziglings}}
-  ***
 - Fonctions
 	- Privée --> Défaut
 		- ```zig
