@@ -52,5 +52,6 @@ link:: https://github.com/ratfactor/ziglings
 		      \\And the Spiders from Mars
 		  ;
 		  ```
--
+- `if` / `else`
+	- Utilise uniquement des booléens
 	-
