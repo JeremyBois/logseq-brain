@@ -38,5 +38,14 @@ link:: https://github.com/ratfactor/ziglings
 - Boucles
 	- `for (<item array>) |item| { <do something with item> }`
 	- `for (leet) |n| {std.debug.print("{}", .{n});}`
-	-
+- Strings
+	- Possible de construire des string multi lignes avec `\\`
+		- ```zig
+		  const lyrics =
+		      \\Ziggy played guitar
+		      \\Jamming good with Andrew Kelley	
+		      \\And the Spiders from Mars
+		  ;
+		  ```
+-
 	-
