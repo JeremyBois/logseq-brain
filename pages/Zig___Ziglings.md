@@ -37,7 +37,7 @@ link:: https://github.com/ratfactor/ziglings
 		- `const d = [_]u8{ 1,2,3 } ** 2; // equals 1 2 3 1 2 3`
 	- `usize` est le type idiomatique pour les indices
 		- `const x: usize = 1;`
-		- Sa taille dépend de l'architecture cible au moment de la compilation
+		- Sa taille dépend de l'architecture [[Électronique/CPU]]
 	- `undefined` permet l'initialisation sans ajouter de valeurs
 		- `var lang: [3]u8 = undefined;`
 - Boucles
