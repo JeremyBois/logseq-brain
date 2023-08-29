@@ -35,6 +35,11 @@ link:: https://github.com/ratfactor/ziglings
 		- `const c = a ++ b ++ [_]u8{ 5 };`
 	- Multiplication de tableaux --> `**` #comptime
 		- `const d = [_]u8{ 1,2,3 } ** 2; // equals 1 2 3 1 2 3`
+	- `usize` est le type idiomatique pour les indices
+		- `const x: usize = 1;`
+		- Sa taille dépend de l'architecture cible au moment de la compilation
+	- `undefined` permet l'initialisation sans ajouter de valeurs
+		- `var lang: [3]u8 = undefined;`
 - Boucles
 	- `for (<item array>) |item| { <do something with item> }`
 	- `for (leet) |n| {std.debug.print("{}", .{n});}`
