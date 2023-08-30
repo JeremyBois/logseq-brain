@@ -5,3 +5,7 @@ link:: [Youtube](https://www.youtube.com/@PatrickHoodDaniel)
 ***
 
 - Auteur
+	- type:: [[Book]]
+	  author:: Patrick Hood Daniel
+	  tags:: Embedded
+	  link::
