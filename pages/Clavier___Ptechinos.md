@@ -22,14 +22,15 @@ link:: [PCB](https://github.com/JeremyBois/Ptechinos) [Layout](https://github.co
 				- Réduction de l'effet caisson de résonance
 				- Liège ~2mm
 		- Matériaux
-			- Polyéthylène (PE)
+			- 👍️ Uréthane (Poron)
+				- Attenuation plus importante que le PE
+			- 👍️ Éthylène-acétate de vinyle (EVA)
+				- Atténuation très importante
+			- ⛔️ Polyéthylène (PE)
 				- Réflection du son
 					- Donne un effet unique au son
 					- Évite la propagation vers le bas du boitier
 				- **Peut entraîner des #ESD**
-			- Éthylène-acétate de vinyle (EVA)
-			- Uréthane (Poron)
-				- Attenuation plus importante que le PE
 			- Caoutchouc de silicone
 			- Cuir
 				- Naturel
