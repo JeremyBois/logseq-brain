@@ -30,7 +30,7 @@ link:: [PCB](https://github.com/JeremyBois/Ptechinos) [Layout](https://github.co
 				- Réflection du son
 					- Donne un effet unique au son
 					- Évite la propagation vers le bas du boitier
-				- **Peut entraîner des #ESD**
+				- **Peut entraîner des #ESD** si il n'est pas spécialement développé pour avoir des propriétés anti-statiques
 			- Caoutchouc de silicone
 			- Cuir
 				- Naturel
