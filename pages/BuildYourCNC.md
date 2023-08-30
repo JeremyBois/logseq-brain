@@ -5,5 +5,3 @@ link:: [Youtube](https://www.youtube.com/@PatrickHoodDaniel)
 ***
 
 - Auteur
-	- [ARM Microcontrollers: Programming and Circuit Building Volume 1](https://www.amazon.com/ARM-Microcontrollers-Programming-Circuit-Building/dp/B09PHBT859)
-		- Livre sur le développement embarqué pour les puces ARM
