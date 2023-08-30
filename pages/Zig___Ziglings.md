@@ -53,5 +53,14 @@ link:: https://github.com/ratfactor/ziglings
 		  ;
 		  ```
 - `if` / `else`
-	- Utilise uniquement des booléens
+	- Utilise uniquement des booléens pour les tests
+		- Pas de types ni de coercions
+		- ```zig
+		  if (foo) {
+		          // We want our program to print this message!
+		          std.debug.print("Foo is 1!\n", .{});
+		      } else {
+		          std.debug.print("Foo is not 1!\n", .{});
+		      }
+		  ```
 	-
