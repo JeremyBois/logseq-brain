@@ -17,21 +17,22 @@ link:: [PCB](https://github.com/JeremyBois/Ptechinos) [Layout](https://github.co
 		- Applications
 			- [Au niveau des switches](https://switchandclick.com/pe-foam-mod/)
 				- Réduction de la transmission des vibrations
-				- Feuilles <= 1mm
+				- Feuilles <= 1mm (0.5mm de préférence)
+				- Existe en
 			- Sous le PCB
 				- Réduction de l'effet caisson de résonance
 				- Liège ~2mm
 		- Matériaux
-			- 👍️ Éthylène-acétate de vinyle (EVA)
+			- Éthylène-acétate de vinyle (EVA)
 				- Très bonne atténuation
-			- 👍️ Uréthane (Poron)
+			- Uréthane (Poron)
 				- Bonne atténuation
-			- ⛔️ Polyéthylène (PE)
+			- Polyéthylène (PE)
 				- Réflection du son
 					- Donne un effet unique au son
 					- Évite la propagation vers le bas du boitier
 				- **Peut entraîner des #ESD** si il n'est pas spécialement développé pour avoir des propriétés anti-statiques
-			- Caoutchouc de silicone
+			-
 			- Cuir
 				- Naturel
 				- **Odorant**
