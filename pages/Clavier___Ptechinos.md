@@ -18,7 +18,8 @@ link:: [PCB](https://github.com/JeremyBois/Ptechinos) [Layout](https://github.co
 			- [Au niveau des switches](https://switchandclick.com/pe-foam-mod/)
 				- Réduction de la transmission des vibrations
 				- Feuilles <= 1mm (0.5mm de préférence)
-				- Existe en
+				- Existe en sticker
+					- [Amazon](https://www.amazon.com/s?k=0.5mm+Foam+Switch+Pads&ref=nb_sb_noss)
 			- Sous le PCB
 				- Réduction de l'effet caisson de résonance
 				- Liège ~2mm
