@@ -8,5 +8,5 @@ link:: [Youtube](https://www.youtube.com/@PatrickHoodDaniel)
 	- ARM Microcontrollers: Programming and Circuit Building Volume 1 
 	  type:: [[Book]]
 	  author:: Patrick Hood Daniel
-	  tags:: Embedded
+	  tags:: Embedded, Formation
 	  link:: [Amazon](https://www.amazon.com/ARM-Microcontrollers-Programming-Circuit-Building/dp/B09PHBT859)
