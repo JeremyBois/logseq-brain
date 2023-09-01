@@ -18,11 +18,12 @@ link:: [PCB](https://github.com/JeremyBois/Ptechinos) [Layout](https://github.co
 			- [Au niveau des switches](https://switchandclick.com/pe-foam-mod/)
 				- Réduction de la transmission des vibrations
 				- Feuilles <= 1mm (0.5mm de préférence)
-				- Existe en sticker
-					- [Amazon](https://www.amazon.com/s?k=0.5mm+Foam+Switch+Pads&ref=nb_sb_noss)
+				- Stickers
+					- [Switch pads 0.5mm | EVA / Poron / PE](https://www.amazon.fr/Autocollant-M%C3%A9canique-dAmortisseur-Acoustique-Stabilizer/dp/B0BB68PRL2/ref=sw_ttl_d_huc_day0_sim_3?_encoding=UTF8&pd_rd_i=B0BB68PRL2&pd_rd_w=DEOHl&content-id=amzn1.sym.5d2172db-e627-4e72-8464-515f52bc26d7&pf_rd_p=5d2172db-e627-4e72-8464-515f52bc26d7&pf_rd_r=FFYKRRXXB42T62BA2TZZ&pd_rd_wg=RGZIe&pd_rd_r=7156735a-fa76-4677-bf07-52adfce43207&th=1)
 			- Sous le PCB
 				- Réduction de l'effet caisson de résonance
-				- Liège ~2mm
+				- Liège ou mousse <=2mm
+					- [EVA 1 ou 2mm](https://www.amazon.fr/MEARCOOH-Cosplay-Densit%C3%A9-Costume-Projects/dp/B0BXJHVH5M/ref=sw_ttl_d_rtpb_7?_encoding=UTF8&pd_rd_i=B09GJQMFS4&pd_rd_w=7gR6o&content-id=amzn1.sym.4462af5d-a90c-4c85-96a4-8f862865347f&pf_rd_p=4462af5d-a90c-4c85-96a4-8f862865347f&pf_rd_r=C74J69HNN48K6YMBT5SY&pd_rd_wg=j1kGC&pd_rd_r=887dcdc1-690b-4f0a-a31d-d809e460f988&th=1)
 		- Matériaux
 			- Éthylène-acétate de vinyle (EVA)
 				- Très bonne atténuation
