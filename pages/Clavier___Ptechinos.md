@@ -26,7 +26,7 @@ link:: [PCB](https://github.com/JeremyBois/Ptechinos) [Layout](https://github.co
 		- Matériaux
 			- Éthylène-acétate de vinyle (EVA)
 				- Très bonne atténuation
-			- Uréthane (Poron)
+			- Uréthane (Poron)s
 				- Bonne atténuation
 			- Polyéthylène (PE)
 				- Réflection du son
