@@ -23,7 +23,7 @@ link:: [PCB](https://github.com/JeremyBois/Ptechinos) [Layout](https://github.co
 			- Sous le PCB
 				- Réduction de l'effet caisson de résonance
 				- Liège ou mousse <=2mm
-					- [EVA 1 ou 2mm](https://www.amazon.fr/MEARCOOH-Cosplay-Densit%C3%A9-Costume-Projects/dp/B0BXJHVH5M/ref=sw_ttl_d_rtpb_7?_encoding=UTF8&pd_rd_i=B09GJQMFS4&pd_rd_w=7gR6o&content-id=amzn1.sym.4462af5d-a90c-4c85-96a4-8f862865347f&pf_rd_p=4462af5d-a90c-4c85-96a4-8f862865347f&pf_rd_r=C74J69HNN48K6YMBT5SY&pd_rd_wg=j1kGC&pd_rd_r=887dcdc1-690b-4f0a-a31d-d809e460f988&th=1)
+					- [EVA 1 ou 2mm](https://www.amazon.fr/dp/B09T95JBF5/ref=pe_27091421_487052621_TE_item?th=1)
 		- Matériaux
 			- Éthylène-acétate de vinyle (EVA)
 				- Très bonne atténuation
