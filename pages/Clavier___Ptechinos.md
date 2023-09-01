@@ -19,7 +19,7 @@ link:: [PCB](https://github.com/JeremyBois/Ptechinos) [Layout](https://github.co
 				- Réduction de la transmission des vibrations
 				- Feuilles <= 1mm (0.5mm de préférence)
 				- Stickers
-					- [Switch pads 0.5mm | EVA / Poron / PE](https://www.amazon.fr/Autocollant-M%C3%A9canique-dAmortisseur-Acoustique-Stabilizer/dp/B0BB68PRL2/ref=sw_ttl_d_huc_day0_sim_3?_encoding=UTF8&pd_rd_i=B0BB68PRL2&pd_rd_w=DEOHl&content-id=amzn1.sym.5d2172db-e627-4e72-8464-515f52bc26d7&pf_rd_p=5d2172db-e627-4e72-8464-515f52bc26d7&pf_rd_r=FFYKRRXXB42T62BA2TZZ&pd_rd_wg=RGZIe&pd_rd_r=7156735a-fa76-4677-bf07-52adfce43207&th=1)
+					- [Switch pads 0.5mm | EVA / Poron / PE](https://www.amazon.fr/gp/product/B09SZ52G7S/ref=ppx_od_dt_b_asin_title_s00?ie=UTF8&th=1)
 			- Sous le PCB
 				- Réduction de l'effet caisson de résonance
 				- Liège ou mousse <=2mm
