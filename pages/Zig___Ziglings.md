@@ -43,7 +43,9 @@ link:: https://github.com/ratfactor/ziglings
 - Boucles
 	- `for (<item array>) |item| { <do something with item> }`
 	- `for (leet) |n| {std.debug.print("{}", .{n});}`
-	- `while (n <= 20) : (n += 1) {}`
+	- Boucle `while` avec expression de continuation
+		- `while (expression) : (continuation) { corps de la fonction}`
+		- `while (n <= 20) : (n += 1) {}`
 - Strings
 	- Possible de construire des string multi lignes avec `\\`
 		- ```zig
