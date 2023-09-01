@@ -1,5 +1,5 @@
 tags:: Zig, Formation
-alias:: Ziglings
+alias:: Ziglings, Programmation/Zig/Ziglings
 link:: https://github.com/ratfactor/ziglings
 [[Aug 28th, 2023]]
 ***
@@ -43,6 +43,7 @@ link:: https://github.com/ratfactor/ziglings
 - Boucles
 	- `for (<item array>) |item| { <do something with item> }`
 	- `for (leet) |n| {std.debug.print("{}", .{n});}`
+	- `while (n <= 20) : (n += 1) {}`
 - Strings
 	- Possible de construire des string multi lignes avec `\\`
 		- ```zig
