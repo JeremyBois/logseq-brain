@@ -11,7 +11,7 @@ link:: [PCB](https://github.com/JeremyBois/Ptechinos) [Layout](https://github.co
 	- TODO Soucis lors l'envoi de certaines touches
 		- `e`  et `espace` sortent en double assez souvent
 		- Observé sur Windows avec la version **0.6**
-	- TODO Implémenter le code pour le support des périphérique de pointage
+	- DONE Implémenter le code pour le support des périphérique de pointage
 	- TODO Adoucir le son du Clavier #Foam
 	  id:: 64da80fd-a516-476c-b4a9-8cb1c58996eb
 		- Applications
@@ -26,14 +26,17 @@ link:: [PCB](https://github.com/JeremyBois/Ptechinos) [Layout](https://github.co
 		- Matériaux
 			- Éthylène-acétate de vinyle (EVA)
 				- Très bonne atténuation
-			- Uréthane (Poron)s
+				- anti statique
+			- Uréthane (Poron)
 				- Bonne atténuation
+				- anti statique
 			- Polyéthylène (PE)
 				- Réflection du son
 					- Donne un effet unique au son
 					- Évite la propagation vers le bas du boitier
 				- **Peut entraîner des #ESD** si il n'est pas spécialement développé pour avoir des propriétés anti-statiques
-			-
+			- Tissu de liège
+				- Actuellement du 0.5mm de disponible
 			- Cuir
 				- Naturel
 				- **Odorant**
