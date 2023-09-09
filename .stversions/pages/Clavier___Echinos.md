@@ -48,7 +48,12 @@ link:: [Github](https://github.com/JeremyBois/Echinos)
 		  |  Largeur | 0.254 | 0.3 | 0.254  |
 		  | Raison     |  MCU   | USB | MCU    |
 		-
-	-
+- # Notes
+	- Couleurs
+		- Theme Zelda a link to the past
+			- Base --> vert forêt
+			- Finition PCB --> Or / Doré (ENIG)
+			- Top plate --> Or / Dorée
 - # Développement
 	- Combiner 3D et électronique pour obtenir un boitier adapté et limiter la complexité liée au processus itératif
 	- Support de nombreuses ((643164d9-b6fd-4277-8738-969734d6c1a0))

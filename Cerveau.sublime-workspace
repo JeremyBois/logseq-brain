@@ -1,0 +1,2030 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"LG",
+				"LGUI_T"
+			],
+			[
+				"IS_LAYER",
+				"IS_LAYER_OFF"
+			],
+			[
+				"POIN",
+				"POINTING_DEVICE_ENABLE"
+			],
+			[
+				"KC_Lef",
+				"KC_LEFT_SHIFT"
+			],
+			[
+				"PTEH",
+				"PTECHINOS_RIGHT"
+			],
+			[
+				"def",
+				"define"
+			],
+			[
+				"LAlt",
+				"LALT_T"
+			],
+			[
+				"side",
+				"pointer_side_t"
+			],
+			[
+				"unfo",
+				"unfoldr"
+			],
+			[
+				"Inl",
+				"InLine"
+			],
+			[
+				"InL",
+				"InLine"
+			],
+			[
+				"putst",
+				"putStrLn"
+			],
+			[
+				"puts",
+				"putStr"
+			],
+			[
+				"mapM",
+				"mapM_"
+			],
+			[
+				"w",
+				"\"working_dir\""
+			],
+			[
+				"traver",
+				"traverse_"
+			],
+			[
+				"Vec2",
+				"Vec2D"
+			],
+			[
+				"fs",
+				"fst"
+			],
+			[
+				"do",
+				"do"
+			],
+			[
+				"for",
+				"for_"
+			],
+			[
+				"case",
+				"case"
+			],
+			[
+				"mep",
+				"mempty"
+			],
+			[
+				"fromIn",
+				"fromIntegral"
+			],
+			[
+				"fromInteg",
+				"fromIntegral"
+			],
+			[
+				"strin",
+				"string_of_float"
+			],
+			[
+				"prit",
+				"print_string"
+			],
+			[
+				"pri",
+				"print_endline"
+			],
+			[
+				"modu",
+				"module"
+			],
+			[
+				"trans",
+				"translate"
+			],
+			[
+				"min",
+				"minkowski()"
+			],
+			[
+				"draw",
+				"draw_pins"
+			],
+			[
+				"cent",
+				"centerXY"
+			],
+			[
+				"cn",
+				"centerXY"
+			],
+			[
+				"cen",
+				"centerY"
+			],
+			[
+				"is_",
+				"is_undef(x)"
+			],
+			[
+				"bod",
+				"bodyColor"
+			],
+			[
+				"body",
+				"bodyColor"
+			],
+			[
+				"cube",
+				"cube_XY(size, centerZ=false)"
+			],
+			[
+				"conn",
+				"connShift"
+			],
+			[
+				"mpi",
+				"mPinShiftDepth"
+			],
+			[
+				"mPin",
+				"mPinHeight"
+			],
+			[
+				"cyl",
+				"cylinder(r)"
+			],
+			[
+				"PG",
+				"PG1350_model(draw_pins=false, bodyColor=\"WhiteSmoke\", stemColor=\"FireBrick\")"
+			],
+			[
+				"is",
+				"is_undef(x)"
+			],
+			[
+				"tr",
+				"true"
+			],
+			[
+				"lis",
+				"is_list(x)"
+			],
+			[
+				"center",
+				"centerZ"
+			],
+			[
+				"ch",
+				"chamfer_corners"
+			],
+			[
+				"cham",
+				"chamfer(r, convex=true, concave=true)"
+			],
+			[
+				"tra",
+				"transformations"
+			],
+			[
+				"True",
+				"true"
+			],
+			[
+				"de",
+				"@details"
+			],
+			[
+				"tran",
+				"translate(v)"
+			],
+			[
+				"round",
+				"rounding"
+			],
+			[
+				"con",
+				"convexity"
+			],
+			[
+				"comm",
+				"<../comm>"
+			],
+			[
+				"pcb",
+				"pcb_points"
+			],
+			[
+				"sw",
+				"switch_3D()"
+			],
+			[
+				"swit",
+				"switch_choc_cutout(plateThickness, plateHeight)"
+			],
+			[
+				"enc",
+				"encoder_EVQWGD001_cutout(plateHeight)"
+			],
+			[
+				"switch_f",
+				"switch_choc_footprint()"
+			],
+			[
+				"boto",
+				"bottomHeight"
+			],
+			[
+				"dr",
+				"draw_pins"
+			],
+			[
+				"vpin",
+				"vPinHole"
+			],
+			[
+				"extrude",
+				"linear_extrude(height, center=false, convexity=10, twist=0, slices=20, scale=1.0)"
+			],
+			[
+				"base",
+				"baseColor"
+			],
+			[
+				"rotat",
+				"rotation"
+			],
+			[
+				"rot",
+				"rotate(angles)"
+			],
+			[
+				"sq",
+				"square(size)"
+			],
+			[
+				"cub",
+				"cube_centered_XY(size)"
+			],
+			[
+				"ee",
+				"ellipse(width, height)"
+			],
+			[
+				"mod",
+				"mod(x, y)"
+			],
+			[
+				"Key",
+				"KEYCAP_SIZE"
+			],
+			[
+				"radi",
+				"radiusEnd"
+			],
+			[
+				"radius",
+				"radiusStart"
+			],
+			[
+				"C_",
+				"C_X"
+			],
+			[
+				"BOS",
+				"<BOS>"
+			],
+			[
+				"mink",
+				"minkowski()"
+			],
+			[
+				"if",
+				"ifdef"
+			],
+			[
+				"RC",
+				"RCTL_T"
+			],
+			[
+				"unique",
+				"unique_ptr"
+			],
+			[
+				"KC_S",
+				"KC_SLSH"
+			],
+			[
+				"KC_QU",
+				"KC_QUOT"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"cod",
+				"code-block"
+			],
+			[
+				"C_U",
+				"C_U_GRV"
+			],
+			[
+				"C_E",
+				"C_E_GRV"
+			],
+			[
+				"KC_B",
+				"KC_BTN4"
+			],
+			[
+				"j",
+				"JJJJJ"
+			],
+			[
+				"LA",
+				"LALT_T"
+			],
+			[
+				"KC_EN",
+				"KC_ENT"
+			],
+			[
+				"Nu",
+				"ALT_NUM"
+			],
+			[
+				"bonj",
+				"Bonjour"
+			],
+			[
+				"31313133",
+				"34132dfdfd3131313123"
+			],
+			[
+				"layer",
+				"layerTap"
+			],
+			[
+				"laye",
+				"layerTap"
+			],
+			[
+				"mm",
+				"mm_up_unused"
+			],
+			[
+				"ES",
+				"ESC_DEF"
+			],
+			[
+				"NAV",
+				"_NAV"
+			],
+			[
+				"os",
+				"os_up_unqueued"
+			],
+			[
+				"_",
+				"_NAV"
+			],
+			[
+				"_N",
+				"_NUM"
+			],
+			[
+				"nav",
+				"navigation_was_on"
+			],
+			[
+				"E_",
+				"E_DIAERESIS"
+			],
+			[
+				"cons",
+				"constexpr"
+			],
+			[
+				"KC_BS",
+				"KC_BSPC"
+			],
+			[
+				"architecture-",
+				"architecture-observer"
+			],
+			[
+				"architec",
+				"architecture-event-queue"
+			],
+			[
+				"List",
+				"ListenersType"
+			],
+			[
+				"os_",
+				"os_symbol_layer_state"
+			],
+			[
+				"KC_LC",
+				"KC_LCTL"
+			],
+			[
+				"cm",
+				"cmp1"
+			],
+			[
+				"as",
+				"ascent"
+			],
+			[
+				"desc",
+				"descending"
+			],
+			[
+				"KC_RP",
+				"KC_LPRN"
+			],
+			[
+				"KC_",
+				"KC_LCTRL"
+			],
+			[
+				"KC_LCT",
+				"KC_LCTL"
+			],
+			[
+				"MOD",
+				"MOD_LALT"
+			],
+			[
+				"TD_SIN",
+				"TD_DOUBLE_SINGLE_TAP"
+			],
+			[
+				"GRAV",
+				"GRAV_E"
+			],
+			[
+				"CIRC",
+				"CIRCUMFLEX_E"
+			],
+			[
+				"Page",
+				"PageDown"
+			],
+			[
+				"Motil",
+				"Motility"
+			],
+			[
+				"page",
+				"PageUp"
+			],
+			[
+				"motit",
+				"m_motilities"
+			],
+			[
+				"b",
+				"getLocalBounds"
+			],
+			[
+				"s",
+				"sprite"
+			],
+			[
+				"m_g",
+				"m_graphicsData"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Zig Language/Build Systems/Zig.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Zig Language/Build Systems/Zig.sublime-build",
+					""
+				],
+				[
+					"Packages/Zig Language/Build Systems/Zig.sublime-build",
+					"Run File"
+				],
+				[
+					"Packages/Zig Language/Build Systems/Zig.sublime-build",
+					"Run Project"
+				],
+				[
+					"Packages/Zig Language/Build Systems/Zig.sublime-build",
+					"Test File"
+				],
+				[
+					"Packages/Zig Language/Build Systems/Zig.sublime-build",
+					"Test Project"
+				],
+				[
+					"Packages/Zig Language/Build Systems/Zig.sublime-build",
+					"Format File"
+				],
+				[
+					"Packages/Zig Language/Build Systems/Zig.sublime-build",
+					"Format Project"
+				],
+				[
+					"Packages/Zig Language/Build Systems/Zig.sublime-build",
+					"Build Project"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Zig Language/Build Systems/Zig.sublime-build",
+				"Test File"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"locat",
+				"File: Locate"
+			],
+			[
+				"reve",
+				"File: Reveal"
+			],
+			[
+				"add",
+				"Project: Add Folder"
+			],
+			[
+				"lsp re",
+				"LSP: Rename"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"zig",
+				"Build With: Zig"
+			],
+			[
+				"lsp ",
+				"LSP: Disable Language Server Globally"
+			],
+			[
+				"lspls",
+				"LSP: Enable Language Server Globally"
+			],
+			[
+				"project",
+				"Project: Save As"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"jump",
+				"Jump to Matching Bracket"
+			],
+			[
+				"git",
+				"Gitmoji: Insert emoji"
+			],
+			[
+				"move rig",
+				"Origami: Move File to Pane on the Right"
+			],
+			[
+				"move to ",
+				"Origami: Move File to Pane on the Right"
+			],
+			[
+				"file name",
+				"File: Copy Name"
+			],
+			[
+				"split",
+				"File: Split View"
+			],
+			[
+				"wra",
+				"Word Wrap: Toggle"
+			],
+			[
+				"wr",
+				"Word Wrap: Toggle"
+			],
+			[
+				"res",
+				"LSP: Restart Server"
+			],
+			[
+				"resta",
+				"LSP: Restart Server"
+			],
+			[
+				"ls lo",
+				"LSP: Toggle Log Panel"
+			],
+			[
+				"lsp set",
+				"Preferences: LSP Settings"
+			],
+			[
+				"ad",
+				"Project: Add Folder"
+			],
+			[
+				"sideb",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"lspen",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"disab",
+				"LSP: Disable Language Server in Project"
+			],
+			[
+				"lsp dis",
+				"LSP: Disable Language Server in Project"
+			],
+			[
+				"lsp ena",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"lsp d",
+				"LSP: Disable Language Server Globally"
+			],
+			[
+				"lsp en",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"lspset",
+				"Preferences: LSP Settings"
+			],
+			[
+				"lspsett",
+				"Preferences: LSP Settings"
+			],
+			[
+				"l",
+				"LSP: Toggle Log Panel"
+			],
+			[
+				"ls",
+				"LSP: Toggle Log Panel"
+			],
+			[
+				"ren",
+				"Rename File"
+			],
+			[
+				"lsp",
+				"LSP: Toggle Log Panel"
+			],
+			[
+				"lsp se",
+				"Preferences: LSP Settings"
+			],
+			[
+				"lspse",
+				"Preferences: LSP Settings"
+			],
+			[
+				"lsplo",
+				"LSP: Toggle Log Panel"
+			],
+			[
+				"lsp sett",
+				"Preferences: LSP Settings"
+			],
+			[
+				"open",
+				"File: Open In Browser - Testing Server"
+			],
+			[
+				"packa",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"rena",
+				"Rename File"
+			],
+			[
+				"lspe",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"lsp too",
+				"LSP: Toggle Log Panel"
+			],
+			[
+				"for",
+				"LSP: Format File"
+			],
+			[
+				"fora",
+				"LSP: Format File"
+			],
+			[
+				"lsp log",
+				"LSP: Toggle Log Panel"
+			],
+			[
+				"lsps",
+				"Preferences: LSP Settings"
+			],
+			[
+				"lssett",
+				"Preferences: LSP Settings"
+			],
+			[
+				"lsto",
+				"LSP: Toggle Log Panel"
+			],
+			[
+				"lsse",
+				"Preferences: LSP Settings"
+			],
+			[
+				"lsset",
+				"Preferences: LSP Settings"
+			],
+			[
+				"enal",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"disa",
+				"LSP: Disable Language Server in Project"
+			],
+			[
+				"lsres",
+				"LSP: Restart Server"
+			],
+			[
+				"rest",
+				"LSP: Restart Server"
+			],
+			[
+				"lspc",
+				"LSP: Toggle Diagnostics Panel"
+			],
+			[
+				"emo",
+				"Gitmoji: Insert emoji"
+			],
+			[
+				"em",
+				"Gitmoji: Insert emoji"
+			],
+			[
+				"prev",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"gi",
+				"Gitmoji: Insert emoji"
+			],
+			[
+				"lspre",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"r",
+				"Rename File"
+			],
+			[
+				"ena",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"doxygen comment",
+				"DoxyDoxygen: Update Comment With User-Selected Style (interactive)..."
+			],
+			[
+				"doxygen ",
+				"DoxyDoxygen: Update Comment With Preferred Style"
+			],
+			[
+				"doxyuser",
+				"DoxyDoxygen: Comment Update Preserving Style"
+			],
+			[
+				"doxy",
+				"DoxyDoxygen: Update Comment With User-Selected Style (interactive)..."
+			],
+			[
+				"comment st",
+				"DoxyDoxygen: Select Comments (interactive)..."
+			],
+			[
+				"syntx scad",
+				"Set Syntax: OpenScad"
+			],
+			[
+				"packag",
+				"Package Control: Install Package"
+			],
+			[
+				"build",
+				"Build With: Openscad"
+			],
+			[
+				"clacul",
+				"Calculate"
+			],
+			[
+				"move",
+				"File: Move"
+			],
+			[
+				"packl",
+				"Package Control: List Packages"
+			],
+			[
+				"opensc",
+				"Build With: Openscad - STL"
+			],
+			[
+				"rene",
+				"Rename File"
+			],
+			[
+				"projec",
+				"Project: Save As"
+			],
+			[
+				"form",
+				"LSP: Format File"
+			],
+			[
+				"format",
+				"LSP: Format File"
+			],
+			[
+				"lspsee",
+				"LSP: Expand Selection"
+			],
+			[
+				"lspsettin",
+				"Preferences: LSP Settings"
+			],
+			[
+				"lsp settin",
+				"Preferences: LSP Settings"
+			],
+			[
+				"lsp disa",
+				"LSP: Disable Language Server Globally"
+			],
+			[
+				"lspl",
+				"LSP: Toggle Log Panel"
+			],
+			[
+				"log",
+				"LSP: Toggle Log Panel"
+			],
+			[
+				"lspcon",
+				"LSP: Toggle Diagnostics Panel"
+			],
+			[
+				"lspjs",
+				"Preferences: LSP-json Settings"
+			],
+			[
+				"restart",
+				"LSP: Restart Server"
+			],
+			[
+				"preview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"For",
+				"LSP: Format File"
+			],
+			[
+				"forma",
+				"LSP: Format File"
+			],
+			[
+				"g",
+				"Gitmoji: Insert emoji"
+			],
+			[
+				"reveal",
+				"File: Reveal"
+			],
+			[
+				"sideba",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"renam",
+				"Rename File"
+			],
+			[
+				"pre",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"previ",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"pre view",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"re",
+				"Rename File"
+			],
+			[
+				"them",
+				"ToggleTheme: Toggle"
+			],
+			[
+				"GIT",
+				"Gitmoji: Insert emoji"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"foram",
+				"LSP: Format File"
+			],
+			[
+				"rnea",
+				"Rename File"
+			],
+			[
+				"bash",
+				"Set Syntax: Bash"
+			],
+			[
+				"rne",
+				"Rename File"
+			],
+			[
+				"gitmo",
+				"Gitmoji: Insert emoji"
+			],
+			[
+				"upper",
+				"Convert Case: Upper Case"
+			],
+			[
+				"lsp e",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"lsp st",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"add ",
+				"Project: Add Folder"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"des",
+				"Origami: Destroy Current Pane"
+			],
+			[
+				"orig",
+				"Origami: Zoom Current Pane"
+			],
+			[
+				"settings",
+				"Preferences: LSP Settings"
+			],
+			[
+				"ofr",
+				"SublimeREPL: SBT for opened folder"
+			],
+			[
+				"fo",
+				"LSP: Format File"
+			],
+			[
+				"lspoj",
+				"Preferences: LSP-json Settings"
+			],
+			[
+				"lspena",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"enab",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"lspf",
+				"LSP: Format File"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 305.0,
+		"history":
+		[
+			"ff",
+			"clear",
+			"sublime.log_commands(True)",
+			"import os; os.environ[\"PATH\"]",
+			"sublime.log_commands(True)",
+			":set -package text",
+			"sublime.log_commands(True)",
+			"view.settings().get(\"syntax\")",
+			"clear",
+			"sublime.log_commands(True)",
+			"view.run_command('haskellinfofocus')",
+			"view.run_command('haskellInfoFocus')",
+			"view.run_command('example')",
+			"view.run_command('HaskellInfoFocus')",
+			"ls",
+			"view.run_command('OutputFocus')",
+			"view.run_command(OutputFocus')",
+			"view.run_command(OutputFocus)",
+			"OutputFocus",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": false,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/pampi/Documents/LogSeq/Cerveau",
+		"/home/pampi/Documents/LogSeq/Cerveau/pages"
+	],
+	"file_history":
+	[
+		"/home/pampi/Documents/LogSeq/Cerveau/pages/Trackball and mousekey add-on for Bastardkb Skeletyl.md",
+		"/home/pampi/Documents/LogSeq/Cerveau/pages/Clavier/Skeletyl.md",
+		"/home/pampi/Documents/Projects/Zig/Ziglings/exercises/011_while.zig",
+		"/home/pampi/Documents/Projects/Zig/Ziglings/exercises/012_while2.zig",
+		"/home/pampi/Documents/Projects/Zig/Ziglings/exercises/014_while4.zig",
+		"/home/pampi/Documents/Projects/Zig/Ziglings/exercises/015_for.zig",
+		"/home/pampi/Documents/Projects/Zig/Ziglings/exercises/016_for2.zig",
+		"/home/pampi/Documents/Projects/Zig/Ziglings/exercises/013_while3.zig",
+		"/home/pampi/Documents/Projects/Zig/Ziglings/exercises/010_if2.zig",
+		"/home/pampi/Documents/Projects/Zig/HelloWorld/src/main.zig",
+		"/home/pampi/Documents/Projects/Zig/Ziglings/exercises/021_errors.zig",
+		"/home/pampi/Documents/Projects/Zig/Ziglings/exercises/001_hello.zig",
+		"/home/pampi/Documents/Projects/Zig/Ziglings/exercises/002_std.zig",
+		"/home/pampi/Documents/Projects/Zig/Ziglings/exercises/003_assignment.zig",
+		"/home/pampi/Documents/Projects/Zig/Ziglings/exercises/004_arrays.zig",
+		"/home/pampi/Documents/Projects/Zig/Ziglings/exercises/005_arrays2.zig",
+		"/home/pampi/Documents/Projects/Zig/Ziglings/exercises/006_strings.zig",
+		"/home/pampi/Documents/Projects/Zig/Ziglings/exercises/007_strings2.zig",
+		"/home/pampi/Documents/Projects/Zig/Ziglings/exercises/008_quiz.zig",
+		"/home/pampi/Documents/Projects/Zig/Ziglings/exercises/009_if.zig",
+		"/home/pampi/Documents/Logiciels/qmk_firmware/quantum/pointing_device/pointing_device_auto_mouse.c",
+		"/home/pampi/Documents/Logiciels/qmk_firmware/keyboards/ptechinos/promicro/keymaps/dev/keymap.c",
+		"/home/pampi/Documents/Logiciels/qmk_firmware/keyboards/ptechinos/promicro/info.json",
+		"/home/pampi/Documents/Logiciels/qmk_firmware/keyboards/ptechinos/2040/keymaps/dev/features/swapper.c",
+		"/home/pampi/Documents/Logiciels/qmk_firmware/keyboards/ptechinos/2040/keymaps/dev/keymap.c",
+		"/home/pampi/Documents/Logiciels/qmk_firmware/keyboards/ptechinos/ptechinos.h",
+		"/home/pampi/Documents/Logiciels/qmk_firmware/keyboards/ptechinos/promicro/keymaps/dev/config.h",
+		"/home/pampi/Documents/Logiciels/qmk_firmware/keyboards/ptechinos/promicro/keymaps/dev/combos.def",
+		"/home/pampi/Documents/Logiciels/qmk_firmware/keyboards/ptechinos/promicro/keymaps/dev/rules.mk",
+		"/home/pampi/Documents/Logiciels/qmk_firmware/keyboards/ptechinos/ptechinos.c",
+		"/home/pampi/Documents/Logiciels/qmk_firmware/keyboards/ptechinos/2040/keymaps/dev/README.md",
+		"/home/pampi/Documents/Logiciels/qmk_firmware/quantum/keycodes.h",
+		"/home/pampi/Documents/Logiciels/qmk_firmware/keyboards/ptechinos/2040/info.json",
+		"/home/pampi/Documents/LogSeq/Cerveau/pages/Haskell___ghci.md",
+		"/home/pampi/Documents/LogSeq/Cerveau/pages/Haskell___Effective Haskell.md",
+		"/home/pampi/Documents/LogSeq/Cerveau/pages/Haskell___ghci.sync-conflict-20230822-150343-SN4PLTY.md",
+		"/home/pampi/Documents/LogSeq/Cerveau/logseq/bak/pages/Haskell___Effective Haskell/2023-08-22T13_05_57.203Z.Desktop.md",
+		"/home/pampi/Documents/LogSeq/Cerveau/pages/Haskell___Effective Haskell.sync-conflict-20230822-150343-SN4PLTY.md",
+		"/home/pampi/Documents/Logiciels/qmk_firmware/keyboards/ptechinos/2040/keymaps/dev/config.h",
+		"/home/pampi/Documents/Logiciels/qmk_firmware/quantum/quantum_keycodes.h",
+		"/home/pampi/Documents/Logiciels/qmk_firmware/keyboards/ptechinos/2040/keymaps/dev/combos.def",
+		"/home/pampi/Documents/Logiciels/qmk_firmware/keyboards/ptechinos/2040/keymaps/dev/features/customCodes.h",
+		"/home/pampi/Documents/Logiciels/qmk_firmware/.build/obj_ptechinos_2040/src/info_config.h",
+		"/home/pampi/Documents/Logiciels/qmk_firmware/keyboards/ptechinos/2040/keymaps/default/combos.def",
+		"/home/pampi/Downloads/bdn9/keymaps/Streamboard/keymap.c",
+		"/home/pampi/Documents/Logiciels/qmk_firmware/keyboards/bastardkb/info.json",
+		"/home/pampi/Documents/Logiciels/qmk_firmware/keyboards/tzarc/ghoul/info.json",
+		"/home/pampi/Documents/Logiciels/qmk_firmware/keyboards/tzarc/djinn/info.json",
+		"/home/pampi/Downloads/bdn9/info.json",
+		"/home/pampi/Documents/Logiciels/qmk_firmware/keyboards/panc40/info.json",
+		"/home/pampi/Documents/Logiciels/qmk_firmware/keyboards/panc40/keymaps/default/keymap.c",
+		"/home/pampi/Documents/Logiciels/qmk_firmware/keyboards/panc40/keymaps/default_minorca/keymap.c",
+		"/home/pampi/Documents/Logiciels/qmk_firmware/keyboards/panc40/rules.mk",
+		"/home/pampi/Documents/Logiciels/qmk_firmware/keyboards/panc40/config.h",
+		"/home/pampi/Documents/Logiciels/qmk_firmware/keyboards/ptechinos/2040/keymaps/dev/features/switcher.c",
+		"/home/pampi/Documents/Logiciels/qmk_firmware/quantum/pointing_device/pointing_device_drivers.c",
+		"/home/pampi/Documents/Logiciels/qmk_firmware/keyboards/ptechinos/2040/keymaps/dev/features/repeat.c",
+		"/home/pampi/Documents/Logiciels/qmk_firmware/keyboards/ptechinos/2040/keymaps/dev/features/repeat.h",
+		"/home/pampi/Documents/Logiciels/qmk_firmware/quantum/action.h",
+		"/home/pampi/Documents/Logiciels/qmk_firmware/quantum/pointing_device/pointing_device_auto_mouse.h",
+		"/home/pampi/Documents/Logiciels/qmk_firmware/quantum/keyboard.h",
+		"/home/pampi/Documents/Logiciels/qmk_firmware/keyboards/ptechinos/2040/keymaps/dev/features/switcher.h",
+		"/home/pampi/Documents/Logiciels/qmk_firmware/keyboards/ptechinos/2040/keymaps/dev/features/swapper.h",
+		"/home/pampi/Documents/Logiciels/qmk_firmware/quantum/quantum.h",
+		"/home/pampi/Documents/Logiciels/qmk_firmware/quantum/action_util.c",
+		"/home/pampi/Documents/Logiciels/qmk_firmware/quantum/quantum.c",
+		"/home/pampi/Documents/Logiciels/qmk_firmware/quantum/action_layer.c",
+		"/home/pampi/Documents/Logiciels/qmk_firmware/quantum/modifiers.h",
+		"/home/pampi/Documents/Logiciels/qmk_firmware/quantum/keycode.h",
+		"/home/pampi/Documents/Logiciels/qmk_firmware/keyboards/bastardkb/dilemma/3x5_3/keymaps/bstiq/keymap.c",
+		"/home/pampi/Documents/Logiciels/qmk_firmware/keyboards/gboards/g/keymap_combo.h",
+		"/home/pampi/Documents/Logiciels/qmk_firmware/keyboards/bastardkb/dilemma/3x5_3/keymaps/bstiq/config.h",
+		"/home/pampi/Documents/Logiciels/qmk_firmware/keyboards/bastardkb/dilemma/3x5_3/keymaps/bstiq/readme.md",
+		"/home/pampi/Documents/Logiciels/qmk_firmware/keyboards/bastardkb/dilemma/dilemma.c",
+		"/home/pampi/Documents/Logiciels/qmk_firmware/keyboards/bastardkb/dilemma/dilemma.h",
+		"/home/pampi/Documents/Logiciels/qmk_firmware/keyboards/bastardkb/dilemma/info.json",
+		"/home/pampi/Documents/Logiciels/qmk_firmware/keyboards/bastardkb/dilemma/3x5_3/config.h",
+		"/home/pampi/Documents/Logiciels/qmk_firmware/keyboards/bastardkb/dilemma/3x5_3/3x5_3.c",
+		"/home/pampi/.local/share/Trash/files/dilemma.c",
+		"/home/pampi/Documents/Logiciels/qmk_firmware/keyboards/ptechinos/2040/keymaps/default/features/customCodes.h",
+		"/home/pampi/Documents/LogSeq/Cerveau/logseq/custom.css",
+		"/home/pampi/Documents/LogSeq/Cerveau/pages/hls__Effective-Haskell_P1.0_1691935393283_0.md",
+		"/home/pampi/Documents/LogSeq/Cerveau/logseq/custom.js",
+		"/home/pampi/Documents/Logiciels/qmk_firmware/keyboards/ptechinos/2040/config.h",
+		"/home/pampi/Documents/Logiciels/qmk_firmware/keyboards/oddball/oddball.c",
+		"/home/pampi/Documents/Logiciels/qmk_firmware/keyboards/ptechinos/2040/keymaps/default/config.h",
+		"/home/pampi/Documents/Logiciels/qmk_firmware/keyboards/oddball/oddball.h",
+		"/home/pampi/Documents/Logiciels/qmk_firmware/tmk_core/protocol/report.h",
+		"/home/pampi/Documents/Logiciels/qmk_firmware/keyboards/ploopyco/trackball/trackball.c",
+		"/home/pampi/Documents/Logiciels/qmk_firmware/keyboards/oddball/config.h",
+		"/home/pampi/Documents/Logiciels/qmk_firmware/keyboards/ptechinos/promicro/keymaps/experimental/combos.def",
+		"/home/pampi/Documents/Logiciels/qmk_firmware/keyboards/ptechinos/promicro/keymaps/default/combos.def",
+		"/home/pampi/Documents/Logiciels/qmk_firmware/keyboards/ptechinos/promicro/keymaps/default/features/leader.c",
+		"/home/pampi/Documents/Logiciels/qmk_firmware/keyboards/ptechinos/2040/keymaps/dev/rules.mk",
+		"/home/pampi/Documents/Logiciels/qmk_firmware/keyboards/ptechinos/promicro/keymaps/experimental/features/leader.c",
+		"/home/pampi/Documents/Logiciels/qmk_firmware/keyboards/ptechinos/promicro/config.h",
+		"/home/pampi/Documents/Logiciels/qmk_firmware/keyboards/ptechinos/promicro/keymaps/experimental/features/customCodes.h",
+		"/home/pampi/Documents/Logiciels/qmk_firmware/keyboards/ptechinos/promicro/keymaps/experimental/keymap.c",
+		"/home/pampi/Documents/Logiciels/qmk_firmware/quantum/logging/debug.h",
+		"/home/pampi/Documents/Logiciels/qmk_firmware/keyboards/ploopyco/trackball/trackball.h",
+		"/home/pampi/Documents/Logiciels/qmk_firmware/keyboards/ploopyco/trackball/keymaps/pampi/config.h",
+		"/home/pampi/Downloads/dilemma.c",
+		"/home/pampi/Documents/Logiciels/qmk_firmware/quantum/split_common/split_util.c",
+		"/home/pampi/Documents/LogSeq/Cerveau/pages/Lessons in Electric Circuits___Direct current___Concepts de base en électricité.md",
+		"/home/pampi/.bashrc",
+		"/home/pampi/Documents/LogSeq/Cerveau/logseq/config.edn",
+		"/home/pampi/Documents/Logiciels/qmk_firmware/keyboards/ptechinos/2040/keymaps/default/rules.mk",
+		"/home/pampi/Documents/Logiciels/qmk_firmware/.build/obj_ptechinos_2040/src/default_keyboard.h",
+		"/home/pampi/Documents/Logiciels/qmk_firmware/Makefile",
+		"/home/pampi/Documents/Logiciels/qmk_firmware/docs/configurator_default_keymaps.md",
+		"/home/pampi/Documents/Projects/Keyboard/Echinos/case/keyboard.scad",
+		"/home/pampi/Documents/Logiciels/qmk_firmware/keyboards/ploopyco/trackball/keymaps/pampi/keymap.c",
+		"/home/pampi/Documents/Logiciels/qmk_firmware/compile_commands.json",
+		"/home/pampi/.bash_history",
+		"/var/log/optimus-manager/switch/switch-20230806T215126.log",
+		"/etc/X11/xorg.conf.d/10-optimus-manager.conf",
+		"/etc/optimus-manager/optimus-manager.conf",
+		"/etc/optimus-manager/optimus-manager_ForceNvidia.conf",
+		"/etc/optimus-manager/snd_hda_intel.conf",
+		"/home/pampi/Documents/Projects/Keyboard/Echinos/case/common/distributions.scad",
+		"/home/pampi/Downloads/ul_TPD4E05U06QDQARQ1/KiCADv6/footprints.pretty/DQA0010A.kicad_mod",
+		"/home/pampi/Documents/Logiciels/qmk_firmware/keyboards/sofle/keymaps/pampi/config.h",
+		"/home/pampi/Documents/Logiciels/qmk_firmware/keyboards/sofle/keymaps/pampi/keymap.c",
+		"/home/pampi/Documents/Projects/Keyboard/Echinos/case/helper/haskell/transformation.hs",
+		"/home/pampi/.config/fourmolu.yaml",
+		"/home/pampi/Documents/Projects/Keyboard/Echinos/case/helper/ocaml/transformation.ml",
+		"/home/pampi/Documents/Projects/Keyboard/Echinos/case/helper/haskell/.stylish-haskell.yaml",
+		"/home/pampi/.cabal/config"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 607.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			" ???;",
+			"???;",
+			"{\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": true,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": false,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 41.0
+	},
+	"input":
+	{
+		"height": 205.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.LSP Log Panel":
+	{
+		"height": 0.0
+	},
+	"output.diagnostics":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 269.0
+	},
+	"output.find_results":
+	{
+		"height": 472.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Cerveau.sublime-project",
+	"replace":
+	{
+		"height": 78.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"016",
+				"Ziglings/exercises/016_for2.zig"
+			],
+			[
+				"15",
+				"Ziglings/exercises/015_for.zig"
+			],
+			[
+				"13",
+				"Ziglings/exercises/013_while3.zig"
+			],
+			[
+				"12",
+				"Ziglings/exercises/012_while2.zig"
+			],
+			[
+				"010",
+				"Ziglings/exercises/010_if2.zig"
+			],
+			[
+				"011",
+				"Ziglings/exercises/011_while.zig"
+			],
+			[
+				"009",
+				"Ziglings/exercises/009_if.zig"
+			],
+			[
+				"008",
+				"Ziglings/exercises/008_quiz.zig"
+			],
+			[
+				"007",
+				"Ziglings/exercises/007_strings2.zig"
+			],
+			[
+				"006",
+				"Ziglings/exercises/006_strings.zig"
+			],
+			[
+				"005",
+				"Ziglings/exercises/005_arrays2.zig"
+			],
+			[
+				"004",
+				"Ziglings/exercises/004_arrays.zig"
+			],
+			[
+				"003",
+				"Ziglings/exercises/003_assignment.zig"
+			],
+			[
+				"002",
+				"Ziglings/exercises/002_std.zig"
+			],
+			[
+				"exer",
+				"Ziglings/exercises/021_errors.zig"
+			],
+			[
+				"codes",
+				"ptechinos/2040/keymaps/dev/features/customCodes.h"
+			],
+			[
+				"comb",
+				"ptechinos/2040/keymaps/dev/combos.def"
+			],
+			[
+				"com",
+				"ptechinos/2040/keymaps/default/combos.def"
+			],
+			[
+				"cu",
+				"ptechinos/2040/keymaps/dev/features/customCodes.h"
+			],
+			[
+				"pointing",
+				"~/Documents/Logiciels/qmk_firmware/quantum/pointing_device/pointing_device_drivers.c"
+			],
+			[
+				"features/",
+				"ptechinos/2040/keymaps/default/features/customCodes.h"
+			],
+			[
+				"w",
+				"Echinos/case/component/EVQWGD001.scad"
+			],
+			[
+				"sw",
+				"case/component/switches.scad"
+			],
+			[
+				"enc",
+				"case/component/encoders.scad"
+			],
+			[
+				"atta",
+				"book/content/97-Exercices/04-stl/linux/CppRogue_2_2/CppRogue/src/engine/action/Attack.cpp"
+			],
+			[
+				"p2",
+				"book/content/97-Exercices/Exercices-P2.md"
+			],
+			[
+				"P2",
+				"book/content/97-Exercices/Exercices-P2.md"
+			],
+			[
+				"item",
+				"book/content/97-Exercices/03-oop/correction/CppRogue/App/src/engine/collectable/Item.hpp"
+			],
+			[
+				"aren",
+				"book/content/97-Exercices/04-stl/linux/CppRogue/CppRogue/src/engine/core/GameArena.hpp"
+			],
+			[
+				"main",
+				"book/content/97-Exercices/02-linkedList/correction/main.cpp"
+			],
+			[
+				"hero",
+				"book/content/97-Exercices/03-oop/correction/CppRogue/App/src/engine/entity/hero/Hero.cpp"
+			],
+			[
+				"Hero",
+				"book/content/97-Exercices/03-oop/correction/CppRogue/App/src/engine/entity/hero/Hero.cpp"
+			],
+			[
+				"Gamea",
+				"book/content/97-Exercices/04-stl/linux/CppRogue/CppRogue/src/engine/core/GameArena.hpp"
+			],
+			[
+				"euqi",
+				"book/content/97-Exercices/04-stl/linux/CppRogue/CppRogue/src/engine/collectable/Equipment.hpp"
+			],
+			[
+				"herin",
+				"book/content/97-Exercices/04-stl/linux/CppRogue/CppRogue/src/engine/entity/hero/HeroInfo.cpp"
+			],
+			[
+				"Equip",
+				"book/content/97-Exercices/04-stl/linux/CppRogue/CppRogue/src/engine/collectable/Equipment.cpp"
+			],
+			[
+				"stl",
+				"book/content/04-STL/STL.md"
+			],
+			[
+				"multi",
+				"book/content/08-Multithreading/Multithreading.md"
+			],
+			[
+				"template",
+				"book/content/06-Template/Template.md"
+			],
+			[
+				"defin",
+				"book/content/00-Introduction/Definitions.md"
+			],
+			[
+				"desi",
+				"book/content/05-DesignPattern/DesignPattern.md"
+			],
+			[
+				"base",
+				"book/content/01-Bases/Bases.md"
+			],
+			[
+				"oop",
+				"book/content/03-OOP/OOP.md"
+			],
+			[
+				"bases",
+				"book/content/01-Bases/Bases.md"
+			],
+			[
+				"link",
+				"book/content/97-Exercices/02-linkedList/correction/main.cpp"
+			],
+			[
+				"myL",
+				"book/content/97-Exercices/02-linkedList/correction/myList.cpp"
+			],
+			[
+				"memor",
+				"book/content/02-Memory/Memory.md"
+			],
+			[
+				"layo",
+				"book/_templates/sphinx/layout.txt"
+			],
+			[
+				"memo",
+				"book/content/02-Memory/Memory.md"
+			],
+			[
+				"templa",
+				"book/content/05-Template/Template.md"
+			],
+			[
+				"ba",
+				"book/content/01-Bases/Bases.md"
+			],
+			[
+				"mem",
+				"book/content/02-Memory/Memory.md"
+			],
+			[
+				"me",
+				"book/content/02-Memory/Memory.md"
+			],
+			[
+				"defini",
+				"book/content/00-Introduction/Definitions.md"
+			],
+			[
+				"Read",
+				"README.md"
+			],
+			[
+				"def",
+				"book/content/00-Introduction/Definitions.md"
+			],
+			[
+				".gitl",
+				".gitlab-ci.yml"
+			],
+			[
+				"st",
+				"book/content/04-STL/STL.md"
+			],
+			[
+				"read",
+				"~/Documents/Projects/Cnam/CppRogue/README.md"
+			],
+			[
+				"int",
+				"book/content/00-Introduction/Introduction.md"
+			],
+			[
+				"inde",
+				"book/index.rst"
+			],
+			[
+				"mme",
+				"book/content/02-Memory/Memory.md"
+			],
+			[
+				"Entit",
+				"CppRogue/CppRogue/src/CppRogue/Entity/Entity.hpp"
+			],
+			[
+				"conf",
+				"Cours/book/conf.py"
+			],
+			[
+				"con",
+				"Cours/book/conf.py"
+			],
+			[
+				"re",
+				"Cours/requirements.txt"
+			],
+			[
+				"cong",
+				"CppRogue/CppRogue/vendors/SFML-2.5.1/include/SFML/OpenGL.hpp"
+			],
+			[
+				"test",
+				"Cours/test/Tests.md"
+			],
+			[
+				"lay",
+				"Cours/book/_templates/sphinx/layout.txt"
+			],
+			[
+				".tex",
+				"Cours/book/_build/sphinx/latex/nfp121-programmationcavance.tex"
+			],
+			[
+				"requ",
+				"Cours/requirements.txt"
+			],
+			[
+				"race",
+				"CppRogue/CppRogue/src/CppRogue/Entity/Hero/Race.hpp"
+			],
+			[
+				"Brede",
+				"CppRogue/CppRogue/src/CppRogue/Entity/Monster/Breed.hpp"
+			],
+			[
+				"modi",
+				"CppRogue/CppRogue/src/CppRogue/Core/Modifier.hpp"
+			],
+			[
+				"Mod",
+				"CppRogue/CppRogue/src/CppRogue/Core/Modifier.hpp"
+			],
+			[
+				"Hit",
+				"CppRogue/CppRogue/src/CppRogue/Core/Hit.cpp"
+			],
+			[
+				"equi",
+				"CppRogue/CppRogue/src/CppRogue/Collectable/Equipment.hpp"
+			],
+			[
+				"Ench",
+				"CppRogue/CppRogue/src/CppRogue/Collectable/Enchantment.hpp"
+			],
+			[
+				"slot",
+				"CppRogue/CppRogue/src/CppRogue/Collectable/Slot.hpp"
+			],
+			[
+				"Modi",
+				"CppRogue/CppRogue/src/CppRogue/Core/Modifier.hpp"
+			],
+			[
+				"Encha",
+				"CppRogue/CppRogue/src/CppRogue/Collectable/Enchantment.hpp"
+			],
+			[
+				"Ele",
+				"CppRogue/CppRogue/src/CppRogue/Core/Element.hpp"
+			],
+			[
+				"GameC",
+				"CppRogue/CppRogue/src/CppRogue/Core/Service/GameContent.hpp"
+			],
+			[
+				"encha",
+				"CppRogue/CppRogue/src/CppRogue/Collectable/Enchantment.hpp"
+			],
+			[
+				"map",
+				"CppRogue/CppRogue/src/CppRogue/Environment/Map.cpp"
+			],
+			[
+				"READ",
+				"CppRogue/README.md"
+			],
+			[
+				"HeroIn",
+				"CppRogue/CppRogue/src/CppRogue/Entity/Hero/HeroInfo.hpp"
+			],
+			[
+				"hit",
+				"CppRogue/CppRogue/src/CppRogue/Core/Hit.cpp"
+			],
+			[
+				"Mons",
+				"CppRogue/CppRogue/src/CppRogue/Entity/Monster/Monster.hpp"
+			],
+			[
+				"Proper",
+				"CppRogue/CppRogue/src/CppRogue/Entity/Hero/Property.hpp"
+			],
+			[
+				"Stat",
+				"CppRogue/CppRogue/src/CppRogue/Entity/Hero/Statistic.hpp"
+			],
+			[
+				"Slot",
+				"CppRogue/CppRogue/src/CppRogue/Collectable/Slot.hpp"
+			],
+			[
+				"enti",
+				"CppRogue/CppRogue/src/CppRogue/Entity/Entity.cpp"
+			],
+			[
+				"Equites",
+				"CppRogue/Tests/src/Collectable/EquipmentTests.cpp"
+			],
+			[
+				"entit",
+				"CppRogue/CppRogue/src/CppRogue/Entity/Entity.hpp"
+			],
+			[
+				"beah",
+				"CppRogue/CppRogue/src/CppRogue/Entity/Hero/Behavior.hpp"
+			],
+			[
+				"equip",
+				"CppRogue/CppRogue/src/CppRogue/Collectable/Equipment.hpp"
+			],
+			[
+				"Eq",
+				"CppRogue/CppRogue/src/CppRogue/Collectable/Equipment.hpp"
+			],
+			[
+				"REA",
+				"CppRogue/README.md"
+			],
+			[
+				"Heroi",
+				"CppRogue/CppRogue/src/CppRogue/Entity/Hero/HeroInfo.hpp"
+			],
+			[
+				"Action",
+				"CppRogue/CppRogue/src/CppRogue/Action/Action.hpp"
+			],
+			[
+				"Monster",
+				"CppRogue/CppRogue/src/CppRogue/Entity/Monster/Monster.hpp"
+			],
+			[
+				"MonsterS",
+				"CppRogue/CppRogue/src/CppRogue/Entity/Monster/MonsterState.hpp"
+			],
+			[
+				"Behav",
+				"CppRogue/CppRogue/src/CppRogue/Entity/Hero/Behavior.hpp"
+			],
+			[
+				"Monst",
+				"CppRogue/CppRogue/src/CppRogue/Entity/Monster/Monster.hpp"
+			],
+			[
+				"Heroc",
+				"CppRogue/CppRogue/src/CppRogue/Entity/Hero/Hero.cpp"
+			],
+			[
+				"RE",
+				"CppRogue/README.md"
+			],
+			[
+				"Test",
+				"CppRogue/CppRogue/src/CppRogue/Entity/Hero/Test.hpp"
+			],
+			[
+				"HeroBe",
+				"CppRogue/CppRogue/src/CppRogue/Entity/Hero/Behavior.hpp"
+			],
+			[
+				"Actiont",
+				"CppRogue/Tests/src/Action/ActionTests.cpp"
+			],
+			[
+				"Attac",
+				"CppRogue/CppRogue/src/CppRogue/Action/Attack.cpp"
+			],
+			[
+				"Hi",
+				"CppRogue/CppRogue/src/CppRogue/Core/Hit.cpp"
+			],
+			[
+				"action",
+				"CppRogue/CppRogue/src/CppRogue/Action/Action.hpp"
+			],
+			[
+				"Walk",
+				"CppRogue/CppRogue/src/CppRogue/Action/Walk.hpp"
+			],
+			[
+				"Rolled",
+				"CppRogue/CppRogue/src/CppRogue/Entity/Hero/RolledStatistics.hpp"
+			],
+			[
+				"Bahv",
+				"CppRogue/CppRogue/src/CppRogue/Entity/Hero/Behavior.cpp"
+			],
+			[
+				"GameA",
+				"CppRogue/CppRogue/src/CppRogue/Environment/GameArena.hpp"
+			],
+			[
+				"Game",
+				"CppRogue/CppRogue/src/CppRogue/Environment/GameArena.hpp"
+			],
+			[
+				"Behavior",
+				"CppRogue/CppRogue/src/CppRogue/Entity/Hero/Behavior.hpp"
+			],
+			[
+				"ma",
+				"CppRogue/App/src/main.cpp"
+			],
+			[
+				"game",
+				"CppRogue/CppRogue/src/CppRogue/Core/Game.cpp"
+			],
+			[
+				"mons",
+				"CppRogue/CppRogue/src/CppRogue/Entity/Monster/Monster.hpp"
+			],
+			[
+				"pathf",
+				"CppRogue/CppRogue/src/CppRogue/Core/Tool/Pathfinding.cpp"
+			],
+			[
+				"MOns",
+				"CppRogue/CppRogue/src/CppRogue/Entity/Monster/Monster.hpp"
+			],
+			[
+				"INve",
+				"CppRogue/CppRogue/src/CppRogue/Collectable/Inventory.hpp"
+			],
+			[
+				"Inven",
+				"CppRogue/CppRogue/src/CppRogue/Collectable/Inventory.cpp"
+			],
+			[
+				"Path",
+				"CppRogue/CppRogue/src/CppRogue/Core/Tool/Pathfinding.hpp"
+			],
+			[
+				"Item",
+				"CppRogue/CppRogue/src/CppRogue/Collectable/Item.hpp"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/Projects/Zig/HelloWorld/Zig_HelloWorld.sublime-project"
+			],
+			[
+				"eff",
+				"~/Documents/Course/Haskell/Effective Haskell/EffectiveHaskell.sublime-project"
+			],
+			[
+				"hask",
+				"~/Documents/Course/Haskell/GetProgrammingWithHaskell/GetProgrammingWithHaskell.sublime-project"
+			],
+			[
+				"has",
+				"~/Documents/Course/Haskell/HaskellProgrammingFromFirstPrinciples/HaskellProgrammingFromFirstPrinciples.sublime-project"
+			],
+			[
+				"mlboo",
+				"~/Documents/Projects/MLbook/MLbook.sublime-project"
+			],
+			[
+				"book",
+				"~/Documents/Projects/MLbook/MLbook.sublime-project"
+			],
+			[
+				"tef",
+				"~/Documents/Projects/GameEngine/Tefnout/Tefnout.sublime-project"
+			],
+			[
+				"simpl",
+				"~/Documents/Projects/GameEngine/SimpleGL/simpleGL.sublime-project"
+			],
+			[
+				"cmak",
+				"~/Documents/Projects/Templates/CPP/Cmake-Catch2/Cmake_Catch2_Template.sublime-project"
+			],
+			[
+				"get",
+				"~/Documents/Course/Haskell/GetProgrammingWithHaskell/GetProgrammingWithHaskell.sublime-project"
+			],
+			[
+				"getr",
+				"~/Documents/Course/Haskell/GetProgrammingWithHaskell/GetProgrammingWithHaskell.sublime-project"
+			],
+			[
+				"haske",
+				"~/Documents/Course/Haskell/GetProgrammingWithHaskell/GetProgrammingWithHaskell.sublime-project"
+			],
+			[
+				"mlb",
+				"~/Documents/Projects/MLbook/MLbook.sublime-project"
+			],
+			[
+				"inde",
+				"~/Documents/Projects/PCsoft/Indexator.sublime-project"
+			],
+			[
+				"templ",
+				"~/Documents/Projects/Templates/CPP/Cmake-Catch2/Cmake_Catch2_Template.sublime-project"
+			],
+			[
+				"index",
+				"~/Documents/Projects/PCsoft/Indexator.sublime-project"
+			],
+			[
+				"motiv",
+				"~/Documents/Projects/LettresMotivation/LettresMotivation.sublime-project"
+			],
+			[
+				"moti",
+				"~/Documents/Projects/LettresMotivation/LettresMotivation.sublime-project"
+			],
+			[
+				"Moti",
+				"~/Documents/Projects/LettresMotivation/LettresMotivation.sublime-project"
+			],
+			[
+				"func",
+				"~/Documents/Course/Haskell/ThinkingFunctionalWithHaskell/Thinking Functionnal with Haskell.sublime-workspace"
+			],
+			[
+				"int",
+				"~/Documents/Projects/Interviews/InterviewQuestions.sublime-project"
+			],
+			[
+				"no",
+				"~/Documents/Notes/Notes.sublime-project"
+			],
+			[
+				"doker",
+				"~/Documents/Course/WebDev/Docker/Educative/DockerEducative.sublime-project"
+			],
+			[
+				"dock",
+				"~/Documents/Course/Educative/Docker/DockerEducative.sublime-workspace"
+			],
+			[
+				"bac",
+				"~/Documents/Projects/ArchBackupTools/ArchBackupTools.sublime-project"
+			],
+			[
+				"ar",
+				"~/Documents/Projects/ArchBackupTools/ArchBackupTools.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 98.0,
+		"last_filter": "addB",
+		"selected_items":
+		[
+			[
+				"addB",
+				"AddBit"
+			],
+			[
+				"",
+				"AddBit"
+			]
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 289.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
