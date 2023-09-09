@@ -66,4 +66,8 @@ link:: https://github.com/ratfactor/ziglings
 		          std.debug.print("Foo is not 1!\n", .{});
 		      }
 		  ```
-	-
+- Erreurs
+	- Une erreur est une enumération du type `error`
+		- `const MyNumberError = error{TooSmall};`
+	- Utilise des unions de types pour gérer les erreurs
+		- `var my_number: MyNumberError!u8 = 5;`
