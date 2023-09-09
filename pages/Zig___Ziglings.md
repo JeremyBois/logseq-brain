@@ -69,8 +69,7 @@ link:: https://github.com/ratfactor/ziglings
 - Erreurs
 	- Une erreur est une enumération du type `error`
 		- `const MyNumberError = error{TooSmall};`
-	- Utilise des unions de types pour gérer les erreurs
+	- Utilise des unions de types pour retourner soit la valeur soit l'erreur
 		- `var my_number: MyNumberError!u8 = 5;`
-		- ddd
-	* dds
-+ dsa
+		- Similaire au `Either` en [[Haskell]]
+		- 
