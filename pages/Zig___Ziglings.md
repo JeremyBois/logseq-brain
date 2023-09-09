@@ -72,5 +72,7 @@ link:: https://github.com/ratfactor/ziglings
 	- Utilise des unions de types pour retourner soit la valeur soit l'erreur
 		- `var my_number: MyNumberError!u8 = 5;`
 		- Similaire au `Either` en [[Haskell]]
-	- Une erreur peut être interompue avec `catch`
+	- Une erreur peut être interompue avec `catch` `try`
 		- `canFail() catch |err| return err;`
+		- `try canFail();`
+
