@@ -519,6 +519,96 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "pages/Zig___Ziglings.md",
+			"settings":
+			{
+				"buffer_size": 2363,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					1,
+					"run_macro_file",
+					{
+						"file": "Packages/MarkdownEditing/macros/Delete Empty List Item.sublime-macro"
+					},
+					"AgAAAEoJAAAAAAAASgkAAAAAAAADAAAACQktSgkAAAAAAABMCQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAATQkAAAAAAABNCQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					4,
+					1,
+					"insert",
+					{
+						"characters": "-"
+					},
+					"AQAAAEwJAAAAAAAATQkAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAATAkAAAAAAABMCQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					5,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAE0JAAAAAAAATgkAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAATQkAAAAAAABNCQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					6,
+					1,
+					"run_macro_file",
+					{
+						"file": "Packages/MarkdownEditing/macros/Delete Empty List Item.sublime-macro"
+					},
+					"AgAAAEoJAAAAAAAASgkAAAAAAAAEAAAACQktIEoJAAAAAAAATAkAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAATgkAAAAAAABOCQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					7,
+					1,
+					"insert",
+					{
+						"characters": "\n\n"
+					},
+					"BQAAAEwJAAAAAAAATQkAAAAAAAAAAAAATQkAAAAAAABPCQAAAAAAAAAAAABPCQAAAAAAAFAJAAAAAAAAAAAAAFAJAAAAAAAAUgkAAAAAAAAAAAAATQkAAAAAAABNCQAAAAAAAAIAAAAJCQ",
+					"AQAAAAAAAAABAAAATAkAAAAAAABMCQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					8,
+					3,
+					"delete_word",
+					{
+						"forward": false
+					},
+					"AwAAAE4JAAAAAAAATgkAAAAAAAACAAAACQlNCQAAAAAAAE0JAAAAAAAAAQAAAApMCQAAAAAAAEwJAAAAAAAAAQAAAAo",
+					"AQAAAAAAAAABAAAAUAkAAAAAAABQCQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					12,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Delete Line.sublime-macro"
+					},
+					"AQAAANoIAAAAAAAA2ggAAAAAAAAPAAAACQktIGBFcnJldXJUeXAK",
+					"AQAAAAAAAAABAAAA6AgAAAAAAADoCAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					13,
+					1,
+					"trim_trailing_white_space",
+					null,
+					"AQAAADsJAAAAAAAAOwkAAAAAAAACAAAACQk",
+					"AQAAAAAAAAABAAAA2ggAAAAAAADaCAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
 	],
 	"build_system": "Packages/Zig Language/Build Systems/Zig.sublime-build",
 	"build_system_choices":
@@ -1302,6 +1392,39 @@
 		{
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "pages/Zig___Ziglings.md",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2363,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2266,
+								2266
+							]
+						],
+						"settings":
+						{
+							"lsp_uri": "file:///home/pampi/Documents/LogSeq/Cerveau/pages/Zig___Ziglings.md",
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1729.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -1369,6 +1492,10 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"ziglins",
+				"pages/Zig___Ziglings.md"
+			],
 			[
 				"016",
 				"Ziglings/exercises/016_for2.zig"
@@ -1876,10 +2003,6 @@
 			[
 				"Path",
 				"CppRogue/CppRogue/src/CppRogue/Core/Tool/Pathfinding.hpp"
-			],
-			[
-				"Item",
-				"CppRogue/CppRogue/src/CppRogue/Collectable/Item.hpp"
 			]
 		],
 		"width": 0.0
