@@ -50,6 +50,14 @@ link:: [Github](https://github.com/JeremyBois/Echinos)
 	- TODO Communication #UART 2 fils entre les deux parties
 		- Permet la synchronisation bidirectionnelle avec #KMK
 		- Compatible aussi avec #QMK sans être nécessaire
+	- TODO Communication #UART 2 fils vers une puce #Bluetooth
+		- Communication vers téléphone / autre ordi
+		- Doit être possible de basculer entre #USB et #Bluetooth
+			- #QMK ou #KMK peut le faire ??
+	- TODO Encodeur à l'extérieur pour pas géner ??
+	- TODO Empreinte compatible avec
+		- [[Électronique/Choc mini]]
+		- [[Électronique/Choc]]
 - # Notes
 	- Couleurs
 		- Theme Zelda a link to the past

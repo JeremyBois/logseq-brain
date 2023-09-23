@@ -11,23 +11,33 @@ link:: [PCB](https://github.com/JeremyBois/Ptechinos) [Layout](https://github.co
 	- TODO Soucis lors l'envoi de certaines touches
 		- `e`  et `espace` sortent en double assez souvent
 		- Observé sur Windows avec la version **0.6**
-	- TODO Implémenter le code pour le support des périphérique de pointage
-	- TODO Adoucir le son du Clavier
+	- DONE Implémenter le code pour le support des périphérique de pointage
+	- TODO Adoucir le son du Clavier #Foam
 	  id:: 64da80fd-a516-476c-b4a9-8cb1c58996eb
 		- Applications
 			- [Au niveau des switches](https://switchandclick.com/pe-foam-mod/)
+				- Réduction de la transmission des vibrations
+				- Feuilles <= 1mm (0.5mm de préférence)
+				- Stickers
+					- [Switch pads 0.5mm | EVA / Poron / PE](https://www.amazon.fr/gp/product/B09SZ52G7S/ref=ppx_od_dt_b_asin_title_s00?ie=UTF8&th=1)
 			- Sous le PCB
 				- Réduction de l'effet caisson de résonance
-				- Liège ~2mm
-		- Options
-			- Feuilles en polyéthylène (PE)
+				- Liège ou mousse <=2mm
+					- [EVA 1 ou 2mm](https://www.amazon.fr/dp/B09T95JBF5/ref=pe_27091421_487052621_TE_item?th=1)
+		- Matériaux
+			- Éthylène-acétate de vinyle (EVA)
+				- Très bonne atténuation
+				- anti statique
+			- Uréthane (Poron)
+				- Bonne atténuation
+				- anti statique
+			- Polyéthylène (PE)
 				- Réflection du son
 					- Donne un effet unique au son
 					- Évite la propagation vers le bas du boitier
-				- **Peut entraîner des #ESD**
-			- Feuilles en éthylène-acétate de vinyle (EVA)
-			- Feuilles en polyuréthane (Poron)
-				- Attenuation plus importante que le PE
+				- **Peut entraîner des #ESD** si il n'est pas spécialement développé pour avoir des propriétés anti-statiques
+			- Tissu de liège
+				- Actuellement du 0.5mm de disponible
 			- Cuir
 				- Naturel
 				- **Odorant**

@@ -34,4 +34,7 @@ link:: [Official](https://ziglang.org/) [Github](https://github.com/ziglang/zig)
 	- Embarqué
 		- [Microzig](https://github.com/ZigEmbeddedGroup/microzig)
 			- Support pour #RP2040
-	-
+	- Jeu vidéo
+		- [Zig-Gamedev](https://github.com/michal-z/zig-gamedev)
+			- Boîte à outils / Ensemble de bibliothèques
+-

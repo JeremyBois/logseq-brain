@@ -71,16 +71,16 @@ link:: https://github.com/ratfactor/ziglings
 		- `const MyNumberError = error{TooSmall};`
 	- Utilise des unions de types pour retourner soit la valeur soit l'erreur
 		- `var my_number: MyNumberError!u8 = 5;`
-			- Possible dans certains cas d'omettre le type de l'erreur
+			- Omission du type possible si il peut être déduit automatiquement
 			- ```zig
-			fn addTwenty(n: u32) !u32 {
-			    if (n < 5) {
-			        return MyNumberError.TooSmall;
-			    } else {
-			        return n + 20;
-			    }
-			}
-			```
+			  fn addTwenty(n: u32) !u32 {
+			      if (n < 5) {
+			          return MyNumberError.TooSmall;
+			      } else {
+			          return n + 20;
+			      }
+			  }
+			  ```
 		- Similaire au `Either` en [[Haskell]]
 	- Une erreur peut être interompue avec `catch` `try`
 		- `canFail() catch |err| return err;`

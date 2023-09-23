@@ -8,11 +8,12 @@ link:: [PCB](https://github.com/JeremyBois/Ptechinos) [Layout](https://github.co
 ***
 
 - # Tâches
-	- TODO Soucis lors l'envoi de certaines touches
+	- DONE Soucis lors l'envoi de certaines touches
 		- `e`  et `espace` sortent en double assez souvent
-		- Observé sur Windows avec la version **0.6**
+		- Observé sur Windows avec la version **0.6** avec #Promicro
+		- Non observée sur la version v0.69 avec #RP2040
 	- DONE Implémenter le code pour le support des périphérique de pointage
-	- TODO Adoucir le son du Clavier #Foam
+	- DONE Adoucir le son du Clavier #Foam
 	  id:: 64da80fd-a516-476c-b4a9-8cb1c58996eb
 		- Applications
 			- [Au niveau des switches](https://switchandclick.com/pe-foam-mod/)

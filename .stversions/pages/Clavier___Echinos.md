@@ -47,7 +47,9 @@ link:: [Github](https://github.com/JeremyBois/Echinos)
 		  | Espacement |  0.2  | 0.2 | 0.2    |
 		  |  Largeur | 0.254 | 0.3 | 0.254  |
 		  | Raison     |  MCU   | USB | MCU    |
-		-
+	- TODO Communication #UART 2 fils entre les deux parties
+		- Permet la synchronisation bidirectionnelle avec #KMK
+		- Compatible aussi avec #QMK sans être nécessaire
 - # Notes
 	- Couleurs
 		- Theme Zelda a link to the past
@@ -70,6 +72,10 @@ link:: [Github](https://github.com/JeremyBois/Echinos)
 		- Utiliser un [[Électronique/RP2040 zero]]
 			- Prend pas de place
 			- Expose de nombreux pins
+	- Valider la compatibilité avec #KMK
+		- Support filaire et/ou #Bluetooth
+		- Modifiable sans recompilation
+		- TODO Vérifier que ce n'est pas trop lent
 - # Options
   id:: 643164d9-b6fd-4277-8738-969734d6c1a0
 	- ## Trackball

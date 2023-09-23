@@ -1,7 +1,7 @@
 tags:: #Switch 
 alias:: CPG123201D01, PG1232
 author:: #Kailh
-link:: [Officiel](https://www.kailhswitch.com/mechanical-keyboard-switches/low-profile-key-switches/dip-brown-key-switches.html)
+link:: [Officiel](https://www.kailhswitch.com/info/kailh-mini-choc-switch-28469588.html)
 [[Apr 8th, 2023]]
 
 - # Description

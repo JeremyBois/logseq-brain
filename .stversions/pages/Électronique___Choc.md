@@ -1,6 +1,6 @@
 tags:: Switch 
 author:: #Kailh
-alias:: PG1350, ChocV1
+alias:: CPG135001D02, PG1350
 link:: [Official](http://www.kailh.com/en/Products/Ks/CS/)
 [[Apr 8th, 2023]]
 

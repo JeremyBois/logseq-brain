@@ -21,5 +21,3 @@ link:: [Github](https://github.com/sadekbaroudi/vik)
 		- petit
 		- large
 	-
-- ## Contrôleur
-	- [[Électronique/Svlinky]]
