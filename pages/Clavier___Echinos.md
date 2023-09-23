@@ -4,6 +4,7 @@ alias:: Echinos
 link:: [Github](https://github.com/JeremyBois/Echinos)
 [[Apr 8th, 2023]]
 
+-
 - # Tâches
 	- TODO Support pour [[Clavier/VIK]]
 		- The interface includes the following signals (pin 0 to 12)
