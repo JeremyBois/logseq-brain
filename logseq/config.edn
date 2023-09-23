@@ -323,7 +323,7 @@
  :publishing/all-pages-public? true
  :journal/page-title-format "MMM do, yyyy"
  :feature/enable-timetracking? false
- :ui/show-brackets? false
+ :ui/show-brackets? true
  :editor/preferred-pasting-file? false
  :feature/enable-whiteboards? false
  :feature/enable-flashcards? false
