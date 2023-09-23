@@ -10,8 +10,9 @@ tags:: Ergonomie, Clavier, CAD
 		- Réduction de 1mm
 		- Potentiellement nécessaire d'abaisser les support prévues pour les entretoises
 		- Ajuster l'ouverture des deux pogos
-	- DOING Tenir compte de la sur-élévation des switch au niveau de la top plate
+	- TODO Tenir compte de la sur-élévation des switch au niveau de la top plate
 		- Switch ~0.5mm plus haut
+		- Pas forcément
 	- DOING Prévoir un trou / cassure dans la bordure pour supporter le PCB
 		- Nécessaire pour laisser la place pour le hotswap
 		- Pouce intérieur
