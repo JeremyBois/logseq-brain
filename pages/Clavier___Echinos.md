@@ -3,6 +3,7 @@ author:: #JeremyBois
 alias:: Echinos
 link:: [Github](https://github.com/JeremyBois/Echinos)
 [[Apr 8th, 2023]]
+***
 
 - ↳ [[Clavier]]
   {{namespace Echinos}}
