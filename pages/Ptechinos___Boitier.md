@@ -7,9 +7,9 @@ tags:: Ergonomie, Clavier, CAD
 - # Tâches
 	- DOING Réduire l'espace entre le bas du boitier et le PCB
 		- Espace inutile voir négatif pour la qualité sonore
-		- Réduction de 1mm
-		- Potentiellement nécessaire d'abaisser les support prévues pour les entretoises
-		- Ajuster l'ouverture des deux pogos
+		- **Réduction de 1mm**
+			- Potentiellement nécessaire d'abaisser les support prévues pour les entretoises
+			- Ajuster l'ouverture des deux pogos
 	- TODO Tenir compte de la sur-élévation des switch au niveau de la top plate
 		- Switch ~0.5mm plus haut
 		- Pas forcément nécessaire comme on abaisse le PCB de 1mm
