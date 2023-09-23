@@ -5,20 +5,20 @@ tags:: Ergonomie, Clavier, CAD
 - ↳ [[Ptechinos]] 
   ***
 - # Tâches
-	- TODO Réduire l'espace entre le bas du boitier et le PCB
+	- DOING Réduire l'espace entre le bas du boitier et le PCB
 		- Espace inutile voir négatif pour la qualité sonore
 		- Réduction de 1mm
 		- Potentiellement nécessaire d'abaisser les support prévues pour les entretoises
 		- Ajuster l'ouverture des deux pogos
-	- TODO Tenir compte de la sur-élévation des switch au niveau de la top plate
+	- DOING Tenir compte de la sur-élévation des switch au niveau de la top plate
 		- Switch ~0.5mm plus haut
-	- TODO Prévoir un trou / cassure dans la bordure pour supporter le PCB
+	- DOING Prévoir un trou / cassure dans la bordure pour supporter le PCB
 		- Nécessaire pour laisser la place pour le hotswap
 		- Pouce intérieur
 		- Pouce intérieur
 		- Petit doigt extérieur
 	- DONE Placer correctement les trous pour les têtes de vis au niveau de la top plate
-	- TODO Augmenter la hauteur des trous pour les aimants
+	- DOING Augmenter la hauteur des trous pour les aimants
 		- 0.1mm devrait suffire pour éviter aux aimants de dépasser
 - ***
 - # Description
