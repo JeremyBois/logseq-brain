@@ -15,9 +15,9 @@ tags:: Ergonomie, Clavier, CAD
 		- Pas forcément nécessaire comme on abaisse le PCB de 1mm
 	- DOING Prévoir un trou / cassure dans la bordure pour supporter le PCB
 		- Nécessaire pour laisser la place pour le hotswap
-		- Pouce intérieur
-		- Pouce intérieur
-		- Petit doigt extérieur
+			- Pouce intérieur
+			- Pouce intérieur
+			- Petit doigt extérieur
 	- DONE Placer correctement les trous pour les têtes de vis au niveau de la top plate
 	- DOING Augmenter la hauteur des trous pour les aimants
 		- 0.1mm devrait suffire pour éviter aux aimants de dépasser
