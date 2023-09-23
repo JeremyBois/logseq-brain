@@ -1,12 +1,12 @@
-tags:: PCB, CAD, Projet 
+tags:: PCB, CAD, Projet, Clavier
 author:: #[[Jérémy Bois]]
 alias:: Ptechinos
 link:: [PCB](https://github.com/JeremyBois/Ptechinos) [Layout](https://github.com/JeremyBois/qmk-ptechinos)
 [[Feb 23rd, 2023]]
 ***
-{{namespace Ptechinos}}
-***
 
+- {{namespace Ptechinos}}
+  ***
 - # Tâches
 	- DONE Soucis lors l'envoi de certaines touches
 		- `e`  et `espace` sortent en double assez souvent
