@@ -7,6 +7,9 @@ link:: [PCB](https://github.com/JeremyBois/Ptechinos) [Layout](https://github.co
 
 - {{namespace Ptechinos}}
   ***
+- ↳ [[]]
+  {{namespace }}
+  ***
 - # Tâches
 	- DONE Soucis lors l'envoi de certaines touches
 		- `e`  et `espace` sortent en double assez souvent
