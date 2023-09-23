@@ -5,10 +5,8 @@ link:: [PCB](https://github.com/JeremyBois/Ptechinos) [Layout](https://github.co
 [[Feb 23rd, 2023]]
 ***
 
-- {{namespace Ptechinos}}
-  ***
 - ↳ [[]]
-  {{namespace }}
+  {{namespace Ptechinos}}
   ***
 - # Tâches
 	- DONE Soucis lors l'envoi de certaines touches
