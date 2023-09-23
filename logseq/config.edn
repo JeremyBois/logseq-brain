@@ -325,4 +325,6 @@
  :feature/enable-timetracking? false
  :ui/show-brackets? false
  :editor/preferred-pasting-file? false
+ :feature/enable-whiteboards? false
+ :feature/enable-flashcards? false
  }
