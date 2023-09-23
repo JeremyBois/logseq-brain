@@ -12,7 +12,7 @@ tags:: Ergonomie, Clavier, CAD
 		- Ajuster l'ouverture des deux pogos
 	- TODO Tenir compte de la sur-élévation des switch au niveau de la top plate
 		- Switch ~0.5mm plus haut
-		- Pas forcément
+		- Pas forcément nécessaire comme on a
 	- DOING Prévoir un trou / cassure dans la bordure pour supporter le PCB
 		- Nécessaire pour laisser la place pour le hotswap
 		- Pouce intérieur
