@@ -224,7 +224,7 @@
  :ref/linked-references-collapsed-threshold 50
 
  ;; Favorites to list on the left sidebar
- :favorites ["Clavier/Ptechinos" "Clavier/Echinos" "brainstorming" "adventures in ploopy-land" "Root/Todo" "Espritdog"]
+ :favorites ["Clavier/Ptechinos" "Clavier/Echinos" "adventures in ploopy-land" "Root/Todo" "Espritdog"]
 
  ;; any number between 0 and 1 (the greater it is the faster the changes of the next-interval of card reviews) (default 0.5)
  ;; :srs/learning-fraction 0.5
