@@ -3,7 +3,11 @@ author:: #JeremyBois
 alias:: Echinos
 link:: [Github](https://github.com/JeremyBois/Echinos)
 [[Apr 8th, 2023]]
+***
 
+- ↳ [[Clavier]]
+  {{namespace Echinos}}
+  ***
 - # Tâches
 	- TODO Support pour [[Clavier/VIK]]
 		- The interface includes the following signals (pin 0 to 12)
@@ -50,6 +54,14 @@ link:: [Github](https://github.com/JeremyBois/Echinos)
 	- TODO Communication #UART 2 fils entre les deux parties
 		- Permet la synchronisation bidirectionnelle avec #KMK
 		- Compatible aussi avec #QMK sans être nécessaire
+	- TODO Communication #UART 2 fils vers une puce #Bluetooth
+		- Communication vers téléphone / autre ordi
+		- Doit être possible de basculer entre #USB et #Bluetooth
+			- #QMK ou #KMK peut le faire ??
+	- TODO Encodeur à l'extérieur pour pas géner ??
+	- TODO Empreinte compatible avec
+		- [[Électronique/Choc mini]]
+		- [[Électronique/Choc]]
 - # Notes
 	- Couleurs
 		- Theme Zelda a link to the past

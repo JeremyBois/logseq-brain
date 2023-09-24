@@ -59,6 +59,7 @@ link:: [Github](https://github.com/JeremyBois/Echinos)
 		- Doit être possible de basculer entre #USB et #Bluetooth
 			- #QMK ou #KMK peut le faire ??
 	- TODO Encodeur à l'extérieur pour pas géner ??
+		- La position actuelle sur #Ptechinos est pas top car je l'active sans le vouloir
 	- TODO Empreinte compatible avec
 		- [[Électronique/Choc mini]]
 		- [[Électronique/Choc]]
@@ -90,19 +91,11 @@ link:: [Github](https://github.com/JeremyBois/Echinos)
 		- TODO Vérifier que ce n'est pas trop lent
 - # Options
   id:: 643164d9-b6fd-4277-8738-969734d6c1a0
+	- Voir les modules existants compatibles avec [[Clavier/VIK]]
 	- ## Trackball
 	  id:: 643164e5-3903-461b-aff9-67821e9128cb
 		- Composant [[Électronique/PMW3360DM-T2QU]]
 			- Utilisation de ((4d11a85a-63b7-437d-b681-b8b1550b686a))
-		- DONE Refaire le PCB pour le capteur
-			- [Ogen](https://github.com/JeremyBois/Ogen) n'a pas de distinction de voltage sur les différents VDD alors qu'il faudrait du 3.3V et du 1.9V pour être cohérent
-			- Régulateurs de courant
-				- Sortie ajustable
-					- [AP2127K-ADJTRG1](https://www.lcsc.com/product-detail/Linear-Voltage-Regulators-LDO_Diodes-Incorporated-AP2127K-ADJTRG1_C96343.html)
-						- Nécessite 2 résistances pour fixer la tension de sortie
-				- Sortie fixe :
-					- --> 1.9V [VRH1902LTX](https://www.lcsc.com/product-detail/Linear-Voltage-Regulators-LDO_AnaSem-VRH1902LTX_C697975.html)
-					- --> 3.3V [AP2127K-3-3TRG1](https://www.lcsc.com/product-detail/Linear-Voltage-Regulators-LDO_Diodes-Incorporated-AP2127K-3-3TRG1_C156285.html)
 	- ## Trackpad
 	  id:: 643164ec-6f86-4685-9537-a178db9b1195
 		- Composant [[Électronique/GlidePointCircle]]
@@ -112,5 +105,3 @@ link:: [Github](https://github.com/JeremyBois/Echinos)
 	- ## Joystick
 	  id:: 6431652d-420c-49e3-bad0-6aab3c916bc8
 	- ## LCD / OLED
-	-
-	-

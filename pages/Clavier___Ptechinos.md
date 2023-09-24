@@ -9,23 +9,31 @@ link:: [PCB](https://github.com/JeremyBois/Ptechinos) [Layout](https://github.co
   {{namespace Ptechinos}}
   ***
 - # Tâches
+	- DONE Prévoir plus de marge verticalement pour les switches au niveau des encodeurs
+		- Il doit être possible de retirer la *top plate* avec les switches soudés
+	- DONE Refaire le PCB pour le capteur #Kicad
+		- [Ogen](https://github.com/JeremyBois/Ogen) n'a pas de distinction de voltage sur les différents VDD alors qu'il faudrait du 3.3V et du 1.9V pour être cohérent
+		- Régulateurs de courant
+			- Sortie ajustable
+				- [AP2127K-ADJTRG1](https://www.lcsc.com/product-detail/Linear-Voltage-Regulators-LDO_Diodes-Incorporated-AP2127K-ADJTRG1_C96343.html)
+					- Nécessite 2 résistances pour fixer la tension de sortie
+			- Sortie fixe :
+				- --> 1.9V [VRH1902LTX](https://www.lcsc.com/product-detail/Linear-Voltage-Regulators-LDO_AnaSem-VRH1902LTX_C697975.html)
+				- --> 3.3V [AP2127K-3-3TRG1](https://www.lcsc.com/product-detail/Linear-Voltage-Regulators-LDO_Diodes-Incorporated-AP2127K-3-3TRG1_C156285.html)
+	- DONE Solutions pour un soucis de tracking #Trackball #QMK
+		- Vérifier la distance capteur/balle
+		- Modifier `PMW33XX_LIFTOFF_DISTANCE`
+		- [Reddit](https://www.reddit.com/r/ErgoMechKeyboards/comments/12x70nm/any_instructions_how_to_configure_trackball_via/)
 	- DONE Soucis lors l'envoi de certaines touches
 		- `e`  et `espace` sortent en double assez souvent
 		- Observé sur Windows avec la version **0.6** avec #Promicro
 		- Non observée sur la version v0.69 avec #RP2040
 	- DONE Implémenter le code pour le support des périphérique de pointage
+	- DONE Souder le pont JP1 pour ajouter la ((64287c00-cf70-4201-b24f-a0efe78451bb)) sur la ligne MISO #Trackball
+		- [Github Ogen PCB](https://github.com/JeremyBois/Ogen)
+		- [MISO peut être flottant car contrôlée par l'esclave uniquement](https://electronics.stackexchange.com/a/234707)
 	- DONE Adoucir le son du Clavier #Foam
 	  id:: 64da80fd-a516-476c-b4a9-8cb1c58996eb
-		- Applications
-			- [Au niveau des switches](https://switchandclick.com/pe-foam-mod/)
-				- Réduction de la transmission des vibrations
-				- Feuilles <= 1mm (0.5mm de préférence)
-				- Stickers
-					- [Switch pads 0.5mm | EVA / Poron / PE](https://www.amazon.fr/gp/product/B09SZ52G7S/ref=ppx_od_dt_b_asin_title_s00?ie=UTF8&th=1)
-			- Sous le PCB
-				- Réduction de l'effet caisson de résonance
-				- Liège ou mousse <=2mm
-					- [EVA 1 ou 2mm](https://www.amazon.fr/dp/B09T95JBF5/ref=pe_27091421_487052621_TE_item?th=1)
 		- Matériaux
 			- Éthylène-acétate de vinyle (EVA)
 				- Très bonne atténuation
@@ -45,63 +53,3 @@ link:: [PCB](https://github.com/JeremyBois/Ptechinos) [Layout](https://github.co
 				- **Odorant**
 			- Liège
 				- Naturel
-- # Boitier
-	- ## Fixation sandwich (plaques entre elles)
-		- Utiliser des aimants pour faire tenir les différentes plates entre elles
-			- Épaisseur des aimants pour **rigidifier** l'ensemble #PCB / `top plate`
-				- Éviter que la `top plate` se déclipse
-				- Éviter de voir la tête de vis dépasser
-			- Simplifie l'assemblage et la maintenance
-		- Utiliser des vis / entretoise en nilon en taille **M3**
-			- Tête de vis au dessus du #PCB et fixé dans le boitier suivant deux options :
-				- Entretoise directement dans le modèle 3D du boitier
-					- Aspect monobloc non dépendant de pièces externes
-				- Entretoise collée sur le fond du boitier
-					- Permet de simplifier la réparation si besoin par la suite
-					- Nécessite des entretoises externes
-			- Épaisseur de la tête pour **rigidifier** l'ensemble #PCB / `top plate`
-				- Éviter que la `top plate` se déclipse
-				- Éviter de voir la tête de vis dépasser
-	- Laisser plus de place sur la *top plate* au niveau des encodeurs
-		- Permet de laisser passer les switches qui doivent êtres soudés
-- # Firmware
-	- ## Commun
-		- Flasher --> `qmk flash`
-			- Promicro
-				- Directement possible
-			- RP2040
-				- Basculer le clavier en mode *bootloader*
-				- Monter le clavier comme un disque dur
-		- Compilation customisable :
-			- Utiliser l'option `-n` pour afficher la commande #Make correspondante utilisable comme base
-				- `qmk compile -kb ptechinos/2040 -km default -n` --> `make --jobs=1 ptechinos/2040:default`
-			- Utiliser directement la commande `make` en se plaçant directement dans le dossier  racine (*qmk_firmware*)
-			- **EE_HANDS**
-				- `make --jobs=1 ptechinos/2040:default:uf2-split-right trackball=true`
-				- `make --jobs=1 ptechinos/2040:default:uf2-split-left trackpad=true`
-			- **#define MASTER_RIGHT**
-				- `make --jobs=1 ptechinos/2040:default trackball=true`
-			- **#define MASTER_LEFT**
-				- `make --jobs=1 ptechinos/2040:default trackpad=true`
-	- [Auto mouse layer](https://github.com/qmk/qmk_firmware/blob/master/docs/feature_pointing_device.md#automatic-mouse-layer-idpointing-device-auto-mouse)
-		- Permet d'activer une couche quand on utilise le #Trackpad ou la #Trackball
-		- Permet de d'ajouter les clics de souris ou autres outils de navigation
-- # Layout
-	- *Shift* avec ((640bbca1-3642-48bf-a8a9-57c18d9f0ea3))
-		- Gauche --> `S+F`
-		- Droite    --> `J+L`
-		- Avantages :
-			- Éviter un *mod tap*
-			- Réduit l'utilisation du petit doigt
-			- Simplifier la navigation
-				- Debug #Unity
-				- Jeux
-			- Force l'utilisation des deux mains
-	- ## Combos
-		- Combiner plusieurs touches en même temps
-		- Ressources
-			- [Combos pour les modificateurs](https://jasoncarloscox.com/blog/combo-mods/)
-- # Trackball
-	- DONE Souder le pont JP1 pour ajouter la ((64287c00-cf70-4201-b24f-a0efe78451bb)) sur la ligne MISO
-		- [Github Ogen PCB](https://github.com/JeremyBois/Ogen)
-		- [MISO peut être flottant car contrôlée par l'esclave uniquement](https://electronics.stackexchange.com/a/234707)
