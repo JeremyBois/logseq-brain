@@ -1,3 +1,33 @@
 - #+BEGIN_WARNING
   **Document partagé entre les différents claviers pour regrouper/tagger les idées**
   #+END_WARNING
+- DOING Trouver une alternative aux #Électronique/TRRS pour éviter des courts circuits lors de la connexion/déconnexion
+	- [Pogo / usb / hdmi](https://www.reddit.com/r/ErgoMechKeyboards/comments/16spm1h/magnetic_pogo_pinned_halves/)
+	- #Électronique/RJ
+		- 😁 Disponible partout
+		- 😁 Système de vérouillage
+		- Empreinte moyenne sur le PCB (RJ11, RJ12, RJ25)
+		- Simple à souder
+		- 4/6/... pins
+	- #Électronique/Sata
+		- 😁 Système de vérouillage
+		- Empreinte moyenne sur le PCB
+			- 18x12x5
+		- Simple à souder
+		- 7 pins
+	- #Électronique/USB
+		- 😁 Empreinte faible sur le PCB
+		- 😁 Disponible partout même si un double mini C est plus rare
+		- 🤬 Possible de confondre avec la connexion vers l'ordinateur
+		- 🤬 Pas de système de verouillage
+		- 😁 Empreinte faible sur le PCB
+		- 24 pins
+			- Réversible donc 12 pins indépendants en fait
+	- #Électronique/HDMI
+		- 😁 Disponible partout même si un double mini est plus rare
+		- 🤬 Pas de système de verouillage
+		- Empreinte  sur le PCB
+			- Normal --> 15x12x5 (empreinte moyenne)
+			- Mini --> 12x8x3 (empreinte faible)
+		- Complexe à souder
+		- 19 pins
