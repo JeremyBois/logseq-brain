@@ -3,12 +3,6 @@
   #+END_WARNING
 - DOING Trouver une alternative aux #Électronique/TRRS pour éviter des courts circuits lors de la connexion/déconnexion
 	- [Pogo / usb / hdmi](https://www.reddit.com/r/ErgoMechKeyboards/comments/16spm1h/magnetic_pogo_pinned_halves/)
-	- #Électronique/RJ
-		- 😁 Disponible partout
-		- 😁 Système de vérouillage
-		- Empreinte moyenne sur le PCB (RJ11, RJ12, RJ25)
-		- Simple à souder
-		- 4/6/... pins
 	- #Électronique/Sata
 		- 😁 Système de vérouillage
 		- Empreinte moyenne sur le PCB
@@ -17,7 +11,25 @@
 		- 7 pins
 		- Composants
 			- [LCSC](https://www.lcsc.com/product-detail/Card-Edge-Connectors_HOAUC-HYCW02-SATA07-250B_C2926811.html)
-			-
+			- [Mouser](https://www.mouser.fr/ProductDetail/Amphenol-Commercial-Products/SAT3M2132072TR?qs=BJlw7L4Cy79UIEFM%252B6D1uw%3D%3D)
+			- [Aliexpress](https://fr.aliexpress.com/w/wholesale-sata-female-pcb-smd.html?catId=0&initiative_id=SB_20230929041416&SearchText=sata+female+pcb+smd&spm=a2g0o.productlist.1000002.0)
+	- #Électronique/HDMI
+		- 😁 Disponible partout même si un double mini est plus rare
+		- 🤬 Pas de système de verouillage même si il existe des modules pour le permettre
+		- Empreinte  moyenne sur le PCB
+			- Normal --> 15x12x5 (empreinte moyenne)
+			- Mini --> 12x8x3 (empreinte faible)
+		- Complexe à souder
+		- 19 pins
+		- Composants
+			- [Aliexpress](https://fr.aliexpress.com/w/wholesale-mini-hdmi-femelle-smd.html?catId=0&initiative_id=SB_20230929024854&SearchText=mini+hdmi+femelle+smd&spm=a2g0o.productlist.1000002.0)
+	- #Électronique/RJ
+		- 😁 Disponible partout
+		- 😁 Système de vérouillage
+		- 🤬 Empreinte importante sur le PCB (RJ11, RJ12, RJ25)
+			- 13x18x12
+		- Simple à souder
+		- 4/6/... pins
 	- #Électronique/USB
 		- 😁 Empreinte faible sur le PCB
 		- 😁 Disponible partout même si un double mini C est plus rare
@@ -26,11 +38,3 @@
 		- 😁 Empreinte faible sur le PCB
 		- 24 pins
 			- Réversible donc 12 pins indépendants en fait
-	- #Électronique/HDMI
-		- 😁 Disponible partout même si un double mini est plus rare
-		- 🤬 Pas de système de verouillage
-		- Empreinte  sur le PCB
-			- Normal --> 15x12x5 (empreinte moyenne)
-			- Mini --> 12x8x3 (empreinte faible)
-		- Complexe à souder
-		- 19 pins
