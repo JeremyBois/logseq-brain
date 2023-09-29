@@ -1,3 +1,3 @@
-- alias::
-  [[Sep 29th, 2023]]
-  ***
+alias:: Cross Platform, MultiPlatform, Multi Platform
+[[Sep 29th, 2023]]
+***
