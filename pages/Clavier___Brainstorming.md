@@ -15,22 +15,26 @@
 			- [Aliexpress](https://fr.aliexpress.com/w/wholesale-sata-female-pcb-smd.html?catId=0&initiative_id=SB_20230929041416&SearchText=sata+female+pcb+smd&spm=a2g0o.productlist.1000002.0)
 	- #Électronique/HDMI
 		- 😁 Disponible partout même si un double mini est plus rare
-		- 🤬 Pas de système de verouillage même si il existe des modules pour le permettre
+		- 🤬 Pas de système de verouillage
+			- Il existe des modules pour le permettre
 		- Empreinte  moyenne sur le PCB
 			- Normal --> 15x12x5 (empreinte moyenne)
 			- Mini --> 12x8x3 (empreinte faible)
 		- Complexe à souder
 		- 19 pins
 		- Composants
-			- [Aliexpress](https://fr.aliexpress.com/w/wholesale-mini-hdmi-femelle-smd.html?catId=0&initiative_id=SB_20230929024854&SearchText=mini+hdmi+femelle+smd&spm=a2g0o.productlist.1000002.0)
-	- #Électronique/RJ
+			- [Aliexpress (mini)](https://fr.aliexpress.com/w/wholesale-mini-hdmi-femelle-smd.html?catId=0&initiative_id=SB_20230929024854&SearchText=mini+hdmi+femelle+smd&spm=a2g0o.productlist.1000002.0)
+			- [Aliexpress (normal)](https://fr.aliexpress.com/w/wholesale-hdmi-femelle-smd.html?catId=0&initiative_id=SB_20230929042109&SearchText=hdmi+femelle+smd&spm=a2g0o.productlist.1000002.0)
+	- ~~#[[Électronique/RJ]]~~
 		- 😁 Disponible partout
 		- 😁 Système de vérouillage
 		- 🤬 Empreinte importante sur le PCB (RJ11, RJ12, RJ25)
 			- 13x18x12
 		- Simple à souder
 		- 4/6/... pins
-	- #Électronique/USB
+		- Composants
+			- [Aliexpress](https://fr.aliexpress.com/item/1005004000121018.html)
+	- ~~#[[Électronique/USB]]~~
 		- 😁 Empreinte faible sur le PCB
 		- 😁 Disponible partout même si un double mini C est plus rare
 		- 🤬 Possible de confondre avec la connexion vers l'ordinateur
