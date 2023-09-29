@@ -34,7 +34,7 @@
 		- 4/6/... pins
 		- Composants
 			- [Aliexpress](https://fr.aliexpress.com/item/1005004000121018.html)
-	- ~~#[[Électronique/USB]]~~
+	- ~~#[[Électronique/USB]] (trop similaire avec l'alimentation)~~
 		- 😁 Empreinte faible sur le PCB
 		- 😁 Disponible partout même si un double mini C est plus rare
 		- 🤬 Possible de confondre avec la connexion vers l'ordinateur
