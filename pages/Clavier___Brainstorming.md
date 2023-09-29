@@ -4,7 +4,7 @@
 - DOING Trouver une alternative aux #Électronique/TRRS pour éviter des courts circuits lors de la connexion/déconnexion
 	- [Pogo / usb / hdmi](https://www.reddit.com/r/ErgoMechKeyboards/comments/16spm1h/magnetic_pogo_pinned_halves/)
 	- #Électronique/Sata
-		- 😁 Système de vérouillage
+		- 😁 Système de vérrouillage
 		- Empreinte moyenne sur le PCB
 			- 18x12x5
 		- Simple à souder
@@ -15,7 +15,7 @@
 			- [Aliexpress](https://fr.aliexpress.com/w/wholesale-sata-female-pcb-smd.html?catId=0&initiative_id=SB_20230929041416&SearchText=sata+female+pcb+smd&spm=a2g0o.productlist.1000002.0)
 	- #Électronique/HDMI
 		- 😁 Disponible partout même si un double mini est plus rare
-		- 🤬 Pas de système de verouillage
+		- 🤬 Pas de système de vérrouillage
 			- Il existe des modules pour le permettre
 		- Empreinte  moyenne sur le PCB
 			- Normal --> 15x12x5 (empreinte moyenne)
@@ -25,9 +25,9 @@
 		- Composants
 			- [Aliexpress (mini)](https://fr.aliexpress.com/w/wholesale-mini-hdmi-femelle-smd.html?catId=0&initiative_id=SB_20230929024854&SearchText=mini+hdmi+femelle+smd&spm=a2g0o.productlist.1000002.0)
 			- [Aliexpress (normal)](https://fr.aliexpress.com/w/wholesale-hdmi-femelle-smd.html?catId=0&initiative_id=SB_20230929042109&SearchText=hdmi+femelle+smd&spm=a2g0o.productlist.1000002.0)
-	- ~~#[[Électronique/RJ]]~~
+	- ~~#[[Électronique/RJ]] (trop haut)~~
 		- 😁 Disponible partout
-		- 😁 Système de vérouillage
+		- 😁 Système de vérrouillage
 		- 🤬 Empreinte importante sur le PCB (RJ11, RJ12, RJ25)
 			- 13x18x12
 		- Simple à souder
@@ -38,7 +38,7 @@
 		- 😁 Empreinte faible sur le PCB
 		- 😁 Disponible partout même si un double mini C est plus rare
 		- 🤬 Possible de confondre avec la connexion vers l'ordinateur
-		- 🤬 Pas de système de verouillage
+		- 🤬 Pas de système de vérrouillage
 		- 😁 Empreinte faible sur le PCB
 		- 24 pins
 			- Réversible donc 12 pins indépendants en fait
