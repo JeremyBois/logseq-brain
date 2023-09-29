@@ -15,6 +15,9 @@
 			- 18x12x5
 		- Simple à souder
 		- 7 pins
+		- Composants
+			- [LCSC](https://www.lcsc.com/product-detail/Card-Edge-Connectors_HOAUC-HYCW02-SATA07-250B_C2926811.html)
+			-
 	- #Électronique/USB
 		- 😁 Empreinte faible sur le PCB
 		- 😁 Disponible partout même si un double mini C est plus rare
