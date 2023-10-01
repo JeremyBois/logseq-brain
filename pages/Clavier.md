@@ -1,9 +1,8 @@
 alias:: Claviers, Keyboard, Keyboards
 
 - # Ressources
-	- [[kbd.news]]
+	- [[Kbd.news]]
 	- [[ErgoMechKeyboard]]
-	-
 - # Magasins
 	- [[Splitkb]]
 	-
