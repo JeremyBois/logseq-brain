@@ -1,5 +1,10 @@
 alias:: Claviers, Keyboard, Keyboards
 
-- ***
-  {{namespace Clavier}}
-  **
+- # Ressources
+	- [[kbd.news]]
+	- [[ErgoMechKeyboard]]
+	-
+- # Magasins
+	- [[Splitkb]]
+	-
+	-
