@@ -30,7 +30,9 @@ link::
 - Maintenable
 	- Outil adapté à différentes tailles de cerveaux
 	- Pouvoir modifier en batches (propriété, hierarchie, ...)
-	- [[Programming/Markdown]] ou [[Programming/reStructedText]] pour le texte
+	- Format pour le texte
+		- [[Programmation/Markdown]]
+		- [[Programmation/AsciiDoc]]
 	- Annulation des opérations ??
 - Utilisable
 	- Chargement rapide
