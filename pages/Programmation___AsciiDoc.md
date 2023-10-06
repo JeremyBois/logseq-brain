@@ -6,4 +6,5 @@ link:: [Officiel](https://asciidoc.org/)
 
 - Alternative au [[Programmation/Markdown]] avec plus d'expressivité sans extensions
 	- Admonitions
+	- Table des matières
 	-
