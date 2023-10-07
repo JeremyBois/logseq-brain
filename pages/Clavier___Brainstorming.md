@@ -1,7 +1,7 @@
 - #+BEGIN_WARNING
   **Document partagé entre les différents claviers pour regrouper/tagger les idées**
   #+END_WARNING
-- DOING Trouver une alternative aux #Électronique/TRRS pour éviter des courts circuits lors de la connexion/déconnexion
+- DONE Trouver une alternative aux #Électronique/TRRS pour éviter des courts circuits lors de la connexion/déconnexion
 	- [Pogo / usb / hdmi](https://www.reddit.com/r/ErgoMechKeyboards/comments/16spm1h/magnetic_pogo_pinned_halves/)
 	- #Électronique/Sata
 		- 😁 Système de vérrouillage
@@ -13,7 +13,7 @@
 			- [LCSC](https://www.lcsc.com/product-detail/Card-Edge-Connectors_HOAUC-HYCW02-SATA07-250B_C2926811.html)
 			- [Mouser](https://www.mouser.fr/ProductDetail/Amphenol-Commercial-Products/SAT3M2132072TR?qs=BJlw7L4Cy79UIEFM%252B6D1uw%3D%3D)
 			- [Aliexpress](https://fr.aliexpress.com/w/wholesale-sata-female-pcb-smd.html?catId=0&initiative_id=SB_20230929041416&SearchText=sata+female+pcb+smd&spm=a2g0o.productlist.1000002.0)
-	- #Électronique/HDMI
+	- ~~#[[Électronique/HDMI]]~~
 		- 😁 Disponible partout même si un double mini est plus rare
 		- 🤬 Pas de système de vérrouillage
 			- Il existe des modules pour le permettre
