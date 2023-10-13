@@ -2,7 +2,8 @@
   **Document partagé entre les différents claviers pour regrouper/tagger les idées**
   #+END_WARNING
 - DONE Trouver une alternative aux #Électronique/TRRS pour éviter des courts circuits lors de la connexion/déconnexion
-	- [Pogo / usb / hdmi](https://www.reddit.com/r/ErgoMechKeyboards/comments/16spm1h/magnetic_pogo_pinned_halves/)
+	- Ressources
+		- [Pogo / usb / hdmi](https://www.reddit.com/r/ErgoMechKeyboards/comments/16spm1h/magnetic_pogo_pinned_halves/)
 	- #Électronique/Sata
 		- 😁 Système de vérrouillage
 		- Empreinte moyenne sur le PCB
@@ -12,8 +13,9 @@
 		- Composants
 			- [LCSC](https://www.lcsc.com/product-detail/Card-Edge-Connectors_HOAUC-HYCW02-SATA07-250B_C2926811.html)
 			- [Mouser](https://www.mouser.fr/ProductDetail/Amphenol-Commercial-Products/SAT3M2132072TR?qs=BJlw7L4Cy79UIEFM%252B6D1uw%3D%3D)
-			- [Aliexpress](https://fr.aliexpress.com/w/wholesale-sata-female-pcb-smd.html?catId=0&initiative_id=SB_20230929041416&SearchText=sata+female+pcb+smd&spm=a2g0o.productlist.1000002.0)
-	- ~~#[[Électronique/HDMI]]~~
+			- [Aliexpress (Connecteur)](https://fr.aliexpress.com/w/wholesale-sata-female-pcb-smd.html?catId=0&initiative_id=SB_20230929041416&SearchText=sata+female+pcb+smd&spm=a2g0o.productlist.1000002.0)
+			- [Aliexpress (Cables)](https://fr.aliexpress.com/item/1005002737010868.html?spm=a2g0n.productlist.0.0.4c9a5453n5maoQ&browser_id=c03b3c4f3c1d49c486e3e61e6c93ca60&aff_platform=msite&m_page_id=pmdhpyigobasochc18ae5627105171f293462196d7&gclid=&pdp_npi=4%40dis%21EUR%2114.38%214.64%21%21%21108.30%21%21%40211b801b16960655485365018eb7b1%2112000022125695288%21sea%21FR%210%21AB&algo_pvid=f223f1ec-9ce9-46bd-b05e-670340bef8f0)
+	- ~~#[[Électronique/HDMI]] (cher et sans vérouillage)~~
 		- 😁 Disponible partout même si un double mini est plus rare
 		- 🤬 Pas de système de vérrouillage
 			- Il existe des modules pour le permettre

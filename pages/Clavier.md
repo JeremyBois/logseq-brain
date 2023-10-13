@@ -1,7 +1,8 @@
 tags:: Électronique
 alias:: Claviers, Keyboard, Keyboards
-***
 
-- {{namespace Clavier}}
-  ***
--
+- # Ressources
+  - [[Kbd.news]]
+  - [[ErgoMechKeyboard]]
+- # Magasins
+  - [[Splitkb]]
