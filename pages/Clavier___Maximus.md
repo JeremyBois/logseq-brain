@@ -6,5 +6,5 @@ link:: [kbd.news](https://kbd.news/Maximus-2124.html)
 
 - ![Clavier Maximus](https://kbd.news/pic/2023/202309/2124.jpg)
 - Clavier ergonomique unsplit avec un large trackpad au milieu
-	- [[Électronique/ProxSense]]
+	- [[Azotec/ProxSense]]
 -

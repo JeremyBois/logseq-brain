@@ -7,5 +7,5 @@ link:: [Official](https://bastardkb.com/product/dilemma/)
   id:: 643904c4-c11b-4aae-8649-8efe8a50a314
 	- Compatible avec système d'inclinaison magnétique
 	- #Trackpad sur la partie droite
-	- Support pour [[Électronique/Choc]] et [[Electronique/MX]]
+	- Support pour [[Kailh/Choc V1]] et [[Electronique/MX]]
 	- [Kbd.news](https://kbd.news/Dilemma-v2-1968.html

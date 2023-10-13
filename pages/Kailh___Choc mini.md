@@ -1,4 +1,4 @@
-tags:: #Switch 
+tags:: Switch, Électronique
 alias:: CPG123201D01, PG1232
 author:: #Kailh
 link:: [Officiel](https://www.kailhswitch.com/mechanical-keyboard-switches/low-profile-key-switches/dip-brown-key-switches.html)

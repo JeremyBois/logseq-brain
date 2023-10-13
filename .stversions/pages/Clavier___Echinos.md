@@ -56,7 +56,7 @@ link:: [Github](https://github.com/JeremyBois/Echinos)
 		- Compatible aussi avec #QMK sans être nécessaire
 	- TODO Communication #UART 2 fils vers une puce #Bluetooth
 		- Communication vers téléphone / autre ordi
-		- Doit être possible de basculer entre #USB et #Bluetooth
+		- Doit être possible de basculer entre #Électronique/USB et #Bluetooth
 			- #QMK ou #KMK peut le faire ??
 	- TODO Encodeur à l'extérieur pour pas géner ??
 		- La position actuelle sur #Ptechinos est pas top car je l'active sans le vouloir

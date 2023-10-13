@@ -4,7 +4,7 @@ tags:: Ergonomie, Clavier, CAD, Acoustique
 
 - ↳ [[Ptechinos]] 
   ***
-- # Tâches
+- # Boitier
 	- DOING Réduire l'espace entre le bas du boitier et le PCB
 		- Espace inutile voir négatif pour la qualité sonore
 		- **Réduction de 1mm**
@@ -25,6 +25,18 @@ tags:: Ergonomie, Clavier, CAD, Acoustique
 	- DONE Entretoise collée sur le fond du boitier
 		- Nécessite des entretoises externes
 - ***
+- # Support
+	- TODO Ajouter des entretoises sur la plaque fixée au bras articulé
+		- Complémentaire aux aimants
+		- Évite un glissement même si le support est vertical
+		- Renforce la stabilité et le maintien en forçant l'emplacement du boitier
+	- TODO Utiliser des aimants plus puissants sur le bas du boitier (N34 --> N42'
+		- Amélioration de la force d'attraction
+	- TODO Utiliser un anti-dérapant plus fin sur le bas du boitier
+		- Amélioration de la force d'attraction
+	-
+- id:: 650fe9aa-70ba-4455-9dc5-3aa07635e51c
+  ***
 - # Description
 - ## Isolation phonique
 	- **Ressources**

@@ -1,5 +1,5 @@
-tags:: Echinos
-alias:: Processeur, Co-processeur, Électronique/Processor, Électronique/Co-processeur
+tags:: Électronique
+alias:: MCU, Co-processeur, Processor, Co-processor
 [[Jun 19th, 2023]]
 ***
 
@@ -9,3 +9,4 @@ alias:: Processeur, Co-processeur, Électronique/Processor, Électronique/Co-pro
 	  id:: 64a3cf65-4ea1-4ed8-98f5-d252b08075f1
 	- Connection #SPI + 2 pins
 	- Support #Bluetooth (BLE) et #Wifi (pas en même temps)
+-
