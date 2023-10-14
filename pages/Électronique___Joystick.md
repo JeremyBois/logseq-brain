@@ -15,4 +15,4 @@ link::
 		- [Produit](https://www.sparkfun.com/products/9032) #Sparkfun
 	- Joycon (Analogique + bouton)
 		- [Pinout](https://duckduckgo.com/?q=nintendo+switch+joystick+pinout&t=fpas&iax=images&ia=images&iai=https%3A%2F%2Fi.imgur.com%2FpoXB8EP.jpg&pn=1)
-	-
+		-

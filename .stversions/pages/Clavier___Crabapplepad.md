@@ -8,4 +8,3 @@ link:: [Blog](https://kumekay.com/crabapplepad/) [Github](https://github.com/kum
 	- Porte téléphone
 	- Pliable
 	- Utilise des switch [[Kailh/X]]
--

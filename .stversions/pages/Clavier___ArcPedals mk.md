@@ -6,7 +6,7 @@ link:: [Reddit](https://www.reddit.com/r/ErgoMechKeyboards/comments/15wlq02/arcp
 - ↳ [[Clavier]]
   {{namespace }}
   ***
-- #Joystick (configuré comme un #Dpad)
+- #Joystick (cofiguré comme un #Dpad)
 - #Trackball au niveau du cluster pour le pouce
 - Touches pour les pieds (3 par pied)
 - Dépôts #Github
