@@ -3,11 +3,8 @@ alias:: Joystick
 link::
 
 - # Modèles
-	- #[[K-silver]]
-		- [JP19](http://www.k-silver.com/e_products/?big_id=49&small_id=27)
-			- Caractéristiques
-				- Existe en plusieurs variations
-				- 16.2mm x 19mm x 13.68mm
+	- #[[K-Silver]]
+		- [[KSilver/JP19]]
 		- [JH19](http://www.k-silver.com/html_products/JH19-845.html)
 			- Caractéristiques
 				- Similaire au Joycon
