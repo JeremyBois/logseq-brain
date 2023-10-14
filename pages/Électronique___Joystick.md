@@ -1,4 +1,4 @@
-tags:: Analogique
+tags:: Analogique, HallEffect
 alias:: Joystick
 link::
 
@@ -21,11 +21,13 @@ link::
 	- PS2 (Analogique + bouton)
 		- [Produit](https://www.sparkfun.com/products/9032) #Sparkfun
 	- Joycon (Analogique + bouton)
-		- Caractéristiques
-			- [Pinout](https://bitbuilt.net/forums/index.php?threads/nintendo-switch-joysticks-on-other-consoles.2225/)
-			- 33mm x 22mm x 15mm
-			- Contacts en carbone et non en cuivre
-				- Ne peut pas être soudé
-				- Nécessite un connecteur #FFC
-		- Acheter
+		- Modèle hall effect
+			- [Gulikit](https://www.gulikit.com/productinfo/945307.html)
+		- Modèle analogique original
 			- [Aliexpress](https://fr.aliexpress.com/item/4001209760173.html)
+			- Caractéristiques
+				- [Pinout](https://bitbuilt.net/forums/index.php?threads/nintendo-switch-joysticks-on-other-consoles.2225/)
+				- 33mm x 22mm x 15mm
+				- Contacts en carbone et non en cuivre
+					- Ne peut pas être soudé
+					- Nécessite un connecteur #FFC
