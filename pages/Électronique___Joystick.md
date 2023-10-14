@@ -4,7 +4,14 @@ link::
 
 - # Modèles
 	- #[[K-silver]]
-		- http://www.k-silver.com/e_products/?big_id=49&small_id=27
+		- [JP19](http://www.k-silver.com/e_products/?big_id=49&small_id=27)
+			- Caractéristiques
+				- Existe en plusieurs variations
+				- 16.2mm x 19mm x 13.68mm
+		- [JH19](http://www.k-silver.com/html_products/JH19-845.html)
+			- Caractéristiques
+				- Similaire au Joycon
+				- 17mm x 19mm x 13.38mm (hors #FFC)
 	- PSP (Analogique)
 		- [PSP1000](https://www.sparkfun.com/products/9426) #Sparkfun
 			- [PSP Joystick Project (PART ONE)](https://mechail.wordpress.com/2009/04/23/psp-joystick-project-part-one/)
@@ -14,5 +21,11 @@ link::
 	- PS2 (Analogique + bouton)
 		- [Produit](https://www.sparkfun.com/products/9032) #Sparkfun
 	- Joycon (Analogique + bouton)
-		- [Pinout](https://duckduckgo.com/?q=nintendo+switch+joystick+pinout&t=fpas&iax=images&ia=images&iai=https%3A%2F%2Fi.imgur.com%2FpoXB8EP.jpg&pn=1)
-		-
+		- Caractéristiques
+			- [Pinout](https://bitbuilt.net/forums/index.php?threads/nintendo-switch-joysticks-on-other-consoles.2225/)
+			- 33mm x 22mm x 15mm
+			- Contacts en carbone et non en cuivre
+				- Ne peut pas être soudé
+				- Nécessite un connecteur #FFC
+		- Acheter
+			- [Aliexpress](https://fr.aliexpress.com/item/4001209760173.html)
