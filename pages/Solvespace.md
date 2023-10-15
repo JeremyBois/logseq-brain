@@ -8,3 +8,6 @@ link:: [Officiel](https://solvespace.com/index.pl)
 - Support pour format CAD / mesh
 - [Comparaison avec Freecad](https://hackaday.com/2020/07/16/freecad-vs-solvespace/)
 	- Article + Vidéo
+- Ressources pour apprendre
+	- [Learn 3D Design with SolveSpace (Paul Lutus)](https://www.youtube.com/watch?v=IlY1YFid8HA)
+	-
