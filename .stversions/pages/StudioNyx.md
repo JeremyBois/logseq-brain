@@ -44,15 +44,7 @@ link:: https://www.studio-nyx.com/
 				- Supplémentaires : 5
 				- Récupération : 0
 				- Cumul : 4.5
-			- Août
+			- Août (en cours)
 				- Supplémentaires : 5.75
 				- Récupération : 0
 				- Cumul : 10.25
-			- Septembre
-				- Supplémentaires : 5.75
-				- Récupération : 0
-				- Cumul : 16
-			- Octobre
-				- Supplémentaires :
-				- Récupération :
-				- Cumul :
