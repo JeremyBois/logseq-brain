@@ -12,16 +12,11 @@
 				- Debug #Unity
 				- Jeux
 			- Force l'utilisation des deux mains
-	- Raccourcis communs dans NAV
-		- Basculer C-v, C-c, C-z, C-y à droite
-			- Une paire la home row
-			- Une paire sur la bottom
-			- Bouger MB4 et MB5
-			- Descendre PgDown
-			- Virer Win-tab (utilise jamais)
-			- Virer A-tab et C-tab à droite (utilise jamais)
+	- DONE Rendre facile d'accès les raccourcis courants
+		- Redo | Undo | Copy | Paste| Cut
 	- Ajouter les symboles peu communs
-		- Lettres grecques
+		- DONE Lettres grecques dans une couche à part
+			- Ajout du support pour les caractères unicodes dans #QMK
 		- « »
 		- ℕ ℝ ℤ ℚ ℂ
 		- ∅ ∞ ∧ ⊥ ∨ ⊗
