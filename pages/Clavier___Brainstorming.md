@@ -1,3 +1,7 @@
+tags:: Clavier
+[[Oct 24th, 2023]]
+***
+
 - #+BEGIN_WARNING
   **Document partagé entre les différents claviers pour regrouper/tagger les idées**
   #+END_WARNING

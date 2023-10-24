@@ -61,8 +61,16 @@ link:: [Github](https://github.com/JeremyBois/Echinos)
 	- TODO Encodeur à l'extérieur pour pas géner ??
 		- La position actuelle sur #Ptechinos est pas top car je l'active sans le vouloir
 	- TODO Empreinte compatible avec
-		- [[Électronique/Choc mini]]
-		- [[Électronique/Choc]]
+		- [[Kailh/Choc mini]]
+		- [[Kailh/Choc V1]]
+	- TODO Améliorer la position de l'USB et du microcontrolleur
+		- USB à gauche au dessus du petit doigt externe
+			- Orienté vers le haut si possible
+		- Microcontrolleur au centre en bas
+			- Au niveau de la paume de la main
+		- Libère toute la partie à droite (interne) pour   mettre les modules
+			- Pogo + aimants
+			- FPC (voir #Clavier/VIK)
 - # Notes
 	- Couleurs
 		- Theme Zelda a link to the past
@@ -80,9 +88,9 @@ link:: [Github](https://github.com/JeremyBois/Echinos)
 			- Évite l'effet yoyo quand on veut modifier la position des switches
 	- Électronique --> #Kicad
 		- #PCB non **réversible** mais **symmétrique**
-		- Empreintes pour [[Électronique/Choc]] et [[Électronique/Choc mini]]
+		- Empreintes pour [[Kailh/Choc V1]] et [[Kailh/Choc mini]]
 		- Utiliser des [[Registre à décalage]] ((64282b87-401d-4557-9f0c-7dfb1bf57497)) pour gérer les colonnes
-		- Utiliser un [[Électronique/RP2040 zero]]
+		- Utiliser un [[Waveshare/RP2040 zero]]
 			- Prend pas de place
 			- Expose de nombreux pins
 	- Valider la compatibilité avec #KMK
@@ -94,14 +102,14 @@ link:: [Github](https://github.com/JeremyBois/Echinos)
 	- Voir les modules existants compatibles avec [[Clavier/VIK]]
 	- ## Trackball
 	  id:: 643164e5-3903-461b-aff9-67821e9128cb
-		- Composant [[Électronique/PMW3360DM-T2QU]]
+		- Composant [[Pixar/PMW3360DM-T2QU]]
 			- Utilisation de ((4d11a85a-63b7-437d-b681-b8b1550b686a))
 	- ## Trackpad
 	  id:: 643164ec-6f86-4685-9537-a178db9b1195
-		- Composant [[Électronique/GlidePointCircle]]
+		- Composant [[Cirque/GlidePointCircle]]
 	- ## Encodeur
 	  id:: 643164f0-772b-41a5-909e-0525e4fc0b1f
-		- Composant [[Électronique/EVQWGD001]]
+		- Composant [[Panasonic/EVQWGD001]]
 	- ## Joystick
 	  id:: 6431652d-420c-49e3-bad0-6aab3c916bc8
 	- ## LCD / OLED

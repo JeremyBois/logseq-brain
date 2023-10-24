@@ -9,7 +9,8 @@ link:: [Github](https://github.com/JeremyBois/Echinos)
   {{namespace Echinos}}
   ***
 - # Tâches
-	- TODO Support pour [[Clavier/VIK]]
+	- DOING Utiliser un câble [[Électronique/Sata]] pour communiquer entre les deux parties
+	- DOING Support pour [[Clavier/VIK]]
 		- The interface includes the following signals (pin 0 to 12)
 		      3.3V
 		      GND
@@ -48,10 +49,11 @@ link:: [Github](https://github.com/JeremyBois/Echinos)
 	- TODO Déterminer les tailles minimales pour les différentes lignes
 		- |     Nom    | Power | USB | Signal |
 		  |:----------:|:-----:|:---:|--------|
-		  | Espacement |  0.2  | 0.2 | 0.2    |
-		  |  Largeur | 0.254 | 0.3 | 0.254  |
-		  | Raison     |  MCU   | USB | MCU    |
-	- TODO Communication #UART 2 fils entre les deux parties
+		  | Espacement |  0.2  | 0.15 | 0.2    |
+		  | Largeur Min | 0.2 | 0.2 | 0.2  |
+		  | Largeur Max | NaN | 0.2 | NaN |
+		  | Raison     |  MCU   | Impédance | MCU    |
+	- DOING Communication #UART 2 fils entre les deux parties
 		- Permet la synchronisation bidirectionnelle avec #KMK
 		- Compatible aussi avec #QMK sans être nécessaire
 	- TODO Communication #UART 2 fils vers une puce #Bluetooth
@@ -60,10 +62,22 @@ link:: [Github](https://github.com/JeremyBois/Echinos)
 			- #QMK ou #KMK peut le faire ??
 	- TODO Encodeur à l'extérieur pour pas géner ??
 		- La position actuelle sur #Ptechinos est pas top car je l'active sans le vouloir
+		- Voir si c'est toujours le cas avec un espacement MX
+	- TODO Utiliser un encodeur [[AlpsAlpine/EC12]] à la place du [[Panasonic/EVQWGD001]] ???
+		- Circulaire
+		- low profile
+		- perte du clic
 	- TODO Empreinte compatible avec
 		- [[Kailh/Choc mini]]
 		- [[Kailh/Choc V1]]
-	- TODO Améliorer la position de l'USB et du microcontrolleur
+		- [[Kailh/Choc V2]]
+		- [[Gateron/KS33 low profile]]
+		- [[Gateron/KS27 low profile]]
+		- [[Cherry/MX]]
+	- DOING Utiliser un espacement MX
+		- DOING Maj sur générateur #OpenScad
+		- TODO Maj sur #Kicad
+	- DOING Améliorer la position de l'USB et du microcontrolleur
 		- USB à gauche au dessus du petit doigt externe
 			- Orienté vers le haut si possible
 		- Microcontrolleur au centre en bas

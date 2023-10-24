@@ -1,9 +1,29 @@
 - #+BEGIN_WARNING
   **Document partagé entre les différents claviers pour regrouper/tagger les idées**
   #+END_WARNING
+- DONE Espacement des touches
+	- MX
+		- 😁Laisse mes doigts plus de places au lieu d'être repliés sur eux-mêmes
+		- 😁Compatible avec les switch [[Electronique/MX]]
+		- 😁Compatible avec les capuchons dans le facteur de forme des [[Electronique/MX]]
+	- ~~Choc~~
+		- Permet de simplifier l'utilisation de combos (pas sûr que ça soit si impactant que ça)
+		- 🤬 Réduction de la liste de choix possible pour les capuchons et switch
 - DONE Trouver une alternative aux #Électronique/TRRS pour éviter des courts circuits lors de la connexion/déconnexion
 	- Ressources
 		- [Pogo / usb / hdmi](https://www.reddit.com/r/ErgoMechKeyboards/comments/16spm1h/magnetic_pogo_pinned_halves/)
+	- ~~[[#Électronique/S-Video]]~~
+		- Empreinte importante en hauteur sur le PCB
+			- 13.5 x 12.5 x 13.5
+	- ~~[[#Électronique/DIN]]~~
+		- Empreinte importante en hauteur sur le PCB
+			- 15 x 17 x 15
+	- ~~[[#Électronique/XLR]] cher et imposant~~
+	  id:: 652f8742-9aab-4064-aafa-8fc216836d9d
+		- 😁 Système de vérrouillage
+		- Empreinte importante sur le PCB
+			- 20 x 20 x 20
+		- Cher
 	- #Électronique/Sata
 		- 😁 Système de vérrouillage
 		- Empreinte moyenne sur le PCB
@@ -19,7 +39,7 @@
 		- 😁 Disponible partout même si un double mini est plus rare
 		- 🤬 Pas de système de vérrouillage
 			- Il existe des modules pour le permettre
-		- Empreinte  moyenne sur le PCB
+		- Empreinte sur le PCB
 			- Normal --> 15x12x5 (empreinte moyenne)
 			- Mini --> 12x8x3 (empreinte faible)
 		- Complexe à souder
@@ -30,7 +50,7 @@
 	- ~~#[[Électronique/RJ]] (trop haut)~~
 		- 😁 Disponible partout
 		- 😁 Système de vérrouillage
-		- 🤬 Empreinte importante sur le PCB (RJ11, RJ12, RJ25)
+		- 🤬 Empreinte importante sur le PCB en hauteur (RJ11, RJ12, RJ25)
 			- 13x18x12
 		- Simple à souder
 		- 4/6/... pins
