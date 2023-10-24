@@ -68,7 +68,7 @@ link:: [Github](https://github.com/JeremyBois/Echinos)
 		- low profile
 		- perte du clic
 	- TODO Empreinte compatible avec
-		- [[Kailh/Choc mini]]
+		- ~~[[Kailh/Choc mini]]~~
 		- [[Kailh/Choc V1]]
 		- [[Kailh/Choc V2]]
 		- [[Gateron/KS33 low profile]]
