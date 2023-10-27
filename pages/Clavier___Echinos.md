@@ -67,7 +67,8 @@ link:: [Github](https://github.com/JeremyBois/Echinos)
 		- Circulaire
 		- low profile
 		- perte du clic
-	- TODO Empreinte compatible avec
+	- TODO Empreinte de switch pour #hotswap compatible avec
+		- DONE Valider que c'est possible
 		- ~~[[Kailh/Choc mini]]~~
 		- [[Kailh/Choc V1]]
 		- [[Kailh/Choc V2]]
