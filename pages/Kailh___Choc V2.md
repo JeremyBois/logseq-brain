@@ -6,4 +6,3 @@ link:: [Officiel](http://www.kailh.com/en/Products/Ks/CS/755.html)
 ***
 
 -
--

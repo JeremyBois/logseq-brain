@@ -6,5 +6,5 @@ link:: [Kicad](https://github.com/sadekbaroudi/vulpes-minora)
 
 - #Footprint pour #Kicad pour une combinaison de switch en #Hotswap
 	- [[Cherry/MX]]
-	- [[Kailh/Choc V1]] [[Kailh/Choc V2]]
+	- [[Kailh/Choc V1]]
 	- [[Gateron/KS33 low profile]]
