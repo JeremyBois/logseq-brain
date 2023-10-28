@@ -63,7 +63,7 @@ link:: [Github](https://github.com/JeremyBois/Echinos)
 	- TODO Encodeur à l'extérieur pour pas géner ??
 		- La position actuelle sur #Ptechinos est pas top car je l'active sans le vouloir
 		- Voir si c'est toujours le cas avec un espacement MX
-	- TODO Utiliser un encodeur [[AlpsAlpine/EC12]] à la place du [[Panasonic/EVQWGD001]] ???
+	- TODO Utiliser un encodeur [[AlpsAlpine/EC12E]] à la place du [[Panasonic/EVQWGD001]] ???
 		- Circulaire
 		- low profile
 		- perte du clic
