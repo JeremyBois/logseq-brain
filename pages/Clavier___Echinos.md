@@ -9,8 +9,8 @@ link:: [Github](https://github.com/JeremyBois/Echinos)
   {{namespace Echinos}}
   ***
 - # Tâches
-	- DOING Utiliser un câble [[Électronique/Sata]] pour communiquer entre les deux parties
-	- DOING Support pour [[Clavier/VIK]]
+	- DONE Utiliser un câble [[Électronique/Sata]] pour communiquer entre les deux parties
+	- DOING Support pour [[Clavier/VIK]] coté clavier
 		- The interface includes the following signals (pin 0 to 12)
 		      3.3V
 		      GND
@@ -63,7 +63,7 @@ link:: [Github](https://github.com/JeremyBois/Echinos)
 		- Communication vers téléphone / autre ordi
 		- Doit être possible de basculer entre #Électronique/USB et #Bluetooth
 			- #QMK ou #KMK peut le faire ??
-	- TODO Encodeur à l'extérieur pour pas géner ??
+	- DONE Encodeur à l'extérieur pour pas géner ??
 		- La position actuelle sur #Ptechinos est pas top car je l'active sans le vouloir
 		- Voir si c'est toujours le cas avec un espacement MX
 	- DONE Utiliser un encodeur [[AlpsAlpine/EC12E]] à la place du [[Panasonic/EVQWGD001]] ???
@@ -78,10 +78,10 @@ link:: [Github](https://github.com/JeremyBois/Echinos)
 		- [[Gateron/KS33 low profile]]
 		- [[Gateron/KS27 low profile]]
 		- [[Cherry/MX]]
-	- DOING Utiliser un espacement MX
-		- DOING Maj sur générateur #OpenScad
-		- TODO Maj sur #Kicad
-	- DOING Améliorer la position de l'USB et du microcontrolleur
+	- DONE Utiliser un espacement MX
+		- DONE Maj sur générateur #OpenScad
+		- DONE Maj sur #Kicad
+	- DONE Améliorer la position de l'USB et du microcontrolleur
 		- USB à gauche au dessus du petit doigt externe
 			- Orienté vers le haut si possible
 		- Microcontrolleur au centre en bas
