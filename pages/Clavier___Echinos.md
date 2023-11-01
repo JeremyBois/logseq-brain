@@ -33,16 +33,14 @@ link:: [Github](https://github.com/JeremyBois/Echinos)
 	- TODO Détection de l'orientation de l'USB C
 		- [TUSB321 (Détecteur)](https://www.ti.com/lit/ds/symlink/tusb321.pdf) + [TPD4E05U06 (protection)](https://www.ti.com/lit/ds/symlink/tpd4e05u06.pdf)
 		- Fait par [[Clavier/Honeydew]] mais pourquoi ??
-	- TODO Sélection de la diode TVS pour protéger l'USB
+	- TODO Sélection de la diode TVS pour protéger l'USB (5.0V)
 		- [TPD2E2U06-Q1](https://www.ti.com/lit/ds/symlink/tpd2e2u06-q1.pdf) (LCSC = C915089, C5350871)
 			- [SOT 323 (SC70-3, UMT3)](https://en.wikipedia.org/wiki/List_of_integrated_circuit_packaging_types#Small-outline_transistor_(SOT))
 		- [ESD7L5.0DT5G-N](https://datasheet.lcsc.com/lcsc/2306211546_BORN-ESD7L5-0DT5G-N_C6165124.pdf)
 			- [SOT 723](https://en.wikipedia.org/wiki/List_of_integrated_circuit_packaging_types#Small-outline_transistor_(SOT))
-	- TODO Sélection de la diode pour protéger la communication entre les deux parties
+	- TODO Sélection de la diode pour protéger la communication entre les deux parties (3.3V)
 		- [D3V3F4U6S](https://www.lcsc.com/product-detail/ESD-Protection-Devices_Diodes-Incorporated-D3V3F4U6S-7_C1869321.html)
-			- SOT-363 (SC-88, SC-70-6)
-		- ++++++++++++++++++++++
-		-
+			- [SOT-363 (SC-88, SC-70-6)](https://en.wikipedia.org/wiki/List_of_integrated_circuit_packaging_types#Small-outline_transistor_(SOT))
 	- TODO Sélectionner la taille de la mémoire flash
 		- Notes
 			- Max = 16Mo
@@ -54,8 +52,8 @@ link:: [Github](https://github.com/JeremyBois/Echinos)
 	- TODO Déterminer les tailles minimales pour les différentes lignes
 		- |     Nom    | Power | USB | Signal |
 		  |:----------:|:-----:|:---:|--------|
-		  | Espacement |  0.2  | 0.15 | 0.2    |
-		  | Largeur Min | 0.2 | 0.2 | 0.2  |
+		  | Espacement |  0.2  | 0.15 | 0.15    |
+		  | Largeur Min | 0.2 | 0.2 | 0.15  |
 		  | Largeur Max | NaN | 0.2 | NaN |
 		  | Raison     |  MCU   | Impédance | MCU    |
 	- DOING Communication #UART 2 fils entre les deux parties
@@ -68,11 +66,11 @@ link:: [Github](https://github.com/JeremyBois/Echinos)
 	- TODO Encodeur à l'extérieur pour pas géner ??
 		- La position actuelle sur #Ptechinos est pas top car je l'active sans le vouloir
 		- Voir si c'est toujours le cas avec un espacement MX
-	- TODO Utiliser un encodeur [[AlpsAlpine/EC12E]] à la place du [[Panasonic/EVQWGD001]] ???
+	- DONE Utiliser un encodeur [[AlpsAlpine/EC12E]] à la place du [[Panasonic/EVQWGD001]] ???
 		- Circulaire
 		- low profile
 		- perte du clic
-	- TODO Empreinte de switch pour #hotswap compatible avec
+	- DONE Empreinte de switch pour #hotswap compatible avec
 		- DONE Valider que c'est possible
 		- ~~[[Kailh/Choc mini]]~~
 		- [[Kailh/Choc V1]]
