@@ -38,6 +38,11 @@ link:: [Github](https://github.com/JeremyBois/Echinos)
 			- [SOT 323 (SC70-3, UMT3)](https://en.wikipedia.org/wiki/List_of_integrated_circuit_packaging_types#Small-outline_transistor_(SOT))
 		- [ESD7L5.0DT5G-N](https://datasheet.lcsc.com/lcsc/2306211546_BORN-ESD7L5-0DT5G-N_C6165124.pdf)
 			- [SOT 723](https://en.wikipedia.org/wiki/List_of_integrated_circuit_packaging_types#Small-outline_transistor_(SOT))
+	- TODO Sélection de la diode pour protéger la communication entre les deux parties
+		- [D3V3F4U6S](https://www.lcsc.com/product-detail/ESD-Protection-Devices_Diodes-Incorporated-D3V3F4U6S-7_C1869321.html)
+			- SOT-363 (SC-88, SC-70-6)
+		- ++++++++++++++++++++++
+		-
 	- TODO Sélectionner la taille de la mémoire flash
 		- Notes
 			- Max = 16Mo
