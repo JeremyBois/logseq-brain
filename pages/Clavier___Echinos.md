@@ -49,7 +49,7 @@ link:: [Github](https://github.com/JeremyBois/Echinos)
 			- Fonctionne (utilisé pour le [[Clavier/Honeydew]] )
 		- [W25Q128JV (16Mo)](https://www.winbond.com/resource-files/w25q128jv_dtr%20revc%2003272018%20plus.pdf)
 			- Fonctionne (utilisé sur de nombreux PCB et la documentation officielle)
-	- TODO Déterminer les tailles minimales pour les différentes lignes
+	- DONE Déterminer les tailles minimales pour les différentes lignes
 		- |     Nom    | Power | USB | Signal |
 		  |:----------:|:-----:|:---:|--------|
 		  | Espacement |  0.2  | 0.15 | 0.15    |
@@ -89,6 +89,16 @@ link:: [Github](https://github.com/JeremyBois/Echinos)
 		- Libère toute la partie à droite (interne) pour   mettre les modules
 			- Pogo + aimants
 			- FPC (voir #Clavier/VIK)
+	- TODO Améliorer la position du connecteur SATA
+		- Doit être en majeure partie sur le PCB
+		- Attention à ne pas empêcher
+			- l'utilisation du joystick
+			- l'utilisation de capuchons en taille 1.5U
+	- TODO Ajouter la posibilité de mettre un joystick digital sur le pouce interne
+		- Il faut qu'il soit orientable pour être confortable à utiliser
+		- Semble complexe de mettre l'empreinte directement sur le PCB principal
+			- Utiliser un PCB vertical comme dans la [[Ploopy/Classic]] ou
+		-
 - # Notes
 	- Couleurs
 		- Theme Zelda a link to the past
