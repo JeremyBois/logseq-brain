@@ -97,7 +97,12 @@ link:: [Github](https://github.com/JeremyBois/Echinos)
 	- TODO Ajouter la posibilité de mettre un joystick digital sur le pouce interne
 		- Il faut qu'il soit orientable pour être confortable à utiliser
 		- Semble complexe de mettre l'empreinte directement sur le PCB principal
-			- Utiliser un PCB vertical comme dans la [[Ploopy/Classic]] ou
+			- Utiliser un PCB vertical comme dans la [[Ploopy/Classic]] ou [[Clavier/Generative KAiBoard]]
+	- TODO Faire la partie droite
+		- Utiliser l'outil de mirroir pour les traces directement depuis PCBnew
+		- Faire les empreintes mirroirs depuis l'éditeur d'empreinte
+			- Surcharger les empreintes dans le PCB si elles sont génériques
+			- Faire des variantes mirroirs pour les composants propres à Echinos
 		-
 - # Notes
 	- Couleurs
