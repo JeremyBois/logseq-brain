@@ -10,7 +10,7 @@ link:: [Github](https://github.com/JeremyBois/Echinos)
   ***
 - # Tâches
 	- DONE Utiliser un câble [[Électronique/Sata]] pour communiquer entre les deux parties
-	- DOING Support pour [[Clavier/VIK]] coté clavier
+	- DONE Support pour [[Clavier/VIK]] coté clavier
 		- The interface includes the following signals (pin 0 to 12)
 		      3.3V
 		      GND
@@ -33,12 +33,12 @@ link:: [Github](https://github.com/JeremyBois/Echinos)
 	- TODO Détection de l'orientation de l'USB C
 		- [TUSB321 (Détecteur)](https://www.ti.com/lit/ds/symlink/tusb321.pdf) + [TPD4E05U06 (protection)](https://www.ti.com/lit/ds/symlink/tpd4e05u06.pdf)
 		- Fait par [[Clavier/Honeydew]] mais pourquoi ??
-	- TODO Sélection de la diode TVS pour protéger l'USB (5.0V)
-		- [TPD2E2U06-Q1](https://www.ti.com/lit/ds/symlink/tpd2e2u06-q1.pdf) (LCSC = C915089, C5350871)
+	- DONE Sélection de la diode TVS pour protéger l'USB (5.0V)
+		- ~~[TPD2E2U06-Q1](https://www.ti.com/lit/ds/symlink/tpd2e2u06-q1.pdf) (LCSC = C915089, C5350871)~~
 			- [SOT 323 (SC70-3, UMT3)](https://en.wikipedia.org/wiki/List_of_integrated_circuit_packaging_types#Small-outline_transistor_(SOT))
 		- [ESD7L5.0DT5G-N](https://datasheet.lcsc.com/lcsc/2306211546_BORN-ESD7L5-0DT5G-N_C6165124.pdf)
 			- [SOT 723](https://en.wikipedia.org/wiki/List_of_integrated_circuit_packaging_types#Small-outline_transistor_(SOT))
-	- TODO Sélection de la diode pour protéger la communication entre les deux parties (3.3V)
+	- DONE Sélection de la diode pour protéger la communication entre les deux parties (3.3V)
 		- [D3V3F4U6S](https://www.lcsc.com/product-detail/ESD-Protection-Devices_Diodes-Incorporated-D3V3F4U6S-7_C1869321.html)
 			- [SOT-363 (SC-88, SC-70-6)](https://en.wikipedia.org/wiki/List_of_integrated_circuit_packaging_types#Small-outline_transistor_(SOT))
 	- TODO Sélectionner la taille de la mémoire flash
