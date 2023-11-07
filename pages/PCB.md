@@ -11,4 +11,6 @@
 		- Évite à la pâte à souder de rester coincé dans le *stencil*
 		- Meilleur support pour la soudure sans plomb
 		- Gain de place + meilleur alignement des composants
-		-
+		- Bonnes pratiques:
+			- Rayon ~25% de la longueur du plus petit coté
+			- Rayon maximum de 10mil (0.254mm)
