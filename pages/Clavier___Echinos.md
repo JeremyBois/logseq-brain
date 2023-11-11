@@ -41,7 +41,7 @@ link:: [Github](https://github.com/JeremyBois/Echinos)
 	- DONE Sélection de la diode pour protéger la communication entre les deux parties (3.3V)
 		- [D3V3F4U6S](https://www.lcsc.com/product-detail/ESD-Protection-Devices_Diodes-Incorporated-D3V3F4U6S-7_C1869321.html)
 			- [SOT-363 (SC-88, SC-70-6)](https://en.wikipedia.org/wiki/List_of_integrated_circuit_packaging_types#Small-outline_transistor_(SOT))
-	- TODO Sélectionner la taille de la mémoire flash
+	- DONE Sélectionner la taille de la mémoire flash
 		- Notes
 			- Max = 16Mo
 			- [Footprint compatible 209mil 8-SOP et 8x6mm 8-WSON](https://www.macronix.com/Lists/ApplicationNote/Attachments/2044/AN0226V2%20-%20209mil%208-SOP%20and%208x6mm%208-WSON%20Dual%20Layout%20Guide.pdf)
@@ -89,7 +89,7 @@ link:: [Github](https://github.com/JeremyBois/Echinos)
 		- Libère toute la partie à droite (interne) pour   mettre les modules
 			- Pogo + aimants
 			- FPC (voir #Clavier/VIK)
-	- TODO Améliorer la position du connecteur SATA
+	- DONE Améliorer la position du connecteur SATA
 		- Doit être en majeure partie sur le PCB
 		- Attention à ne pas empêcher
 			- l'utilisation du joystick
