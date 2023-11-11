@@ -14,9 +14,14 @@
 		- Bonnes pratiques:
 			- Rayon ~25% de la longueur du plus petit coté
 			- Rayon maximum de 10mil (0.254mm)
-	- Isolation des paires différentielles
-		- Espacement de ~5 fois la largeur des traces
+	- Paires différentielles (USB D+/D-, ...)
+		- Espacement de ~5 fois la largeur des traces avec les autres traces
+		- Éviter une courbure de plus de 135° (formation d'une forme de U)
 		- Éviter de s'approcher / couper des lignes à haute fréquences (horloge)
+		- Assurer un angle de 90° avec les autres lignes si un croissement est nécessaire
+		- Contrôler
+			- que l'impédance est adaptée au signal
+			- que la longueur des traces est
 	-
 - # Astuces
 	- [Prévoir des connections cassables](https://wiki.ai03.com/books/pcb-design/page/breakaway-tabs)
