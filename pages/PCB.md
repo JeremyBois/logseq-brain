@@ -14,3 +14,5 @@
 		- Bonnes pratiques:
 			- Rayon ~25% de la longueur du plus petit coté
 			- Rayon maximum de 10mil (0.254mm)
+	- [Prévoir des connections cassables](https://wiki.ai03.com/books/pcb-design/page/breakaway-tabs)
+		-
