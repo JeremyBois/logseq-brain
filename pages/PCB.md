@@ -14,14 +14,15 @@
 		- Bonnes pratiques:
 			- Rayon ~25% de la longueur du plus petit coté
 			- Rayon maximum de 10mil (0.254mm)
-	- Paires différentielles (USB D+/D-, ...)
+	- Paires différentielles ([USB](https://www.masterzen.fr/2020/10/20/designing-a-keyboard-part3/#usb-differential-pair), ...)
 		- Espacement de ~5 fois la largeur des traces avec les autres traces
 		- Éviter une courbure de plus de 135° (formation d'une forme de U)
 		- Éviter de s'approcher / couper des lignes à haute fréquences (horloge)
 		- Assurer un angle de 90° avec les autres lignes si un croissement est nécessaire
-		- Contrôler
-			- que l'impédance est adaptée au signal
-			- que la longueur des traces est
+		- Contrôler que les éléments suivants sont dans la marge des spécifications:
+			- Iimpédance adaptée au signal
+			- Longueur des traces similaires
+		- Maintenir à distance des bords du PCB (> 90mils / 2.3mm)
 	-
 - # Astuces
 	- [Prévoir des connections cassables](https://wiki.ai03.com/books/pcb-design/page/breakaway-tabs)
