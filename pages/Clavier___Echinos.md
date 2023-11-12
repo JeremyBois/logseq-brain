@@ -93,7 +93,11 @@ link:: [Github](https://github.com/JeremyBois/Echinos)
 		- Doit être en majeure partie sur le PCB
 		- Attention à ne pas empêcher
 			- l'utilisation du joystick
-			- l'utilisation de capuchons en taille 1.5U
+			- l'utilisation de capuchons en taille 1.5
+	- TODO Valider le support pour #Clavier/VIK
+		- Ajouter un jumper sur 5V pour être compatible avec le module Cirque en SPI
+		- Valider le connecteur sur le clavier
+		- Valider le connecteur sur les modules
 	- TODO Ajouter la posibilité de mettre un joystick digital sur le pouce interne
 		- Il faut qu'il soit orientable pour être confortable à utiliser
 		- Semble complexe de mettre l'empreinte directement sur le PCB principal
