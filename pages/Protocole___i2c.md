@@ -5,3 +5,4 @@ alias:: I2C
 
 - # Définition
 	- **I2C** (signifie : Inter-Integrated Circuit, en anglais) est un [bus informatique](https://fr.m.wikipedia.org/wiki/Bus_informatique) qui a émergé de la « guerre des standards » lancée par les acteurs du monde électronique
+-
