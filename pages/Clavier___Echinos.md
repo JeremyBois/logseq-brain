@@ -28,7 +28,7 @@ link:: [Github](https://github.com/JeremyBois/Echinos)
 				- Possible d'être compatible avec les deux en utilisant un câble inversé
 					- Câble normal (type A) **inverse** inverse l'ordre des pistes
 					- Câble inversé (Type D) **conserve** l'ordre des pistes
-	- TODO Valider l'utilisation d'un oscillateur
+	- DONE Valider l'utilisation d'un oscillateur
 		- [Un large nombre de raisons en faveur de l'oscillateur](https://www.sitime.com/top-8-reasons-use-oscillator-instead-crystal-resonator)
 	- TODO Détection de l'orientation de l'USB C
 		- [TUSB321 (Détecteur)](https://www.ti.com/lit/ds/symlink/tusb321.pdf) + [TPD4E05U06 (protection)](https://www.ti.com/lit/ds/symlink/tpd4e05u06.pdf)
@@ -56,7 +56,7 @@ link:: [Github](https://github.com/JeremyBois/Echinos)
 		  | Largeur Min | 0.2 | 0.2 | 0.15  |
 		  | Largeur Max | NaN | 0.2 | NaN |
 		  | Raison     |  MCU   | Impédance | MCU    |
-	- DOING Communication #UART 2 fils entre les deux parties
+	- DONE Communication #UART 2 fils entre les deux parties
 		- Permet la synchronisation bidirectionnelle avec #KMK
 		- Compatible aussi avec #QMK sans être nécessaire
 	- TODO Communication #UART 2 fils vers une puce #Bluetooth
@@ -99,7 +99,13 @@ link:: [Github](https://github.com/JeremyBois/Echinos)
 		- Valider le connecteur sur le clavier
 		- Valider le connecteur sur les modules
 	- TODO Ajouter les vias vers GND (via stitching)
-		- Faire un mur en bordure pour isoler
+		- Faire un mur en bordure pour isoler de l'extérieur
+			- Signaux externes qui entrent --> parasites
+			- Signaux internes qui sortent --> parasites
+		- Ajouter des vias sur l'ensemble du PCB
+			- Évite les antennes
+			- Permet un retour plus rapide du courant --> moins de parasites
+			- Meilleure dissipation thermique
 	- TODO Ajouter la posibilité de mettre un joystick digital sur le pouce interne
 		- Il faut qu'il soit orientable pour être confortable à utiliser
 		- Semble complexe de mettre l'empreinte directement sur le PCB principal
