@@ -98,6 +98,8 @@ link:: [Github](https://github.com/JeremyBois/Echinos)
 		- Ajouter un jumper sur 5V pour être compatible avec le module Cirque en SPI
 		- Valider le connecteur sur le clavier
 		- Valider le connecteur sur les modules
+	- TODO Ajouter les vias vers GND (via stitching)
+		- Faire un mur en bordure pour isoler
 	- TODO Ajouter la posibilité de mettre un joystick digital sur le pouce interne
 		- Il faut qu'il soit orientable pour être confortable à utiliser
 		- Semble complexe de mettre l'empreinte directement sur le PCB principal
