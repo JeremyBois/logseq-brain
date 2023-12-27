@@ -5,4 +5,5 @@ link:: [Official](http://www.terathon.com/lengyel/)
 ***
 
 - [[C4 Engine]]
-- [Ressources]
+- [De nombreux ouvrages et ressources sur son site
+-
