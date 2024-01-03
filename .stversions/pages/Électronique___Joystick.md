@@ -5,7 +5,7 @@ link::
 - # Modèles
 	- #[[K-Silver]]
 		- [[KSilver/JP19]]
-		- [JH19](http://www.k-silver.com/html_products/JH19-845.html) #HallEffect
+		- [JH19](http://www.k-silver.com/html_products/JH19-845.html)
 			- Caractéristiques
 				- Similaire au Joycon
 				- 17mm x 19mm x 13.38mm (hors #FFC)
@@ -18,7 +18,7 @@ link::
 	- PS2 (Analogique + bouton)
 		- [Produit](https://www.sparkfun.com/products/9032) #Sparkfun
 	- Joycon (Analogique + bouton)
-		- Modèle #HallEffect
+		- Modèle hall effect
 			- [Gulikit](https://www.gulikit.com/productinfo/945307.html)
 		- Modèle analogique original
 			- [Aliexpress](https://fr.aliexpress.com/item/4001209760173.html)
