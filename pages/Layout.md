@@ -75,14 +75,18 @@ alias:: Clavier/Layouts, Clavier/Layout, Layouts
 					- Anglais : Voyelle + Consonne majoritairement
 					- Favorise des rolls vers l'intérieur
 				- `S`
-					- Français : Ne favorise pas de sens
-					- Anglais : Ne favorise pas de sens
+					- Français : Voyelles + Consonne
+					- Anglais : Voyelles + Consonne
 				- `L`, `R`
 					- Français : Ne favorise pas de sens
 					- Anglais : Ne favorise pas de sens
-					-
-					-
-					-
+					- Solutions :
+						- Placer ces lettres sur la main opposée au cluster de voyelles
+				- `T`
+					- Français : Ne favorise pas de sens
+					- Anglais : Consonne + Consonne
+					- Solutions :
+						- Placer ces lettres sur la main opposée au cluster de voyelles
 		- Choisir un groupe de consonnes ayant peu de redirections
 			- Main voyelles + `FNH`
 				- Main consonnes ayant le roll intérieur `ST`
