@@ -1,4 +1,4 @@
-tags:: #Logiciel #OpenSource, Chat
+tags:: #Logiciel #OpenSource
 link:: https://zulip.com/
 [[Feb 18th, 2023]]
 

@@ -19,7 +19,7 @@ tags:: Clavier
 	- ~~[[#Électronique/S-Video]]~~
 		- Empreinte importante en hauteur sur le PCB
 			- 13.5 x 12.5 x 13.5
-	- ~~[[Électronique/DIN]]~~
+	- ~~[[#Électronique/DIN]]~~
 		- Empreinte importante en hauteur sur le PCB
 			- 15 x 17 x 15
 	- ~~[[#Électronique/XLR]] cher et imposant~~

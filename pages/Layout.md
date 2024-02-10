@@ -1,3 +1,130 @@
 alias:: Clavier/Layouts, Clavier/Layout
 [[Oct 22nd, 2023]]
 ***
+
+- ## References
+	- [Keyboard  layouts doc](https://docs.google.com/document/d/1_a5Nzbkwyk1o0bvTctZrtgsee9jSP-6I0q3A0_9Mzm0)
+- ## Règles de construction
+	- Répartition équitable
+		- Favorise une bonne répartition des efforts
+			- Utilisation
+			- Mouvement
+		- Penser aux touches spéciales
+			- Symboles et touche espace
+			- Raccourcis souvent utilisés
+			- Fréquence différente suivant les langages
+				- Ex: `Q` (fr) et `W` (eng)
+	- Ponctuactions courantes
+		- Éviter d'avoir `,` et `.` sur la même colonne qu'une lettre souvent utilisée en fin de mot
+			- Très utilisé en programmation
+				- Vrai aussi pour `<>` (shift) en #Programmation/Cpp
+			- Plus de consonnes que de voyelles en fin de mot avec quelques exceptions
+				- Français: `e`
+					- TODO À compléter
+				- Anglais : `e` `o`
+			- Solutions
+				- Ne pas mettre de ponctuation sous le `e` et le `o`
+				- Placer `,` et `.` du coté des voyelles et sur une colonne de la home row
+				- Prévoir une touche shift sur la main opposée pour `<>`
+		- Éviter que  `'` devienne une redirection avec  les consonnes
+			- Français : `l`, `n`, `d` `m`, `q`
+			- TODO Anglais : `l`, `s`
+			- Solutions
+				- Placer `'` sur la main opposée à ces consonnes dans la limite du possible
+				- Favoriser un roll `consonne + '`
+		- `_` est très utilisé en particulier en programmation
+			- Au milieu d'un mot la plupart du temps
+			- Rarement en début et fin de mot
+			- Solutions
+				- `_` devrait être sur une colonne de la home row du même coté que la touche espace
+				- Sur la home row opposée à la touche activant la couche des symboles
+		- `:` et `;`
+			- Courant en programmation
+			- Courant en prise de note
+				- `:` puis une liste
+			- Solutions
+				- Sur une colonne de la home row du même coté que la touche espace pour    favoriser un roll
+				- Sur la home row opposée à la touche activant la couche des symboles
+	- Réduire les SFBs
+		- SFB < 1.5% == parfait
+			- Avec prise en compte des ponctuations
+		- Exemple des voyelles
+			- Français : `ou` `eu`  `ue` `au` `ea`
+			- Anglais : `ea` `ou` `ei`
+			- Solutions possibles
+				- `eo` `iu` `a` (pinky)
+				- `eo` `au` `i` (pinky)
+				- `iu` `eo` `a` (ring)
+				- `e` `ao` `iu` (ring)
+	- Réduire les redirections
+		- Utiliser un cluster pour les voyelles
+		  id:: 65c656e5-f37c-4cca-bd36-23abc7bcfb72
+			- Combiner avec une consonne qui roll principalement dans un sens
+				- `H` -> Consonne + Voyelle
+				- `N` -> Voyelle + Consonne
+				- TODO Vérifier pour fr et eng
+		- Choisir un groupe de consonnes ayant peu de redirections
+			- Main voyelles + `FNH`
+				- Main consonnes ayant le roll intérieur `ST`
+					- CRST
+					- STRD
+					- SRTD
+					- SRTC
+				- + Réduit fortement les scissors
+				- - Main droite a plus de travail
+				- Layouts existants
+					- Canary, Sturdy, Snug, Gemini, Rolly
+			- Main voyelles + `FMH`
+				- Considérer comme expérimental
+				- Main consonnes
+					- NRTS
+					- RNTS
+					- STND
+				- + Meilleur roll / redirection ratio
+				- - Index gauche travaille beaucoup
+					- SC, SY, SW, SG
+				- `L` sur la home row possible coté voyelles
+					- Augmente fortement les rolls en français
+						- `LE`
+						- `EL`
+				- Bon placement du `D` et `K`
+					- Très utilisé dans [[SublimeText]]
+				- Layouts existants
+					- Fire, Flamme, Flare
+			- Main voyelles + `GMC`
+				- Layouts existants
+					- [Stronk](https://oxey.dev/stronk/index.html)
+			- Main voyelles + `FCG`
+				- Layouts existants
+					- [Dhorf](https://oxey.dev/dhorf/index.html)
+			- Main voyelles + `WYC`
+				- Layouts existants
+					- Whorf
+			- Main voyelles + `JHL`
+				- Layouts existants
+					- [Recurva](https://github.com/GalileoBlues/Recurva)
+		- Tenir compte des symboles / lettres sur les autres couches
+			- `é`, `_`, `'`
+			- `è`, `:`, `;`
+		- ((65c654fe-c255-4723-9d4c-5b779128e616))
+	- Favoriser les **rolls**
+		- ((65c656e5-f37c-4cca-bd36-23abc7bcfb72))
+		- ((65c654fe-c255-4723-9d4c-5b779128e616))
+		- Donne une sensation de fluidité
+		- Alterner souvent les mains demande plus de coordinations
+		- Rolls vers l'intérieurs moins fatiguants / plus naturels
+	- Touche espace sur le pouce
+	  id:: 65c654fe-c255-4723-9d4c-5b779128e616
+		- Statistiques
+			- Voir [[a200]]
+			- 18.5% des inputs (eng)
+			- 55% des [[Trigrammes]] (eng)
+		- Sur la main opposée au cluster pour les voyelles
+		- Attention à éviter les redirections avec les [[Bigrammes]] de consonnes
+			- ` th` (roll in) et espace sur la main gauche
+			- ` an` (roll in) et espace sur la main droite
+			- Solutions
+				- Inverser le sens du roll
+				- Basculer la touche espace sur l'autre main
+-
+-

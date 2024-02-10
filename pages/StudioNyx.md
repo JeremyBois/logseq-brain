@@ -30,33 +30,37 @@ link:: https://www.studio-nyx.com/
 			- Supplémentaires : -1
 			- Récupération : 0
 			- Cumul : 1
-			- Mai
-				- Supplémentaires : 3.5
-					- Congé pris le [[May 3rd, 2023]] mais finalement travaillé 9h
-					- 3.5 = 1.5 + (9-7)
-				- Récupération : 0
-				- Cumul : 4.5
-			- Juin
-				- Supplémentaires : 2
-				- Récupération : 7
-				- Cumul : -0.5
-			- Juillet
-				- Supplémentaires : 5
-				- Récupération : 0
-				- Cumul : 4.5
-			- Août
-				- Supplémentaires : 5.75
-				- Récupération : 10 (payés)
-				- Cumul : 0
-			- Septembre
-				- Supplémentaires : 5.75
-				- Récupération : 6 (payés)
-				- Cumul : 0
-			- Octobre
-				- Supplémentaires : 4
-				- Récupération : 0
-				- Cumul : 4
-			- Novembre
-				- Supplémentaires : 0
-				- Récupération : 0
-				- Cumul : 0
+		- Mai
+			- Supplémentaires : 3.5
+				- Congé pris le [[May 3rd, 2023]] mais finalement travaillé 9h
+				- 3.5 = 1.5 + (9-7)
+			- Récupération : 0
+			- Cumul : 4.5
+		- Juin
+			- Supplémentaires : 2
+			- Récupération : 7
+			- Cumul : -0.5
+		- Juillet
+			- Supplémentaires : 5
+			- Récupération : 0
+			- Cumul : 4.5
+		- Août
+			- Supplémentaires : 5.75
+			- Récupération : 10 (payés)
+			- Cumul : 0
+		- Septembre
+			- Supplémentaires : 5.75
+			- Récupération : 6 (payés)
+			- Cumul : 0
+		- Octobre
+			- Supplémentaires : 4
+			- Récupération : 0
+			- Cumul : 4
+		- Novembre
+			- Supplémentaires : 4
+			- Récupération : 0
+			- Cumul : 4
+		- Décembre
+			- Supplémentaires : 3
+			- Récupération : 0
+			- Cumul : 7
