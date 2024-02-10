@@ -60,7 +60,8 @@ alias:: Clavier/Layouts, Clavier/Layout, Layouts
 	  id:: 65c7aa82-b5f9-4479-ae87-803b8701e59a
 		- | Français        | Anglais |
 		  |:--------------:|:-----:|
-		  | ![Lettres_fr.png](../assets/Lettres_eng_1707584829058_0.png){:height 300, :width 188}|  ![Lettres_eng.png](../assets/Lettres_eng_1707584829058_0.png){:height 300, :width 188}|
+		  | ![Lettres_fr.png](../assets/Lettres_fr_1707584829058_0.png){:height 300, :width 188}|  ![Lettres_eng.png](../assets/Lettres_eng_1707584829058_0.png){:height 300, :width 188}|
+		-
 		- Voyelles
 			- Français : `e`, `a`, `i`, `u`, `o`, `y`
 				- `y` a une très faible fréquence
