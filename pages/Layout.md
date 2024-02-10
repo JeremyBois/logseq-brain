@@ -68,7 +68,10 @@ alias:: Clavier/Layouts, Clavier/Layout, Layouts
 				- `N`
 					- Français : Voyelle + Consonne **très** majoritairement
 					  id:: 65c79a3d-9daa-46dc-8545-bfe7994b738c
-						- Particuli
+						- Bigrammes :
+						- Trigrammes : 81.28
+						- Redirections : `INE`
+						- **Lettre très utilisée en français donc à mettre sur la home row**
 					- Anglais : Voyelle + Consonne majoritairement
 				- Favorise des rolls vers l'intérieur
 		- Choisir un groupe de consonnes ayant peu de redirections
