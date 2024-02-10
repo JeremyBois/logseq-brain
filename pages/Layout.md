@@ -58,12 +58,16 @@ alias:: Clavier/Layouts, Clavier/Layout, Layouts
 				- `e` `ao` `iu` (ring)
 	- Favoriser les doigts forts pour les lettres ayant une fréquence importante
 	  id:: 65c7aa82-b5f9-4479-ae87-803b8701e59a
+		-
+		- ![Lettres_eng.png](../assets/Lettres_eng_1707584829058_0.png){:height 431, :width 223}
+		- ![lettres_fr.png](../assets/lettres_fr_1707584833005_0.png){:height 924, :width 221}
 		- Voyelles
 			- Français : `e`, `a`, `i`, `u`, `o`, `y`
 				- `y` a une très faible fréquence
 				- `u` et `o` ont des fréquences similaires
 			- Anglais : `e`, `a`, `o`, `i`, `u`, `y`
 				- `y` et `u` ont une faible fréquence
+				- `u` et o` ont des fréquences similaires
 			- Solutions
 				- Placer `e` et `a` sur les doigts les plus forts
 				- `y` n'est pas du tout prioritaire
