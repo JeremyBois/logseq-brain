@@ -74,19 +74,23 @@ alias:: Clavier/Layouts, Clavier/Layout, Layouts
 						- **Lettre très utilisée en français donc à mettre sur la home row**
 					- Anglais : Voyelle + Consonne majoritairement
 					- Favorise des rolls vers l'intérieur
+					- Solutions :
+						- Placer ces lettres sur la main opposée au cluster de voyelles pour **réduire** les redirections
 				- `S`
 					- Français : Voyelles + Consonne
 					- Anglais : Voyelles + Consonne
+					- Solutions :
+						- Placer cette lettre sur la main opposée au cluster de voyelles pour **réduire** les redirections
 				- `L`, `R`
 					- Français : Ne favorise pas de sens
 					- Anglais : Ne favorise pas de sens
 					- Solutions :
-						- Placer ces lettres sur la main opposée au cluster de voyelles
+						- Placer ces lettres sur la main opposée au cluster de voyelles pour **réduire** les redirections
 				- `T`
 					- Français : Ne favorise pas de sens
 					- Anglais : Consonne + Consonne
 					- Solutions :
-						- Placer ces lettres sur la main opposée au cluster de voyelles
+						- Placer ces lettres sur la main opposée au cluster de voyelles pour **favoriser** les rolls
 		- Choisir un groupe de consonnes ayant peu de redirections
 			- Main voyelles + `FNH`
 				- Main consonnes ayant le roll intérieur `ST`
