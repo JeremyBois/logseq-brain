@@ -60,11 +60,17 @@ alias:: Clavier/Layouts, Clavier/Layout, Layouts
 		- Utiliser un cluster pour les voyelles
 		  id:: 65c656e5-f37c-4cca-bd36-23abc7bcfb72
 			- Combiner avec une consonne qui roll principalement dans un sens
-				- `H` -> Consonne + Voyelle presque exclusivement (fr et eng)
-					- **Lettre très peu utilisée en français**
-				- `N` -> Voyelle + Consonne
-					-
-				- TODO Vérifier pour fr et eng
+				- `H`
+					- Français : Consonne + Voyelle presque majoritairement
+						- **Lettre très peu utilisée en français donc à ne pas mettre sur la home row**
+					- Anglais : Consonne + Voyelle presque exclusivement
+				- Favorise des rolls vers l'extérieur
+				- `N`
+					- Français : Voyelle + Consonne
+					  id:: 65c79a3d-9daa-46dc-8545-bfe7994b738c
+					- Anglais : Voyelle + Consonne majoritairement
+				- Favorise des rolls vers l'intérieur
+				-
 		- Choisir un groupe de consonnes ayant peu de redirections
 			- Main voyelles + `FNH`
 				- Main consonnes ayant le roll intérieur `ST`
