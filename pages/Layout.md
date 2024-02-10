@@ -56,89 +56,97 @@ alias:: Clavier/Layouts, Clavier/Layout, Layouts
 				- `eo` `au` `i` (pinky)
 				- `iu` `eo` `a` (ring)
 				- `e` `ao` `iu` (ring)
-	- Réduire les redirections
-		- Utiliser un cluster pour les voyelles
-		  id:: 65c656e5-f37c-4cca-bd36-23abc7bcfb72
-			- Combiner avec une consonne  ayant **une haute fréquence** et qui **roll principalement dans un sens**
-				- `H`
-					- Français : Consonne + Voyelle presque majoritairement
-						- **Lettre très peu utilisée en français**
-					- Anglais : Consonne + Voyelle presque exclusivement
-					- Favorise des rolls vers l'extérieur
-					- Solutions :
-						- Placer cette lettre sur la main  avec le cluster de voyelles pour **favoriser** les rolls et réduire les redirections
-						- **Ne pas placer** cette lettre sur la home row car peu utilisée en français
-				- `N`
-					- Français : Voyelle + Consonne **très** majoritairement
-					  id:: 65c79a3d-9daa-46dc-8545-bfe7994b738c
-						- Bigrammes : 75.31%
-						- Trigrammes : 81.28%
-						- Redirections : `INE`
-						- **Lettre très utilisée en français**
-					- Anglais : Voyelle + Consonne majoritairement
-					- Favorise des rolls vers l'intérieur
-					- Solutions :
-						- Placer cette lettre sur la main  avec le cluster de voyelles pour **favoriser** les rolls et réduire les redirections
-						- Placer cette lettre sur la home row car très utilisée
-				- `S`
-					- Français : Voyelles + Consonne
-					- Anglais : Voyelles + Consonne
-					- Solutions :
-						- Placer cette lettre sur la main opposée au cluster de voyelles pour **réduire** les redirections
-				- `L`, `R`
-					- Français : Ne favorise pas de sens
-					- Anglais : Ne favorise pas de sens
-					- Solutions :
-						- Placer ces lettres sur la main opposée au cluster de voyelles pour **réduire** les redirections
-				- `T`
-					- Français : Ne favorise pas de sens
-					- Anglais : Consonne + Consonne
-					- Solutions :
-						- Placer ces lettres sur la main opposée au cluster de voyelles pour **favoriser** les rolls
-		- Choisir un groupe de consonnes ayant peu de redirections
-			- Main voyelles + `FNH`
-				- Main consonnes ayant le roll intérieur `ST`
-					- CRST
-					- STRD
-					- SRTD
-					- SRTC
-				- + Réduit fortement les scissors
-				- - Main droite a plus de travail
-				- Layouts existants
-					- Canary, Sturdy, Snug, Gemini, Rolly
-			- Main voyelles + `FMH`
-				- Considérer comme expérimental
-				- Main consonnes
-					- NRTS
-					- RNTS
-					- STND
-				- + Meilleur roll / redirection ratio
-				- - Index gauche travaille beaucoup
-					- SC, SY, SW, SG
-				- `L` sur la home row possible coté voyelles
-					- Augmente fortement les rolls en français
-						- `LE`
-						- `EL`
-				- Bon placement du `D` et `K`
-					- Très utilisé dans [[SublimeText]]
-				- Layouts existants
-					- Fire, Flamme, Flare
-			- Main voyelles + `GMC`
-				- Layouts existants
-					- [Stronk](https://oxey.dev/stronk/index.html)
-			- Main voyelles + `FCG`
-				- Layouts existants
-					- [Dhorf](https://oxey.dev/dhorf/index.html)
-			- Main voyelles + `WYC`
-				- Layouts existants
-					- Whorf
-			- Main voyelles + `JHL`
-				- Layouts existants
-					- [Recurva](https://github.com/GalileoBlues/Recurva)
+	- Favoriser les doigts forts pour les lettres ayant une fréquence importante
+		- Voyelles
+			- Français :
+			- Anglais :
+	- Utiliser un cluster pour les voyelles
+	  id:: 65c656e5-f37c-4cca-bd36-23abc7bcfb72
+		-
+		- Combiner avec une consonne  ayant **une haute fréquence** et qui **roll principalement dans un sens**
+			- `H`
+				- Français : Consonne + Voyelle presque majoritairement
+					- **Lettre très peu utilisée en français**
+				- Anglais : Consonne + Voyelle presque exclusivement
+				- Favorise des rolls vers l'extérieur
+				- Solutions :
+					- Placer cette lettre sur la main  avec le cluster de voyelles pour **favoriser** les rolls et réduire les redirections
+					- **Ne pas placer** cette lettre sur la home row car peu utilisée en français
+			- `N`
+				- Français : Voyelle + Consonne **très** majoritairement
+				  id:: 65c79a3d-9daa-46dc-8545-bfe7994b738c
+					- Bigrammes : 75.31%
+					- Trigrammes : 81.28%
+					- Redirections : `INE`
+					- **Lettre très utilisée en français**
+				- Anglais : Voyelle + Consonne majoritairement
+				- Favorise des rolls vers l'intérieur
+				- Solutions :
+					- Placer cette lettre sur la main  avec le cluster de voyelles pour **favoriser** les rolls et réduire les redirections
+					- Placer cette lettre sur la home row car très utilisée
+			- `S`
+				- Français : Voyelles + Consonne
+				- Anglais : Voyelles + Consonne
+				- Solutions :
+					- Placer cette lettre sur la main opposée au cluster de voyelles pour **réduire** les redirections
+			- `L`, `R`
+				- Français : Ne favorise pas de sens
+				- Anglais : Ne favorise pas de sens
+				- Solutions :
+					- Placer ces lettres sur la main opposée au cluster de voyelles pour **réduire** les redirections
+			- `T`
+				- Français : Ne favorise pas de sens
+				- Anglais : Consonne + Consonne
+				- Solutions :
+					- Placer ces lettres sur la main opposée au cluster de voyelles pour **favoriser** les rolls
+	- Choisir un groupe de consonnes ayant peu de redirections
+	  id:: 65c79601-53fa-4533-b21a-b960e77509fc
+		- Main voyelles + `FNH`
+			- Main consonnes ayant le roll intérieur `ST`
+				- CRST
+				- STRD
+				- SRTD
+				- SRTC
+			- + Réduit fortement les scissors
+			- - Main droite a plus de travail
+			- Layouts existants
+				- Canary, Sturdy, Snug, Gemini, Rolly
+		- Main voyelles + `FMH`
+			- Considérer comme expérimental
+			- Main consonnes
+				- NRTS
+				- RNTS
+				- STND
+			- + Meilleur roll / redirection ratio
+			- - Index gauche travaille beaucoup
+				- SC, SY, SW, SG
+			- `L` sur la home row possible coté voyelles
+				- Augmente fortement les rolls en français
+					- `LE`
+					- `EL`
+			- Bon placement du `D` et `K`
+				- Très utilisé dans [[SublimeText]]
+			- Layouts existants
+				- Fire, Flamme, Flare
+		- Main voyelles + `GMC`
+			- Layouts existants
+				- [Stronk](https://oxey.dev/stronk/index.html)
+		- Main voyelles + `FCG`
+			- Layouts existants
+				- [Dhorf](https://oxey.dev/dhorf/index.html)
+		- Main voyelles + `WYC`
+			- Layouts existants
+				- Whorf
+		- Main voyelles + `JHL`
+			- Layouts existants
+				- [Recurva](https://github.com/GalileoBlues/Recurva)
 		- Tenir compte des symboles / lettres sur les autres couches
 			- `é`, `_`, `'`
 			- `è`, `:`, `;`
 		- ((65c654fe-c255-4723-9d4c-5b779128e616))
+	- Réduire les redirections
+		- ((65c656e5-f37c-4cca-bd36-23abc7bcfb72))
+		- ((65c79601-53fa-4533-b21a-b960e77509fc))
 	- Favoriser les **rolls**
 		- ((65c656e5-f37c-4cca-bd36-23abc7bcfb72))
 			- Mettre des consonnes favorisant les voyelles sur la même main augmente les rolls
@@ -151,7 +159,6 @@ alias:: Clavier/Layouts, Clavier/Layout, Layouts
 		- Donne une sensation de fluidité
 		- Alterner souvent les mains demande plus de coordinations
 		- Rolls vers l'intérieurs moins fatiguants / plus naturels
-		-
 	- Touche espace sur le pouce
 	  id:: 65c654fe-c255-4723-9d4c-5b779128e616
 		- Statistiques
