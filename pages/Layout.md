@@ -64,16 +64,25 @@ alias:: Clavier/Layouts, Clavier/Layout, Layouts
 					- Français : Consonne + Voyelle presque majoritairement
 						- **Lettre très peu utilisée en français donc à ne pas mettre sur la home row**
 					- Anglais : Consonne + Voyelle presque exclusivement
-				- Favorise des rolls vers l'extérieur
+					- Favorise des rolls vers l'extérieur
 				- `N`
 					- Français : Voyelle + Consonne **très** majoritairement
 					  id:: 65c79a3d-9daa-46dc-8545-bfe7994b738c
-						- Bigrammes :
-						- Trigrammes : 81.28
+						- Bigrammes : 75.31%
+						- Trigrammes : 81.28%
 						- Redirections : `INE`
 						- **Lettre très utilisée en français donc à mettre sur la home row**
 					- Anglais : Voyelle + Consonne majoritairement
-				- Favorise des rolls vers l'intérieur
+					- Favorise des rolls vers l'intérieur
+				- `S`
+					- Français : Ne favorise pas de sens
+					- Anglais : Ne favorise pas de sens
+				- `L`, `R`
+					- Français : Ne favorise pas de sens
+					- Anglais : Ne favorise pas de sens
+					-
+					-
+					-
 		- Choisir un groupe de consonnes ayant peu de redirections
 			- Main voyelles + `FNH`
 				- Main consonnes ayant le roll intérieur `ST`
