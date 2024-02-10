@@ -181,6 +181,7 @@ alias:: Clavier/Layouts, Clavier/Layout, Layouts
 			- Voir [[a200]]
 			- 18.5% des inputs (eng)
 			- 55% des [[Trigrammes]] (eng)
+			- ![LettreFin_eng.png](../assets/LettreFin_eng_1707588880922_0.png){:height 501, :width 256}
 		- Sur la main opposée au cluster pour les voyelles
 		- Attention à éviter les redirections avec les [[Bigrammes]] de consonnes
 			- ` th` (roll in) et espace sur la main gauche
@@ -188,5 +189,6 @@ alias:: Clavier/Layouts, Clavier/Layout, Layouts
 			- Solutions
 				- Inverser le sens du roll
 				- Basculer la touche espace sur l'autre main
+-
 -
 -
