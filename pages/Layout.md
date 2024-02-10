@@ -66,8 +66,9 @@ alias:: Clavier/Layouts, Clavier/Layout, Layouts
 					- Anglais : Consonne + Voyelle presque exclusivement
 				- Favorise des rolls vers l'extérieur
 				- `N`
-					- Français : Voyelle + Consonne
+					- Français : Voyelle + Consonne **très** majoritairement
 					  id:: 65c79a3d-9daa-46dc-8545-bfe7994b738c
+						- Particuli
 					- Anglais : Voyelle + Consonne majoritairement
 				- Favorise des rolls vers l'intérieur
 		- Choisir un groupe de consonnes ayant peu de redirections
