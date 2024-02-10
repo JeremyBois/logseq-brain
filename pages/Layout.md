@@ -111,10 +111,10 @@ alias:: Clavier/Layouts, Clavier/Layout, Layouts
 		- ((65c656e5-f37c-4cca-bd36-23abc7bcfb72))
 			- Mettre des consonnes favorisant les voyelles sur la même main augmente les rolls
 				- `R`, `L`, `N`
-			- Mettre des consonnes favorisant les consonnes sur la même mainaugmente les alternations
+			- Mettre des consonnes favorisant les consonnes sur la même main augmente les alternations
 				- `H`, `T`
-			-
-				-
+			- `S` n'a pas de préférences et ne change donc pas le rapport roll/alternation
+		- Placer `Y` (semi-voyelle) sur la main opposée
 		- ((65c654fe-c255-4723-9d4c-5b779128e616))
 		- Donne une sensation de fluidité
 		- Alterner souvent les mains demande plus de coordinations
