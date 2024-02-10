@@ -1,4 +1,4 @@
-alias:: Clavier/Layouts, Clavier/Layout
+alias:: Clavier/Layouts, Clavier/Layout, Layouts
 [[Oct 22nd, 2023]]
 ***
 
@@ -109,10 +109,17 @@ alias:: Clavier/Layouts, Clavier/Layout
 		- ((65c654fe-c255-4723-9d4c-5b779128e616))
 	- Favoriser les **rolls**
 		- ((65c656e5-f37c-4cca-bd36-23abc7bcfb72))
+			- Mettre des consonnes favorisant les voyelles sur la même main augmente les rolls
+				- `R`, `L`, `N`
+			- Mettre des consonnes favorisant les consonnes sur la même mainaugmente les alternations
+				- `H`, `T`
+			-
+				-
 		- ((65c654fe-c255-4723-9d4c-5b779128e616))
 		- Donne une sensation de fluidité
 		- Alterner souvent les mains demande plus de coordinations
 		- Rolls vers l'intérieurs moins fatiguants / plus naturels
+		-
 	- Touche espace sur le pouce
 	  id:: 65c654fe-c255-4723-9d4c-5b779128e616
 		- Statistiques
