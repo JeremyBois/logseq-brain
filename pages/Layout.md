@@ -4,6 +4,7 @@ alias:: Clavier/Layouts, Clavier/Layout, Layouts
 
 - ## References
 	- [Keyboard  layouts doc](https://docs.google.com/document/d/1_a5Nzbkwyk1o0bvTctZrtgsee9jSP-6I0q3A0_9Mzm0)
+	- [dcode](https://www.dcode.fr/bigrammes)
 - ## Règles de construction
 	- Répartition équitable
 		- Favorise une bonne répartition des efforts

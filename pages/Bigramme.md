@@ -5,14 +5,9 @@ alias:: Bigram, Bigrams, Bigrammes
 
 - # Fréquences
 	- | Français        | Anglais |
-	  |[Source](https://www.dcode.fr/bigrammes) |  [Source](https://www.dcode.fr/trigrams)|
+	  |[Source](https://www.dcode.fr/bigrammes) |  [Source](https://www.dcode.fr/bigrams)|
 	  |:--------------:|:-----:|
-	  | ![Trigrammes_fr.png](../assets/Trigrammes_fr_1707587199715_0.png){:height 358, :width 217}|  ![Trigrammes_eng.png](../assets/Trigrammes_eng_1707587211378_0.png){:height 358, :width 217}|
-	- [Français](https://www.dcode.fr/bigrammes)
-		- TODO Ajouter image
-	- [Anglais](https://www.dcode.fr/bigrams)
-		- TODO Ajouter image
--
+	  | ![Bigrammes_fr.png](../assets/Bigrammes_fr_1707587637518_0.png){:height 358, :width 217}|  ![Bigrammes_eng.png](../assets/Bigrammes_eng_1707587623284_0.png){:height 358, :width 217}|
 - ## Voir aussi
 	- [[Trigramme]]
 	-
