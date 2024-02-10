@@ -62,20 +62,24 @@ alias:: Clavier/Layouts, Clavier/Layout, Layouts
 			- Combiner avec une consonne  ayant **une haute fréquence** et qui **roll principalement dans un sens**
 				- `H`
 					- Français : Consonne + Voyelle presque majoritairement
-						- **Lettre très peu utilisée en français donc à ne pas mettre sur la home row**
+						- **Lettre très peu utilisée en français**
 					- Anglais : Consonne + Voyelle presque exclusivement
 					- Favorise des rolls vers l'extérieur
+					- Solutions :
+						- Placer cette lettre sur la main  avec le cluster de voyelles pour **favoriser** les rolls et réduire les redirections
+						- **Ne pas placer** cette lettre sur la home row car peu utilisée en français
 				- `N`
 					- Français : Voyelle + Consonne **très** majoritairement
 					  id:: 65c79a3d-9daa-46dc-8545-bfe7994b738c
 						- Bigrammes : 75.31%
 						- Trigrammes : 81.28%
 						- Redirections : `INE`
-						- **Lettre très utilisée en français donc à mettre sur la home row**
+						- **Lettre très utilisée en français**
 					- Anglais : Voyelle + Consonne majoritairement
 					- Favorise des rolls vers l'intérieur
 					- Solutions :
-						- Placer ces lettres sur la main opposée au cluster de voyelles pour **réduire** les redirections
+						- Placer cette lettre sur la main  avec le cluster de voyelles pour **favoriser** les rolls et réduire les redirections
+						- Placer cette lettre sur la home row car très utilisée
 				- `S`
 					- Français : Voyelles + Consonne
 					- Anglais : Voyelles + Consonne
