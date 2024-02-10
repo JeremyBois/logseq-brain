@@ -57,12 +57,23 @@ alias:: Clavier/Layouts, Clavier/Layout, Layouts
 				- `iu` `eo` `a` (ring)
 				- `e` `ao` `iu` (ring)
 	- Favoriser les doigts forts pour les lettres ayant une fréquence importante
+	  id:: 65c7aa82-b5f9-4479-ae87-803b8701e59a
 		- Voyelles
+			- Français : `e`, `a`, `i`, `u`, `o`, `y`
+				- `y` a une très faible fréquence
+				- `u` et `o` ont des fréquences similaires
+			- Anglais : `e`, `a`, `o`, `i`, `u`, `y`
+				- `y` et `u` ont une faible fréquence
+			- Solutions
+				- Placer `e` et `a` sur les doigts les plus forts
+				- `y` n'est pas du tout prioritaire
+				- Favoriser
+		- Consonnes
 			- Français :
 			- Anglais :
 	- Utiliser un cluster pour les voyelles
 	  id:: 65c656e5-f37c-4cca-bd36-23abc7bcfb72
-		-
+		- ((65c7aa82-b5f9-4479-ae87-803b8701e59a))
 		- Combiner avec une consonne  ayant **une haute fréquence** et qui **roll principalement dans un sens**
 			- `H`
 				- Français : Consonne + Voyelle presque majoritairement
