@@ -74,8 +74,14 @@ alias:: Clavier/Layouts, Clavier/Layout, Layouts
 				- `y` n'est pas du tout prioritaire
 				- Favoriser
 		- Consonnes
-			- Français :
-			- Anglais :
+			- TODO Français :
+			- TODO Anglais :
+		- Limiter le mouvement du petit doigt en particulier vers le haut
+		  id:: 65c7bf1d-3745-4acb-ba68-74ddf0730648
+			- Utiliser la touche du haut seulement si possible de profiter du alt-figuring
+			- Solutions
+				- Favoriser le bigramme `QU` en plaçant le `Q` sur le petit doigt de la main avec les voyelles
+					- Ne p
 	- Utiliser un cluster pour les voyelles
 	  id:: 65c656e5-f37c-4cca-bd36-23abc7bcfb72
 		- ((65c7aa82-b5f9-4479-ae87-803b8701e59a))
