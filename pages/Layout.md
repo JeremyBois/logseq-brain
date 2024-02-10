@@ -81,7 +81,7 @@ alias:: Clavier/Layouts, Clavier/Layout, Layouts
 			- Utiliser la touche du haut seulement si possible de profiter du alt-figuring
 			- Solutions
 				- Favoriser le bigramme `QU` en plaçant le `Q` sur le petit doigt de la main avec les voyelles
-					- Ne p
+					- Placement faisant un compromis entre Français et Anglais
 	- Utiliser un cluster pour les voyelles
 	  id:: 65c656e5-f37c-4cca-bd36-23abc7bcfb72
 		- ((65c7aa82-b5f9-4479-ae87-803b8701e59a))
