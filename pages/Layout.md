@@ -52,11 +52,13 @@ alias:: Clavier/Layouts, Clavier/Layout, Layouts
 		- Exemple des voyelles
 			- Français : `ou` `eu`  `ue` `au` `ea`
 			- Anglais : `ea` `ou` `ei`
-			- Solutions possibles
+			- Combinaisons possibles
 				- `eo` `iu` `a` (pinky)
 				- `eo` `au` `i` (pinky)
+				  id:: 65c7b1a9-0daf-4296-90a0-f823b3101d3f
 				- `iu` `eo` `a` (ring)
 				- `e` `ao` `iu` (ring)
+			- ((65c7b1a9-0daf-4296-90a0-f823b3101d3f)) est celle favorisant le plus le roll intérieur tout en réduisant les les SFB
 	- Favoriser les doigts forts pour les lettres ayant une fréquence importante
 	  id:: 65c7aa82-b5f9-4479-ae87-803b8701e59a
 		- | Français        | Anglais |
@@ -72,13 +74,13 @@ alias:: Clavier/Layouts, Clavier/Layout, Layouts
 			- Solutions
 				- Placer `e` et `a` sur les doigts les plus forts
 				- `y` n'est pas du tout prioritaire
-				- Favoriser
+				- Favoriser le bigramme `OU`
 		- Consonnes
 			- TODO Français :
 			- TODO Anglais :
 			- Solutions
 				- Favoriser `W` par rapport au `Q`
-					- Le bigramme `QU` est récurrent en Français
+					- Le bigramme `QU` est fréquent en Français donc prévoir un roll
 		- Limiter le mouvement du petit doigt en particulier vers le haut
 		  id:: 65c7bf1d-3745-4acb-ba68-74ddf0730648
 			- Utiliser la touche du haut seulement si possible de profiter du alt-figuring
