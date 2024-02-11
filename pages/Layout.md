@@ -77,7 +77,8 @@ alias:: Clavier/Layouts, Clavier/Layout, Layouts
 			- TODO Français :
 			- TODO Anglais :
 			- Solutions
-				- Priorité au `Q` par rapport au `W`
+				- Favoriser `W` par rapport au `Q`
+					- Le bigramme `QU` est récurrent en Français
 		- Limiter le mouvement du petit doigt en particulier vers le haut
 		  id:: 65c7bf1d-3745-4acb-ba68-74ddf0730648
 			- Utiliser la touche du haut seulement si possible de profiter du alt-figuring
