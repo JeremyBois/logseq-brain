@@ -54,11 +54,13 @@ alias:: Clavier/Layouts, Clavier/Layout, Layouts
 			- Anglais : `ea` `ou` `ei`
 			- Combinaisons possibles
 				- `eo` `iu` `a` (pinky)
+					- Favorise le plus le roll intérieur  si combiné avec `N` ou ` H` tout en réduisant les les SFBs.
+					- `UI` est aussi courant que `AU` mais `
 				- `eo` `au` `i` (pinky)
 				  id:: 65c7b1a9-0daf-4296-90a0-f823b3101d3f
+					- Favorise le plus le roll intérieur  si combiné avec `N` ou ` H` tout en réduisant les les SFBs.
 				- `iu` `eo` `a` (ring)
 				- `e` `ao` `iu` (ring)
-			- ((65c7b1a9-0daf-4296-90a0-f823b3101d3f)) est celle favorisant le plus le roll intérieur tout en réduisant les les SFB
 	- Favoriser les doigts forts pour les lettres ayant une fréquence importante
 	  id:: 65c7aa82-b5f9-4479-ae87-803b8701e59a
 		- | Français        | Anglais |
