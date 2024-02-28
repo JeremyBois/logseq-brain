@@ -18,21 +18,26 @@ link:: [FDM vs SLA](https://formlabs.com/fr/blog/fdm-vs-sla-compare-types-of-3d-
 	-
 - ## Modèles
 	- [Bambu Lab P1P](https://eu.store.bambulab.com/fr-fr/products/p1p-fr)
+		- 654.46€ prêt à être utilisé
 		- 256 × 256 × 256 mm
 		- Impression multicolore
 		- Utilisable directement
 		- Vitesse de 500 mm/s
+		- Modules
+			-
 		- Filaments
 			- Idéal : PLA, PETG, TPU, PVA, PET
 			  Capable (boîtier requis) : PA, PC, ABS, ASA
 				- Mise à jour hardware + software pour mise à niveau vers une ~[Bambu Lab P1S](https://eu.store.bambulab.com/fr-fr/products/p1s)
 	- [Prusa MK4 kit](https://www.prusa3d.com/fr/produit/original-prusa-mk4-kit/)
+		- 889€ en kit
 		- 250 x 210 x 220 mm
+		- Modules
+			- MMU3 : Impression multicouleurs
+			- Prusa Enclosure : Enceinte pour l'impression haute température
 		- Filaments
-			- PLA, PETG, ABS, ASA, Flex, HIPS, PA, PVA, PC, PP, CPE, PVB, NGEN, composites et plus
-			- #+BEGIN_NOTE
-			  Pas besoin de boitier pour que la température monte pour ABS para exemple ???
-			  #+END_NOTE
-			-
+			- PLA, PETG, Flex, HIPS, PVA, PP, CPE, PVB, NGEN, composites et plus
+				- Capable (boitier requis) : PA, PC, ABS, ASA
+					-
 - ## Relations
 	- #SLA
