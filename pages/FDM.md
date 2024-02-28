@@ -21,11 +21,12 @@ link:: [FDM vs SLA](https://formlabs.com/fr/blog/fdm-vs-sla-compare-types-of-3d-
 	- [Anycubic Kobra 2 Plus](https://fr.anycubic.com/collections/imprimantes-3d-filament/products/kobra-2-pro)
 		- 387.00€
 		- Dimensions
-			- 250x220x220 mm
+			- Impressions : 250x220x220 mm
 			- Total : 486x435x463 mm
 			- 8.4 kg
 		- 500 mm/s
-		-
+		- Filaments
+			- PLA, ABS, PETG, TPU
 	- [Bambu Lab P1P](https://eu.store.bambulab.com/fr-fr/products/p1p-fr)
 		- 654.46€ prêt à être utilisé
 		- Dimensions
