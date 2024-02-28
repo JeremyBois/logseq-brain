@@ -18,5 +18,9 @@ link:: [FDM vs SLA](https://formlabs.com/fr/blog/fdm-vs-sla-compare-types-of-3d-
 		- Impression multicolore
 		- Utilisable directement
 		- Vitesse de 500 mm/s
+		- Filaments
+			- Idéal : PLA, PETG, TPU, PVA, PET
+			  Capable (boîtier requis) : PA, PC, ABS, ASA
+				- Mise à jour hardware + software pour mise à niveau vers une [Bambu Lab P1S](https://eu.store.bambulab.com/fr-fr/products/p1s)
 - ## Relations
 	- #SLA
