@@ -13,5 +13,10 @@ link:: [FDM vs SLA](https://formlabs.com/fr/blog/fdm-vs-sla-compare-types-of-3d-
 	- PA
 	- PEEK (pro)
 	- PEI (pro)
+- ## Recommandations
+	- [Bambu Lab P1P](https://eu.store.bambulab.com/fr-fr/products/p1p-fr)
+		- Impression multicolore
+		- Utilisable directement
+		- Vitesse de 500 mm/s
 - ## Relations
 	- #SLA
