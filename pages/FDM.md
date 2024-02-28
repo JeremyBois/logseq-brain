@@ -1,4 +1,5 @@
 tags:: 3D, CAD, Impression
+alias:: FFF
 link:: [FDM vs SLA](https://formlabs.com/fr/blog/fdm-vs-sla-compare-types-of-3d-printers/) 
 [[Feb 6th, 2024]]
 ***
@@ -37,11 +38,12 @@ link:: [FDM vs SLA](https://formlabs.com/fr/blog/fdm-vs-sla-compare-types-of-3d-
 		- 889€ en kit
 		- Dimensions
 			- Impression :250 x 210 x 220 mm
-			- Total :
+			- Total : 500×550×400 mm
+			- 7 kg
 		- Fabriquée en UE
 		- Modules
 			- MMU3 : Impression multicouleurs
-			- Prusa Enclosure : Enceinte pour l'impression haute température
+			- [Prusa Enclosure](https://www.prusa3d.com/product/original-prusa-enclosure-3/) : Enceinte pour l'impression haute température
 		- Filaments
 			- PLA, PETG, Flex, HIPS, PVA, PP, CPE, PVB, NGEN, composites et plus
 				- Capable (boitier requis) : PA, PC, ABS, ASA
