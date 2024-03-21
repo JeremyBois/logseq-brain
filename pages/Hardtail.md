@@ -1,0 +1,4 @@
+- ## Préférences
+	- Seat angle = 73-75
+	- Front angle = 63.5-65.5
+	-
