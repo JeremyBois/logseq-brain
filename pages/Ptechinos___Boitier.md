@@ -5,34 +5,34 @@ tags:: Ergonomie, Clavier, CAD, Acoustique
 - ↳ [[Ptechinos]] 
   ***
 - # Boitier
-	- DOING Réduire l'espace entre le bas du boitier et le PCB
+	- DONE Réduire l'espace entre le bas du boitier et le PCB
 		- Espace inutile voir négatif pour la qualité sonore
 		- **Réduction de 1mm**
 			- Potentiellement nécessaire d'abaisser les support prévues pour les entretoises
 			- Ajuster l'ouverture des deux pogos
-	- TODO Tenir compte de la sur-élévation des switch au niveau de la top plate
+	- DONE Tenir compte de la sur-élévation des switch au niveau de la top plate
 		- Switch ~0.5mm plus haut
 		- Pas forcément nécessaire comme on abaisse le PCB de 1mm
-	- DOING Prévoir un trou / cassure dans la bordure pour supporter le PCB
+	- DONE Prévoir un trou / cassure dans la bordure pour supporter le PCB
 		- Nécessaire pour laisser la place pour le hotswap
 			- Pouce intérieur
 			- Pouce intérieur
 			- Petit doigt extérieur
 	- DONE Placer correctement les trous pour les têtes de vis au niveau de la top plate
-	- DOING Augmenter la hauteur des trous pour les aimants
+	- DONE Augmenter la hauteur des trous pour les aimants
 		- 0.1mm devrait suffire pour éviter aux aimants de dépasser
 	- DONE Éviter de voir la tête de vis dépasser sur la top plate
 	- DONE Entretoise collée sur le fond du boitier
 		- Nécessite des entretoises externes
 - ***
 - # Support
-	- TODO Ajouter des entretoises sur la plaque fixée au bras articulé
+	- DONE Ajouter des entretoises sur la plaque fixée au bras articulé
 		- Complémentaire aux aimants
 		- Évite un glissement même si le support est vertical
 		- Renforce la stabilité et le maintien en forçant l'emplacement du boitier
 	- TODO Utiliser des aimants plus puissants sur le bas du boitier (N34 --> N42'
 		- Amélioration de la force d'attraction
-	- TODO Utiliser un anti-dérapant plus fin sur le bas du boitier
+	- DONE Utiliser un anti-dérapant plus fin sur le bas du boitier
 		- Amélioration de la force d'attraction
 	-
 - id:: 650fe9aa-70ba-4455-9dc5-3aa07635e51c
@@ -72,6 +72,9 @@ tags:: Ergonomie, Clavier, CAD, Acoustique
 		- Pas d'impact sur la hauteur finale
 - ***
 - # Boitier sandwich
+- ## Fixation flottante (Gasket mount)
+	- Informations
+		-
 - ## Fixation des plaques entre elles
 	- Utiliser des aimants pour faire tenir les différentes plates entre elles
 		- Épaisseur des aimants pour **rigidifier** l'ensemble #PCB / `top plate`
