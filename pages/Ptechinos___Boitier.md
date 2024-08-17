@@ -73,14 +73,15 @@ tags:: Ergonomie, Clavier, CAD, Acoustique
 - ***
 - # Boitier sandwich
 - ## Fixation flottante (Gasket mount)
-	- **Distance entre #PCB et top plate**
+	- **Distance entre #PCB et top plate dessous de la top**
 		- ![image.png](../assets/image_1723913145414_0.png){:height 430, :width 266}
 		- **3mm**
 			- Distance maximale pour que les capuchons ne touchent pas en bout de course
-		- **2.2mm** (dessus de la top et #PCB)
-			- Permet de clip les switchs sur la top et ne pas laisser de vide
-			- **1.3mm**
-				- Épaisseur nécessaire pour clip les switchs
+		- **2.2mm**
+			- Distance maximale
+		- **0.9mm**
+			- Permet de ne pas laisser de vide en clippant les switchs sur la top
+			- **1.3mm** = Épaisseur nécessaire pour clip les switchs
 		-
 - ## Fixation des plaques entre elles
 	- Utiliser des aimants pour faire tenir les différentes plates entre elles
