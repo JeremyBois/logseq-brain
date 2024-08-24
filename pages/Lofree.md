@@ -4,7 +4,7 @@ link:: [Official](https://www.lofree.co)
 ***
 
 - [[Kailh/Choc V2]]
-	- [Tactile / Linear / Clicky](https://www.lofree.co/products/lofree-x-kailh-full-pom-low-profile-switches)
+	- [Tactile / Linear / Clicky](https://www.lofree.co/collections/switches)
 	-
 	-
 	-
