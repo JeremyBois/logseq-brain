@@ -11,15 +11,82 @@ link:: [Acier](https://www.rsdbikes.com/middlechild-v2-chromoly) [Aluminium](htt
 	- Chainstay réglable (315-330)
 		- Court --> joueur
 		- Long --> stable
-	- Construit pour des roues 27.5
+	- Construit pour des roues 27.5+
 		- Existe en 29 mais avec un BottomBracketHeight (BBH) plus grand
-		- Montage avec pneu large (2.8'')
-			- --> 27.5+
+		- Montage avec pneu large (2.8'') en 27.5+
 	- Moderne
 		- HA = 64.5°
 		- SA = 74°
 		- Fourche = 140mm
-	- Pneu
 - ## Tests
 	- #HardtailParty
-		-
+		- TODO
+		- TODO
+- ## Build perso
+	- **Cadre** (*Frame*)
+		- [27.5+/29 Cr-Mo 4130](https://www.rsdbikes.com/middlechild-v2-chromoly)
+	- **Roues 27.5** (*Rims*)
+		- Sun Ringle Duroc 27.5x40mm 15x110mm & 12x148mm Boost
+			- [Avant (Front)](https://hayesbicycle.com/products/duroc-40-expert-27-5?variant=32139742871597)
+			- [Arrière (Back)](https://hayesbicycle.com/products/duroc-40-expert-27-5?variant=32750949236781)
+			- Rim height = 40mm
+	- **Pneus** (*Tires*)
+		- [Maxxis Minion DHF & DHR II 27.5×2.8 3C EXO TR](https://www.maxxis.com/int/tire/minion-dhf/)
+	- **Valve** (*Valve*)
+		- Rim width + 10 < Longueur < Rim width + 30
+	- **Pédalier** (*Bracket*)
+		- Boitier (*BB*) : [Race Face 73mm BSA 30mm spindle](https://www.raceface.com/products/bsa-cinch-30mm?variant=31976319811666)
+			- BSA externe --> Fileté
+			- Diamètre interne boîte = 34.8mm
+			- Standard BB30 pour manivelle
+				- Largeur cuvette = 73mm
+				- Diamètre d'axe (spindle) = 30mm
+		- Manivelle (*Crank*) : [Race Face Turbine 136mm spindle](https://www.raceface.com/products/turbine-crankset?variant=40117995208786)
+			- CINCH system (BB30 axe long)
+			- Longueur = 175mm
+			- Chainlines = 52mm
+			- TODO Tester 165mm
+				- [Étapes de remplacement](https://www.raceface.com/blogs/support/trailside-tech-how-to-swap-race-face-cinch-chainrings)
+				- 0.95 * hauteur = 161mm
+				- 2 * entrejambe = 163mm
+				- 1.25 * entrejambe + 65 = 167mm
+		- Plateau (*Chainring*) : [Race Face 30T Ring Direct Mount SH1](https://www.raceface.com/collections/rings/products/1x-chainring-cinch-direct-mount-shi-12?variant=31967620923474)
+			- Indications incorrectes sur le site officiel
+				- [Race Face 30T Direct Mount NW](https://www.raceface.com/products/1x-chainring-cinch-direct-mount-nw?variant=31967619350610)
+	- **Transmission** (*Transmission*)
+		- Cassette (*Casette*) : [Shimano Deore M6100 10-51T 12spd](https://bike.shimano.com/fr-FR/product/component/deore-m6100/CS-M6100-12.html)
+		- Manettes pour l'arrière (*Rear Shifter*) : [Shimano Deore Trigger M6100 12spd](https://bike.shimano.com/fr-FR/product/component/deore-m6100/SL-M6100-R.html)
+		- Dérailleur arrière (*Rear Derailleur*) : [Shimano Deore Trigger M6100 Long Cage 12sp](https://bike.shimano.com/fr-FR/product/component/deore-m6100/RD-M6100-SGS.html)
+	- **Freins** (*Brakes*)
+		- [Shimano SLX M7120 4 Pistons](https://bike.shimano.com/fr-FR/product/component/slx-m7100/BR-M7120.html)
+	- **Guidon** (*Handlebar*)
+		- [Race Face 35mm Turbine R 20mm 780mm](https://www.raceface.com/products/turbine-r-35-handlebar?variant=32146667634770)
+	- **Fourche** (*Fork*)
+		- [DVO Diamond D2 27.5+/29 140mm 44mm](https://dvosuspension.com/product/diamond-d2/)
+	- Poignets (*Grip*)
+		- [Lizard Skins Northshore](https://www.lizardskins.com/personalized-lock-on-handlebar-grips?h=lock-on-northshore-graphite&c=lock-on_handlebar_grips&t=northshore&v=0)
+	- Tige de selle
+		- Commande (*Shifter*)
+			- [KS Southpaw](https://kssuspension.com/fr/products/commandes-fr/southpaw/)
+			- Nécessite des boulons de 10mm (diamètre 3mm) pour remplacer les existants car ils sont fragiles
+		- Tige de selle (*Dropper*)
+			- [LEV Integra](https://kssuspension.com/fr/products/tiges-de-selle-telescopique-fr/lev-integra/)
+- ## Réglages
+	- **Fourche DVO Diamond D2**
+		- [Doc](https://dvosuspension.com/wp-content/uploads/2023/07/DVO-Set-Up-Guide-2020-v4.pdf)
+		- Poids référence = 65kg
+		- Rebond = 20 clicks
+		- Pression = 110psi
+			- --> SAG ~30mm (21%)
+		- OTT = usine car pas de contrôle externe
+	- Freins Shimano SLX M7120 4 pistons
+		- Étriers = 6-8 N.m
+		- Plaquettes = 1-1.5 N.m
+		- Manettes = 4-6 N.m
+	- Poignets Lizard Skins Northshore
+	- Guidon
+		- Potence = max 5 N.m
+		- Équipements = max 4 N.m
+	- Tige de selle
+		- Contrôle de la tige de selle
+		- Collier = 5 N.m

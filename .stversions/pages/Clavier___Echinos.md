@@ -75,8 +75,8 @@ link:: [Github](https://github.com/JeremyBois/Echinos)
 		- ~~[[Kailh/Choc mini]]~~
 		- [[Kailh/Choc V1]]
 		- [[Kailh/Choc V2]]
-		- [[KS33]]
-		- [[KS27]]
+		- [[Gateron/KS33 low profile]]
+		- [[Gateron/KS27 low profile]]
 		- [[Cherry/MX]]
 	- DONE Utiliser un espacement MX
 		- DONE Maj sur générateur #OpenScad
@@ -115,9 +115,7 @@ link:: [Github](https://github.com/JeremyBois/Echinos)
 		- Faire les empreintes mirroirs depuis l'éditeur d'empreinte
 			- Surcharger les empreintes dans le PCB si elles sont génériques
 			- Faire des variantes mirroirs pour les composants propres à Echinos
-	- TODO Ajouter deux connecteurs VIK
-	- TODO Supprimer empreinte pour déboggeur
-		- Seulement nécessaire d'exposer les pins
+		-
 - # Notes
 	- Couleurs
 		- Theme Zelda a link to the past

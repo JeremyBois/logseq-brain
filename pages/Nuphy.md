@@ -1,6 +1,6 @@
-tags:: Author, Clavier, Switch
+tags:: Author, Switch, Clavier
 link:: [Official](https://nuphy.com/) 
-[[Aug 24th, 2024]]
+[[Apr 8th, 2024]]
 ***
 
 - [[Kailh/Choc V2]]

@@ -6,8 +6,4 @@ link:: [Official](http://www.kailh.com/en/Products/Ks/CS/)
 
 - # Description
 	- ![Kailh_switch_chocV1.pdf](../assets/Kailh_switch_chocV1_1681040217277_0.pdf) | [PDF](../assets/Kailh_switch_chocV1_1681040217277_0.pdf)
-- # Types
-	- Silencieux et linéaires
-		- [Ambiants ](https://lowprokb.ca/products/ambients-silent-choc-switches?variant=44873426436260) #LowProKB
-	-
 -

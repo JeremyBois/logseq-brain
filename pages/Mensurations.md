@@ -1,0 +1,11 @@
+- Tour de tête = 56cm
+- Tour de paume = 22/23cm
+- Tour de taille = 77cm
+- Tour de poitrine = 97cm
+- Hauteur = 170cm
+- TODO Entrejambe = 81.5cm
+- TODO Longueur pied = 26.8cm
+- 10cm au dessus du genou = 45cm
+- 15cm en dessous du genou = 34/35cm
+- Distance entre ischions = 10/10.5cm
+	- Os du bassin en contact avec la chaise
