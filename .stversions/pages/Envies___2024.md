@@ -20,7 +20,7 @@ tags::
 		- Modèles intégré au vélo (guidon, pédalier,...)
 		- [Lezyne](https://ride.lezyne.com/products/tubeless-kit)
 		- [VAR - RP-45500](https://www.vartools.com/kit-de-reparation-tubeless-c2x36004177)
-	- TODO  Dérive chaine universel (1/10/11/12 vitesses #Sram et #Shimano)
+	- TODO  Dérive chaine universel (1/10/11/12 vitesses #Sram et #Shimano )
 		- [FeedbackSports - 17707](https://feedbacksports.com/products/chain-tool-3-0?variant=44803556376874)
 		- [Pedros - 6460322](https://pedroseurope.eu/fr/products/shop-chain-tool-1-2?pr_prod_strat=e5_desc&pr_rec_id=c25cc796b&pr_rec_pid=6727764148286&pr_ref_pid=464948723743&pr_seq=uniform)
 		- [Unior - 1647/2BBI-US](https://uniortools.com/eng/product/1647-2BBI-US-master-chain-tool#946260)

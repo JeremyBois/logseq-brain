@@ -4,12 +4,8 @@
 - Tour de poitrine = 97cm
 - Hauteur = 170cm
 - TODO Entrejambe = 81.5cm
-- Longueur pied = 26.7cm
-	- #Vivobarefoot 41/42
-	- #Altra 43
+- TODO Longueur pied = 26.8cm
 - 10cm au dessus du genou = 45cm
 - 15cm en dessous du genou = 34/35cm
 - Distance entre ischions = 10/10.5cm
 	- Os du bassin en contact avec la chaise
-- #Maimouna
-	-

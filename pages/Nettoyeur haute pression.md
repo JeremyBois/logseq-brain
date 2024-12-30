@@ -1,0 +1,169 @@
+- tags::
+  link::
+  [[Oct 7th, 2024]]
+  ***
+- #Kärcher K7 Compact home
+	- [Official](https://www.kaercher.com/fr/home-garden/nettoyeurs-haute-pression/k-7-compact-home-14470530.html)
+	- Notes
+		- Accessoire de sablage (option)
+		- Pression réglable
+		- Kit jardin et voiture
+		- Nombreux équipements
+		- Poignée télescopique
+		- Nombreux magasins en France
+	- Prix = ~520€
+	- Garantie = 5 ans max
+	- Réparabilité = 8.5/10
+	- Specifications
+		- Pression
+			- Service =  bars
+			- Admissible = 180 bars
+		- Débit
+			- Service =
+			- Admissible = 600 l/h
+		- Masse = 16 kg
+		- Flexible = 10 m
+- #Kärcher K5 Compact home
+  collapsed:: true
+	- [Official](https://www.kaercher.com/fr/home-garden/nettoyeurs-haute-pression/k5-compact-home-16307530.html)
+	- Notes
+		- Accessoire de sablage (option)
+		- Pression réglable
+		- Kit jardin et voiture
+		- Nombreux équipements
+		- Poignée télescopique
+		- Nombreux magasins en France
+	- Prix = ~410€
+	- Garantie = 5 ans max
+	- Réparabilité = 8.5/10
+	- Specifications
+		- Pression
+			- Service = 125 bars
+			- Admissible = 145 bars
+		- Débit
+			- Service =
+			- Admissible = 500 l/h
+		- Masse = 13 kg
+		- Flexible = 10 m (anti torsion)
+- #Kärcher K5 Power control
+  collapsed:: true
+	- [Officiel](https://www.kaercher.com/fr/home-garden/nettoyeurs-haute-pression/k-5-power-control-car-home-eu-13245580.html)
+	- [Test](https://nettoyeur-a-haute-pression.fr/nettoyeur-karcher/karcher-k5-premium-full-control-avis/)
+	- Notes
+		- Accessoire de sablage (option)
+		- Pression réglable
+		- Kit jardin et voiture
+		- Nombreux équipements
+		- Poignée télescopique
+		- Nombreux magasins en France
+	- Prix = ~450 €
+	- Garantie = 5 ans max
+	- Réparabilité = 8.4/10
+	- Specifications
+		- Pression
+			- Service = 135 bars
+			- Admissible = 145 bars
+		- Débit
+			- Service =
+			- Admissible = 500 l/h
+		- Masse = 13 kg
+		- Flexible = 10 m
+- #AvaOfNorway Go P55 Large bundle
+  collapsed:: true
+	- [Officiel](https://www.avaofnorway.com/be/fr/nettoyeur-haute-pressio/ava-go/p55-large-bundle)
+	- Notes
+		- Pression non réglable
+		- Sans roulettes / enrouleur
+		- Pompe métal V3
+		- Nombreux équipements
+		- Poignée télescopique
+	- Prix = ~210 €
+	- Garantie = 10 ans max
+	- Réparabilité : /10
+	- Spécification
+		- Pression
+			- Service = 94 bars
+			- Admissible = 130 bars
+		- Débit
+			- Service = 390 l/h
+			- Admissible = 450 l/h
+			- Masse = 11 kg
+			- Flexible = 8 m
+- #AvaOfNorway Master 2.0 P60 X-Large Bundle
+	- [Officiel](https://www.avaofnorway.com/be/fr/nettoyeur-haute-pressio/ava-master-20/p60-x-large-bundle)
+	- Notes
+		- Pompe métal V4
+		- Enrouleur + guide
+		- Pression non réglable
+		- Nombreux équipements
+		- Poignée télescopique
+	- Prix = ~400€
+	- Garantie = 20 ans max
+	- Réparabilité : /10
+	- Spécifications
+		- Pression
+			- Service = 110 bars
+			- Admissible = 145 bars
+		- Débit
+			- Service = 420 l/h
+			- Admissible = 500 l/h
+		- Masse = 21 kg
+		- Flexible = 8m
+- #Kranzle K1050 P/TS/TST
+	- [Officiel](https://www.kranzle.fr/fr-fr/nettoyeur-haute-pression/kranzle-k-1152-ts) [Documentation](https://www.kranzle.fr/kraenzle/wp-content/uploads/2014/07/K1050-complet-Fr.pdf)
+	- Notes
+		- Pompe métal
+		- Lance métal
+		- Position couchée
+		- Pression réglable
+	- Prix = ~450/600/650€
+	- Garantie =  3 ans max (culasse 5 ans)
+	- Réparabilité : 9.1/10
+	- Spécifications
+		- Pression
+			- Service = 130 bars
+			- Admissible = 160 bars
+		- Débit
+			- Service = 450 l/h
+			- Admissible =  l/h
+		- Masse = 19/21/24 kg
+		- Flexible = 8/8/12 m
+- #Kranzle K1152 TS/TST
+	- [Officiel](https://www.kranzle.fr/fr-fr/nettoyeur-haute-pression/kranzle-k-1152-ts?accessories=equipement-de-serie) [Documentation](https://www.haute-pression-concept.com/index.php?controller=attachment&id_attachment=422)
+	- Notes
+		- Pompe métal
+		- Lance métal
+		- Position couchée
+		- Pression réglable
+		- Raccord standard (D12 et 042)
+	- Prix = ~700/900€
+	- Garantie =  3 ans max (culasse 5 ans)
+	- Réparabilité : 9.2/10
+	- Spécifications
+		- Pression
+			- Service = 130 bars
+			- Admissible = 150 bars
+		- Débit
+			- Service = 600 l/h
+			- Admissible =  l/h
+		- Masse = 19/29/31.5 kg
+		- Flexible = 10/10/15 m
+- #Husqvarna PW360
+	- [Official](https://www.husqvarna.com/fr/nettoyeurs-haute-pression/pw360/)
+	- Notes
+		- Pompe induction métallique
+		- Nombreux équipements
+		- Poignée télescopique
+	- Prix = ~500€
+	- Garantie = 2 ans max
+	- Réparabilité = 7.9/10
+	- Specifications
+		- Pression
+			- Service =  bars
+			- Admissible = 160 bars
+		- Débit
+			- Service = 410 l/h
+			- Admissible = 500 l/h
+		- Masse = 20.8kg
+		- Flexible = 10 m
+-

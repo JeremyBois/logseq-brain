@@ -1,4 +1,4 @@
-tags:: Recettes, Dessert
+tags:: Dessert
 [[Jul 2nd, 2023]]
 ***
 
